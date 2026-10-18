@@ -23,6 +23,8 @@ jobs:
           ls -R site | head -30
       - name: Fetch data and build
         working-directory: site
+        env:
+          TWELVEDATA_API_KEY: ${{ secrets.TWELVEDATA_API_KEY }}
         run: |
           python3 data.py
           python3 build.py
