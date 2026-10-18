@@ -13,6 +13,7 @@ Schema:
   "section": "markt|einordnung|glossar|krypto",
   "date": "2026-10-19T07:00:00+02:00",
   "body": "<p>HTML-Absätze</p><h2>Zwischenüberschrift</h2>...",
+  "image": "/images/<slug>.jpg",
   "sources": [{"title": "...", "url": "https://..."}],
   "faq": [{"q": "...", "a": "..."}]
 }
@@ -25,6 +26,8 @@ Redaktionelle Regeln (Pflicht):
 - Keine erfundenen Zitate, keine Politikberichterstattung.
 - Ton: trendy, aber seriös; kurze Sätze, Einsteiger-Erklärungen.
 - KI-Hinweis und Risikohinweis werden automatisch ergänzt.
+- "image" (optional): Titelbild unter /images/<slug>.jpg (1600x900),
+  Variante /images/<slug>-800.jpg (800px) wird per srcset eingebunden.
 
 Kursdaten benötigen das Repo-Secret `TWELVEDATA_API_KEY` (Free Tier,
 twelvedata.com). Ohne Secret fällt `data.py` auf Yahoo Finance zurück.

@@ -1,0 +1,33 @@
+{
+  "slug": "bitcoin-krypto-ecke-2026-10-18",
+  "title": "Krypto-Ecke: Bitcoin hält sich über 80.000 US-Dollar",
+  "description": "Bitcoin, Ether und ETF-Zuflüsse im Überblick: Kurse vom Wochenende, Stand 17.10.2026, sachlich eingeordnet.",
+  "section": "krypto",
+  "date": "2026-10-18T20:34:00+02:00",
+  "image": "/images/bitcoin-krypto-ecke-2026-10-18.jpg",
+  "body": "<p>Stand: Samstag, 17.10.2026. Kryptowährungen werden rund um die Uhr gehandelt, die Werte schwanken daher auch am Wochenende.</p><h2>Kurse</h2><p>Bitcoin notierte laut Investing.com am Samstag bei rund 81.545 US-Dollar, ein Plus von 0,6 Prozent. Auf Euro-Basis lag der Kurs laut finanzen.net am Samstag um 17:23 Uhr bei 72.368,05 Euro. Ether, die Nummer zwei, kostete 2.417,92 US-Dollar, XRP 1,30 US-Dollar.</p><p>Die Woche war schwankungsreich: Bitcoin fiel zeitweise unter 80.000 US-Dollar, erreichte aber zuvor ein Wochenhoch über 84.000 US-Dollar.</p><h2>ETF-Abflüsse</h2><p>Börsengehandelte Bitcoin-Fonds in den USA verzeichneten laut Coinfomania, zitiert von Investing.com, am 16. Oktober Nettoabflüsse von 82,39 Millionen US-Dollar. Am 13. Oktober waren es Zuflüsse von 175,7 Millionen, am 14. Oktober Abflüsse von rund 261,4 Millionen. Das Bild ist also uneinheitlich.</p><h2>Einordnung</h2><p>Als Gründe für die Zurückhaltung nennt die Quelle stärkere US-Wirtschaftsdaten und die Erwartung weiterer Zinsanhebungen der US-Notenbank. Kryptowerte können stark schwanken, bis hin zum Totalverlust. Dieser Artikel ist keine Anlageberatung und keine Aufforderung zum Kauf oder Verkauf.</p>",
+  "sources": [
+    {
+      "title": "Investing.com via Yahoo Finance: Bitcoin price holds above $81,000, 17.10.2026",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-holds-above-81-061846468.html"
+    },
+    {
+      "title": "finanzen.net: Kurse von Bitcoin, Dogecoin & Co., 17.10.2026",
+      "url": "https://www.finanzen.net/nachricht/devisen/das-sind-die-aktuellen-kurse-von-bitcoin-dogecoin-co-15990902"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hoch war der Bitcoin-Kurs am 17.10.2026?",
+      "a": "Rund 81.545 US-Dollar laut Investing.com, 72.368,05 Euro laut finanzen.net um 17:23 Uhr."
+    },
+    {
+      "q": "Was sind Bitcoin-ETFs?",
+      "a": "Börsengehandelte Fonds, die den Bitcoin-Kurs abbilden. Ihre Zu- und Abflüsse gelten als Stimmungsindikator."
+    },
+    {
+      "q": "Sind Kryptowährungen riskant?",
+      "a": "Ja, die Kurse schwanken stark. Ein Totalverlust ist möglich."
+    }
+  ]
+}

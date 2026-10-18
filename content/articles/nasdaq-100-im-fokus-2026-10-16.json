@@ -1,0 +1,37 @@
+{
+  "slug": "nasdaq-100-im-fokus-2026-10-16",
+  "title": "Nasdaq 100 im Fokus: Rückgang auf das Niveau von Mitte September",
+  "description": "Der Nasdaq 100 schloss am 16.10.2026 bei 29.187,55 Punkten. Was der Index ist und was laut dpa-AFX die Tech-Werte belastete.",
+  "section": "markt",
+  "date": "2026-10-18T20:34:00+02:00",
+  "image": "/images/nasdaq-100-im-fokus-2026-10-16.jpg",
+  "body": "<p>Stand: Schlusskurs vom Freitag, 16.10.2026.</p><h2>Was ist der Nasdaq 100?</h2><p>Der Index enthält 100 der größten nicht-finanziellen Unternehmen, die an der US-Technologiebörse Nasdaq gelistet sind, nach Börsenwert. Dazu gehören Hard- und Software, Telekommunikation, Handel und Biotechnologie. Banken und Versicherer sind nicht dabei.</p><h2>Die Entwicklung</h2><p>Der Nasdaq 100 gab am Freitag um 2,50 Prozent auf 29.187,55 Punkte nach. Laut dpa-AFX fiel er damit auf das Niveau von Mitte September zurück. Auf fünf Tage gerechnet beträgt das Minus 5,49 Prozent. Zum Vergleich: Der Dow Jones verlor am Freitag nur 0,34 Prozent, weil große Tech-Werte dort weniger Gewicht haben.</p><h2>Was belastete?</h2><p>Laut dpa-AFX standen wieder Ängste über steigende Finanzierungskosten für KI-Konzerne im Vordergrund. Dazu kam im Tagesverlauf ein deutlicher Anstieg der Ölpreise, der Inflationssorgen schürte. Reuters nannte unter den Verlierern CoreWeave und Broadcom. Zugleich zeigt die laufende Berichtssaison bald, wie sich Chip- und Softwarekonzerne entwickeln: Texas Instruments und Lam Research berichten am Mittwochabend.</p><p><strong>Einordnung:</strong> Ein Index spiegelt viele Unternehmen mit sehr unterschiedlicher Lage. Wie es weitergeht, ist offen. Wir geben keine Kursprognose und keine Empfehlung ab.</p>",
+  "sources": [
+    {
+      "title": "dpa-AFX via MarketScreener: Aktien New York Schluss, 16.10.2026",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/aktien-new-york-schluss-techwerte-sacken-wieder-ab-ki-und-inflationssorgen-ce785cdadf8af320"
+    },
+    {
+      "title": "Nasdaq: Nasdaq-100 Index",
+      "url": "https://indexes.nasdaq.com/Index/Overview/NDX"
+    },
+    {
+      "title": "Der Aktionär: Wochenradar 19. bis 23. Oktober 2026",
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/der-aktionaer-wochenradar-19-bis-23-oktober-2026-20418289.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Nasdaq 100?",
+      "a": "Ein Index der 100 größten nicht-finanziellen Unternehmen an der Nasdaq-Börse."
+    },
+    {
+      "q": "Wie stand der Nasdaq 100 am 16.10.2026?",
+      "a": "Bei 29.187,55 Punkten, minus 2,50 Prozent zum Vortag."
+    },
+    {
+      "q": "Worin unterscheidet er sich vom Dow Jones?",
+      "a": "Im Nasdaq 100 haben Tech-Konzerne ein deutlich höheres Gewicht als im Dow."
+    }
+  ]
+}

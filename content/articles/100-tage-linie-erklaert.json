@@ -1,0 +1,33 @@
+{
+  "slug": "100-tage-linie-erklaert",
+  "title": "Die 100-Tage-Linie einfach erklärt",
+  "description": "Was ist die 100-Tage-Linie, wie wird sie berechnet und warum reden Börsenberichte darüber? Eine verständliche Erklärung ohne Fachchinesisch.",
+  "section": "einordnung",
+  "date": "2026-10-18T20:34:00+02:00",
+  "image": "/images/100-tage-linie-erklaert.jpg",
+  "body": "<p>In Börsenberichten heißt es oft: &bdquo;Der Dax hat die 100-Tage-Linie überwunden.&ldquo; Das klingt kompliziert, ist aber einfach.</p><h2>Was ist die 100-Tage-Linie?</h2><p>Sie zeigt den Durchschnitt der Schlusskurse der letzten 100 Handelstage. Jeden Tag rückt der Durchschnitt einen Tag weiter, daher heißt sie auch gleitender Durchschnitt, kurz GD 100. Wird sie als einfacher Durchschnitt berechnet, steht auch SMA 100 dafür. Es gibt auch eine Variante, die neuere Tage stärker gewichtet (EMA 100).</p><h2>Warum schauen Anleger darauf?</h2><p>Die Linie glättet kurzfristige Ausschläge und soll den mittleren bis längeren Trend sichtbar machen. Liegt der Kurs darüber, sprechen Chartanalysten von einem intakten Trend, liegt er darunter, von einem schwächeren. Das ist eine Lesart der Chartanalyse, keine Garantie für die Zukunft.</p><h2>Ein aktuelles Beispiel</h2><p>Am Freitag, 16.10.2026, schloss der Dax laut dpa-AFX bei 25.622,61 Punkten und ließ die 100-Tage-Linie hinter sich. An den Vortagen war sie laut dpa-AFX noch eine zu hohe Hürde. Den genauen Wert der Linie nennt die Quelle nicht.</p><h2>Grenzen</h2><p>Die Linie schaut nur zurück. Sie sagt nichts darüber, was als Nächstes passiert. Wer sie nutzt, sollte sie als eine Information unter vielen sehen. Dieser Artikel ist keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "tradistats.com: Die 100 Tage Linie (GD 100, SMA 100, EMA 100)",
+      "url": "https://tradistats.com/die-100-tage-linie-sma-100-und-ema-100/"
+    },
+    {
+      "title": "dpa-AFX: Aktien Frankfurt Schluss, 16.10.2026",
+      "url": "https://www.dpa-afx.de/?cHash=fabd5965a899ae628774997e5898728a&tx_news_pi1=421832&tx_news_pi1=News&tx_news_pi1=detail"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird die 100-Tage-Linie berechnet?",
+      "a": "Aus dem Durchschnitt der Schlusskurse der letzten 100 Handelstage, täglich neu berechnet."
+    },
+    {
+      "q": "Was heißt GD 100?",
+      "a": "GD steht für gleitender Durchschnitt. GD 100 ist der gleitende Durchschnitt über 100 Tage."
+    },
+    {
+      "q": "Kann man damit die Kurse vorhersagen?",
+      "a": "Nein. Die Linie beschreibt nur die Vergangenheit."
+    }
+  ]
+}

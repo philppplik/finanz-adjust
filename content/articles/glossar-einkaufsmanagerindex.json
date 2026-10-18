@@ -1,0 +1,41 @@
+{
+  "slug": "glossar-einkaufsmanagerindex",
+  "title": "Glossar: Was ist der Einkaufsmanagerindex (PMI)?",
+  "description": "Einkaufsmanagerindex einfach erklärt: Was er misst, warum die 50-Punkte-Marke wichtig ist und welche Zahlen am Freitag, 23.10.2026, anstehen.",
+  "section": "glossar",
+  "date": "2026-10-18T20:34:00+02:00",
+  "image": "/images/glossar-einkaufsmanagerindex.jpg",
+  "body": "<h2>Kurz erklärt</h2><p>Der Einkaufsmanagerindex (englisch PMI, Purchasing Managers' Index) ist eine monatliche Umfrage unter Einkaufsmanagern in Unternehmen. Sie geben an, wie sich Aufträge, Produktion und Beschäftigung entwickeln.</p><h2>Warum 50 Punkte?</h2><p>Werte über 50 signalisieren Wachstum, Werte unter 50 Schrumpfung. Die 50 ist also die Trennlinie, nicht ein Prozentwert.</p><h2>Warum ist er wichtig?</h2><p>Viele offizielle Konjunkturzahlen kommen mit Verzögerung. Der Einkaufsmanagerindex erscheint früh im Monat und gilt deshalb als Frühindikator. Es gibt ihn für Industrie und Dienstleistungen.</p><h2>Aktuell</h2><p>Am Freitag, 23.10.2026, erscheinen die vorläufigen Oktober-Werte: Deutschland um 09:30 Uhr, Eurozone um 10:00 Uhr, USA um 15:45 Uhr. Zuletzt lagen sie laut Der Aktionär in Deutschland bei 53,8 und in der Eurozone bei 53,1 Punkten, also über der 50er-Marke.</p><p>Ein einzelner Wert sagt wenig über die Zukunft. Dieser Text ist eine Erklärung, keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Butterfly Market Insider: Einkaufsmanagerindex",
+      "url": "https://butterflymarketinsider.com/de/lexikon/einkaufsmanagerindex/"
+    },
+    {
+      "title": "Beschaffung aktuell: Was ist der Einkaufsmanagerindex eigentlich?",
+      "url": "https://beschaffung-aktuell.industrie.de/artikel/was-ist-der-einkaufsmanagerindex-eigentlich/"
+    },
+    {
+      "title": "Der Aktionär: Wochenradar 19. bis 23. Oktober 2026",
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/der-aktionaer-wochenradar-19-bis-23-oktober-2026-20418289.html"
+    },
+    {
+      "title": "HSBC Wochenausblick via finanznachrichten.de, 18.10.2026",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69865403-wochenausblick-berichtssaison-inflationssignale-und-fruehindikatoren-im-fokus-156.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet ein PMI über 50?",
+      "a": "Die befragten Unternehmen melden im Schnitt Wachstum."
+    },
+    {
+      "q": "Wann erscheint der nächste Einkaufsmanagerindex?",
+      "a": "Die ersten Oktober-Werte am Freitag, 23.10.2026."
+    },
+    {
+      "q": "Warum heißt er Frühindikator?",
+      "a": "Er erscheint früher als viele offizielle Daten und zeigt Wendepunkte oft vorab."
+    }
+  ]
+}
