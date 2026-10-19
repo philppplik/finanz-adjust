@@ -1,0 +1,33 @@
+{
+  "slug": "krypto-liquidationen-erklaert-2026-10-19",
+  "title": "Krypto-Ecke: Was Liquidationen sind und warum sie diese Woche Thema waren",
+  "description": "Bitcoin hält sich über 81.000 US-Dollar, die erzwungenen Verkäufe (Liquidationen) gingen zurück. Was das heißt, erklärt einfach. Stand 19.10.2026.",
+  "section": "krypto",
+  "date": "2026-10-19T08:30:00+02:00",
+  "image": "/images/krypto-liquidationen-erklaert-2026-10-19.jpg",
+  "body": "<p>Stand: Sonntag/Montag, 18./19.10.2026. Krypto-Kurse schwanken rund um die Uhr, die Werte sind Momentaufnahmen.</p><h2>Kurse</h2><p>Bitcoin lag laut CoinGecko (zitiert von The Crypto Times) am Sonntag bei rund 81.094 US-Dollar, ein Plus von etwa 0,4 Prozent in 24 Stunden. Die Spanne der 24 Stunden reichte von 80.823 bis 82.178 US-Dollar. Ether kostete rund 2.365 US-Dollar und verlor etwa 2 Prozent.</p><h2>Was ist eine Liquidation?</h2><p>Manche Händler leihen sich Geld, um größere Wetten auf steigende oder fallende Kurse zu platzieren (Hebel). Reicht ihre Sicherheit nicht mehr aus, um Verluste zu decken, schließt die Börse die Position zwangsweise. Das nennt man Liquidation. Zwangsverkäufe können Kursausschläge verstärken.</p><h2>Die Zahlen der Woche</h2><p>Laut CoinGlass, zitiert von The Crypto Times, wurden am 15. Oktober rund 937 Millionen US-Dollar liquidiert, rund 84 Prozent davon Wetten auf steigende Kurse. In den letzten 24 Stunden bis Sonntag waren es etwa 359 Millionen US-Dollar. Auslöser der Schwankungen waren laut Quelle die höher als erwartet ausgefallenen US-Inflationsdaten.</p><p>Spot-ETFs auf Bitcoin und Ether verzeichneten laut The Crypto Times zuletzt Nettoabflüsse. Kryptowerte können stark schwanken, bis hin zum Totalverlust. Dieser Artikel ist keine Anlageberatung und keine Aufforderung zum Kauf oder Verkauf.</p>",
+  "sources": [
+    {
+      "title": "The Crypto Times: Bitcoin Price Holds $81K, Ethereum Slips to $2,365, 19.10.2026",
+      "url": "https://www.cryptotimes.io/2026/10/19/bitcoin-price-holds-81k-ethereum-slips-to-2365-as-crypto-liquidations-cool-to-359m/"
+    },
+    {
+      "title": "The Crypto Times: Bitcoin Price Holds $81K, Ethereum Slips to $2,365, 19.10.2026",
+      "url": "https://www.cryptotimes.io/2026/10/19/bitcoin-price-holds-81k-ethereum-slips-to-2365-as-crypto-liquidations-cool-to-359m/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Liquidation im Kryptohandel?",
+      "a": "Die erzwungene Schließung einer Hebel-Position, wenn die Sicherheit nicht mehr reicht."
+    },
+    {
+      "q": "Wie hoch waren die Liquidationen am 15.10.2026?",
+      "a": "Rund 937 Millionen US-Dollar laut CoinGlass."
+    },
+    {
+      "q": "Wie hoch stand Bitcoin am Sonntag?",
+      "a": "Rund 81.094 US-Dollar laut CoinGecko."
+    }
+  ]
+}

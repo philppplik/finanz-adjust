@@ -1,0 +1,45 @@
+{
+  "slug": "glossar-zew-index",
+  "title": "Glossar: Was ist der ZEW-Index?",
+  "description": "Der ZEW-Index zeigt die Konjunkturerwartungen von Finanzexperten. Einfach erklärt, mit den Werten vom September und dem Termin am 20.10.2026.",
+  "section": "glossar",
+  "date": "2026-10-19T08:30:00+02:00",
+  "image": "/images/glossar-zew-index.jpg",
+  "body": "<h2>Kurz erklärt</h2><p>Der ZEW-Index ist ein Stimmungsbarometer des Zentrums für Europäische Wirtschaftsforschung (ZEW) in Mannheim. Seit 1991 befragt das ZEW jeden Monat Expertinnen und Experten von Banken, Versicherungen und Finanzabteilungen großer Unternehmen nach ihren Erwartungen.</p><h2>Was zeigt er?</h2><p>Die ZEW-Konjunkturerwartungen sagen, wie die Befragten die Entwicklung der deutschen Wirtschaft mittelfristig einschätzen. Ein höherer Wert heißt: mehr Optimismus. Es ist eine Umfrage, keine Messung der tatsächlichen Wirtschaft.</p><h2>Aktuelle Werte</h2><p>Im September 2026 lagen die Erwartungen bei 34,7 Punkten, die Einschätzung der aktuellen Lage bei minus 47,1 Punkten. Die neuen Werte erscheinen am Dienstag, 20.10.2026, um 11:05 Uhr. Der Helaba-Analyst Simon Azarbayjani rechnet laut dpa-AFX mit einem leichten Rückgang, aber intakten Signalen für einen Aufschwung. Das ist seine Erwartung, kein sicheres Ergebnis.</p><p>Dieser Text erklärt einen Begriff und ist keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "ZEW: ZEW-Konjunkturerwartungen",
+      "url": "https://www.zew.de/publikationen/zew-gutachten-und-forschungsberichte/forschungsberichte/konjunktur/zew-finanzmarktreport"
+    },
+    {
+      "title": "Wikipedia: ZEW-Index",
+      "url": "https://de.wikipedia.org/wiki/ZEW-Index"
+    },
+    {
+      "title": "Trading Economics: Deutschland ZEW Konjunkturerwartungen",
+      "url": "https://de.tradingeconomics.com/germany/zew-economic-sentiment-index"
+    },
+    {
+      "title": "Der Aktionär: Wochenradar 19. bis 23. Oktober 2026",
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/der-aktionaer-wochenradar-19-bis-23-oktober-2026-20418289.html"
+    },
+    {
+      "title": "dpa-AFX: Wochenausblick, Dax nach starker Woche auf Richtungssuche, 19.10.2026",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69867261-wochenausblick-dax-nach-starker-woche-auf-richtungssuche-sorgenthemen-bleiben-016.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer erstellt den ZEW-Index?",
+      "a": "Das Zentrum für Europäische Wirtschaftsforschung (ZEW) in Mannheim."
+    },
+    {
+      "q": "Wann erscheint der nächste Wert?",
+      "a": "Am Dienstag, 20.10.2026, um 11:05 Uhr laut Der Aktionär."
+    },
+    {
+      "q": "Was war der Wert im September 2026?",
+      "a": "Erwartungen bei 34,7 Punkten, Lage bei minus 47,1 Punkten."
+    }
+  ]
+}

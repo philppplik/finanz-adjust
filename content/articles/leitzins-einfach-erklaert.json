@@ -1,0 +1,33 @@
+{
+  "slug": "leitzins-einfach-erklaert",
+  "title": "Der Leitzins einfach erklärt: Was die EZB damit steuert",
+  "description": "Was ist der Leitzins, warum ändert die EZB ihn und was heißt das für Kredite und Sparzinsen? Eine Erklärung ohne Fachchinesisch, mit Blick auf den 29.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-19T08:30:00+02:00",
+  "image": "/images/leitzins-einfach-erklaert.jpg",
+  "body": "<p>Zinsen sind der Preis für geliehenes Geld. Ein Kredit von 10.000 Euro zu 5 Prozent kostet 500 Euro pro Jahr, so rechnet es die EZB in ihrer Erklärung vor. Bei Sparguthaben ist es umgekehrt: Die Bank zahlt dir Zinsen.</p><h2>Was sind Leitzinsen?</h2><p>Die Europäische Zentralbank (EZB) legt die sogenannten Leitzinsen fest. Das sind die Zinsen, zu denen sich Banken Geld bei der EZB leihen oder über Nacht dort Geld anlegen. Sie beeinflussen laut EZB auch die Zinsen für Immobilienkredite, Bankkredite und Einlagen. Der EZB-Rat entscheidet etwa alle sechs Wochen darüber.</p><h2>Warum ändert die EZB die Zinsen?</h2><p>Ihr Auftrag ist stabile Preise, mittelfristig 2 Prozent Inflation. Ist die Inflation zu hoch, kann sie die Zinsen anheben. Kredite werden dann teurer, die Nachfrage kühlt ab und die Inflation sinkt. Ist die Inflation zu niedrig, kann sie die Zinsen senken.</p><h2>Aktuell</h2><p>Der Einlagensatz der EZB liegt laut Der Aktionär bei 2,50 Prozent. Für die Sitzung am 29.10.2026 rechnet der Markt überwiegend mit einer Pause. Das ist eine Markterwartung, keine Entscheidung. In den USA entscheidet die Notenbank Fed. Dort lag die Inflation im September bei 3,7 Prozent.</p><p>Dieser Text ist eine Erklärung und keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "EZB: Warum und wie verändern wir die Leitzinsen (Erklärung)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/html/interest-rates-changes.de.html"
+    },
+    {
+      "title": "Der Aktionär: Wochenradar 19. bis 23. Oktober 2026",
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/der-aktionaer-wochenradar-19-bis-23-oktober-2026-20418289.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Leitzins?",
+      "a": "Der Zinssatz, den die Zentralbank für Geschäfte mit Banken festlegt."
+    },
+    {
+      "q": "Wie oft entscheidet die EZB?",
+      "a": "Etwa alle sechs Wochen, laut EZB."
+    },
+    {
+      "q": "Wann ist die nächste EZB-Sitzung?",
+      "a": "Laut Der Aktionär am 29.10.2026."
+    }
+  ]
+}
