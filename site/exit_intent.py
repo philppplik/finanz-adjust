@@ -71,6 +71,6 @@ else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.foc
 
 def attach(html, path):
     """Inject the dialog before </body> on every page except the reports page itself."""
-    if path == '/berichte/':
+    if path == '/berichte/' or (path.startswith('/artikel/') and path != '/artikel/'):
         return html
     return html.replace('</body></html>', SNIPPET + '</body></html>')

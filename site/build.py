@@ -263,3 +263,7 @@ build_details(page, N, OUT)
 # Final isolated pass: advertising, consent and activation gates (no third-party code by default).
 import sys
 subprocess.check_call([sys.executable,'../tools/monetization.py',OUT])
+
+# Static in-article daily-report CTA, after all article renderers and consent passes.
+from report_breaker import main as add_report_breakers
+add_report_breakers(OUT)

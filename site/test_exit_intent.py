@@ -6,6 +6,7 @@ class ExitIntentTests(unittest.TestCase):
         h='<html><body>x</body></html>'
         self.assertIn('id="fa-exit"', m.attach(h,'/'))
         self.assertIn('id="fa-exit"', m.attach(h,'/aktien/apple/'))
+        self.assertEqual(m.attach(h,'/artikel/beispiel/'), h)
         self.assertEqual(m.attach(h,'/berichte/'), h)
     def test_accessibility_markup(self):
         s=m.SNIPPET
