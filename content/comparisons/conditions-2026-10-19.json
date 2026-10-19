@@ -1,0 +1,1408 @@
+{
+  "stand": "2026-10-18",
+  "quelle": "https://vermoegen-sparen.de",
+  "lizenz": "CC BY 4.0",
+  "lizenzUrl": "https://creativecommons.org/licenses/by/4.0/deed.de",
+  "namensnennung": "Vermögen sparen, https://vermoegen-sparen.de",
+  "dokumentation": "https://vermoegen-sparen.de/daten",
+  "broker": [
+    {
+      "id": "captrader",
+      "name": "CapTrader",
+      "ordergebuehrEur": 2,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": false,
+      "cashZinsProzent": 0.989,
+      "sparplanKostenlos": false,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 5.8,
+      "note": 2.9,
+      "notenWort": "Befriedigend",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Order gettex/Tradegate",
+          "text": "0,1 % vom Volumen, mind. 2,00 €",
+          "wert": 0.1,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Volumen, mind. 2,00 €"
+        },
+        {
+          "position": "Order Xetra",
+          "text": "0,1 % vom Volumen, mind. 4,00 €, max. 99,00 €",
+          "wert": 0.1,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Volumen, mind. 4,00 €, max. 99,00 €"
+        },
+        {
+          "position": "Order USA",
+          "text": "0,01 USD je Aktie, mind. 2,00 USD",
+          "wert": 0.01,
+          "einheit": "usd",
+          "praefix": null,
+          "zusatz": "je Aktie, mind. 2,00 USD"
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "nur über FNZ-Zweitdepot, ab 20 €/Jahr (Sparrate ab 10 €)",
+          "wert": null,
+          "einheit": "text",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Währungsumtausch",
+          "text": "0,003 % vom Volumen (0,3 Basispunkte), mind. 3,75 €",
+          "wert": 0.003,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Volumen (0,3 Basispunkte), mind. 3,75 €"
+        },
+        {
+          "position": "Auslandsdepotübertrag",
+          "text": "siehe Preisverzeichnis",
+          "wert": null,
+          "einheit": "text",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.captrader.com/konditionen/aktien-handel/",
+        "geprueftAm": "2026-09-25"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/captrader"
+    },
+    {
+      "id": "finanzennetzero",
+      "name": "finanzen.net ZERO",
+      "ordergebuehrEur": 1,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 0,
+      "sparplanKostenlos": true,
+      "xetraHandel": false,
+      "ausschuettungReinvest": true,
+      "testpunktzahl": 7.5,
+      "note": 3.75,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Order ab 500 € (gettex)",
+          "text": "0,00 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order unter 500 € (gettex)",
+          "text": "1,00 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "0,00 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Zins auf Guthaben",
+          "text": "0,00 %",
+          "wert": 0,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.finanzen.net/zero/wp-content/uploads/2026/10/Preis-Leistungsverzeichnis-V13_Wertpapiere.pdf",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/finanzennetzero"
+    },
+    {
+      "id": "justtrade",
+      "name": "justTRADE",
+      "ordergebuehrEur": 1,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 0,
+      "sparplanKostenlos": true,
+      "xetraHandel": false,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 7.6,
+      "note": 3.8,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-09-25",
+      "konditionen": [
+        {
+          "position": "Order LS Exchange/Tradegate BSX",
+          "text": "1,00 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order Quotrix",
+          "text": "2,90 €",
+          "wert": 2.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "0,00 € (ab 25 €/Monat)",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "(ab 25 €/Monat)"
+        },
+        {
+          "position": "Krypto-Order",
+          "text": "0,125 % Provision + mind. 0,175 % Spread",
+          "wert": 0.125,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "Provision + mind. 0,175 % Spread"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.justtrade.com/fileadmin/Formulare/Preis-und-Leistungsverzeichnis.pdf",
+        "geprueftAm": "2026-09-25"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/justtrade"
+    },
+    {
+      "id": "smartbrokerplus",
+      "name": "SMARTBROKER+",
+      "ordergebuehrEur": 1,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 2.25,
+      "sparplanKostenlos": true,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 8.6,
+      "note": 4.3,
+      "notenWort": "Sehr gut",
+      "geprueftAm": "2026-09-25",
+      "konditionen": [
+        {
+          "position": "Order gettex ab 500 €",
+          "text": "0,00 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order gettex unter 500 €",
+          "text": "1,00 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order Xetra",
+          "text": "4,00 € + 0,01 %, mind. 1,50 €",
+          "wert": 4,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "+ 0,01 %, mind. 1,50 €"
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "0,00 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Krypto-Order",
+          "text": "0,90 % + Mindestzuschlag unter 500 €",
+          "wert": 0.9,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "+ Mindestzuschlag unter 500 €"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.smartbrokerplus.de/de-de/konditionen/",
+        "geprueftAm": "2026-09-25"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/smartbrokerplus"
+    },
+    {
+      "id": "joebroker",
+      "name": "Joe Broker",
+      "ordergebuehrEur": 1,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 0,
+      "sparplanKostenlos": true,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 7.7,
+      "note": 3.85,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-09-17",
+      "konditionen": [
+        {
+          "position": "Order gettex",
+          "text": "1,00 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order Xetra",
+          "text": "2,90 € + 0,01 %, mind. 1,50 €",
+          "wert": 2.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "+ 0,01 %, mind. 1,50 €"
+        },
+        {
+          "position": "Order Frankfurt/Stuttgart",
+          "text": "4,90 € + Börsengebühren",
+          "wert": 4.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "+ Börsengebühren"
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "0 € bei Premium-Partnern, sonst 0,50 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "bei Premium-Partnern, sonst 0,50 €"
+        },
+        {
+          "position": "Mindestsparrate",
+          "text": "1 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://assets.joebroker.de/cms/assets/Bedingungen_fuer_Joe_Broker_6e04620bd9.pdf",
+        "geprueftAm": "2026-09-17"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/joebroker"
+    },
+    {
+      "id": "scalablecapital",
+      "name": "Scalable Capital",
+      "ordergebuehrEur": 0.99,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 2.6,
+      "sparplanKostenlos": true,
+      "xetraHandel": true,
+      "ausschuettungReinvest": true,
+      "testpunktzahl": 8.1,
+      "note": 4.05,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-09-25",
+      "konditionen": [
+        {
+          "position": "Order über EIX (Tarif FREE)",
+          "text": "0,99 €",
+          "wert": 0.99,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Order über EIX mit PRIME/PRIME+",
+          "text": "0 € ab 250 € Ordervolumen, darunter 0,99 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "ab 250 € Ordervolumen, darunter 0,99 €"
+        },
+        {
+          "position": "Order gettex/Xetra",
+          "text": "bis zu 1,99 €",
+          "wert": 1.99,
+          "einheit": "eur",
+          "praefix": "bis zu",
+          "zusatz": null
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-/Aktien-Sparplan",
+          "text": "0,00 € ab 1 € Sparrate",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "ab 1 € Sparrate"
+        },
+        {
+          "position": "PRIME-Abo (optional)",
+          "text": "2,99 €/Monat, jährlich im Voraus (35,88 €/Jahr)",
+          "wert": 2.99,
+          "einheit": "eur_monat",
+          "praefix": null,
+          "zusatz": "jährlich im Voraus (35,88 €/Jahr)"
+        },
+        {
+          "position": "PRIME+-Abo (optional)",
+          "text": "4,99 €/Monat",
+          "wert": 4.99,
+          "einheit": "eur_monat",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Tagesgeld „Scalable Tagesgeld“ (manuell aktivieren)",
+          "text": "2,60 % p. a., unbegrenzt",
+          "wert": 2.6,
+          "einheit": "pct_pa",
+          "praefix": null,
+          "zusatz": "unbegrenzt"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://de.scalable.capital/app/api/pdf/static?type=scalable_client_documents_and_risks_associated_with_investment",
+        "geprueftAm": "2026-09-25"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/scalablecapital"
+    },
+    {
+      "id": "traderepublic",
+      "name": "Trade Republic",
+      "ordergebuehrEur": 1,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 2.5,
+      "sparplanKostenlos": true,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 8.8,
+      "note": 4.4,
+      "notenWort": "Sehr gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Bestpreis-Order (automatisch)",
+          "text": "1,00 €",
+          "wert": 1,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Direktpreis-Order (Handelsplatz frei wählbar)",
+          "text": "2,00 €",
+          "wert": 2,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-/Aktien-Sparplan",
+          "text": "0,00 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Zins auf Verrechnungskonto",
+          "text": "2,5 % p. a. nach Aktivierung in der App, ohne Obergrenze",
+          "wert": 2.5,
+          "einheit": "pct_pa",
+          "praefix": null,
+          "zusatz": "nach Aktivierung in der App, ohne Obergrenze"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://traderepublic.com/de-de?openModal=pricing-scheme",
+        "geprueftAm": "2026-09-25"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/traderepublic"
+    },
+    {
+      "id": "comdirect",
+      "name": "comdirect",
+      "ordergebuehrEur": 9.9,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 1.75,
+      "sparplanKostenlos": false,
+      "xetraHandel": true,
+      "ausschuettungReinvest": true,
+      "testpunktzahl": 6.9,
+      "note": 3.45,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Grundpreis Inland (außerbörslich)",
+          "text": "4,90 €",
+          "wert": 4.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Orderprovision Inland",
+          "text": "0,25 % vom Ordervolumen",
+          "wert": 0.25,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Ordervolumen"
+        },
+        {
+          "position": "Mindest-/Höchstgebühr Inland",
+          "text": "9,90 € / 59,90 €",
+          "wert": 9.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "/ 59,90 €"
+        },
+        {
+          "position": "Auslandsbörsen",
+          "text": "7,90 € Grundpreis + 0,25 %, mind. 12,90 €, höchst. 62,90 €",
+          "wert": 7.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "Grundpreis + 0,25 %, mind. 12,90 €, höchst. 62,90 €"
+        },
+        {
+          "position": "Neukunden-Aktionspreis (36 Monate, Aktion bis 01.11.2026)",
+          "text": "3,90 € pro Order",
+          "wert": 3.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "pro Order"
+        },
+        {
+          "position": "ETF-/Aktien-/Zertifikate-Sparplan",
+          "text": "1,5 % des Anlagebetrags; ETF-Specials der Aktionsliste 0 €",
+          "wert": 1.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "des Anlagebetrags; ETF-Specials der Aktionsliste 0 €"
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 € (unbefristet, für ab dem 15.07.2026 eröffnete Depots)",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "(unbefristet, für ab dem 15.07.2026 eröffnete Depots)"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.comdirect.de/cms/docs/cori7105.pdf",
+        "geprueftAm": "2026-09-17"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/comdirect"
+    },
+    {
+      "id": "flatex",
+      "name": "flatex",
+      "ordergebuehrEur": 5.9,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": true,
+      "cashZinsProzent": 0,
+      "sparplanKostenlos": true,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 6.8,
+      "note": 3.4,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-09-17",
+      "konditionen": [
+        {
+          "position": "Orderprovision (Aktien/Zertifikate/Hebelprodukte)",
+          "text": "5,90 €",
+          "wert": 5.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "ETF-/Fondssparplan",
+          "text": "0 € Ausführung",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "Ausführung"
+        },
+        {
+          "position": "Einmalanlage Premium-ETFs/-Fonds",
+          "text": "ab 0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": "ab",
+          "zusatz": null
+        },
+        {
+          "position": "Einmalanlage weitere ETFs/Fonds",
+          "text": "ab 5,90 €",
+          "wert": 5.9,
+          "einheit": "eur",
+          "praefix": "ab",
+          "zusatz": null
+        },
+        {
+          "position": "Zertifikate/Hebelprodukte sonstige Emittenten",
+          "text": "5,90 € (<1.000 €) / 15,90 € (≥1.000 €)",
+          "wert": 5.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "(<1.000 €) / 15,90 € (≥1.000 €)"
+        },
+        {
+          "position": "Krypto",
+          "text": "0,6–0,7 % Gesamtkosten inkl. Spreads",
+          "wert": null,
+          "einheit": "text",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Fremdkostenpauschale (Tradegate, gettex u. a.)",
+          "text": "2,00 € pro Order",
+          "wert": 2,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "pro Order"
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.flatex.de/preise/",
+        "geprueftAm": "2026-09-17"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/flatex"
+    },
+    {
+      "id": "lynx",
+      "name": "LYNX",
+      "ordergebuehrEur": 5.8,
+      "depotgebuehrEurProMonat": 0,
+      "deutscheSteuerabfuehrung": false,
+      "cashZinsProzent": 0,
+      "sparplanKostenlos": false,
+      "xetraHandel": true,
+      "ausschuettungReinvest": false,
+      "testpunktzahl": 4.1,
+      "note": 2.05,
+      "notenWort": "Ausreichend",
+      "geprueftAm": "2026-10-17",
+      "konditionen": [
+        {
+          "position": "Order Xetra/Tradegate/gettex",
+          "text": "0,14 % vom Volumen, mind. 5,80 € (Xetra max. 99,00 €), zzgl. Gebühren Dritter",
+          "wert": 0.14,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Volumen, mind. 5,80 € (Xetra max. 99,00 €), zzgl. Gebühren Dritter"
+        },
+        {
+          "position": "Order Frankfurt/Stuttgart",
+          "text": "4,90 € + 0,14 % vom Volumen, zzgl. Gebühren Dritter",
+          "wert": 4.9,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "+ 0,14 % vom Volumen, zzgl. Gebühren Dritter"
+        },
+        {
+          "position": "Order USA",
+          "text": "0,01 USD je Aktie, mind. 5,00 USD, max. 2 % des Handelswertes",
+          "wert": 0.01,
+          "einheit": "usd",
+          "praefix": null,
+          "zusatz": "je Aktie, mind. 5,00 USD, max. 2 % des Handelswertes"
+        },
+        {
+          "position": "Depotführung",
+          "text": "0 € (keine Mindestaktivitätsgebühr bei Einzel- und Gemeinschaftsdepot)",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": "(keine Mindestaktivitätsgebühr bei Einzel- und Gemeinschaftsdepot)"
+        },
+        {
+          "position": "ETF-Sparplan",
+          "text": "nicht angeboten",
+          "wert": null,
+          "einheit": "text",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Währungsumtausch",
+          "text": "0,005 % vom Volumen (0,5 Basispunkte), mind. 5,00 €",
+          "wert": 0.005,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "vom Volumen (0,5 Basispunkte), mind. 5,00 €"
+        },
+        {
+          "position": "Auszahlung",
+          "text": "eine je Kalendermonat kostenlos, danach 1,00 € per SEPA",
+          "wert": null,
+          "einheit": "text",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://documents.lynxbroker.com/documents/IE/LYNX_Preis_und_Leistungsverzeichnis.pdf",
+        "geprueftAm": "2026-10-17"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/lynx"
+    }
+  ],
+  "tagesgeld": [
+    {
+      "id": "weltsparen",
+      "name": "Raisin",
+      "tagesgeldZinsProzent": 3,
+      "tagesgeldZinsBefristet": false,
+      "festgeldLaufzeiten": [
+        [
+          "Bestwert am Markt (wechselt je Partnerbank)",
+          4.25
+        ]
+      ],
+      "mindesteinlageEur": 500,
+      "maximaleinlageEur": 100000,
+      "marktplatzModell": true,
+      "testpunktzahl": 7.7,
+      "note": 3.85,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Kontoführung",
+          "text": "0 €",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage je Angebot",
+          "text": "5.000 €",
+          "wert": 5000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Bestzins Festgeld (Stand 10/2026)",
+          "text": "bis 4,25 %",
+          "wert": 4.25,
+          "einheit": "pct",
+          "praefix": "bis",
+          "zusatz": null
+        },
+        {
+          "position": "Bestzins Tagesgeld (Stand 09/2026)",
+          "text": "bis 3,00 %",
+          "wert": 3,
+          "einheit": "pct",
+          "praefix": "bis",
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.weltsparen.de/tagesgeld/",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/weltsparen"
+    },
+    {
+      "id": "1822direkt",
+      "name": "1822direkt",
+      "tagesgeldZinsProzent": 3.5,
+      "tagesgeldZinsBefristet": true,
+      "festgeldLaufzeiten": [
+        [
+          "6 Monate",
+          2.2
+        ],
+        [
+          "12 Monate",
+          2.7
+        ],
+        [
+          "24 Monate",
+          3
+        ],
+        [
+          "36 Monate",
+          3.1
+        ],
+        [
+          "48 Monate",
+          3.1
+        ],
+        [
+          "60 Monate",
+          3.1
+        ]
+      ],
+      "mindesteinlageEur": 0,
+      "maximaleinlageEur": 1000000,
+      "marktplatzModell": false,
+      "testpunktzahl": 7.7,
+      "note": 3.85,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld-Aktionszins (6 Monate, bis 250.000 €)",
+          "text": "3,50 %",
+          "wert": 3.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Tagesgeld-Bestandskundenzins (danach)",
+          "text": "0,60 %",
+          "wert": 0.6,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 24 Monate",
+          "text": "3,00 %",
+          "wert": 3,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage Festgeld",
+          "text": "5.000 €",
+          "wert": 5000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Maximaleinlage Festgeld",
+          "text": "1.000.000 €",
+          "wert": 1000000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.1822direkt.de/fileadmin/pdf-statisch/pv_gesamt_1822direkt.pdf",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/1822direkt"
+    },
+    {
+      "id": "pbbdirekt",
+      "name": "pbb direkt",
+      "tagesgeldZinsProzent": 0.75,
+      "tagesgeldZinsBefristet": false,
+      "festgeldLaufzeiten": [
+        [
+          "12 Monate",
+          2.5
+        ],
+        [
+          "24 Monate",
+          3
+        ],
+        [
+          "36 Monate",
+          3.25
+        ],
+        [
+          "60 Monate",
+          3.35
+        ],
+        [
+          "120 Monate",
+          3.5
+        ]
+      ],
+      "mindesteinlageEur": 1000,
+      "maximaleinlageEur": null,
+      "marktplatzModell": false,
+      "testpunktzahl": 6.6,
+      "note": 3.3,
+      "notenWort": "Befriedigend",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld",
+          "text": "0,75 % (bis 100.000 €)",
+          "wert": 0.75,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "(bis 100.000 €)"
+        },
+        {
+          "position": "Festgeld 12 Monate",
+          "text": "2,50 %",
+          "wert": 2.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 24 Monate",
+          "text": "3,00 %",
+          "wert": 3,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 36 Monate",
+          "text": "3,25 %",
+          "wert": 3.25,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 60 Monate",
+          "text": "3,35 %",
+          "wert": 3.35,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 120 Monate",
+          "text": "3,50 %",
+          "wert": 3.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.pbbdirekt.com/festgeld/",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/pbbdirekt"
+    },
+    {
+      "id": "willbe",
+      "name": "willbe",
+      "tagesgeldZinsProzent": 2.4,
+      "tagesgeldZinsBefristet": false,
+      "festgeldLaufzeiten": [
+        [
+          "10 Jahre",
+          3.8
+        ]
+      ],
+      "mindesteinlageEur": 100,
+      "maximaleinlageEur": 250000,
+      "marktplatzModell": false,
+      "testpunktzahl": 7.4,
+      "note": 3.7,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld",
+          "text": "2,40 % (bis 150.000 €)",
+          "wert": 2.4,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "(bis 150.000 €)"
+        },
+        {
+          "position": "Festgeld 10 Jahre",
+          "text": "3,80 %",
+          "wert": 3.8,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage Festgeld",
+          "text": "100 €",
+          "wert": 100,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Maximaleinlage je Währung",
+          "text": "100.000 €",
+          "wert": 100000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://willbe-invest.com/en/willbe/save-money/money-market-account",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/willbe"
+    },
+    {
+      "id": "hamburgdirectbank",
+      "name": "Hamburg Direct Bank",
+      "tagesgeldZinsProzent": 3.61,
+      "tagesgeldZinsBefristet": true,
+      "festgeldLaufzeiten": [
+        [
+          "3 Monate",
+          2.6
+        ],
+        [
+          "6 Monate",
+          2.8
+        ],
+        [
+          "12 Monate",
+          3.25
+        ],
+        [
+          "24 Monate",
+          3.1
+        ],
+        [
+          "36 Monate",
+          3.15
+        ],
+        [
+          "60 Monate",
+          3.25
+        ]
+      ],
+      "mindesteinlageEur": 1000,
+      "maximaleinlageEur": 150000,
+      "marktplatzModell": false,
+      "testpunktzahl": 7.1,
+      "note": 3.55,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld-Aktionszins (4 Monate)",
+          "text": "3,61 %",
+          "wert": 3.61,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Tagesgeld-Bestandskundenzins (danach)",
+          "text": "2,00 % (variabel)",
+          "wert": 2,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": "(variabel)"
+        },
+        {
+          "position": "Festgeld 12 Monate",
+          "text": "3,25 %",
+          "wert": 3.25,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 60 Monate",
+          "text": "3,25 %",
+          "wert": 3.25,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage Festgeld",
+          "text": "1.000 €",
+          "wert": 1000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.hamburg-direct-bank.de/festgeld",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/hamburgdirectbank"
+    },
+    {
+      "id": "openbank",
+      "name": "Openbank",
+      "tagesgeldZinsProzent": 4,
+      "tagesgeldZinsBefristet": true,
+      "festgeldLaufzeiten": [
+        [
+          "6 Monate",
+          2.5
+        ],
+        [
+          "12 Monate",
+          2.75
+        ],
+        [
+          "24 Monate",
+          3
+        ],
+        [
+          "36 Monate",
+          3.1
+        ],
+        [
+          "48 Monate",
+          3.2
+        ],
+        [
+          "60 Monate",
+          3.25
+        ],
+        [
+          "72 Monate",
+          3.25
+        ],
+        [
+          "84 Monate",
+          3.25
+        ],
+        [
+          "96 Monate",
+          3.5
+        ]
+      ],
+      "mindesteinlageEur": 0,
+      "maximaleinlageEur": null,
+      "marktplatzModell": false,
+      "testpunktzahl": 8.1,
+      "note": 4.05,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-17",
+      "konditionen": [
+        {
+          "position": "Tagesgeld-Aktionszins (4 Monate, bis 100.000 €)",
+          "text": "4,00 %",
+          "wert": 4,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Tagesgeld-Basiszins (danach und über 100.000 €)",
+          "text": "2,00 %",
+          "wert": 2,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 12 Monate",
+          "text": "2,75 %",
+          "wert": 2.75,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 8 Jahre",
+          "text": "3,50 %",
+          "wert": 3.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage Festgeld",
+          "text": "2.500 €",
+          "wert": 2500,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Kontoeröffnung und -führung",
+          "text": "kostenlos",
+          "wert": 0,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.openbank.de/produkte/sparen-und-anlegen/sparen/festgeld/",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/openbank"
+    },
+    {
+      "id": "gefabank",
+      "name": "GEFA Bank",
+      "tagesgeldZinsProzent": 2.4,
+      "tagesgeldZinsBefristet": false,
+      "festgeldLaufzeiten": [
+        [
+          "6 Monate",
+          2.7
+        ],
+        [
+          "12 Monate",
+          3
+        ],
+        [
+          "24 Monate",
+          3.1
+        ],
+        [
+          "36 Monate",
+          3.3
+        ],
+        [
+          "48 Monate",
+          3.4
+        ],
+        [
+          "60 Monate",
+          3.5
+        ]
+      ],
+      "mindesteinlageEur": 10000,
+      "maximaleinlageEur": 500000,
+      "marktplatzModell": false,
+      "testpunktzahl": 6.6,
+      "note": 3.3,
+      "notenWort": "Befriedigend",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld (10.000–500.000 €)",
+          "text": "2,40 %",
+          "wert": 2.4,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 12 Monate",
+          "text": "3,00 %",
+          "wert": 3,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 36 Monate",
+          "text": "3,30 %",
+          "wert": 3.3,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 60 Monate",
+          "text": "3,50 %",
+          "wert": 3.5,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage",
+          "text": "10.000 €",
+          "wert": 10000,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.gefa-bank.de/produkt/tagesgeld/",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/gefabank"
+    },
+    {
+      "id": "bankofscotland",
+      "name": "Bank of Scotland",
+      "tagesgeldZinsProzent": 3,
+      "tagesgeldZinsBefristet": true,
+      "festgeldLaufzeiten": [
+        [
+          "3 Monate",
+          2.9
+        ],
+        [
+          "6 Monate",
+          3.1
+        ],
+        [
+          "9 Monate",
+          3.2
+        ],
+        [
+          "12 Monate",
+          3.4
+        ],
+        [
+          "24 Monate",
+          3.5
+        ],
+        [
+          "36 Monate",
+          3.6
+        ]
+      ],
+      "mindesteinlageEur": 0,
+      "maximaleinlageEur": 500000,
+      "marktplatzModell": false,
+      "testpunktzahl": 7.8,
+      "note": 3.9,
+      "notenWort": "Gut",
+      "geprueftAm": "2026-10-18",
+      "konditionen": [
+        {
+          "position": "Tagesgeld-Willkommenszins (12 Monate, bis 100.000 €)",
+          "text": "3,00 %",
+          "wert": 3,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Tagesgeld-Bestandskundenzins (danach)",
+          "text": "1,25 %",
+          "wert": 1.25,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 3 Monate",
+          "text": "2,90 %",
+          "wert": 2.9,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 12 Monate",
+          "text": "3,40 %",
+          "wert": 3.4,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Festgeld 36 Monate",
+          "text": "3,60 %",
+          "wert": 3.6,
+          "einheit": "pct",
+          "praefix": null,
+          "zusatz": null
+        },
+        {
+          "position": "Mindesteinlage Festgeld",
+          "text": "100 €",
+          "wert": 100,
+          "einheit": "eur",
+          "praefix": null,
+          "zusatz": null
+        }
+      ],
+      "konditionenQuelle": {
+        "url": "https://www.bankofscotland.de/sparen/festgeld",
+        "geprueftAm": "2026-10-18"
+      },
+      "url": "https://vermoegen-sparen.de/anbieter/bankofscotland"
+    }
+  ]
+}
