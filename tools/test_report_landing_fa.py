@@ -28,5 +28,11 @@ class FaLandingTests(unittest.TestCase):
         s = share.share_block('https://finanz-adjust.de/artikel/x/', 'T & "Q"', 'fa', True)
         self.assertIn('share-top', s); self.assertIn('wa.me', s); self.assertNotIn('<img', s)
         self.assertEqual(s.count('noopener noreferrer nofollow'), 6)
+        self.assertEqual(s.count('class="sh-label"'), 8)
+        self.assertIn('aria-label="Auf LinkedIn teilen (öffnet in neuem Tab)"', s)
+        self.assertIn('aria-label="Link kopieren"', s)
+        self.assertNotIn('<text ', s)
+        self.assertIn('width:44px;height:44px', share.SHARE_CSS)
+        self.assertIn('width:20px;height:20px', share.SHARE_CSS)
 
 if __name__ == '__main__': unittest.main()
