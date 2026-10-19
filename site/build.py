@@ -5,7 +5,8 @@ from news_policy import destination
 from exit_intent import attach as exit_attach
 OUT='out'; shutil.rmtree(OUT,ignore_errors=True); os.makedirs(OUT+'/berichte')
 if os.path.isdir('../images'): shutil.copytree('../images',OUT+'/images',dirs_exist_ok=True)
-BASE='https://finanz-adjust.de'; NOW=datetime.datetime.now().astimezone()
+from zoneinfo import ZoneInfo
+BASE='https://finanz-adjust.de'; NOW=datetime.datetime.now(ZoneInfo('Europe/Berlin'))
 Q=json.load(open('../data/quotes.json')); N=permitted_news(json.load(open('../data/fin_archive.json')))
 fx={}
 b=get('https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
@@ -189,9 +190,17 @@ def report_html(): return _rep_build(Q,ARTS,fx,N,NOW,num,sg,cls,esc,re.sub(r'<[^
 open('rep.html','w').write(report_html())
 pdf=OUT+'/berichte/tagesbericht-%s.pdf'%today
 chrome=shutil.which('google-chrome') or shutil.which('chromium') or shutil.which('chromium-browser')
+report_ok=False
 if chrome:
-    subprocess.run([chrome,'--headless','--no-sandbox','--disable-gpu','--no-pdf-header-footer','--print-to-pdf='+os.path.abspath(pdf),'file://'+os.path.abspath('rep.html')],capture_output=True)
-    if os.path.exists(pdf): shutil.copy(pdf,OUT+'/berichte/aktuell.pdf')
+    if os.path.exists(pdf+'.tmp'): os.remove(pdf+'.tmp')
+    subprocess.run([chrome,'--headless','--no-sandbox','--disable-gpu','--no-pdf-header-footer','--print-to-pdf='+os.path.abspath(pdf+'.tmp'),'file://'+os.path.abspath('rep.html')],capture_output=True)
+    import sys
+    sys.path.insert(0,os.path.abspath('../tools'))
+    from daily_archive import valid_pdf
+    if valid_pdf(pdf+'.tmp'):
+        report_ok=True
+        os.replace(pdf+'.tmp',pdf)
+        shutil.copy(pdf,OUT+'/berichte/aktuell.pdf')
 else: print('no chrome, skip pdf')
 
 # ---------- OG-Bilder (1200x630, FA Light-Style) ----------
@@ -204,8 +213,12 @@ def og_png(png,title,kicker,meta):
     subprocess.run([chrome,'--headless','--no-sandbox','--disable-gpu','--hide-scrollbars','--window-size=1200,630','--screenshot='+os.path.abspath(png),'file://'+os.path.abspath('_og.html')],capture_output=True)
 og_png(OUT+'/og/default.png','Märkte, Kurse und Börsennews live','finanz adjust','DAX · S&P 500 · Nasdaq · Aktien · Gold · Bitcoin · Devisen')
 for a in ARTS: og_png(OUT+'/og/%s.png'%a['slug'],a['title'],a.get('section','Artikel'),'FA Redaktion · '+adate(a).strftime('%d.%m.%Y'))
+import sys
+sys.path.insert(0,os.path.abspath('../tools'))
+from daily_archive import sync, archive_html
+archive_dates=sync('..',OUT+'/berichte','aktuell.pdf','tagesbericht-',NOW,archive_today=report_ok)
 reps=sorted([r for r in os.listdir(OUT+'/berichte') if r.startswith('tagesbericht-')],reverse=True)
-urls.append(page('/berichte/','PDF-Marktberichte | finanz adjust','Täglicher Marktbericht als PDF: Indizes, Aktien, Rohstoffe, Devisen und Schlagzeilen kostenlos zum Download.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>PDF-Marktberichte</h1><p>Jeden Werktag automatisch erstellt. Kostenlos.</p></div></div><div class="pn"><h2>Aktuell</h2><p><a class="btn" href="/berichte/aktuell.pdf">Aktuellen Bericht herunterladen (PDF)</a></p></div><div class="pn"><h2>Archiv</h2><ul class="nw">%s</ul></div></div>'%''.join('<li><a href="/berichte/%s">%s</a></li>'%(r,r[13:-4]) for r in reps),act='/berichte/',crumbs=[('/berichte/','Berichte')]))
+urls.append(page('/berichte/','PDF-Marktberichte | finanz adjust','Täglicher Marktbericht als PDF: Indizes, Aktien, Rohstoffe, Devisen und Schlagzeilen kostenlos zum Download.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>PDF-Marktberichte</h1><p>Täglich automatisch erstellt. Kostenlos.</p></div></div><div class="pn"><h2>Aktuell</h2><p><a class="btn" href="/berichte/aktuell.pdf">Aktuellen Bericht herunterladen (PDF)</a></p></div><div class="pn"><h2>Tagesarchiv</h2><p>Eine feste Ausgabe pro Berliner Kalendertag: erster erfolgreicher Lauf. Bei Fehlern bleibt die letzte gültige Ausgabe erhalten.</p><ul class="nw">%s</ul></div></div>'%''.join('<li><a href="/berichte/%s">%s</a></li>'%(r,r[13:-4]) for r in reps),act='/berichte/',crumbs=[('/berichte/','Berichte')]))
 # ---------- Recht & Transparenz ----------
 imp='''<div class="pg"><h1>Impressum</h1><h2>Angaben gemäß § 5 DDG</h2><p>Philipp Paulik<br>Mozartstraße 1<br>53819 Neunkirchen-Seelscheid<br>Nordrhein-Westfalen</p><h2>Kontakt</h2><p>E-Mail: philipp.l.paulik@gmail.com</p><h2>Redaktion</h2><p>Die Inhalte dieser Seite erscheinen unter der Redaktionsbezeichnung "FA Redaktion".</p><h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2><p>Philipp Paulik, Anschrift wie oben</p><h2>Haftung für Inhalte</h2><p>Als Diensteanbieter sind wir für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Fremde Inhalte (Kursdaten, Nachrichten-Überschriften) stammen von den genannten Quellen. Bei Bekanntwerden von Rechtsverletzungen entfernen wir Inhalte umgehend.</p><h2>Haftung für Links</h2><p>Für Inhalte verlinkter externer Seiten ist stets der jeweilige Anbieter verantwortlich.</p><h2>Keine Anlageberatung</h2><p>Siehe <a href="/risikohinweis/" style="text-decoration:underline">Risikohinweis</a>.</p></div>'''
 urls.append(page('/impressum/','Impressum | finanz adjust','Impressum',imp,crumbs=[('/impressum/','Impressum')]))
