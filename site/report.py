@@ -1,6 +1,7 @@
 # PDF-Tagesbericht (A4, helles Theme, druckfreundlich). Wird von build.py aufgerufen.
 # Aufbau: 1 Titel+Kurse | 2 Märkte | 3 Letzte 6 Artikel | 4 Schlagzeilen | letzte Seite: Impressum & Redaktionsschluss
 import html, re
+import report_visuals as V
 
 DAYS = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag']
 
@@ -51,6 +52,7 @@ tbody tr:nth-child(even) td{background:#f9fafd}
 .imp{display:flex;gap:6mm}.imp>div{flex:1}
 .foot{margin-top:5mm;font-size:8pt;color:#6b7080}
 '''
+CSS += V.CSS.replace('%','%%')
 
 
 SRCURLS = {'Twelve Data': 'https://twelvedata.com', 'Yahoo Finance': 'https://finance.yahoo.com', 'CoinGecko': 'https://www.coingecko.com'}
@@ -66,20 +68,21 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
     icon = re.sub(r'<svg[^>]*>', '<svg viewBox="0 0 98 129" xmlns="http://www.w3.org/2000/svg">', LOGO, count=1)
 
     def rows(L, cur=True):
-        return ''.join('<tr><td>%s</td><td>%s</td><td class="%s">%s</td><td class="%s">%s %%</td></tr>' % (
-            esc(q['name']), num(q['price']), cls(q['chg']), sg(q['chg']), cls(q['pct']), sg(q['pct'])) for q in L)
+        return ''.join('<tr><td>%s</td><td>%s</td><td class="%s">%s</td><td class="%s">%s %%</td><td class="spc">%s</td></tr>' % (
+            esc(q['name']), num(q['price']), cls(q['chg']), sg(q['chg']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'))) for q in L)
 
     def tbl(L, first='Titel'):
         if not L:
             return '<p class="mut">Aktuell keine Daten verfügbar.</p>'
-        return '<table><thead><tr><th>%s</th><th>Stand</th><th>Änderung</th><th>in %%</th></tr></thead><tbody>%s</tbody></table>' % (first, rows(L))
+        return '<table><thead><tr><th>%s</th><th>Stand</th><th>Änderung</th><th>in %%</th><th>Verlauf</th></tr></thead><tbody>%s</tbody></table>' % (first, rows(L))
 
     idx = [q for q in Q if q['grp'] == 'Index']
     stocks = [q for q in Q if q['grp'] in ('US', 'DE')]
     other = [q for q in Q if q['grp'] in ('Rohstoff', 'FX', 'Krypto')]
+    stocks = V.universe(Q)
     ranked = sorted(stocks, key=lambda q: -q['pct'])
-    kp = ''.join('<div class="kpi"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s %%</div></div>' % (
-        esc(q['name']), num(q['price']), cls(q['pct']), sg(q['pct'])) for q in idx[:4])
+    kp = ''.join('<div class="kpi"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s %%</div>%s</div>' % (
+        esc(q['name']), num(q['price']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'), 120, 30)) for q in idx[:4])
     fxs = ''.join('<span>EUR/%s <b>%s</b></span>' % (k, num(fx[k], 4)) for k in ('USD', 'GBP', 'CHF', 'JPY', 'CNY') if k in fx) \
         or '<span class="mut">Aktuell nicht verfügbar</span>'
 
@@ -94,7 +97,7 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
     if not arts:
         arts = '<p class="mut">Die ersten Artikel der FA Redaktion erscheinen in Kürze.</p>'
 
-    news = ''.join('<li><a href="%s">%s</a><span class="s">%s</span></li>' % (esc(i['url']), esc(i['title']), esc(i['src'])) for i in N[:12])
+    news = V.news_rows(N, 22)
 
     page1 = '''<div class="pg"><div class="cover"><div class="brand">%s<span class="wm">finanz<b>adjust</b></span></div>
 <h1>Tagesbericht</h1><p>%s · Märkte, Artikel und Schlagzeilen im Überblick · FA Redaktion</p></div>
@@ -104,14 +107,22 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
 <div class="note"><b>Hinweis:</b> Dieser Bericht dient ausschließlich der Information und ist keine Anlageberatung, Anlageempfehlung oder Kauf- bzw. Verkaufsempfehlung.</div></div></div>''' % (
         icon, esc(day), kp, esc(stamp), tbl(idx, 'Index'), fxs)
 
-    page2 = '''<div class="pg"><h2>Aktien <small>Kursdaten Stand %s, ggf. verzögert</small></h2>%s
-<div class="two"><div><h2>Top-Gewinner</h2>%s</div><div><h2>Top-Verlierer</h2>%s</div></div>
-<h2>Rohstoffe, Devisen, Krypto</h2>%s</div>''' % (
-        esc(stamp), tbl(stocks), tbl(ranked[:4]), tbl(ranked[-4:][::-1]) if len(ranked) > 4 else tbl([]), tbl(other, 'Wert'))
+    gl = [q for q in ranked if q['pct'] > 0][:4]
+    lo = [q for q in ranked if q['pct'] < 0][-4:][::-1]
+    logo_note = '<p class="foot">Logo Intel: &copy; Intel Corporation, redaktionelle Verwendung mit Quellenangabe. Übrige Titel mit Kürzel statt Logo.</p>' if V.has_licensed_logo(stocks) else ''
+    page2 = '''<div class="pg"><h2>Aktien-Heatmap <small>Kursdaten Stand %s, ggf. verzögert</small></h2>%s%s</div>
+<div class="pg"><h2>Top-Aktien des Tages</h2><div class="sub up">Größte Gewinner</div>%s<div class="sub dn">Größte Verlierer</div>%s%s
+<div class="two2"><div><h2>Gewinner im Vergleich</h2>%s</div><div><h2>Verlierer im Vergleich</h2>%s</div></div>
+<h2>Rohstoffe, Devisen, Krypto</h2>%s</div>
+<div class="pg"><h2>Alle Aktien im Überblick <small>sortiert nach Tagesveränderung</small></h2>%s</div>''' % (
+        esc(stamp), V.breadth(stocks), V.heatmap(stocks, sg, big=len(stocks) > 20), 
+        V.stock_cards(gl, num, sg, cls, None) if gl else '<p class="mut">Heute keine Aktie im Plus.</p>',
+        V.stock_cards(lo, num, sg, cls, None) if lo else '<p class="mut">Heute keine Aktie im Minus.</p>', logo_note,
+        V.mover_bars(ranked[:6], sg, cls), V.mover_bars(ranked[-6:][::-1], sg, cls), tbl(other, 'Wert'), V.compact_table(ranked, num, sg, cls))
 
     page3 = '<div class="pg"><h2>Die letzten 6 Artikel der FA Redaktion</h2>%s<p class="foot">Alle Artikel mit Quellenangaben auf <a href="https://finanz-adjust.de/artikel/">finanz-adjust.de/artikel/</a></p></div>' % arts
 
-    page4 = '<div class="pg"><h2>Aktuelle Schlagzeilen <small>nur Überschriften, Rechte bei den Quellen</small></h2><ul class="nw">%s</ul></div>' % (news or '<li class="mut">Aktuell keine Schlagzeilen.</li>')
+    page4 = '<div class="pg"><h2>Aktuelle Schlagzeilen <small>nur Überschriften, Rechte bei den Quellen</small></h2>%s<ul class="nw">%s</ul><p class="foot">Quellenzeichen (Favicons) dienen nur der Kennzeichnung der verlinkten Quelle; Rechte liegen bei den jeweiligen Anbietern.</p></div>' % (V.source_strip(N), news or '<li class="mut">Aktuell keine Schlagzeilen.</li>')
 
     last = '''<div class="pg last"><h2>Impressum &amp; Redaktionsschluss</h2>
 <div class="imp"><div><h3>Anbieter nach § 5 DDG</h3><p>Philipp Paulik<br>Mozartstraße 1<br>53819 Neunkirchen-Seelscheid<br>Nordrhein-Westfalen</p>
