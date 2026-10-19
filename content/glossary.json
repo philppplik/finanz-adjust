@@ -1,0 +1,1965 @@
+{
+  "entries": [
+    {
+      "slug": "was-ist-eine-aktie",
+      "term": "Aktie",
+      "category": "Aktien & Börse",
+      "short": "Eine Aktie verbrieft einen Anteil an einer Aktiengesellschaft.",
+      "explain": "Aktionäre sind am Unternehmen beteiligt. Je nach Aktienart gehören dazu Stimmrechte und eine Beteiligung an beschlossenen Ausschüttungen. Der Kurs entsteht am Markt.",
+      "caution": "Aktien sind keine Sparguthaben. Kursverluste bis zum Totalverlust sind möglich.",
+      "related": [
+        "was-ist-eine-dividende",
+        "boerse",
+        "diversifikation"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Deutsche Bundesbank: Glossar",
+          "url": "https://www.bundesbank.de/dynamic/action/de/startseite/glossar/723820/glossar",
+          "section": "Aktie",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Aktie\"?",
+          "a": "Eine Aktie verbrieft einen Anteil an einer Aktiengesellschaft."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Aktien sind keine Sparguthaben. Kursverluste bis zum Totalverlust sind möglich."
+        }
+      ]
+    },
+    {
+      "slug": "aktienfonds",
+      "term": "Aktienfonds",
+      "category": "Fonds & ETF",
+      "short": "Ein Aktienfonds investiert überwiegend in Aktien.",
+      "explain": "Die Anlagebedingungen legen fest, welche Unternehmen und Märkte infrage kommen. Ein Fonds kann aktiv verwaltet werden oder einem Index folgen.",
+      "caution": "Ein Branchenfonds kann trotz vieler Einzelwerte stark von einer einzigen wirtschaftlichen Entwicklung abhängen.",
+      "related": [
+        "investmentfonds",
+        "was-ist-ein-etf",
+        "diversifikation"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Aktienfonds",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Aktienfonds\"?",
+          "a": "Ein Aktienfonds investiert überwiegend in Aktien."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Branchenfonds kann trotz vieler Einzelwerte stark von einer einzigen wirtschaftlichen Entwicklung abhängen."
+        }
+      ]
+    },
+    {
+      "slug": "anleihe",
+      "term": "Anleihe",
+      "category": "Zinsen & Anleihen",
+      "short": "Eine Anleihe ist ein Wertpapier, mit dem sich ein Herausgeber Geld leiht.",
+      "explain": "Käufer sind Gläubiger, keine Miteigentümer. Verzinsung, Laufzeit und Rückzahlung ergeben sich aus den Anleihebedingungen. Der Börsenkurs kann vom Nennwert abweichen.",
+      "caution": "Ausfallrisiken, Zinsänderungen und gegebenenfalls Währungsschwankungen können Verluste verursachen.",
+      "related": [
+        "emittent",
+        "kupon",
+        "faelligkeit",
+        "bonitaet"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Deutsche Bundesbank: Glossar",
+          "url": "https://www.bundesbank.de/dynamic/action/de/startseite/glossar/723820/glossar",
+          "section": "Anleihe",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Anleihe\"?",
+          "a": "Eine Anleihe ist ein Wertpapier, mit dem sich ein Herausgeber Geld leiht."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ausfallrisiken, Zinsänderungen und gegebenenfalls Währungsschwankungen können Verluste verursachen."
+        }
+      ]
+    },
+    {
+      "slug": "ausgabeaufschlag",
+      "term": "Ausgabeaufschlag",
+      "category": "Fonds & ETF",
+      "short": "Der Ausgabeaufschlag ist eine zusätzliche Gebühr beim Kauf bestimmter Anlageprodukte.",
+      "explain": "Er wird häufig als Prozentsatz angegeben. Ob er anfällt, hängt von Produkt und Vertriebsweg ab. Er ist von laufenden Verwaltungskosten zu unterscheiden.",
+      "caution": "Der Aufschlag mindert das Kapital, das nach dem Kauf für die Anlage arbeitet. Die TER bildet ihn nicht ab.",
+      "related": [
+        "gesamtkostenquote",
+        "verwaltungsgebuehr",
+        "investmentfonds"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Ausgabeaufschlag",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Ausgabeaufschlag\"?",
+          "a": "Der Ausgabeaufschlag ist eine zusätzliche Gebühr beim Kauf bestimmter Anlageprodukte."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Der Aufschlag mindert das Kapital, das nach dem Kauf für die Anlage arbeitet. Die TER bildet ihn nicht ab."
+        }
+      ]
+    },
+    {
+      "slug": "agio",
+      "term": "Agio",
+      "category": "Handel & Kennungen",
+      "short": "Agio ist ein anderer Ausdruck für Aufgeld, etwa einen Ausgabeaufschlag bei Fonds.",
+      "explain": "Gemeint ist ein Betrag zusätzlich zum zugrunde liegenden Wert oder Preis. Bei Fonds ist der konkrete Ausgabeaufschlag vom Produkt und vom Vertriebsweg abhängig.",
+      "caution": "Ein Aufgeld ist eine zusätzliche Belastung und keine laufende Ertragszahlung. Seine Bezugsgröße muss klar sein.",
+      "related": [
+        "ausgabeaufschlag",
+        "investmentfonds",
+        "gesamtkostenquote"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Ausgabeaufschlag",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Agio\"?",
+          "a": "Agio ist ein anderer Ausdruck für Aufgeld, etwa einen Ausgabeaufschlag bei Fonds."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Aufgeld ist eine zusätzliche Belastung und keine laufende Ertragszahlung. Seine Bezugsgröße muss klar sein."
+        }
+      ]
+    },
+    {
+      "slug": "bonitaet",
+      "term": "Bonität",
+      "category": "Zinsen & Anleihen",
+      "short": "Bonität bezeichnet die Kreditwürdigkeit eines Schuldners.",
+      "explain": "Gemeint sind Fähigkeit und Bereitschaft, Schulden zurückzuzahlen. Bei Anleihen ist sie wichtig, um die Wahrscheinlichkeit vereinbarter Zahlungen einzuordnen.",
+      "caution": "Eine höhere Verzinsung kann Ausdruck eines höheren Ausfallrisikos sein. Eine Bonitätseinschätzung ist keine Rückzahlungsgarantie.",
+      "related": [
+        "anleihe",
+        "emittent",
+        "high-yield-anleihe"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Bonität",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Bonität\"?",
+          "a": "Bonität bezeichnet die Kreditwürdigkeit eines Schuldners."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine höhere Verzinsung kann Ausdruck eines höheren Ausfallrisikos sein. Eine Bonitätseinschätzung ist keine Rückzahlungsgarantie."
+        }
+      ]
+    },
+    {
+      "slug": "boerse",
+      "term": "Börse",
+      "category": "Aktien & Börse",
+      "short": "Eine Börse ist ein organisierter Markt für den Handel mit Wertpapieren und anderen handelbaren Gütern.",
+      "explain": "Kauf- und Verkaufsinteressen treffen nach festgelegten Regeln zusammen. Der Handel kann elektronisch stattfinden. Preise und Kosten hängen auch vom Handelsplatz ab.",
+      "caution": "Die Börsennotierung macht ein Produkt nicht sicher. Auch börsengehandelte Anlagen können stark verlieren.",
+      "related": [
+        "boersenplatz",
+        "xetra",
+        "geldkurs",
+        "briefkurs"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Börse",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Börse\"?",
+          "a": "Eine Börse ist ein organisierter Markt für den Handel mit Wertpapieren und anderen handelbaren Gütern."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Börsennotierung macht ein Produkt nicht sicher. Auch börsengehandelte Anlagen können stark verlieren."
+        }
+      ]
+    },
+    {
+      "slug": "boersenindex",
+      "term": "Börsenindex",
+      "category": "Aktien & Börse",
+      "short": "Ein Börsenindex fasst die Entwicklung einer nach Regeln ausgewählten Gruppe von Wertpapieren zusammen.",
+      "explain": "Ein Index kann einen Markt, eine Region oder eine Branche abbilden. Auswahl und Gewichtung folgen der jeweiligen Methodik. Er ist eine Rechengröße, kein direkt kaufbares Wertpapier.",
+      "caution": "Kursindizes und Performanceindizes behandeln Ausschüttungen unterschiedlich. Die verwendete Variante muss beim Vergleich bekannt sein.",
+      "related": [
+        "was-ist-der-dax",
+        "kursindex",
+        "performanceindex",
+        "was-ist-ein-etf"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Börsenindex",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Börsenindex\"?",
+          "a": "Ein Börsenindex fasst die Entwicklung einer nach Regeln ausgewählten Gruppe von Wertpapieren zusammen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Kursindizes und Performanceindizes behandeln Ausschüttungen unterschiedlich. Die verwendete Variante muss beim Vergleich bekannt sein."
+        }
+      ]
+    },
+    {
+      "slug": "boersenplatz",
+      "term": "Börsenplatz",
+      "category": "Handel & Kennungen",
+      "short": "Der Börsenplatz ist der konkrete Markt, an dem ein Wertpapier gehandelt wird.",
+      "explain": "Dasselbe Wertpapier kann an verschiedenen Plätzen handelbar sein. Dort können sich Kauf- und Verkaufskurse, Kosten und verfügbare Stückzahlen unterscheiden.",
+      "caution": "Ein Kurs gehört zu einem bestimmten Handelsplatz und Zeitpunkt. Er ist nicht automatisch überall ausführbar.",
+      "related": [
+        "boerse",
+        "xetra",
+        "geldkurs",
+        "briefkurs"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Börsenplatz",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Börsenplatz\"?",
+          "a": "Der Börsenplatz ist der konkrete Markt, an dem ein Wertpapier gehandelt wird."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Kurs gehört zu einem bestimmten Handelsplatz und Zeitpunkt. Er ist nicht automatisch überall ausführbar."
+        }
+      ]
+    },
+    {
+      "slug": "briefkurs",
+      "term": "Briefkurs",
+      "category": "Handel & Kennungen",
+      "short": "Der Briefkurs ist der Preis, zu dem ein Wertpapier zum Verkauf angeboten wird.",
+      "explain": "Für einen Käufer ist dies die relevante Angebotsseite. Der Geldkurs beschreibt dagegen ein Kaufangebot. Die Differenz heißt Geld-Brief-Spanne.",
+      "caution": "Ein angezeigter Preis gilt nicht unbegrenzt für jede Stückzahl. Angebot und verfügbares Volumen können sich ändern.",
+      "related": [
+        "geldkurs",
+        "spread",
+        "boersenplatz"
+      ],
+      "aliases": [
+        "Ask"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Briefkurs",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Briefkurs\"?",
+          "a": "Der Briefkurs ist der Preis, zu dem ein Wertpapier zum Verkauf angeboten wird."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein angezeigter Preis gilt nicht unbegrenzt für jede Stückzahl. Angebot und verfügbares Volumen können sich ändern."
+        }
+      ]
+    },
+    {
+      "slug": "call",
+      "term": "Call",
+      "category": "Derivate & Rohstoffe",
+      "short": "Ein Call ist eine Option, die ihrem Käufer ein vertraglich festgelegtes Kaufrecht gibt.",
+      "explain": "Das Recht bezieht sich auf einen Basiswert, einen Ausübungspreis und einen Termin oder Zeitraum. Der Käufer zahlt dafür eine Optionsprämie.",
+      "caution": "Ein steigender Basiswert garantiert keinen Gewinn. Auch Laufzeit, Ausübungspreis und Prämie zählen; die Prämie kann vollständig verloren gehen.",
+      "related": [
+        "option",
+        "put",
+        "zertifikat"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Call",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Call\"?",
+          "a": "Ein Call ist eine Option, die ihrem Käufer ein vertraglich festgelegtes Kaufrecht gibt."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein steigender Basiswert garantiert keinen Gewinn. Auch Laufzeit, Ausübungspreis und Prämie zählen; die Prämie kann vollständig verloren gehen."
+        }
+      ]
+    },
+    {
+      "slug": "was-ist-der-dax",
+      "term": "DAX",
+      "category": "Aktien & Börse",
+      "short": "Der DAX bildet die Entwicklung von 40 großen, im regulierten Markt der Frankfurter Wertpapierbörse notierten Unternehmen ab.",
+      "explain": "Die Auswahl folgt den Regeln des Indexanbieters. Maßgeblich ist unter anderem die Marktkapitalisierung des Streubesitzes. Die verbreitete Performancevariante berücksichtigt Dividenden rechnerisch.",
+      "caution": "Ein steigender DAX bedeutet nicht, dass jede enthaltene Aktie steigt. Er ist kein Maß für die gesamte deutsche Wirtschaftsleistung.",
+      "related": [
+        "boersenindex",
+        "performanceindex",
+        "kursindex"
+      ],
+      "aliases": [
+        "Deutscher Aktienindex"
+      ],
+      "sources": [
+        {
+          "name": "STOXX: DAX",
+          "url": "https://stoxx.com/index/dax/",
+          "section": "DAX index profile",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"DAX\"?",
+          "a": "Der DAX bildet die Entwicklung von 40 großen, im regulierten Markt der Frankfurter Wertpapierbörse notierten Unternehmen ab."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein steigender DAX bedeutet nicht, dass jede enthaltene Aktie steigt. Er ist kein Maß für die gesamte deutsche Wirtschaftsleistung."
+        }
+      ]
+    },
+    {
+      "slug": "depotauszug",
+      "term": "Depotauszug",
+      "category": "Handel & Kennungen",
+      "short": "Ein Depotauszug zeigt die im Depot verwahrten Wertpapiere zu einem Stichtag.",
+      "explain": "Er nennt typischerweise die Wertpapiere, Stückzahlen oder Nennbeträge und ihre Werte. Die Darstellung kann sich je nach Depotanbieter unterscheiden.",
+      "caution": "Eine Stichtagsbewertung ist nicht automatisch der mögliche Verkaufserlös. Andere Kurse und Kosten können das Ergebnis verändern.",
+      "related": [
+        "isin",
+        "wkn",
+        "nennwert"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Depotauszug",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Depotauszug\"?",
+          "a": "Ein Depotauszug zeigt die im Depot verwahrten Wertpapiere zu einem Stichtag."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine Stichtagsbewertung ist nicht automatisch der mögliche Verkaufserlös. Andere Kurse und Kosten können das Ergebnis verändern."
+        }
+      ]
+    },
+    {
+      "slug": "diversifikation",
+      "term": "Diversifikation",
+      "category": "Grundlagen & Risiko",
+      "short": "Diversifikation bedeutet, Geld auf unterschiedliche Anlagen und Risiken zu verteilen.",
+      "explain": "Die Streuung kann Unternehmen, Branchen, Regionen und Anlageklassen betreffen. Dadurch hängt die Gesamtentwicklung weniger von einem einzelnen Titel ab.",
+      "caution": "Diversifikation beseitigt nicht alle Risiken. In einer breiten Marktkrise können unterschiedliche Anlagen gleichzeitig verlieren.",
+      "related": [
+        "aktienfonds",
+        "investmentfonds",
+        "was-bedeutet-volatilitaet"
+      ],
+      "aliases": [
+        "Risikostreuung"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Diversifikation",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Diversifikation\"?",
+          "a": "Diversifikation bedeutet, Geld auf unterschiedliche Anlagen und Risiken zu verteilen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Diversifikation beseitigt nicht alle Risiken. In einer breiten Marktkrise können unterschiedliche Anlagen gleichzeitig verlieren."
+        }
+      ]
+    },
+    {
+      "slug": "was-ist-eine-dividende",
+      "term": "Dividende",
+      "category": "Aktien & Börse",
+      "short": "Eine Dividende ist eine Ausschüttung einer Aktiengesellschaft an ihre Aktionäre.",
+      "explain": "Ob und wie viel ausgeschüttet wird, hängt vom Unternehmensergebnis und den zuständigen Beschlüssen ab. Sie ist neben der Kursentwicklung ein Bestandteil der Anlageentwicklung.",
+      "caution": "Eine Dividende ist nicht garantiert und kein kostenloser Zusatzgewinn. Für die Gesamtentwicklung zählen Ausschüttung und Kursveränderung zusammen.",
+      "related": [
+        "was-ist-eine-aktie",
+        "dividendenrendite",
+        "ausschuettung"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Dividende",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Dividende\"?",
+          "a": "Eine Dividende ist eine Ausschüttung einer Aktiengesellschaft an ihre Aktionäre."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine Dividende ist nicht garantiert und kein kostenloser Zusatzgewinn. Für die Gesamtentwicklung zählen Ausschüttung und Kursveränderung zusammen."
+        }
+      ]
+    },
+    {
+      "slug": "dividendenrendite",
+      "term": "Dividendenrendite",
+      "category": "Aktien & Börse",
+      "short": "Die Dividendenrendite setzt die Dividende je Aktie ins Verhältnis zum Aktienkurs.",
+      "explain": "Es muss klar sein, ob eine vergangene, angekündigte oder erwartete Dividende verwendet wird. Auch der Zeitpunkt des Aktienkurses gehört zur Kennzahl.",
+      "caution": "Eine hohe Dividendenrendite kann aus einem gefallenen Kurs entstehen. Sie ist keine garantierte Gesamtrendite oder ein Qualitätsbeweis.",
+      "related": [
+        "was-ist-eine-dividende",
+        "rendite",
+        "was-ist-eine-aktie"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Dividende",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Dividendenrendite\"?",
+          "a": "Die Dividendenrendite setzt die Dividende je Aktie ins Verhältnis zum Aktienkurs."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine hohe Dividendenrendite kann aus einem gefallenen Kurs entstehen. Sie ist keine garantierte Gesamtrendite oder ein Qualitätsbeweis."
+        }
+      ]
+    },
+    {
+      "slug": "emerging-markets",
+      "term": "Emerging Markets",
+      "category": "Grundlagen & Risiko",
+      "short": "Emerging Markets ist die englische Bezeichnung für Schwellenländer im Anlagekontext.",
+      "explain": "Gemeint sind Märkte von Volkswirtschaften, die noch nicht zu den vollständig entwickelten Industrieländern gezählt werden. Anlagen können etwa über Aktien, Anleihen oder Fonds erfolgen.",
+      "caution": "Der Sammelbegriff sagt wenig über ein einzelnes Land aus. Chancen und Risiken unterscheiden sich zwischen Ländern und Anlageformen.",
+      "related": [
+        "aktienfonds",
+        "anleihe",
+        "was-ist-ein-wechselkurs"
+      ],
+      "aliases": [
+        "Schwellenländer"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Emerging Markets",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Emerging Markets\"?",
+          "a": "Emerging Markets ist die englische Bezeichnung für Schwellenländer im Anlagekontext."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Der Sammelbegriff sagt wenig über ein einzelnes Land aus. Chancen und Risiken unterscheiden sich zwischen Ländern und Anlageformen."
+        }
+      ]
+    },
+    {
+      "slug": "emittent",
+      "term": "Emittent",
+      "category": "Zinsen & Anleihen",
+      "short": "Ein Emittent ist der Herausgeber eines Wertpapiers.",
+      "explain": "Bei Aktien ist dies das betreffende Unternehmen. Bei Anleihen können auch Staaten oder Kreditinstitute Emittenten sein. Die Ansprüche der Anleger hängen von der Art des Wertpapiers ab.",
+      "caution": "Das Emittentenrisiko ist die Gefahr, dass der Herausgeber seine Verpflichtungen nicht erfüllt. Es unterscheidet sich vom allgemeinen Kursrisiko.",
+      "related": [
+        "anleihe",
+        "bonitaet",
+        "zertifikat"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Emittent",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Emittent\"?",
+          "a": "Ein Emittent ist der Herausgeber eines Wertpapiers."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Das Emittentenrisiko ist die Gefahr, dass der Herausgeber seine Verpflichtungen nicht erfüllt. Es unterscheidet sich vom allgemeinen Kursrisiko."
+        }
+      ]
+    },
+    {
+      "slug": "etc",
+      "term": "ETC",
+      "category": "Derivate & Rohstoffe",
+      "short": "ETC bezeichnet ein börsengehandeltes Wertpapier zur Abbildung von Rohstoffentwicklungen.",
+      "explain": "ETC steht für Exchange Traded Commodity. ETCs sind Schuldverschreibungen und keine gewöhnlichen Investmentfonds. Ihre Ausgestaltung und Besicherung unterscheiden sich.",
+      "caution": "Ein ETC ist nicht wegen des ähnlichen Namens ein ETF. Es gibt Emittentenrisiken; manche Produkte beziehen sich auf Terminkontrakte statt auf Kassapreise.",
+      "related": [
+        "was-ist-ein-etf",
+        "rohstoff",
+        "emittent"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "ETC",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"ETC\"?",
+          "a": "ETC bezeichnet ein börsengehandeltes Wertpapier zur Abbildung von Rohstoffentwicklungen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein ETC ist nicht wegen des ähnlichen Namens ein ETF. Es gibt Emittentenrisiken; manche Produkte beziehen sich auf Terminkontrakte statt auf Kassapreise."
+        }
+      ]
+    },
+    {
+      "slug": "was-ist-ein-etf",
+      "term": "ETF",
+      "category": "Fonds & ETF",
+      "short": "Ein ETF ist ein an der Börse gehandelter Investmentfonds.",
+      "explain": "Die Abkürzung steht für Exchange Traded Fund. Viele ETFs bilden einen Index nach. Entscheidend sind der abgebildete Markt, die Anlageregeln und die Kosten des konkreten Fonds.",
+      "caution": "Ein ETF ist nicht automatisch breit gestreut oder risikoarm. Ein enger Branchen- oder Länderfokus kann Risiken bündeln.",
+      "related": [
+        "investmentfonds",
+        "boersenindex",
+        "diversifikation",
+        "gesamtkostenquote"
+      ],
+      "aliases": [
+        "Exchange Traded Fund",
+        "Indexfonds"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "ETF",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"ETF\"?",
+          "a": "Ein ETF ist ein an der Börse gehandelter Investmentfonds."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein ETF ist nicht automatisch breit gestreut oder risikoarm. Ein enger Branchen- oder Länderfokus kann Risiken bündeln."
+        }
+      ]
+    },
+    {
+      "slug": "faelligkeit",
+      "term": "Fälligkeit",
+      "category": "Zinsen & Anleihen",
+      "short": "Fälligkeit ist der vertragliche Zeitpunkt, zu dem eine Zahlung zu leisten ist.",
+      "explain": "Bei Anleihen betrifft dies besonders die Rückzahlung am Laufzeitende. Die geschuldete Summe ergibt sich aus den Bedingungen. Ein vorheriger Börsenverkauf erfolgt dagegen zum verfügbaren Marktpreis.",
+      "caution": "Ein Fälligkeitstermin garantiert nicht, dass der Emittent zahlen kann. Ein vorzeitiger Verkauf kann einen Verlust ergeben.",
+      "related": [
+        "anleihe",
+        "nennwert",
+        "bonitaet"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Fälligkeit",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Fälligkeit\"?",
+          "a": "Fälligkeit ist der vertragliche Zeitpunkt, zu dem eine Zahlung zu leisten ist."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Fälligkeitstermin garantiert nicht, dass der Emittent zahlen kann. Ein vorzeitiger Verkauf kann einen Verlust ergeben."
+        }
+      ]
+    },
+    {
+      "slug": "festgeld",
+      "term": "Festgeld",
+      "category": "Zinsen & Anleihen",
+      "short": "Festgeld ist eine Bankeinlage mit vereinbarter Laufzeit und Verzinsung.",
+      "explain": "Das Geld wird für einen festgelegten Zeitraum angelegt. Mindestbetrag, Zins und Regeln zur Verlängerung legt der jeweilige Vertrag fest.",
+      "caution": "Die Verfügbarkeit ist eingeschränkt. Automatische Verlängerung und vorzeitige Verfügung richten sich nach dem Vertrag.",
+      "related": [
+        "tagesgeld",
+        "zins",
+        "liquiditaet"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Festgeld",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Festgeld\"?",
+          "a": "Festgeld ist eine Bankeinlage mit vereinbarter Laufzeit und Verzinsung."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Verfügbarkeit ist eingeschränkt. Automatische Verlängerung und vorzeitige Verfügung richten sich nach dem Vertrag."
+        }
+      ]
+    },
+    {
+      "slug": "geldkurs",
+      "term": "Geldkurs",
+      "category": "Handel & Kennungen",
+      "short": "Der Geldkurs ist der Preis, zu dem ein Wertpapier nachgefragt wird.",
+      "explain": "Für einen Verkäufer ist dies die relevante Kaufseite. Der Briefkurs nennt dagegen das Verkaufsangebot. Die Differenz ist der Geld-Brief-Spread.",
+      "caution": "Der Geldkurs ist nicht dasselbe wie der letzte gehandelte Kurs. Auch das zum Preis verfügbare Volumen ist wichtig.",
+      "related": [
+        "briefkurs",
+        "spread",
+        "boersenplatz"
+      ],
+      "aliases": [
+        "Bid"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Geldkurs",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Geldkurs\"?",
+          "a": "Der Geldkurs ist der Preis, zu dem ein Wertpapier nachgefragt wird."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Der Geldkurs ist nicht dasselbe wie der letzte gehandelte Kurs. Auch das zum Preis verfügbare Volumen ist wichtig."
+        }
+      ]
+    },
+    {
+      "slug": "gesamtkostenquote",
+      "term": "Gesamtkostenquote (TER)",
+      "category": "Fonds & ETF",
+      "short": "Die TER beschreibt bestimmte laufende Kosten eines Investmentfonds im Verhältnis zum Fondsvermögen.",
+      "explain": "Die englische Bezeichnung lautet Total Expense Ratio. Die Kennzahl hilft, laufende Fondskosten einzuordnen. Sie ist aber keine vollständige Abrechnung aller denkbaren Kosten.",
+      "caution": "Nicht jede Kostenart steckt in der TER. Kaufkosten und weitere produktabhängige Kosten müssen separat betrachtet werden.",
+      "related": [
+        "verwaltungsgebuehr",
+        "ausgabeaufschlag",
+        "was-ist-ein-etf"
+      ],
+      "aliases": [
+        "TER",
+        "Total Expense Ratio"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Total Expense Ratio (TER)",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Gesamtkostenquote (TER)\"?",
+          "a": "Die TER beschreibt bestimmte laufende Kosten eines Investmentfonds im Verhältnis zum Fondsvermögen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Nicht jede Kostenart steckt in der TER. Kaufkosten und weitere produktabhängige Kosten müssen separat betrachtet werden."
+        }
+      ]
+    },
+    {
+      "slug": "high-yield-anleihe",
+      "term": "High-Yield-Anleihe",
+      "category": "Zinsen & Anleihen",
+      "short": "Eine High-Yield-Anleihe ist eine Anleihe eines Emittenten mit vergleichsweise geringer Bonität.",
+      "explain": "Für das höhere Ausfallrisiko verlangen Anleger typischerweise eine höhere Verzinsung beziehungsweise Rendite. Der Begriff beschreibt eine Renditechance, nicht Sicherheit.",
+      "caution": "Hohe Zinsen verhindern keinen Zahlungsausfall. Im ungünstigsten Fall kann das eingesetzte Kapital vollständig verloren gehen.",
+      "related": [
+        "anleihe",
+        "bonitaet",
+        "kupon"
+      ],
+      "aliases": [
+        "Junk Bonds",
+        "Hochzinsanleihe"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Junk Bonds",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"High-Yield-Anleihe\"?",
+          "a": "Eine High-Yield-Anleihe ist eine Anleihe eines Emittenten mit vergleichsweise geringer Bonität."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Hohe Zinsen verhindern keinen Zahlungsausfall. Im ungünstigsten Fall kann das eingesetzte Kapital vollständig verloren gehen."
+        }
+      ]
+    },
+    {
+      "slug": "inflation",
+      "term": "Inflation",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Inflation ist ein Anstieg des allgemeinen Preisniveaus, durch den Geld an Kaufkraft verliert.",
+      "explain": "Sie wird anhand von Preisindizes für einen Warenkorb gemessen. Haushalte können unterschiedlich betroffen sein, weil ihre Ausgabenanteile voneinander abweichen.",
+      "caution": "Ein einzelner teurer gewordener Artikel beschreibt noch nicht die gesamte Inflation. Bei Anlagen zählt auch die Kaufkraft nach Kosten.",
+      "related": [
+        "leitzins",
+        "zins",
+        "rendite"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Inflation",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Inflation\"?",
+          "a": "Inflation ist ein Anstieg des allgemeinen Preisniveaus, durch den Geld an Kaufkraft verliert."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein einzelner teurer gewordener Artikel beschreibt noch nicht die gesamte Inflation. Bei Anlagen zählt auch die Kaufkraft nach Kosten."
+        }
+      ]
+    },
+    {
+      "slug": "investmentfonds",
+      "term": "Investmentfonds",
+      "category": "Fonds & ETF",
+      "short": "Ein Investmentfonds sammelt Geld vieler Anleger und investiert es nach festgelegten Regeln.",
+      "explain": "Ein Fonds kann etwa Aktien, Anleihen oder Immobilien halten. Die Regeln bestimmen die abgedeckten Märkte. Aktiv verwaltete Fonds und Indexfonds folgen unterschiedlichen Auswahlverfahren.",
+      "caution": "Die Bündelung verhindert keine Kursverluste. Anlagepolitik, Konzentration und Kosten sind wichtiger als die Bezeichnung Fonds allein.",
+      "related": [
+        "aktienfonds",
+        "rentenfonds",
+        "was-ist-ein-etf"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Investmentfonds",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Investmentfonds\"?",
+          "a": "Ein Investmentfonds sammelt Geld vieler Anleger und investiert es nach festgelegten Regeln."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Bündelung verhindert keine Kursverluste. Anlagepolitik, Konzentration und Kosten sind wichtiger als die Bezeichnung Fonds allein."
+        }
+      ]
+    },
+    {
+      "slug": "isin",
+      "term": "ISIN",
+      "category": "Handel & Kennungen",
+      "short": "Die ISIN ist eine international verwendete Kennung zur Identifikation eines Wertpapiers.",
+      "explain": "Die International Securities Identification Number besteht aus zwölf Buchstaben und Ziffern. Sie hilft, ähnlich benannte Wertpapiere auseinanderzuhalten.",
+      "caution": "Eine ISIN sagt nichts über Qualität oder Risiko aus. Sie ersetzt weder die Prüfung der Produktbedingungen noch die Auswahl des Handelsplatzes.",
+      "related": [
+        "wkn",
+        "boersenplatz",
+        "depotauszug"
+      ],
+      "aliases": [
+        "Wertpapieridentifikationsnummer"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Wertpapieridentifikationsnummer (ISIN)",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"ISIN\"?",
+          "a": "Die ISIN ist eine international verwendete Kennung zur Identifikation eines Wertpapiers."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine ISIN sagt nichts über Qualität oder Risiko aus. Sie ersetzt weder die Prüfung der Produktbedingungen noch die Auswahl des Handelsplatzes."
+        }
+      ]
+    },
+    {
+      "slug": "kursindex",
+      "term": "Kursindex",
+      "category": "Aktien & Börse",
+      "short": "Ein Kursindex bildet Kursveränderungen ab, ohne Ausschüttungen wie ein Performanceindex wiederanzulegen.",
+      "explain": "Dadurch unterscheidet sich seine Entwicklung von einer Variante, die Dividenden rechnerisch reinvestiert. Bei Indexvergleichen muss die Variante bekannt sein.",
+      "caution": "Ein Kursindex und ein Performanceindex desselben Marktes sind keine identischen Vergleichsmaßstäbe.",
+      "related": [
+        "performanceindex",
+        "boersenindex",
+        "was-ist-der-dax"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Dow Jones Euro Stoxx 50",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Kursindex\"?",
+          "a": "Ein Kursindex bildet Kursveränderungen ab, ohne Ausschüttungen wie ein Performanceindex wiederanzulegen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Kursindex und ein Performanceindex desselben Marktes sind keine identischen Vergleichsmaßstäbe."
+        }
+      ]
+    },
+    {
+      "slug": "kupon",
+      "term": "Kupon",
+      "category": "Zinsen & Anleihen",
+      "short": "Der Kupon bezeichnet die vertragliche Verzinsung einer Anleihe.",
+      "explain": "Bei einer klassischen Festzinsanleihe wird der Kupon als Prozentsatz des Nennwerts angegeben. Zahlungstermine und weitere Bedingungen ergeben sich aus dem Vertrag.",
+      "caution": "Kupon und Rendite sind nicht dasselbe. Ein Kauf über oder unter dem Nennwert verändert die Rendite gegenüber dem Kuponsatz.",
+      "related": [
+        "anleihe",
+        "nennwert",
+        "rendite"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Kupon",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Kupon\"?",
+          "a": "Der Kupon bezeichnet die vertragliche Verzinsung einer Anleihe."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Kupon und Rendite sind nicht dasselbe. Ein Kauf über oder unter dem Nennwert verändert die Rendite gegenüber dem Kuponsatz."
+        }
+      ]
+    },
+    {
+      "slug": "leitzins",
+      "term": "Leitzins",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Leitzinsen sind von der Zentralbank festgelegte Zinssätze für Geschäfte mit Geschäftsbanken.",
+      "explain": "Sie beeinflussen den Geldmarkt und die Finanzierung in der Wirtschaft. Im Eurosystem gehören dazu Einlagefazilität, Hauptrefinanzierung und Spitzenrefinanzierung.",
+      "caution": "Ein Leitzins ist nicht identisch mit dem Spar- oder Kreditzins eines Bankkunden. Seine Wirkung auf Wirtschaft und Preise ist kein unmittelbarer Automatismus.",
+      "related": [
+        "inflation",
+        "zins",
+        "festgeld"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Deutsche Bundesbank: Leitzins",
+          "url": "https://www.bundesbank.de/dynamic/action/de/startseite/glossar/723820/glossar?contentId=652568&firstLetter=L",
+          "section": "Leitzins",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Leitzins\"?",
+          "a": "Leitzinsen sind von der Zentralbank festgelegte Zinssätze für Geschäfte mit Geschäftsbanken."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Leitzins ist nicht identisch mit dem Spar- oder Kreditzins eines Bankkunden. Seine Wirkung auf Wirtschaft und Preise ist kein unmittelbarer Automatismus."
+        }
+      ]
+    },
+    {
+      "slug": "liquiditaet",
+      "term": "Liquidität",
+      "category": "Grundlagen & Risiko",
+      "short": "Liquidität beschreibt die Fähigkeit, fällige Zahlungsverpflichtungen mit verfügbaren Mitteln zu erfüllen.",
+      "explain": "Vermögen und sofort verfügbare Mittel sind nicht dasselbe. Geld kann in einer Immobilie oder einer Anlage mit fester Laufzeit gebunden sein, während Rechnungen zu bezahlen sind.",
+      "caution": "Ein hoher Vermögenswert bedeutet nicht, dass er schnell ohne Verluste zu Geld gemacht werden kann. Verfügbarkeit gehört zur Beurteilung einer Anlage.",
+      "related": [
+        "tagesgeld",
+        "festgeld",
+        "faelligkeit"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Liquidität",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Liquidität\"?",
+          "a": "Liquidität beschreibt die Fähigkeit, fällige Zahlungsverpflichtungen mit verfügbaren Mitteln zu erfüllen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein hoher Vermögenswert bedeutet nicht, dass er schnell ohne Verluste zu Geld gemacht werden kann. Verfügbarkeit gehört zur Beurteilung einer Anlage."
+        }
+      ]
+    },
+    {
+      "slug": "nennwert",
+      "term": "Nennwert",
+      "category": "Zinsen & Anleihen",
+      "short": "Der Nennwert ist der Nominalbetrag eines Wertpapiers, etwa die Bezugsgröße für den Kupon einer Anleihe.",
+      "explain": "Bei einer Anleihe orientiert sich die vertragliche Rückzahlung häufig daran. Während der Laufzeit kann der Börsenkurs oberhalb oder unterhalb des Nennwerts liegen.",
+      "caution": "Nennwert, Kaufpreis und aktueller Marktwert sind verschiedene Größen. Rückzahlungsbedingungen und Ausfallrisiko bleiben entscheidend.",
+      "related": [
+        "anleihe",
+        "kupon",
+        "faelligkeit"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Nennwert",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Nennwert\"?",
+          "a": "Der Nennwert ist der Nominalbetrag eines Wertpapiers, etwa die Bezugsgröße für den Kupon einer Anleihe."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Nennwert, Kaufpreis und aktueller Marktwert sind verschiedene Größen. Rückzahlungsbedingungen und Ausfallrisiko bleiben entscheidend."
+        }
+      ]
+    },
+    {
+      "slug": "option",
+      "term": "Option",
+      "category": "Derivate & Rohstoffe",
+      "short": "Eine Option gibt ihrem Käufer das Recht, einen Basiswert zu vereinbarten Bedingungen zu kaufen oder zu verkaufen.",
+      "explain": "Festgelegt werden insbesondere Basiswert, Ausübungspreis und Laufzeit. Für das Recht zahlt der Käufer eine Prämie. Ein Call ist ein Kaufrecht, ein Put ein Verkaufsrecht.",
+      "caution": "Der Käufer kann die gesamte Prämie verlieren. Für Verkäufer gelten andere Verpflichtungen und Risiken. Optionen sind kein einfaches Sparprodukt.",
+      "related": [
+        "call",
+        "put",
+        "zertifikat"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Option",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Option\"?",
+          "a": "Eine Option gibt ihrem Käufer das Recht, einen Basiswert zu vereinbarten Bedingungen zu kaufen oder zu verkaufen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Der Käufer kann die gesamte Prämie verlieren. Für Verkäufer gelten andere Verpflichtungen und Risiken. Optionen sind kein einfaches Sparprodukt."
+        }
+      ]
+    },
+    {
+      "slug": "performanceindex",
+      "term": "Performanceindex",
+      "category": "Aktien & Börse",
+      "short": "Ein Performanceindex berücksichtigt neben Kursveränderungen die rechnerische Wiederanlage von Ausschüttungen.",
+      "explain": "Er entwickelt sich deshalb anders als ein reiner Kursindex. Die verbreitete DAX-Variante ist ein Performanceindex. Die Behandlung von Ausschüttungen richtet sich nach der Methodik.",
+      "caution": "Die rechnerische Indexentwicklung ist nicht automatisch die Rendite eines Anlageprodukts. Kosten und Nachbildung können Unterschiede verursachen.",
+      "related": [
+        "kursindex",
+        "was-ist-der-dax",
+        "boersenindex"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "STOXX: DAX",
+          "url": "https://stoxx.com/index/dax/",
+          "section": "DAX index profile",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Performanceindex\"?",
+          "a": "Ein Performanceindex berücksichtigt neben Kursveränderungen die rechnerische Wiederanlage von Ausschüttungen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die rechnerische Indexentwicklung ist nicht automatisch die Rendite eines Anlageprodukts. Kosten und Nachbildung können Unterschiede verursachen."
+        }
+      ]
+    },
+    {
+      "slug": "put",
+      "term": "Put",
+      "category": "Derivate & Rohstoffe",
+      "short": "Ein Put ist eine Option, die ihrem Käufer ein vertraglich festgelegtes Verkaufsrecht gibt.",
+      "explain": "Das Recht bezieht sich auf einen Basiswert und einen vereinbarten Ausübungspreis. Es gilt zu einem Termin oder innerhalb eines Zeitraums. Der Käufer zahlt eine Prämie.",
+      "caution": "Fallende Kurse allein garantieren keinen Gewinn. Ausübungspreis, Laufzeit und Prämie zählen. Die Prämie kann vollständig verloren gehen.",
+      "related": [
+        "option",
+        "call",
+        "zertifikat"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Put",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Put\"?",
+          "a": "Ein Put ist eine Option, die ihrem Käufer ein vertraglich festgelegtes Verkaufsrecht gibt."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Fallende Kurse allein garantieren keinen Gewinn. Ausübungspreis, Laufzeit und Prämie zählen. Die Prämie kann vollständig verloren gehen."
+        }
+      ]
+    },
+    {
+      "slug": "rendite",
+      "term": "Rendite",
+      "category": "Grundlagen & Risiko",
+      "short": "Die Rendite setzt den Ertrag einer Anlage ins Verhältnis zum eingesetzten Kapital.",
+      "explain": "Zum Vergleich gehört der betrachtete Zeitraum. Brutto- und Nettorendite berücksichtigen Kosten und Abzüge unterschiedlich. Auch Zahlungen und Kursveränderungen müssen passend einbezogen werden.",
+      "caution": "Nur gleiche Zeitbasis und vergleichbare Annahmen erlauben sinnvolle Vergleiche. Vergangene Renditen sind kein Zukunftsversprechen.",
+      "related": [
+        "zins",
+        "dividendenrendite",
+        "kupon"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Rendite",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Rendite\"?",
+          "a": "Die Rendite setzt den Ertrag einer Anlage ins Verhältnis zum eingesetzten Kapital."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Nur gleiche Zeitbasis und vergleichbare Annahmen erlauben sinnvolle Vergleiche. Vergangene Renditen sind kein Zukunftsversprechen."
+        }
+      ],
+      "example": "Reines Rechenbeispiel: 50 Euro Ertrag auf 1.000 Euro eingesetztes Kapital entsprechen 5 Prozent für den betrachteten Zeitraum, vor weiteren Kosten und Abzügen."
+    },
+    {
+      "slug": "rentenfonds",
+      "term": "Rentenfonds",
+      "category": "Fonds & ETF",
+      "short": "Ein Rentenfonds investiert überwiegend oder ausschließlich in Anleihen.",
+      "explain": "Der Name bezieht sich auf Rentenpapiere, nicht auf die gesetzliche Altersrente. Währungen, Laufzeiten und die Bonität der Herausgeber beeinflussen das Risikoprofil.",
+      "caution": "Auch ein Rentenfonds kann im Kurs fallen. Zinsänderungen und Zahlungsausfälle können den Anteilwert belasten.",
+      "related": [
+        "investmentfonds",
+        "anleihe",
+        "bonitaet"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Rentenfonds",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Rentenfonds\"?",
+          "a": "Ein Rentenfonds investiert überwiegend oder ausschließlich in Anleihen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Auch ein Rentenfonds kann im Kurs fallen. Zinsänderungen und Zahlungsausfälle können den Anteilwert belasten."
+        }
+      ]
+    },
+    {
+      "slug": "rohstoff",
+      "term": "Rohstoff",
+      "category": "Derivate & Rohstoffe",
+      "short": "Rohstoffe sind grundlegende Güter wie Öl, Getreide oder Metalle und bilden eine eigene Anlageklasse.",
+      "explain": "Am Finanzmarkt gibt es verschiedene Zugangswege. Ein physischer Rohstoff, eine Aktie eines Rohstoffunternehmens und ein ETC sind jedoch unterschiedliche Anlagen.",
+      "caution": "Nicht jedes Rohstoffprodukt bildet den sofortigen Kassapreis ab. Produktstruktur und Terminkontrakte können die Entwicklung verändern.",
+      "related": [
+        "etc",
+        "zertifikat",
+        "diversifikation"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Rohstoff",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Rohstoff\"?",
+          "a": "Rohstoffe sind grundlegende Güter wie Öl, Getreide oder Metalle und bilden eine eigene Anlageklasse."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Nicht jedes Rohstoffprodukt bildet den sofortigen Kassapreis ab. Produktstruktur und Terminkontrakte können die Entwicklung verändern."
+        }
+      ]
+    },
+    {
+      "slug": "sparplan",
+      "term": "Sparplan",
+      "category": "Fonds & ETF",
+      "short": "Ein Sparplan sieht regelmäßige Einzahlungen in eine Spar- oder Anlageform vor.",
+      "explain": "Das kann ein Banksparplan oder ein Fondssparplan sein. Höhe, Rhythmus, Kosten und Möglichkeiten zur Änderung hängen von Anbieter und Produkt ab.",
+      "caution": "Regelmäßiges Kaufen schützt nicht vor Verlusten. Das Risiko der gewählten Anlage verschwindet nicht durch die Aufteilung auf viele Kaufzeitpunkte.",
+      "related": [
+        "investmentfonds",
+        "zins",
+        "diversifikation"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Sparplan",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Sparplan\"?",
+          "a": "Ein Sparplan sieht regelmäßige Einzahlungen in eine Spar- oder Anlageform vor."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Regelmäßiges Kaufen schützt nicht vor Verlusten. Das Risiko der gewählten Anlage verschwindet nicht durch die Aufteilung auf viele Kaufzeitpunkte."
+        }
+      ]
+    },
+    {
+      "slug": "spread",
+      "term": "Spread",
+      "category": "Handel & Kennungen",
+      "short": "Der Geld-Brief-Spread ist der Abstand zwischen Kauf- und Verkaufsangebot eines Wertpapiers.",
+      "explain": "Der Briefkurs liegt auf der Angebotsseite, der Geldkurs auf der Nachfrageseite. Sofortiger Kauf und Verkauf treffen deshalb auf unterschiedliche Preise.",
+      "caution": "Der Spread ist nicht die einzige Handelsbelastung. Zusätzliche Gebühren und verfügbares Handelsvolumen müssen ebenfalls betrachtet werden.",
+      "related": [
+        "geldkurs",
+        "briefkurs",
+        "boersenplatz"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Liquiditätsrating",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Spread\"?",
+          "a": "Der Geld-Brief-Spread ist der Abstand zwischen Kauf- und Verkaufsangebot eines Wertpapiers."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Der Spread ist nicht die einzige Handelsbelastung. Zusätzliche Gebühren und verfügbares Handelsvolumen müssen ebenfalls betrachtet werden."
+        }
+      ]
+    },
+    {
+      "slug": "synthetische-replikation",
+      "term": "Synthetische Replikation",
+      "category": "Fonds & ETF",
+      "short": "Bei synthetischer Replikation bildet ein Indexfonds die Indexentwicklung mithilfe von Tauschvereinbarungen nach.",
+      "explain": "Bei einem Swap tauscht der Fonds die Entwicklung eines Wertpapierkorbs gegen die vereinbarte Indexentwicklung. Der tatsächliche Korb muss deshalb nicht aus den Indexwerten bestehen.",
+      "caution": "Neben dem Marktrisiko sind Gegenpartei und Besicherung wichtig. Der Produktname allein erklärt diese Risiken nicht.",
+      "related": [
+        "volle-replikation",
+        "was-ist-ein-etf",
+        "boersenindex"
+      ],
+      "aliases": [
+        "Swap-ETF",
+        "Künstliche Replikation"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Synthetische Replikation",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Synthetische Replikation\"?",
+          "a": "Bei synthetischer Replikation bildet ein Indexfonds die Indexentwicklung mithilfe von Tauschvereinbarungen nach."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Neben dem Marktrisiko sind Gegenpartei und Besicherung wichtig. Der Produktname allein erklärt diese Risiken nicht."
+        }
+      ]
+    },
+    {
+      "slug": "tagesgeld",
+      "term": "Tagesgeld",
+      "category": "Zinsen & Anleihen",
+      "short": "Tagesgeld ist eine verzinste Bankeinlage, über die grundsätzlich täglich verfügt werden kann.",
+      "explain": "Anders als beim Festgeld ist das Geld nicht für eine feste Anlagedauer gebunden. Der Zins ist üblicherweise veränderlich; Aktions- und Vertragsbedingungen können sich unterscheiden.",
+      "caution": "Ein Werbezins muss nicht dauerhaft gelten. Verzinsung und Gültigkeit des konkreten Angebots müssen getrennt geprüft werden.",
+      "related": [
+        "festgeld",
+        "zins",
+        "liquiditaet"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Tagesgeldkonto",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Tagesgeld\"?",
+          "a": "Tagesgeld ist eine verzinste Bankeinlage, über die grundsätzlich täglich verfügt werden kann."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Werbezins muss nicht dauerhaft gelten. Verzinsung und Gültigkeit des konkreten Angebots müssen getrennt geprüft werden."
+        }
+      ]
+    },
+    {
+      "slug": "thesaurierung",
+      "term": "Thesaurierung",
+      "category": "Fonds & ETF",
+      "short": "Thesaurierung bedeutet, dass ein Fonds Erträge im Fondsvermögen behält und wieder anlegt.",
+      "explain": "Erträge wie Zinsen oder Dividenden werden nicht als laufende Zahlung ausgeschüttet. Sie bleiben für die weitere Anlage im Fonds verfügbar.",
+      "caution": "Wiederanlage verhindert keine Kursverluste. Ein thesaurierender Fonds kann trotz vereinnahmter Erträge insgesamt an Wert verlieren.",
+      "related": [
+        "ausschuettung",
+        "investmentfonds",
+        "was-ist-ein-etf"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Thesaurierung",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Thesaurierung\"?",
+          "a": "Thesaurierung bedeutet, dass ein Fonds Erträge im Fondsvermögen behält und wieder anlegt."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Wiederanlage verhindert keine Kursverluste. Ein thesaurierender Fonds kann trotz vereinnahmter Erträge insgesamt an Wert verlieren."
+        }
+      ]
+    },
+    {
+      "slug": "unternehmensanleihe",
+      "term": "Unternehmensanleihe",
+      "category": "Zinsen & Anleihen",
+      "short": "Eine Unternehmensanleihe ist eine Anleihe, die ein Unternehmen zur Finanzierung herausgibt.",
+      "explain": "Anleger stellen Kapital zur Verfügung und erhalten die vertraglich vereinbarten Ansprüche. Anders als Aktionäre sind sie Gläubiger und keine Miteigentümer.",
+      "caution": "Auch bekannte Unternehmen können ausfallen. Zusätzlich kann der Kurs einer Anleihe während der Laufzeit schwanken.",
+      "related": [
+        "anleihe",
+        "bonitaet",
+        "emittent"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Unternehmensanleihe",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Unternehmensanleihe\"?",
+          "a": "Eine Unternehmensanleihe ist eine Anleihe, die ein Unternehmen zur Finanzierung herausgibt."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Auch bekannte Unternehmen können ausfallen. Zusätzlich kann der Kurs einer Anleihe während der Laufzeit schwanken."
+        }
+      ]
+    },
+    {
+      "slug": "verwaltungsgebuehr",
+      "term": "Verwaltungsgebühr",
+      "category": "Fonds & ETF",
+      "short": "Die Verwaltungsgebühr ist eine laufende Vergütung für die Verwaltung eines Investmentfonds.",
+      "explain": "Sie wird dem Fondsvermögen belastet und beeinflusst den Anteilwert. Sie unterscheidet sich von einem einmaligen Ausgabeaufschlag und weiteren möglichen Gebühren.",
+      "caution": "Die Verwaltungsgebühr allein bildet nicht alle Kosten ab. Auch die TER ist keine vollständige Aufstellung sämtlicher Anlegerkosten.",
+      "related": [
+        "gesamtkostenquote",
+        "ausgabeaufschlag",
+        "investmentfonds"
+      ],
+      "aliases": [
+        "Managementgebühr"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Verwaltungsgebühr",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Verwaltungsgebühr\"?",
+          "a": "Die Verwaltungsgebühr ist eine laufende Vergütung für die Verwaltung eines Investmentfonds."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Verwaltungsgebühr allein bildet nicht alle Kosten ab. Auch die TER ist keine vollständige Aufstellung sämtlicher Anlegerkosten."
+        }
+      ]
+    },
+    {
+      "slug": "volle-replikation",
+      "term": "Volle Replikation",
+      "category": "Fonds & ETF",
+      "short": "Bei voller Replikation hält ein Indexfonds die Indexwertpapiere entsprechend ihrer Gewichtung.",
+      "explain": "Ändert sich die Zusammensetzung des Index, muss der Fonds seine Anlagen anpassen. Das ist ein anderes Verfahren als die synthetische Nachbildung durch Tauschvereinbarungen.",
+      "caution": "Auch hier können Kosten und zeitliche Unterschiede bei der Umsetzung die Fondsentwicklung vom Index abweichen lassen.",
+      "related": [
+        "synthetische-replikation",
+        "was-ist-ein-etf",
+        "boersenindex"
+      ],
+      "aliases": [
+        "Physische Vollreplikation"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Volle Replikation",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Volle Replikation\"?",
+          "a": "Bei voller Replikation hält ein Indexfonds die Indexwertpapiere entsprechend ihrer Gewichtung."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Auch hier können Kosten und zeitliche Unterschiede bei der Umsetzung die Fondsentwicklung vom Index abweichen lassen."
+        }
+      ]
+    },
+    {
+      "slug": "was-bedeutet-volatilitaet",
+      "term": "Volatilität",
+      "category": "Grundlagen & Risiko",
+      "short": "Volatilität ist ein Maß für Schwankungen einer Finanzmarktgröße, etwa eines Aktienkurses.",
+      "explain": "Sie beschreibt die Stärke der Schwankungen, nicht ihre Richtung. Messzeitraum, Daten und Berechnungsmethode müssen für Vergleiche zusammenpassen.",
+      "caution": "Niedrige gemessene Volatilität bedeutet nicht, dass kein Verlustrisiko besteht. Sie sagt nicht verlässlich voraus, wohin sich ein Kurs als Nächstes bewegt.",
+      "related": [
+        "diversifikation",
+        "was-ist-eine-aktie",
+        "rendite"
+      ],
+      "aliases": [
+        "Schwankung",
+        "Schwankungsintensität"
+      ],
+      "sources": [
+        {
+          "name": "Morningstar: Glossar Volatilität",
+          "url": "https://www.morningstar.de/de/glossary/100300/volatilit%C3%A4t.aspx",
+          "section": "Volatilität",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Volatilität\"?",
+          "a": "Volatilität ist ein Maß für Schwankungen einer Finanzmarktgröße, etwa eines Aktienkurses."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Niedrige gemessene Volatilität bedeutet nicht, dass kein Verlustrisiko besteht. Sie sagt nicht verlässlich voraus, wohin sich ein Kurs als Nächstes bewegt."
+        }
+      ]
+    },
+    {
+      "slug": "was-ist-ein-wechselkurs",
+      "term": "Wechselkurs",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Ein Wechselkurs gibt den Preis einer Währung in einer anderen Währung an.",
+      "explain": "Bei einer Notierung von Euro in US-Dollar wird angegeben, wie viele US-Dollar auf einen Euro entfallen. Eine Kursänderung verändert auch den Euro-Wert einer Dollar-Anlage.",
+      "caution": "Währungsbewegungen können Erträge erhöhen oder verringern. Die Entwicklung eines ausländischen Wertpapiers allein ist deshalb nicht seine Rendite in Euro.",
+      "related": [
+        "aufwertung",
+        "abwertung",
+        "rendite"
+      ],
+      "aliases": [
+        "Devisenkurs",
+        "EUR/USD"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Wechselkurs",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Wechselkurs\"?",
+          "a": "Ein Wechselkurs gibt den Preis einer Währung in einer anderen Währung an."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Währungsbewegungen können Erträge erhöhen oder verringern. Die Entwicklung eines ausländischen Wertpapiers allein ist deshalb nicht seine Rendite in Euro."
+        }
+      ]
+    },
+    {
+      "slug": "wkn",
+      "term": "WKN",
+      "category": "Handel & Kennungen",
+      "short": "Die Wertpapierkennnummer ist eine in Deutschland verwendete Kennung für Wertpapiere.",
+      "explain": "Sie besteht aus sechs Zeichen und wird neben der internationalen ISIN verwendet. Kennnummern erlauben eine präzisere Zuordnung als ähnliche Produktnamen.",
+      "caution": "Die Kennung sagt nichts über Sicherheit oder Rendite aus. Produkt und Handelsplatz müssen vor einer Order trotzdem zusammenpassen.",
+      "related": [
+        "isin",
+        "boersenplatz",
+        "depotauszug"
+      ],
+      "aliases": [
+        "Wertpapierkennnummer"
+      ],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Wertpapierkennnummer (WKN)",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"WKN\"?",
+          "a": "Die Wertpapierkennnummer ist eine in Deutschland verwendete Kennung für Wertpapiere."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Kennung sagt nichts über Sicherheit oder Rendite aus. Produkt und Handelsplatz müssen vor einer Order trotzdem zusammenpassen."
+        }
+      ]
+    },
+    {
+      "slug": "xetra",
+      "term": "Xetra",
+      "category": "Handel & Kennungen",
+      "short": "Xetra ist ein elektronisches Handelssystem der Deutschen Börse.",
+      "explain": "Darüber werden unter anderem Aktien und ETFs gehandelt. Die Notierung auf Xetra ist von Notierungen desselben Wertpapiers an anderen Handelsplätzen zu unterscheiden.",
+      "caution": "Ein Xetra-Kurs ist nicht automatisch der Kurs einer anderen Börse. Zeit, Währung und Handelsplatz gehören zu einer Kursangabe.",
+      "related": [
+        "boerse",
+        "boersenplatz",
+        "isin"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Xetra",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Xetra\"?",
+          "a": "Xetra ist ein elektronisches Handelssystem der Deutschen Börse."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ein Xetra-Kurs ist nicht automatisch der Kurs einer anderen Börse. Zeit, Währung und Handelsplatz gehören zu einer Kursangabe."
+        }
+      ]
+    },
+    {
+      "slug": "zertifikat",
+      "term": "Zertifikat",
+      "category": "Derivate & Rohstoffe",
+      "short": "Ein Zertifikat ist eine Schuldverschreibung mit Zahlungen, die von einem Basiswert und Produktregeln abhängen.",
+      "explain": "Als Basiswert kann eine Aktie oder ein Index dienen. Regeln können Gewinne begrenzen, Schwellen enthalten oder Verluste verstärken. Zertifikate unterscheiden sich stark voneinander.",
+      "caution": "Neben der Basiswertentwicklung besteht ein Emittentenrisiko. Auch bei günstiger Marktentwicklung drohen Verluste, wenn der Herausgeber zahlungsunfähig wird.",
+      "related": [
+        "emittent",
+        "option",
+        "etc"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Zertifikat",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Zertifikat\"?",
+          "a": "Ein Zertifikat ist eine Schuldverschreibung mit Zahlungen, die von einem Basiswert und Produktregeln abhängen."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Neben der Basiswertentwicklung besteht ein Emittentenrisiko. Auch bei günstiger Marktentwicklung drohen Verluste, wenn der Herausgeber zahlungsunfähig wird."
+        }
+      ]
+    },
+    {
+      "slug": "zew-index",
+      "term": "ZEW-Konjunkturerwartungen",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Die ZEW-Konjunkturerwartungen sind ein umfragebasierter Frühindikator zur erwarteten wirtschaftlichen Entwicklung.",
+      "explain": "Das ZEW befragt Finanzmarktexpertinnen und -experten und veröffentlicht die Ergebnisse im Finanzmarktreport. Erwartungen sind von der Beurteilung der aktuellen Lage zu unterscheiden.",
+      "caution": "Die Umfrage misst Einschätzungen, keine bereits gemessene Wirtschaftsleistung. Sie ist keine sichere Prognose oder ein Handelssignal.",
+      "related": [
+        "einkaufsmanagerindex",
+        "inflation",
+        "boersenindex"
+      ],
+      "aliases": [
+        "ZEW-Index"
+      ],
+      "sources": [
+        {
+          "name": "ZEW: Konjunkturerwartungen",
+          "url": "https://www.zew.de/publikationen/zew-gutachten-und-forschungsberichte/forschungsberichte/konjunktur/zew-finanzmarktreport/",
+          "section": "ZEW-Konjunkturerwartungen",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"ZEW-Konjunkturerwartungen\"?",
+          "a": "Die ZEW-Konjunkturerwartungen sind ein umfragebasierter Frühindikator zur erwarteten wirtschaftlichen Entwicklung."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Die Umfrage misst Einschätzungen, keine bereits gemessene Wirtschaftsleistung. Sie ist keine sichere Prognose oder ein Handelssignal."
+        }
+      ]
+    },
+    {
+      "slug": "zins",
+      "term": "Zins",
+      "category": "Zinsen & Anleihen",
+      "short": "Zins ist das Entgelt für die zeitweise Überlassung von Kapital.",
+      "explain": "Wer Geld leiht, zahlt dafür üblicherweise Zinsen. Wer Kapital bereitstellt, erhält Zinsen unter den vereinbarten Bedingungen. Ein Zinssatz bezieht sich auf einen Betrag und einen Zeitraum.",
+      "caution": "Zinssatz und Vermögenszuwachs sind nicht identisch. Kosten, Steuern, Inflation und Zahlungsausfälle können das Ergebnis verändern.",
+      "related": [
+        "leitzins",
+        "kupon",
+        "rendite"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Zins",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Zins\"?",
+          "a": "Zins ist das Entgelt für die zeitweise Überlassung von Kapital."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Zinssatz und Vermögenszuwachs sind nicht identisch. Kosten, Steuern, Inflation und Zahlungsausfälle können das Ergebnis verändern."
+        }
+      ]
+    },
+    {
+      "slug": "abwertung",
+      "term": "Abwertung",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Bei einer Abwertung verliert eine Währung gegenüber einer anderen an Wert.",
+      "explain": "Wertet der Euro gegenüber dem US-Dollar ab, erhält man für einen Euro weniger Dollar. Importe und in Dollar bewertete Anlagen können dadurch in Euro teurer werden.",
+      "caution": "Eine Währung wertet relativ zu einer anderen ab. Eine Wechselkursbewegung beschreibt nicht die gesamte wirtschaftliche Lage eines Landes.",
+      "related": [
+        "aufwertung",
+        "was-ist-ein-wechselkurs",
+        "inflation"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Deutsche Bundesbank: Glossar",
+          "url": "https://www.bundesbank.de/dynamic/action/de/startseite/glossar/723820/glossar",
+          "section": "Abwertung",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Abwertung\"?",
+          "a": "Bei einer Abwertung verliert eine Währung gegenüber einer anderen an Wert."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine Währung wertet relativ zu einer anderen ab. Eine Wechselkursbewegung beschreibt nicht die gesamte wirtschaftliche Lage eines Landes."
+        }
+      ]
+    },
+    {
+      "slug": "aufwertung",
+      "term": "Aufwertung",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Bei einer Aufwertung gewinnt eine Währung gegenüber einer anderen an Wert.",
+      "explain": "Wertet der Euro gegenüber dem US-Dollar auf, erhält man für einen Euro mehr Dollar. Umgekehrt kann der Euro-Wert einer unveränderten Dollar-Anlage sinken.",
+      "caution": "Eine Aufwertung ist nicht für alle gleich günstig. Die Wirkung hängt von der Währung der Einnahmen, Ausgaben und Anlagen ab.",
+      "related": [
+        "abwertung",
+        "was-ist-ein-wechselkurs",
+        "rendite"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Deutsche Bundesbank: Glossar",
+          "url": "https://www.bundesbank.de/dynamic/action/de/startseite/glossar/723820/glossar",
+          "section": "Aufwertung",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Aufwertung\"?",
+          "a": "Bei einer Aufwertung gewinnt eine Währung gegenüber einer anderen an Wert."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Eine Aufwertung ist nicht für alle gleich günstig. Die Wirkung hängt von der Währung der Einnahmen, Ausgaben und Anlagen ab."
+        }
+      ]
+    },
+    {
+      "slug": "einkaufsmanagerindex",
+      "term": "Einkaufsmanagerindex (PMI)",
+      "category": "Wirtschaft & Geldpolitik",
+      "short": "Der PMI ist ein umfragebasierter Indikator für veränderte Geschäftsbedingungen gegenüber dem Vormonat.",
+      "explain": "Unternehmen melden unter anderem, ob Produktion, Aufträge und Beschäftigung steigen, gleich bleiben oder fallen. Branchen und einzelne Teilindizes müssen unterschieden werden.",
+      "caution": "Über 50 bedeutet Zunahme gegenüber dem Vormonat, darunter Abnahme. Der Indexstand ist keine prozentuale Wachstumsrate der Wirtschaftsleistung.",
+      "related": [
+        "zew-index",
+        "inflation",
+        "boersenindex"
+      ],
+      "aliases": [
+        "PMI",
+        "Purchasing Managers Index"
+      ],
+      "sources": [
+        {
+          "name": "S&P Global: PMI Data FAQ",
+          "url": "https://www.spglobal.com/market-intelligence/en/solutions/products/resources/pmi-faq",
+          "section": "What does the Purchasing Managers Index measure? / What is a diffusion index?",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Einkaufsmanagerindex (PMI)\"?",
+          "a": "Der PMI ist ein umfragebasierter Indikator für veränderte Geschäftsbedingungen gegenüber dem Vormonat."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Über 50 bedeutet Zunahme gegenüber dem Vormonat, darunter Abnahme. Der Indexstand ist keine prozentuale Wachstumsrate der Wirtschaftsleistung."
+        }
+      ]
+    },
+    {
+      "slug": "ausschuettung",
+      "term": "Ausschüttung",
+      "category": "Fonds & ETF",
+      "short": "Bei einer Ausschüttung zahlt ein Fonds Erträge an seine Anteilseigner aus.",
+      "explain": "Erträge können aus Dividenden, Zinsen oder Mieteinnahmen stammen. Thesaurierende Fonds legen sie stattdessen wieder an.",
+      "caution": "Ausschüttungen sind kein kostenloser Zusatzgewinn: Vermögen verlässt den Fonds. Für den Vergleich zählt die Gesamtentwicklung.",
+      "related": [
+        "thesaurierung",
+        "was-ist-eine-dividende",
+        "investmentfonds"
+      ],
+      "aliases": [],
+      "sources": [
+        {
+          "name": "Verbraucherzentrale: Finanzglossar",
+          "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/finanzglossar-durchblick-von-a-wie-aktien-bis-z-wie-zins-15907",
+          "section": "Ausschüttung",
+          "checked": "2026-10-19"
+        }
+      ],
+      "verified": "2026-10-19",
+      "faq": [
+        {
+          "q": "Was bedeutet der Begriff \"Ausschüttung\"?",
+          "a": "Bei einer Ausschüttung zahlt ein Fonds Erträge an seine Anteilseigner aus."
+        },
+        {
+          "q": "Worauf kommt es dabei an?",
+          "a": "Ausschüttungen sind kein kostenloser Zusatzgewinn: Vermögen verlässt den Fonds. Für den Vergleich zählt die Gesamtentwicklung."
+        }
+      ]
+    }
+  ]
+}
