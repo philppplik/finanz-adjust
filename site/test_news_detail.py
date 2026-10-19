@@ -10,7 +10,7 @@ class DetailTests(unittest.TestCase):
     def item(self, url='https://www.finanznachrichten.de/nachrichten/2026-10/a.htm', **kw):
         return dict(url=url,title='DAX und Inflation: <Test> & Zinsen',ts=1792400790,sum='DO NOT REPRINT THIS TEASER',src='GDELT',**kw)
     def test_no_teasers(self):
-        self.assertFalse(d.TEASER_SOURCES)
+        self.assertEqual(d.TEASER_SOURCES,frozenset({'destatis.de','ecb.europa.eu'}))
         self.assertNotIn('DO NOT REPRINT',d.content(self.item(),[]))
     def test_block_sources(self):
         for host in ('cnn.com','fool.com','tagesschau.de','www.tagesschau.de','unknown.example','finanznachrichten.de.evil.example'):
@@ -69,8 +69,8 @@ class DetailTests(unittest.TestCase):
             self.assertIn('noindex,follow',s);self.assertNotIn('rel="canonical"',s)
             self.assertIn('data-fa-consent-open',s)
             self.assertNotIn('NewsArticle',s)
-            self.assertIn('nd-ad" hidden',s)
-            self.assertIn('nd-leaving',s)
+            self.assertIn('nd-ad" hidden',s) if i.get('license_key') not in ('destatis','ecb') else self.assertIn('ln-rights',s)
+            self.assertTrue('nd-leaving' in s or 'ln-leaving' in s)
             self.assertNotIn('Nutzungsfreigabe',s)
             for f in ('sitemap.xml','news-sitemap.xml','feed.xml'):
                 self.assertNotIn(path,(root/f).read_text())

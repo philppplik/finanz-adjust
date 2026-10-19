@@ -20,6 +20,9 @@ def related_terms(item, entries):
 def content(item, entries):
     if not has_detail(item):
         raise ValueError('Source is not approved for headline source info')
+    if item.get('license_key') in ('destatis','ecb'):
+        from licensed_news import body
+        return body(item,'finanz adjust','/nachrichten/quellenarchiv/')
     e = lambda s: html.escape(str(s), quote=True)
     terms = related_terms(item, entries)
     stocks = json.loads((ROOT/'stocks.json').read_text())
@@ -47,6 +50,8 @@ def content(item, entries):
 def build_details(page, items, out=ROOT/'out'):
     out = Path(out)
     entries = json.loads((ROOT.parent/'content/glossary.json').read_text())['entries']
+    from licensed_news import write_css
+    write_css(out)
     (out/'news-detail.css').write_text((ROOT/'news-detail.css').read_text())
     paths = []
     for item in items:

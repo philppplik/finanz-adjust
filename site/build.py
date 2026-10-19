@@ -8,6 +8,11 @@ if os.path.isdir('../images'): shutil.copytree('../images',OUT+'/images',dirs_ex
 from zoneinfo import ZoneInfo
 BASE='https://finanz-adjust.de'; NOW=datetime.datetime.now(ZoneInfo('Europe/Berlin'))
 Q=json.load(open('../data/quotes.json')); N=permitted_news(json.load(open('../data/fin_archive.json')))
+import sys
+sys.path.insert(0,str(__import__('pathlib').Path(__file__).resolve().parent.parent/'tools'))
+from licensed_news import collect, merge_current
+licensed_archive=collect('..','fa',N)
+N=merge_current(N,licensed_archive)
 fx={}
 b=get('https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
 if b:
@@ -259,6 +264,12 @@ print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx))
 # Rights-gated noindex sources, deliberately excluded from sitemaps and RSS.
 from news_detail import build_details
 build_details(page, N, OUT)
+from licensed_news import archive_body, noindex
+_archive_body=archive_body(licensed_archive,'finanz adjust').replace('KI-News aus externen Quellen.','Gesicherte Wirtschafts-Meldungen.').replace('Schlagzeilen und erlaubte RSS-Anrisstexte von heise online.','Schlagzeilen von FinanzNachrichten sowie erlaubte RSS-Textauszüge von Destatis und der EZB.')
+page('/nachrichten/quellenarchiv/','Gesicherte Quelleninfos | finanz adjust','Dauerhaft gespeicherte Quelleninfos.',_archive_body,act='/nachrichten/')
+noindex(OUT+'/nachrichten/quellenarchiv/index.html')
+_p=__import__('pathlib').Path(OUT+'/nachrichten/index.html')
+_p.write_text(_p.read_text().replace('<h1>Was die Märkte bewegt.</h1>','<h1>Was die Märkte bewegt.</h1><p><a href="/nachrichten/quellenarchiv/">Alle gesicherten Quelleninfos →</a></p>',1))
 
 # Final isolated pass: advertising, consent and activation gates (no third-party code by default).
 import sys
