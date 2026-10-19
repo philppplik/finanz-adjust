@@ -30,18 +30,18 @@ def content(item, entries):
     except (KeyError, ValueError, TypeError, OSError):
         when = 'Zeitpunkt nicht verfügbar'
     original = '<a class="nd-original" href="%s" target="_blank" rel="noopener noreferrer nofollow">Original bei %s lesen <span aria-hidden="true">↗</span></a>' % (e(item['url']), e(domain(item['url'])))
+    leaving = '<aside class="nd-leaving" aria-label="Hinweis zum externen Link"><span aria-hidden="true">↗</span><p>Beim Klick auf den Original-Link verlässt du finanz adjust und wechselst zu <strong>%s</strong>. Der Beitrag öffnet sich in einem neuen Tab.</p></aside>' % e(domain(item['url']))
     cards += ''.join('<a href="/aktien/%s/"><b>%s · %s</b><span>FA Aktienprofil und Kursübersicht. Keine Aussage zur Meldung.</span></a>' % (e(a['slug']), e(a['name']), e(a['ticker'])) for a in matches)
     # Never output item['sum'], even if old Yahoo metadata contains it.
     return '''<link rel="stylesheet" href="/news-detail.css"><main class="nd-wrap">
 <a class="nd-back" href="/nachrichten/">← Zum Nachrichtenarchiv</a>
 <section class="nd-source"><p class="nd-kicker">EXTERNE SCHLAGZEILE / QUELLENINFO</p>%s<h1>%s</h1><p class="nd-time">%s</p>
-<p class="nd-disclosure">Dies ist eine Quelleninfo von finanz adjust, kein eigener Nachrichtenartikel. Den vollständigen Beitrag findest du beim verlinkten Anbieter.</p>%s
-<p class="nd-permission">Hier zeigen wir nur die Überschrift. Für einen Vorspann liegt uns keine passende Nutzungsfreigabe vor.</p></section>
+<p class="nd-disclosure">Dies ist eine Quelleninfo von finanz adjust, kein eigener Nachrichtenartikel. Den vollständigen Beitrag findest du beim verlinkten Anbieter.</p>%s%s</section>
 <section class="nd-context"><p class="nd-kicker">FA WISSEN</p><h2>Passendes Wissen zur Schlagzeile</h2><p>Automatisch anhand der Überschrift zugeordnet. Glossar und Aktienprofile erklären Grundlagen, nicht den Inhalt oder die Richtigkeit der Meldung.</p><div class="nd-terms">%s</div>%s</section>
 <aside class="nd-report"><div><p class="nd-kicker">DER BLICK AUFS GANZE</p><h2>Dein Tagesbericht als PDF.</h2><p>Marktübersicht, Indizes und Schlagzeilen von finanz adjust. Kostenlos, ohne Anmeldung und ohne E-Mail.</p></div><a class="btn" href="/berichte/aktuell.pdf">Tagesbericht laden (PDF) ↓</a><a class="nd-textlink" href="/berichte/">Alle Berichte ansehen</a></aside>
 <aside class="nd-ad" hidden aria-label="Anzeigenplatz, derzeit ohne Werbung"><span>Anzeige · Platzhalter</span><p>Hier wird keine Werbung geladen.</p><small>Erst nach separater Einrichtung und erforderlicher Einwilligung. Kein externer Abruf durch diesen Platzhalter.</small></aside>
 <section class="nd-bottom"><h2>Zur vollständigen Meldung</h2>%s<p>Es gelten die Bedingungen des Anbieters. finanz adjust ist nicht mit der Quelle verbunden.</p></section>
-</main>''' % (source_badge(item), e(item['title']), e(when), original, cards, '' if cards else '<a class="nd-textlink" href="/glossar/">Zum Börsen-Glossar von A bis Z →</a>', original)
+</main>''' % (source_badge(item), e(item['title']), e(when), leaving, original, cards, '' if cards else '<a class="nd-textlink" href="/glossar/">Zum Börsen-Glossar von A bis Z →</a>', original)
 
 
 def build_details(page, items, out=ROOT/'out'):

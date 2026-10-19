@@ -32,6 +32,18 @@ class DetailTests(unittest.TestCase):
         self.assertEqual(s.count('Original bei'),2)
         self.assertNotIn('<script',s)
         self.assertNotIn('<iframe',s)
+    def test_external_notice_without_permission_copy(self):
+        s=d.content(self.item(),[])
+        self.assertIn('nd-leaving',s)
+        self.assertIn('Beim Klick auf den Original-Link verlässt du finanz adjust',s)
+        self.assertIn('<strong>finanznachrichten.de</strong>',s)
+        self.assertIn('neuen Tab',s)
+        self.assertNotIn('Hier zeigen wir nur die Überschrift',s)
+        self.assertNotIn('Nutzungsfreigabe',s)
+        self.assertLess(s.index('nd-leaving'),s.index('class="nd-original"'))
+        self.assertEqual(s.count('nd-leaving'),1)
+        self.assertNotIn('DO NOT REPRINT',s)
+
     def test_ad_placeholder_only(self):
         s=d.content(self.item(),[])
         self.assertIn('Anzeige · Platzhalter',s)
@@ -58,6 +70,8 @@ class DetailTests(unittest.TestCase):
             self.assertIn('data-fa-consent-open',s)
             self.assertNotIn('NewsArticle',s)
             self.assertIn('nd-ad" hidden',s)
+            self.assertIn('nd-leaving',s)
+            self.assertNotIn('Nutzungsfreigabe',s)
             for f in ('sitemap.xml','news-sitemap.xml','feed.xml'):
                 self.assertNotIn(path,(root/f).read_text())
         archive=(root/'nachrichten/index.html').read_text()
