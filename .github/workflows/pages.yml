@@ -25,6 +25,7 @@ jobs:
         working-directory: site
         env:
           TWELVEDATA_API_KEY: ${{ secrets.TWELVEDATA_API_KEY }}
+          STOCK_QUOTES_ENABLED: "1"  # Owner requested API publication on 2026-10-19; see site/STOCKS.md
         run: |
           python3 data.py
           python3 build.py
