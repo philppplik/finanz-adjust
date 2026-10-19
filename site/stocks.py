@@ -50,6 +50,10 @@ def build_stock_pages(page, urls, articles, out, base):
         else:
             from stock_fallback import fallback
             body=body.replace('<div class="stock-columns">',fallback(s)+'<div class="stock-columns">')
+        try:
+            from market_visuals import stock_spark_panel
+            body=body.replace('<div class="stock-columns">',stock_spark_panel(s)+'<div class="stock-columns">',1)
+        except ImportError: pass
         if s.get('logo_credit'):
             body=body.replace('<div class="stock-columns">','<p class="stock-note">Logo: '+e(s['logo_credit'])+'. Nur redaktionelle Kennzeichnung, keine Partnerschaft. <a class="stock-source" href="'+e(s['logo_source'],quote=True)+'" target="_blank" rel="noopener noreferrer">Bildquelle und Nutzungsbedingungen</a></p><div class="stock-columns">')
         if s.get('isin_source'):
