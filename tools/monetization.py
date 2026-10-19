@@ -32,7 +32,7 @@ SITE = {'key': 'fa',
            'href="@@CTA@@">Kooperation per E-Mail anfragen</a><p class="@@p@@-muted">Unverbindlich an philipp.l.paulik@gmail.com. Kein Formular, keine automatische Buchung.</p>\n'
            '<div class="@@p@@-ad-grid">@@CARDS@@</div>\n'
            '<section class="@@p@@-commercial"><span class="@@p@@-label">Platzierungskonzept, keine aktive Anzeige</span><h2>Raum für einen passenden Hinweis.</h2><p>Geplant: ein abgetrennter Spot '
-           'nach dem redaktionellen Inhalt, höchstens eine direkte Kampagne pro Seite. Keine Pop-ups, keine Video-Autostarts, kein Sticky-Werbebanner über dem Text und nie innerhalb von '
+           'nach dem redaktionellen Inhalt, höchstens eine direkte Kampagne pro Seite. Keine Werbe-Pop-ups, keine Video-Autostarts, kein Sticky-Werbebanner über dem Text und nie innerhalb von '
            'Kurstabellen.</p><p>Solange kein geprüftes Angebot vorliegt, bleibt dieser Platz unsichtbar.</p></section>\n'
            '<h2>Finanzthemen brauchen mehr Sorgfalt</h2><p>Eine Anzeige ist keine Anlageberatung, keine Empfehlung der FA Redaktion und kein Kauf- oder Verkaufssignal. Wir sagen keine Rendite, keine '
            'Kursentwicklung und keine Sicherheit zu. Für Angebote zu Finanzprodukten (zum Beispiel Broker, Kryptowerte oder gehebelte Produkte) prüfen wir vor jeder Buchung, ob der Anbieter die '
