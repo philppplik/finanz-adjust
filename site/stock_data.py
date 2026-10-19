@@ -69,16 +69,21 @@ def refresh(stocks, cache_path, provider=None, now=None, ttl=10800, max_calls=16
         key=os.getenv('TWELVEDATA_API_KEY','').strip()
         if not key: return cache
         provider=TwelveData(key)
-    candidates=sorted(stocks,key=lambda s:cache.get(s['slug'],{}).get('fetched_at',0))
+    attempt_path=path.with_name('stock-quote-attempts.json')
+    try: attempts=json.loads(attempt_path.read_text())
+    except (OSError,ValueError): attempts={}
+    candidates=sorted([s for s in stocks if s.get('api_enabled', True)],key=lambda s:max(cache.get(s['slug'],{}).get('fetched_at',0),attempts.get(s['slug'],0)))
     calls=0
     for stock in candidates:
         old=cache.get(stock['slug'],{})
         if now-old.get('fetched_at',0)<ttl:continue
         if calls>=max_calls: break
         calls+=1
+        attempts[stock['slug']]=now
         result=provider.quote(stock)
         if result: cache[stock['slug']]=result
     path.parent.mkdir(parents=True,exist_ok=True)
+    attempt_path.write_text(json.dumps(attempts))
     tmp=path.with_suffix('.tmp');tmp.write_text(json.dumps(cache,ensure_ascii=False));tmp.replace(path)
     return cache
 

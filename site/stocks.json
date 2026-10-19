@@ -10,7 +10,10 @@
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
     "verified": "19.10.2026",
-    "isin": "US67066G1040"
+    "isin": "US67066G1040",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:NVDA"
   },
   {
     "slug": "apple",
@@ -23,7 +26,10 @@
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
     "verified": "19.10.2026",
-    "isin": "US0378331005"
+    "isin": "US0378331005",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AAPL"
   },
   {
     "slug": "googl",
@@ -35,7 +41,11 @@
       "Alphabet Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US02079K3059",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:GOOGL"
   },
   {
     "slug": "msft",
@@ -47,7 +57,11 @@
       "MICROSOFT CORP"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US5949181045",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MSFT"
   },
   {
     "slug": "amzn",
@@ -59,7 +73,11 @@
       "AMAZON COM INC"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US0231351067",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AMZN"
   },
   {
     "slug": "meta",
@@ -71,7 +89,11 @@
       "Meta Platforms, Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US30303M1027",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:META"
   },
   {
     "slug": "avgo",
@@ -83,7 +105,11 @@
       "Broadcom Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US11135F1012",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AVGO"
   },
   {
     "slug": "tsla",
@@ -95,7 +121,11 @@
       "Tesla, Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US88160R1014",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TSLA"
   },
   {
     "slug": "mu",
@@ -107,7 +137,11 @@
       "MICRON TECHNOLOGY INC"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US5951121038",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MU"
   },
   {
     "slug": "amd",
@@ -119,7 +153,11 @@
       "ADVANCED MICRO DEVICES INC"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US0079031078",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AMD"
   },
   {
     "slug": "wmt",
@@ -131,7 +169,11 @@
       "Walmart Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US9311421039",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:WMT"
   },
   {
     "slug": "jpm",
@@ -143,7 +185,9 @@
       "JPMORGAN CHASE & CO"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:JPM"
   },
   {
     "slug": "v",
@@ -155,7 +199,9 @@
       "VISA INC."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:V"
   },
   {
     "slug": "asml",
@@ -167,7 +213,9 @@
       "ASML HOLDING NV"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ASML"
   },
   {
     "slug": "intc",
@@ -179,7 +227,14 @@
       "INTEL CORP"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US4581401001",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:INTC",
+    "logo": "intel.png",
+    "logo_credit": "Intel Corporation",
+    "logo_source": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html"
   },
   {
     "slug": "pltr",
@@ -191,7 +246,11 @@
       "Palantir Technologies Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US69608A1088",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PLTR"
   },
   {
     "slug": "ko",
@@ -203,7 +262,11 @@
       "COCA COLA CO"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1912161007",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:KO"
   },
   {
     "slug": "orcl",
@@ -215,7 +278,9 @@
       "ORACLE CORP"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:ORCL"
   },
   {
     "slug": "nflx",
@@ -227,7 +292,11 @@
       "NETFLIX INC"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US64110L1061",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:NFLX"
   },
   {
     "slug": "baba",
@@ -239,7 +308,9 @@
       "Alibaba Group Holding Ltd"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:BABA"
   },
   {
     "slug": "crm",
@@ -251,7 +322,9 @@
       "Salesforce, Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:CRM"
   },
   {
     "slug": "dis",
@@ -263,7 +336,9 @@
       "Walt Disney Co"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:DIS"
   },
   {
     "slug": "pep",
@@ -275,7 +350,11 @@
       "PEPSICO INC"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US7134481081",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PEP"
   },
   {
     "slug": "nvo",
@@ -287,7 +366,9 @@
       "NOVO NORDISK A S"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:NVO"
   },
   {
     "slug": "adbe",
@@ -299,7 +380,11 @@
       "ADOBE INC."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US00724F1012",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ADBE"
   },
   {
     "slug": "mstr",
@@ -311,7 +396,11 @@
       "Strategy Inc"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "US5949724083",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MSTR"
   },
   {
     "slug": "pypl",
@@ -323,7 +412,9 @@
       "PayPal Holdings, Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PYPL"
   },
   {
     "slug": "coin",
@@ -335,7 +426,9 @@
       "Coinbase Global, Inc."
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:COIN"
   },
   {
     "slug": "bntx",
@@ -347,7 +440,9 @@
       "BioNTech SE"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:BNTX"
   },
   {
     "slug": "tsm",
@@ -359,7 +454,9 @@
       "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD"
     ],
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "tv_symbol": "NYSE:TSM"
   },
   {
     "slug": "sap",
@@ -372,7 +469,10 @@
     ],
     "source": "https://www.tradingview.com/symbols/XETR-SAP/",
     "verified": "19.10.2026",
-    "isin": "DE0007164600"
+    "isin": "DE0007164600",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:SAP"
   },
   {
     "slug": "rheinmetall",
@@ -384,7 +484,11 @@
       "Rheinmetall"
     ],
     "source": "https://www.tradingview.com/symbols/XETR-RHM/",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "DE0007030009",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:RHM"
   },
   {
     "slug": "allianz",
@@ -396,7 +500,11 @@
       "Allianz"
     ],
     "source": "https://www.tradingview.com/symbols/XETR-ALV/",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "DE0008404005",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:ALV"
   },
   {
     "slug": "siemens",
@@ -408,6 +516,2586 @@
       "Siemens"
     ],
     "source": "https://www.tradingview.com/symbols/XETR-SIE/",
-    "verified": "19.10.2026"
+    "verified": "19.10.2026",
+    "isin": "DE0007236101",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:SIE"
+  },
+  {
+    "slug": "csco",
+    "name": "Cisco Systems, Inc.",
+    "ticker": "CSCO",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "CISCO SYSTEMS, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US17275R1023",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CSCO"
+  },
+  {
+    "slug": "cost",
+    "name": "Costco Wholesale Corp /New",
+    "ticker": "COST",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "COSTCO WHOLESALE CORP /NEW"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US22160K1051",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:COST"
+  },
+  {
+    "slug": "lrcx",
+    "name": "Lam Research Corp",
+    "ticker": "LRCX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "LAM RESEARCH CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US5128073062",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:LRCX"
+  },
+  {
+    "slug": "amat",
+    "name": "Applied Materials Inc /De",
+    "ticker": "AMAT",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "APPLIED MATERIALS INC /DE"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0382221051",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AMAT"
+  },
+  {
+    "slug": "panw",
+    "name": "Palo Alto Networks Inc",
+    "ticker": "PANW",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Palo Alto Networks Inc"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US6974351057",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PANW"
+  },
+  {
+    "slug": "txn",
+    "name": "Texas Instruments Inc",
+    "ticker": "TXN",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "TEXAS INSTRUMENTS INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8825081040",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TXN"
+  },
+  {
+    "slug": "crwd",
+    "name": "Crowdstrike Holdings, Inc.",
+    "ticker": "CRWD",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "CrowdStrike Holdings, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US22788C1053",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CRWD"
+  },
+  {
+    "slug": "klac",
+    "name": "Kla Corp",
+    "ticker": "KLAC",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "KLA CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US4824801009",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:KLAC"
+  },
+  {
+    "slug": "amgn",
+    "name": "Amgen Inc",
+    "ticker": "AMGN",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "AMGEN INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0311621009",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AMGN"
+  },
+  {
+    "slug": "lin",
+    "name": "Linde Plc",
+    "ticker": "LIN",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "LINDE PLC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "IE000S9YS762",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:LIN"
+  },
+  {
+    "slug": "mrvl",
+    "name": "Marvell Technology, Inc.",
+    "ticker": "MRVL",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Marvell Technology, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US5738741041",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MRVL"
+  },
+  {
+    "slug": "shop",
+    "name": "Shopify Inc.",
+    "ticker": "SHOP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "SHOPIFY INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "CA82509L1076",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:SHOP"
+  },
+  {
+    "slug": "sndk",
+    "name": "Sandisk Corp",
+    "ticker": "SNDK",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Sandisk Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US80004C2008",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:SNDK"
+  },
+  {
+    "slug": "adi",
+    "name": "Analog Devices Inc",
+    "ticker": "ADI",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "ANALOG DEVICES INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0326541051",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ADI"
+  },
+  {
+    "slug": "gild",
+    "name": "Gilead Sciences, Inc.",
+    "ticker": "GILD",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "GILEAD SCIENCES, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US3755581036",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:GILD"
+  },
+  {
+    "slug": "tmus",
+    "name": "T-Mobile Us, Inc.",
+    "ticker": "TMUS",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "T-Mobile US, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8725901040",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TMUS"
+  },
+  {
+    "slug": "stx",
+    "name": "Seagate Technology Holdings Plc",
+    "ticker": "STX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Seagate Technology Holdings plc"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "IE00BKVD2N49",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:STX"
+  },
+  {
+    "slug": "isrg",
+    "name": "Intuitive Surgical Inc",
+    "ticker": "ISRG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "INTUITIVE SURGICAL INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US46120E6023",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ISRG"
+  },
+  {
+    "slug": "wdc",
+    "name": "Western Digital Corp",
+    "ticker": "WDC",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "WESTERN DIGITAL CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US9581021055",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:WDC"
+  },
+  {
+    "slug": "ftnt",
+    "name": "Fortinet, Inc.",
+    "ticker": "FTNT",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Fortinet, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US34959E1091",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:FTNT"
+  },
+  {
+    "slug": "vrtx",
+    "name": "Vertex Pharmaceuticals Inc / Ma",
+    "ticker": "VRTX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "VERTEX PHARMACEUTICALS INC / MA"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US92532F1003",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:VRTX"
+  },
+  {
+    "slug": "bkng",
+    "name": "Booking Holdings Inc.",
+    "ticker": "BKNG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Booking Holdings Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US09857L1089",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:BKNG"
+  },
+  {
+    "slug": "pdd",
+    "name": "Pdd Holdings Inc.",
+    "ticker": "PDD",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "PDD Holdings Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US7223041028",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PDD"
+  },
+  {
+    "slug": "adp",
+    "name": "Automatic Data Processing Inc",
+    "ticker": "ADP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "AUTOMATIC DATA PROCESSING INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0530151036",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ADP"
+  },
+  {
+    "slug": "sbux",
+    "name": "Starbucks Corp",
+    "ticker": "SBUX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "STARBUCKS CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8552441094",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:SBUX"
+  },
+  {
+    "slug": "abnb",
+    "name": "Airbnb, Inc.",
+    "ticker": "ABNB",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Airbnb, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0090661010",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ABNB"
+  },
+  {
+    "slug": "ceg",
+    "name": "Constellation Energy Corp",
+    "ticker": "CEG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Constellation Energy Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US21037T1097",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CEG"
+  },
+  {
+    "slug": "ddog",
+    "name": "Datadog, Inc.",
+    "ticker": "DDOG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Datadog, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US23804L1035",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:DDOG"
+  },
+  {
+    "slug": "mar",
+    "name": "Marriott International Inc /Md/",
+    "ticker": "MAR",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "MARRIOTT INTERNATIONAL INC /MD/"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US5719032022",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MAR"
+  },
+  {
+    "slug": "meli",
+    "name": "Mercadolibre Inc",
+    "ticker": "MELI",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "MERCADOLIBRE INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US58733R1023",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MELI"
+  },
+  {
+    "slug": "snps",
+    "name": "Synopsys Inc",
+    "ticker": "SNPS",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "SYNOPSYS INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8716071076",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:SNPS"
+  },
+  {
+    "slug": "mrna",
+    "name": "Moderna, Inc.",
+    "ticker": "MRNA",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Moderna, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US60770K1079",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MRNA"
+  },
+  {
+    "slug": "csx",
+    "name": "Csx Corp",
+    "ticker": "CSX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "CSX CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US1264081035",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CSX"
+  },
+  {
+    "slug": "app",
+    "name": "Applovin Corp",
+    "ticker": "APP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "AppLovin Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US03831W1080",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:APP"
+  },
+  {
+    "slug": "mnst",
+    "name": "Monster Beverage Corp",
+    "ticker": "MNST",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Monster Beverage Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US61174X1090",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MNST"
+  },
+  {
+    "slug": "ctas",
+    "name": "Cintas Corp",
+    "ticker": "CTAS",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "CINTAS CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US1729081059",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CTAS"
+  },
+  {
+    "slug": "intu",
+    "name": "Intuit Inc.",
+    "ticker": "INTU",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "INTUIT INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US4612021034",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:INTU"
+  },
+  {
+    "slug": "lite",
+    "name": "Lumentum Holdings Inc.",
+    "ticker": "LITE",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Lumentum Holdings Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US55024U1097",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:LITE"
+  },
+  {
+    "slug": "regn",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "ticker": "REGN",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "REGENERON PHARMACEUTICALS, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US75886F1075",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:REGN"
+  },
+  {
+    "slug": "mdlz",
+    "name": "Mondelez International, Inc.",
+    "ticker": "MDLZ",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Mondelez International, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US6092071058",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MDLZ"
+  },
+  {
+    "slug": "dash",
+    "name": "Doordash, Inc.",
+    "ticker": "DASH",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "DoorDash, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US25809K1051",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:DASH"
+  },
+  {
+    "slug": "cmcsa",
+    "name": "Comcast Corp",
+    "ticker": "CMCSA",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "COMCAST CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US20030N1019",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CMCSA"
+  },
+  {
+    "slug": "rost",
+    "name": "Ross Stores, Inc.",
+    "ticker": "ROST",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "ROSS STORES, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US7782961038",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ROST"
+  },
+  {
+    "slug": "orly",
+    "name": "O Reilly Automotive Inc",
+    "ticker": "ORLY",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "O REILLY AUTOMOTIVE INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US67103H1077",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ORLY"
+  },
+  {
+    "slug": "aep",
+    "name": "American Electric Power Co Inc",
+    "ticker": "AEP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "AMERICAN ELECTRIC POWER CO INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0255371017",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AEP"
+  },
+  {
+    "slug": "hon",
+    "name": "Honeywell International Inc",
+    "ticker": "HON",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "HONEYWELL INTERNATIONAL INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US4385162056",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:HON"
+  },
+  {
+    "slug": "mpwr",
+    "name": "Monolithic Power Systems, Inc.",
+    "ticker": "MPWR",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "MONOLITHIC POWER SYSTEMS, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US6098391054",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MPWR"
+  },
+  {
+    "slug": "fast",
+    "name": "Fastenal Co",
+    "ticker": "FAST",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "FASTENAL CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US3119001044",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:FAST"
+  },
+  {
+    "slug": "pcar",
+    "name": "Paccar Inc",
+    "ticker": "PCAR",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "PACCAR INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US6937181088",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PCAR"
+  },
+  {
+    "slug": "ter",
+    "name": "Teradyne, Inc",
+    "ticker": "TER",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "TERADYNE, INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8807701029",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TER"
+  },
+  {
+    "slug": "fang",
+    "name": "Diamondback Energy, Inc.",
+    "ticker": "FANG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Diamondback Energy, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US25278X1090",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:FANG"
+  },
+  {
+    "slug": "nxpi",
+    "name": "Nxp Semiconductors N.V.",
+    "ticker": "NXPI",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "NXP Semiconductors N.V."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "NL0009538784",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:NXPI"
+  },
+  {
+    "slug": "bkr",
+    "name": "Baker Hughes Co",
+    "ticker": "BKR",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Baker Hughes Co"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US05722G1004",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:BKR"
+  },
+  {
+    "slug": "alab",
+    "name": "Astera Labs, Inc.",
+    "ticker": "ALAB",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Astera Labs, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US04626A1034",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ALAB"
+  },
+  {
+    "slug": "hona",
+    "name": "Honeywell Aerospace Inc.",
+    "ticker": "HONA",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Honeywell Aerospace Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US43849R1059",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:HONA"
+  },
+  {
+    "slug": "adsk",
+    "name": "Autodesk, Inc.",
+    "ticker": "ADSK",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Autodesk, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US0527691069",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ADSK"
+  },
+  {
+    "slug": "xel",
+    "name": "Xcel Energy Inc",
+    "ticker": "XEL",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "XCEL ENERGY INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US98389B1008",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:XEL"
+  },
+  {
+    "slug": "ccep",
+    "name": "Coca-Cola Europacific Partners Plc",
+    "ticker": "CCEP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "COCA-COLA EUROPACIFIC PARTNERS plc"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "GB00BDCPN049",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CCEP"
+  },
+  {
+    "slug": "tri",
+    "name": "Thomson Reuters Corp /Can/",
+    "ticker": "TRI",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "THOMSON REUTERS CORP /CAN/"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "CA8849038812",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TRI"
+  },
+  {
+    "slug": "kdp",
+    "name": "Keurig Dr Pepper Inc.",
+    "ticker": "KDP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Keurig Dr Pepper Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US49271V1008",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:KDP"
+  },
+  {
+    "slug": "wday",
+    "name": "Workday, Inc.",
+    "ticker": "WDAY",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Workday, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US98138H1014",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:WDAY"
+  },
+  {
+    "slug": "exc",
+    "name": "Exelon Corp",
+    "ticker": "EXC",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "EXELON CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US30161N1019",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:EXC"
+  },
+  {
+    "slug": "idxx",
+    "name": "Idexx Laboratories Inc /De",
+    "ticker": "IDXX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "IDEXX LABORATORIES INC /DE"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US45168D1046",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:IDXX"
+  },
+  {
+    "slug": "mchp",
+    "name": "Microchip Technology Inc",
+    "ticker": "MCHP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "MICROCHIP TECHNOLOGY INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US5950171042",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:MCHP"
+  },
+  {
+    "slug": "payx",
+    "name": "Paychex Inc",
+    "ticker": "PAYX",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "PAYCHEX INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US7043261079",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:PAYX"
+  },
+  {
+    "slug": "odfl",
+    "name": "Old Dominion Freight Line, Inc.",
+    "ticker": "ODFL",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "OLD DOMINION FREIGHT LINE, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US6795801009",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ODFL"
+  },
+  {
+    "slug": "ttwo",
+    "name": "Take Two Interactive Software Inc",
+    "ticker": "TTWO",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "TAKE TWO INTERACTIVE SOFTWARE INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US8740541094",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:TTWO"
+  },
+  {
+    "slug": "rklb",
+    "name": "Rocket Lab Corp",
+    "ticker": "RKLB",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Rocket Lab Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US7731211089",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:RKLB"
+  },
+  {
+    "slug": "rop",
+    "name": "Roper Technologies Inc",
+    "ticker": "ROP",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "ROPER TECHNOLOGIES INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US7766961061",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ROP"
+  },
+  {
+    "slug": "crwv",
+    "name": "Coreweave, Inc.",
+    "ticker": "CRWV",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "CoreWeave, Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US21873S1087",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CRWV"
+  },
+  {
+    "slug": "axon",
+    "name": "Axon Enterprise, Inc.",
+    "ticker": "AXON",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "AXON ENTERPRISE, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US05464C1018",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:AXON"
+  },
+  {
+    "slug": "dxcm",
+    "name": "Dexcom Inc",
+    "ticker": "DXCM",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "DEXCOM INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US2521311074",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:DXCM"
+  },
+  {
+    "slug": "gehc",
+    "name": "Ge Healthcare Technologies Inc.",
+    "ticker": "GEHC",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "GE HealthCare Technologies Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US36266G1076",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:GEHC"
+  },
+  {
+    "slug": "alny",
+    "name": "Alnylam Pharmaceuticals, Inc.",
+    "ticker": "ALNY",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "ALNYLAM PHARMACEUTICALS, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US02043Q1076",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:ALNY"
+  },
+  {
+    "slug": "cprt",
+    "name": "Copart Inc",
+    "ticker": "CPRT",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "COPART INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US2172041061",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:CPRT"
+  },
+  {
+    "slug": "goog",
+    "name": "Alphabet Inc.",
+    "ticker": "GOOG",
+    "exchange": "Nasdaq",
+    "currency": "USD",
+    "aliases": [
+      "Alphabet Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "isin": "US02079K1079",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
+    "api_enabled": true,
+    "tv_symbol": "NASDAQ:GOOG"
+  },
+  {
+    "slug": "adidas",
+    "name": "Adidas",
+    "ticker": "ADS",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "ADIDAS AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A1EWWW0",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:ADS"
+  },
+  {
+    "slug": "basf",
+    "name": "BASF",
+    "ticker": "BAS",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BASF SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000BASF111",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BAS"
+  },
+  {
+    "slug": "bayer",
+    "name": "Bayer",
+    "ticker": "BAYN",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BAYER AG-REG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000BAY0017",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BAYN"
+  },
+  {
+    "slug": "beiersdorf",
+    "name": "Beiersdorf",
+    "ticker": "BEI",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BEIERSDORF AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005200000",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BEI"
+  },
+  {
+    "slug": "brenntag",
+    "name": "Brenntag",
+    "ticker": "BNR",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BRENNTAG SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A1DAHH0",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BNR"
+  },
+  {
+    "slug": "commerzbank",
+    "name": "Commerzbank",
+    "ticker": "CBK",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "COMMERZBANK AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000CBK1001",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:CBK"
+  },
+  {
+    "slug": "continental",
+    "name": "Continental",
+    "ticker": "CON",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "CONTINENTAL AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005439004",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:CON"
+  },
+  {
+    "slug": "daimler-truck",
+    "name": "Daimler Truck",
+    "ticker": "DTG",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DAIMLER TRUCK HOLDING AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000DTR0CK8",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:DTG"
+  },
+  {
+    "slug": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "ticker": "DBK",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DEUTSCHE BANK AG-REGISTERED"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005140008",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:DBK"
+  },
+  {
+    "slug": "deutsche-borse",
+    "name": "Deutsche Börse",
+    "ticker": "DB1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DEUTSCHE BOERSE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005810055",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:DB1"
+  },
+  {
+    "slug": "deutsche-telekom",
+    "name": "Deutsche Telekom",
+    "ticker": "DTE",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DEUTSCHE TELEKOM AG-REG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005557508",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:DTE"
+  },
+  {
+    "slug": "e-on",
+    "name": "E.ON",
+    "ticker": "EOAN",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "E.ON SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000ENAG999",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:EOAN"
+  },
+  {
+    "slug": "fresenius-medical-care",
+    "name": "Fresenius Medical Care",
+    "ticker": "FME",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "FRESENIUS MEDICAL CARE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005785802",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:FME"
+  },
+  {
+    "slug": "gea-group",
+    "name": "GEA Group",
+    "ticker": "G1A",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "GEA GROUP AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006602006",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:G1A"
+  },
+  {
+    "slug": "hannover-re",
+    "name": "Hannover Re",
+    "ticker": "HNR1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "HANNOVER RUECK SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0008402215",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:HNR1"
+  },
+  {
+    "slug": "heidelberg-materials",
+    "name": "Heidelberg Materials",
+    "ticker": "HEI",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "HEIDELBERG MATERIALS AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006047004",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:HEI"
+  },
+  {
+    "slug": "infineon-technologies",
+    "name": "Infineon Technologies",
+    "ticker": "IFX",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "INFINEON TECHNOLOGIES AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006231004",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:IFX"
+  },
+  {
+    "slug": "mercedes-benz-group",
+    "name": "Mercedes-Benz Group",
+    "ticker": "MBG",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "MERCEDES-BENZ GROUP AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0007100000",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:MBG"
+  },
+  {
+    "slug": "mtu-aero-engines",
+    "name": "MTU Aero Engines",
+    "ticker": "MTX",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "MTU AERO ENGINES AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A0D9PT0",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:MTX"
+  },
+  {
+    "slug": "qiagen",
+    "name": "Qiagen",
+    "ticker": "QIA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "QIAGEN N.V."
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "NL0015002SN0",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:QIA"
+  },
+  {
+    "slug": "rwe",
+    "name": "RWE",
+    "ticker": "RWE",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "RWE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0007037129",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:RWE"
+  },
+  {
+    "slug": "scout24",
+    "name": "Scout24",
+    "ticker": "G24",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "SCOUT24 SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A12DM80",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:G24"
+  },
+  {
+    "slug": "siemens-energy",
+    "name": "Siemens Energy",
+    "ticker": "ENR",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "SIEMENS ENERGY AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000ENER6Y0",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:ENR"
+  },
+  {
+    "slug": "siemens-healthineers",
+    "name": "Siemens Healthineers",
+    "ticker": "SHL",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "SIEMENS HEALTHINEERS AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000SHL1006",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:SHL"
+  },
+  {
+    "slug": "symrise",
+    "name": "Symrise",
+    "ticker": "SY1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "SYMRISE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000SYM9999",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:SY1"
+  },
+  {
+    "slug": "volkswagen-group",
+    "name": "Volkswagen Group",
+    "ticker": "VOW3",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "VOLKSWAGEN AG-PREF"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0007664039",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:VOW3"
+  },
+  {
+    "slug": "vonovia",
+    "name": "Vonovia",
+    "ticker": "VNA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "VONOVIA SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A1ML7J1",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:VNA"
+  },
+  {
+    "slug": "zalando",
+    "name": "Zalando",
+    "ticker": "ZAL",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "ZALANDO SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE000ZAL1111",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:ZAL"
+  },
+  {
+    "slug": "aixtron",
+    "name": "Aixtron",
+    "ticker": "AIXA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "AIXTRON SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A0WMPJ6",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:AIXA"
+  },
+  {
+    "slug": "aroundtown",
+    "name": "Aroundtown",
+    "ticker": "AT1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "AROUNDTOWN SA"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "LU1673108939",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:AT1"
+  },
+  {
+    "slug": "aurubis",
+    "name": "Aurubis",
+    "ticker": "NDA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "AURUBIS AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006766504",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:NDA"
+  },
+  {
+    "slug": "bechtle",
+    "name": "Bechtle",
+    "ticker": "BC8",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BECHTLE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005158703",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BC8"
+  },
+  {
+    "slug": "bilfinger",
+    "name": "Bilfinger",
+    "ticker": "GBF",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BILFINGER SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005909006",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:GBF"
+  },
+  {
+    "slug": "cts-eventim",
+    "name": "CTS Eventim",
+    "ticker": "EVD",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "CTS EVENTIM AG + CO KGAA"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005470306",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:EVD"
+  },
+  {
+    "slug": "delivery-hero",
+    "name": "Delivery Hero",
+    "ticker": "DHER",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DELIVERY HERO SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A2E4K43",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:DHER"
+  },
+  {
+    "slug": "lufthansa",
+    "name": "Lufthansa",
+    "ticker": "LHA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "DEUTSCHE LUFTHANSA-REG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0008232125",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:LHA"
+  },
+  {
+    "slug": "freenet",
+    "name": "Freenet",
+    "ticker": "FNTN",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "FREENET AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A0Z2ZZ5",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:FNTN"
+  },
+  {
+    "slug": "hensoldt",
+    "name": "Hensoldt",
+    "ticker": "HAG",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "HENSOLDT AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000HAG0005",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:HAG"
+  },
+  {
+    "slug": "hochtief",
+    "name": "Hochtief",
+    "ticker": "HOT",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "HOCHTIEF AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/DAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006070006",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:HOT"
+  },
+  {
+    "slug": "jenoptik",
+    "name": "Jenoptik",
+    "ticker": "JEN",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "JENOPTIK AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A2NB601",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:JEN"
+  },
+  {
+    "slug": "k-s",
+    "name": "K+S",
+    "ticker": "SDF",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "K+S AG-REG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000KSAG888",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:SDF"
+  },
+  {
+    "slug": "kion-group",
+    "name": "KION Group",
+    "ticker": "KGX",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "KION GROUP AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000KGX8881",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:KGX"
+  },
+  {
+    "slug": "knorr-bremse",
+    "name": "Knorr-Bremse",
+    "ticker": "KBX",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "KNORR-BREMSE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000KBX1006",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:KBX"
+  },
+  {
+    "slug": "krones",
+    "name": "Krones",
+    "ticker": "KRN",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "KRONES AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006335003",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:KRN"
+  },
+  {
+    "slug": "lanxess",
+    "name": "Lanxess",
+    "ticker": "LXS",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "LANXESS AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005470405",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:LXS"
+  },
+  {
+    "slug": "leg-immobilien",
+    "name": "LEG Immobilien",
+    "ticker": "LEG",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "LEG IMMOBILIEN SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000LEG1110",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:LEG"
+  },
+  {
+    "slug": "nemetschek",
+    "name": "Nemetschek",
+    "ticker": "NEM",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "NEMETSCHEK AKT"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006452907",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:NEM"
+  },
+  {
+    "slug": "nordex",
+    "name": "Nordex",
+    "ticker": "NDX1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "NORDEX SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000A0D6554",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:NDX1"
+  },
+  {
+    "slug": "puma",
+    "name": "Puma",
+    "ticker": "PUM",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "PUMA SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0006969603",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:PUM"
+  },
+  {
+    "slug": "rational",
+    "name": "Rational",
+    "ticker": "RAA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "RATIONAL AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0007010803",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:RAA"
+  },
+  {
+    "slug": "rtl-group",
+    "name": "RTL Group",
+    "ticker": "RRTL",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "RTL GROUP"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "LU0061462528",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:RRTL"
+  },
+  {
+    "slug": "siltronic",
+    "name": "Siltronic",
+    "ticker": "WAF",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "SILTRONIC AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000WAF3001",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:WAF"
+  },
+  {
+    "slug": "talanx",
+    "name": "Talanx",
+    "ticker": "TLX",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "TALANX AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000TLX1005",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:TLX"
+  },
+  {
+    "slug": "thyssenkrupp",
+    "name": "ThyssenKrupp",
+    "ticker": "TKA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "THYSSENKRUPP AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0007500001",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:TKA"
+  },
+  {
+    "slug": "traton",
+    "name": "Traton",
+    "ticker": "8TRA",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "TRATON SE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000TRAT0N7",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:8TRA"
+  },
+  {
+    "slug": "tui",
+    "name": "TUI",
+    "ticker": "TUI1",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "TUI AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000TUAG505",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:TUI1"
+  },
+  {
+    "slug": "united-internet",
+    "name": "United Internet",
+    "ticker": "UTDI",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "UNITED INTERNET AG-REG SHARE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE0005089031",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:UTDI"
+  },
+  {
+    "slug": "wacker-chemie",
+    "name": "Wacker Chemie",
+    "ticker": "WCH",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "WACKER CHEMIE AG"
+    ],
+    "source": "https://en.wikipedia.org/wiki/MDAX",
+    "verified": "19.10.2026",
+    "isin": "DE000WCH8881",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
+    "api_enabled": false,
+    "tv_symbol": "XETR:WCH"
+  },
+  {
+    "slug": "abbv",
+    "name": "AbbVie",
+    "ticker": "ABBV",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "AbbVie Inc."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US00287Y1091",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:ABBV"
+  },
+  {
+    "slug": "abt",
+    "name": "Abbott Laboratories",
+    "ticker": "ABT",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "ABBOTT LABORATORIES"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US0028241000",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:ABT"
+  },
+  {
+    "slug": "acn",
+    "name": "Accenture",
+    "ticker": "ACN",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "Accenture plc"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "IE00B4BNMY34",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:ACN"
+  },
+  {
+    "slug": "axp",
+    "name": "American Express",
+    "ticker": "AXP",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "AMERICAN EXPRESS CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US0258161092",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:AXP"
+  },
+  {
+    "slug": "ba",
+    "name": "Boeing",
+    "ticker": "BA",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "BOEING CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US0970231058",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:BA"
+  },
+  {
+    "slug": "bac",
+    "name": "Bank of America",
+    "ticker": "BAC",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "BANK OF AMERICA CORP /DE/"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US0605051046",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:BAC"
+  },
+  {
+    "slug": "bmy",
+    "name": "Bristol Myers Squibb",
+    "ticker": "BMY",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "BRISTOL MYERS SQUIBB CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1101221083",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:BMY"
+  },
+  {
+    "slug": "brk-b",
+    "name": "Berkshire Hathaway (Class B)",
+    "ticker": "BRK-B",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "BERKSHIRE HATHAWAY INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US0846707026",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:BRK.B"
+  },
+  {
+    "slug": "c",
+    "name": "Citigroup",
+    "ticker": "C",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "CITIGROUP INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1729674242",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:C"
+  },
+  {
+    "slug": "cat",
+    "name": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "CATERPILLAR INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1491231015",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:CAT"
+  },
+  {
+    "slug": "cop",
+    "name": "ConocoPhillips",
+    "ticker": "COP",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "CONOCOPHILLIPS"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US20825C1045",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:COP"
+  },
+  {
+    "slug": "cvs",
+    "name": "CVS Health",
+    "ticker": "CVS",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "CVS HEALTH Corp"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1266501006",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:CVS"
+  },
+  {
+    "slug": "cvx",
+    "name": "Chevron Corporation",
+    "ticker": "CVX",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "CHEVRON CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US1667641005",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:CVX"
+  },
+  {
+    "slug": "emr",
+    "name": "Emerson Electric",
+    "ticker": "EMR",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "EMERSON ELECTRIC CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US2910111044",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:EMR"
+  },
+  {
+    "slug": "fdx",
+    "name": "FedEx",
+    "ticker": "FDX",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "FEDEX CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US31428X1063",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:FDX"
+  },
+  {
+    "slug": "gd",
+    "name": "General Dynamics",
+    "ticker": "GD",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "GENERAL DYNAMICS CORP"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US3695501086",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:GD"
+  },
+  {
+    "slug": "gm",
+    "name": "General Motors",
+    "ticker": "GM",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "General Motors Co"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US37045V1008",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:GM"
+  },
+  {
+    "slug": "gs",
+    "name": "Goldman Sachs",
+    "ticker": "GS",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "GOLDMAN SACHS GROUP INC"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US38141G1040",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:GS"
+  },
+  {
+    "slug": "hd",
+    "name": "Home Depot",
+    "ticker": "HD",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "HOME DEPOT, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US4370761029",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:HD"
+  },
+  {
+    "slug": "mmm",
+    "name": "3M",
+    "ticker": "MMM",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "3M CO"
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US88579Y1010",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:MMM"
+  },
+  {
+    "slug": "mo",
+    "name": "Altria",
+    "ticker": "MO",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "ALTRIA GROUP, INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US02209S1033",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:MO"
+  },
+  {
+    "slug": "t",
+    "name": "AT&T",
+    "ticker": "T",
+    "exchange": "NYSE",
+    "currency": "USD",
+    "aliases": [
+      "AT&T INC."
+    ],
+    "source": "https://www.sec.gov/files/company_tickers_exchange.json",
+    "verified": "19.10.2026",
+    "api_enabled": true,
+    "isin": "US00206R1023",
+    "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
+    "tv_symbol": "NYSE:T"
+  },
+  {
+    "slug": "bmw-xetra",
+    "name": "BMW",
+    "ticker": "BMW",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "BMW"
+    ],
+    "isin": "DE0005190003",
+    "source": "https://www.tradingview.com/symbols/XETR-BMW/",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "verified": "19.10.2026",
+    "api_enabled": false,
+    "tv_symbol": "XETR:BMW"
+  },
+  {
+    "slug": "fre-xetra",
+    "name": "Fresenius",
+    "ticker": "FRE",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "Fresenius"
+    ],
+    "isin": "DE000FRE5EN2",
+    "source": "https://www.tradingview.com/symbols/XETR-FRE/",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "verified": "19.10.2026",
+    "api_enabled": false,
+    "tv_symbol": "XETR:FRE"
+  },
+  {
+    "slug": "mrk-xetra",
+    "name": "Merck KGaA",
+    "ticker": "MRK",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "Merck KGaA"
+    ],
+    "isin": "DE0006599905",
+    "source": "https://www.tradingview.com/symbols/XETR-MRK/",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "verified": "19.10.2026",
+    "api_enabled": false,
+    "tv_symbol": "XETR:MRK"
+  },
+  {
+    "slug": "hen3-xetra",
+    "name": "Henkel Vorzugsaktie",
+    "ticker": "HEN3",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "Henkel Vorzugsaktie"
+    ],
+    "isin": "DE0006048432",
+    "source": "https://www.tradingview.com/symbols/XETR-HEN3/",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "verified": "19.10.2026",
+    "api_enabled": false,
+    "tv_symbol": "XETR:HEN3"
+  },
+  {
+    "slug": "pah3-xetra",
+    "name": "Porsche Automobil Holding Vorzugsaktie",
+    "ticker": "PAH3",
+    "exchange": "Xetra",
+    "currency": "EUR",
+    "aliases": [
+      "Porsche Automobil Holding Vorzugsaktie"
+    ],
+    "isin": "DE000PAH0038",
+    "source": "https://www.tradingview.com/symbols/XETR-PAH3/",
+    "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
+    "verified": "19.10.2026",
+    "api_enabled": false,
+    "tv_symbol": "XETR:PAH3"
   }
 ]

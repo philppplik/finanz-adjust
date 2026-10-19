@@ -34,3 +34,33 @@ Cache: `data/stock-quotes.json`, drei Stunden TTL, maximal 16 neue Einzelabfrage
 US-Ticker und Handelsplätze: https://www.sec.gov/files/company_tickers_exchange.json (Abruf 19.10.2026). Slug/Anzeigename sind lokale Navigationslabels. ADR/US-Notierungen werden ausdrücklich benannt. Deutsche Titel: verlinkte TradingView-Symbolseiten, einzelne ISINs zusätzlich durch Börse Frankfurt/Finanztrends geprüft. `stocks.json` enthält je Eintrag Quelle und Prüfdatum. ISINs werden nicht geraten. Startumfang 34 Titel, keine Zusage einer weltweiten Suche.
 
 Prüfen: `cd site && python3 -m unittest test_stocks.py` und `python3 build.py`. Anschließend HTML, Sitemap, Suche (inklusive leerer Trefferliste), Tastatur und mobile Ansicht prüfen. Keine erfolgreichen Live-API-Preise behaupten, bevor ein Test mit dem echten API-Key erfolgreich war. Der lokale Workspace hat keinen API-Key; der erste echte Abruf muss im Actions-Build geprüft werden.
+
+## Ausbau 19.10.2026: Verzeichnis, Unternehmensdaten, Fallback
+
+195 Notierungen (statt 34), davon 183 mit aus Quellen gelesener ISIN. Keine Aussage, dass DAX/MDAX/Nasdaq/S&P heute vollständig abgebildet sind: historische Indexlisten dienen nur der Stammdaten-Kreuzprüfung. Deka ETF-Portfolios (13./16.10.2026) liefern aktuelle Wertpapier-Identitäten; SEC liefert die US-Notierung. Kein Fuzzy-Matching zur Laufzeit. Der kuratierte Katalog enthält nur geprüfte Crosswalk-Ergebnisse, keine alternativen Vorzugs-/Schuld-/Optionswerte aus ähnlichen Emittentennamen. Fehlende ISINs bleiben leer.
+
+Quellen:
+- https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF
+- https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data
+- https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data
+- https://www.deka-etf.de/etfs/Deka-EURO-STOXX-50-UCITS-ETF/composition_data
+- https://markets.businessinsider.com/index/market-capitalization/s&p_100
+- https://en.wikipedia.org/wiki/DAX und https://en.wikipedia.org/wiki/MDAX (historische Ticker-Kreuzprüfung, KEINE aktuelle Mitgliedschaftszusage)
+
+API-Rotation: nur US-Titel sind für den Gratis-API-Abruf eingeplant. Europäische Titel nutzen bei fehlendem Kurs den freiwilligen Widget-Fallback. Erfolgreiche Kurse und fehlgeschlagene Abrufversuche haben getrennte Zeitstempel; Ausfälle blockieren deshalb nicht dauerhaft die übrigen Titel. Bei 16 neuen Abfragen/Build und sechs geplanten Builds/Tag sind es weiterhin höchstens 96 neue Quote-Credits/Tag. Größeres Verzeichnis bedeutet nicht Echtzeitkurse für alle Titel; komplette Rotation braucht mehrere Builds/Tage. Zusätzliche manuelle Builds verbrauchen zusätzliche Credits, ebenso die bisherige Marktübersicht.
+
+TradingView: vom Eigentümer am 19.10.2026 ausdrücklich als API-Fallback gewünscht. Offizielles Symbol-Info-Widget, ausschließlich bei fehlendem gültigen API-Kurs, exchange-qualifiziert. KEIN Netzwerkaufruf, Skript, iframe, Prefetch oder gespeicherte Einwilligung vor Klick. Der Klick nennt die übertragenen Daten (IP, Seitenadresse, Symbol, Widgettyp). Laut Anbieter keine Cookies: https://www.tradingview.com/widget-docs/faq/general/ . Datenschutz ist entsprechend angepasst. Widgetfläche reserviert 352px und verhindert dadurch nachträgliche Layoutverschiebung. Branding/Attribution bleiben sichtbar. Xetra wird vom Anbieter mit EOD-Daten geführt; manche Symbole sind nur auf TradingView selbst verfügbar. Ein Widget ist keine Garantie für Datenabdeckung.
+- https://www.tradingview.com/widget-docs/widgets/symbol-details/symbol-info/
+- https://www.tradingview.com/widget-docs/markets/europe/
+- https://www.tradingview.com/widget-docs/faq/data/
+- https://www.tradingview.com/policies/
+
+Unternehmensdaten: zwölf US-Starttitel enthalten lokal gespeicherte SEC-Registerfakten (Legalname, SIC/Branche) mit einzelnem Quelllink und Abrufdatum. Keine vollständigen Wikipedia-Texte kopiert, keine ungeprüften KGV/Dividenden oder vermischten XBRL-Perioden. Die SEC-API ist kostenlos und ohne Schlüssel; Entwicklungshinweise: https://www.sec.gov/search-filings/edgar-application-programming-interfaces . Keine neuen Browseranfragen an die SEC.
+
+Mehr freie Daten: Wikidata ist für strukturierte Profile attraktiv (CC0; https://www.wikidata.org/wiki/Wikidata:Licensing). SEC Company Facts liefert kostenlose Fundamentaldaten, die aber Perioden/Einheiten/Restatements korrekt unterscheiden müssen. Nicht in diesem Patch als KGV o.ä. versprochen. Wikipedia-Text erfordert passende Lizenz/Attribution, Commons-Bilder individuelle Rechteprüfung.
+
+Logos: Iconify-Frameworklizenz gilt nicht pauschal für seine Icons. Simple Icons erklärt selbst, dass CC0 für das Projekt nicht alle enthaltenen Marken freigibt; individuelle Rechte/Markenrichtlinien prüfen: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/DISCLAIMER.md . Keine pauschale Übernahme oder Hotlink-Logo-API eingebaut; aktuelle Monogramme bleiben bis zur Einzelprüfung. Empfohlen: kleine geprüfte lokale SVG-Auswahl, Marken nur zur redaktionellen Identifikation, Quellen/Lizenz/Markenhinweise dokumentiert, keine neue Paketabhängigkeit nötig.
+
+On demand: Die Suche fügt keine Aktien hinzu. GitHub Pages nimmt keine sicheren serverseitigen Besucheranfragen an. Keine API-Keys oder GitHub-Tokens in JS. Ohne neuen Dienst kann ein geplanter Build einen verifizierten Symbolkatalog erweitern, aber nicht Besucherwünsche speichern. Echter Besucher-Request -> Warteschlange -> geprüfter Build verlangt ein Backend/Edge-Endpunkt mit Rate-Limit/Missbrauchsschutz und Eigentümerfreigabe für diesen neuen Dienst. Noch nicht implementiert.
+
+Ein erstes Unternehmenslogo ist umgesetzt: Intel, lokal aus dem offiziellen Pressepaket, nur zur redaktionellen Identifikation mit sichtbarem Copyright-Credit Intel Corporation. Intels eigene Presse-Seite erlaubt ausdrücklich redaktionelle Online-Nutzung; siehe `logos/SOURCES.md`. Keine pauschale Markennutzungsfreigabe für andere Unternehmen behauptet.

@@ -48,7 +48,27 @@ class StocksTest(unittest.TestCase):
             self.assertEqual(pvd.calls,3)
     def test_article_boundaries(self):
         self.assertEqual(len(related(self.s,[{'title':'Apple Aktie'},{'title':'Pineapple test'}])),1)
+    def test_widget_consent_and_mapping(self):
+        from stock_fallback import fallback
+        html=fallback({**self.s,'tv_symbol':'NASDAQ:AAPL'})
+        self.assertIn('data-tv-load',html)
+        self.assertNotIn('<iframe',html)
+        self.assertNotIn('s3.tradingview.com',html)
+        self.assertEqual(fallback({**self.s,'tv_symbol':'bad<script>'}),'')
+    def test_failed_attempt_rotation(self):
+        class Provider:
+            symbols=[]
+            def quote(self,s):self.symbols.append(s['slug']);return None
+        pvd=Provider()
+        with tempfile.TemporaryDirectory() as d, patch.dict(os.environ,{'STOCK_QUOTES_ENABLED':'1'}):
+            stocks=[{**self.s,'slug':str(n)} for n in range(4)]
+            path=Path(d)/'quotes.json'
+            refresh(stocks,path,pvd,now=100000,max_calls=2)
+            refresh(stocks,path,pvd,now=100001,max_calls=2)
+            self.assertEqual(pvd.symbols,['0','1','2','3'])
     def test_catalogue(self):
-        rows=json.loads(Path('stocks.json').read_text());self.assertEqual(len(rows),34)
+        rows=json.loads(Path('stocks.json').read_text());self.assertGreaterEqual(len(rows),190)
         self.assertEqual(len({r['slug'] for r in rows}),len(rows))
+        self.assertEqual(len({(r['ticker'],r['exchange']) for r in rows}),len(rows))
+        self.assertTrue(all(r.get('tv_symbol') for r in rows))
 if __name__=='__main__':unittest.main()

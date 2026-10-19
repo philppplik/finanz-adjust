@@ -24,3 +24,5 @@ html:not([data-theme=dark]) .stock-facts>div{border-color:#e5e5e5}
 html:not([data-theme=dark]) #stock-empty{border-color:#9aa1ad}
 /* Layout-Fix: Kursfelder umbrechen statt Zahlen zeichenweise zu brechen */
 .stock-quote dl{flex-wrap:wrap}.stock-quote dl>*{min-width:0}.stock-wrap dd{white-space:nowrap}
+html:not([data-theme=dark]) .stock-tv button{background:#1c66cb}
+html:not([data-theme=dark]) .stock-tv .blue-text{color:#1c66cb}
