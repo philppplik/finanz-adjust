@@ -1,0 +1,26 @@
+/* Hell-Design (Standard). Dunkel = html[data-theme=dark], dann gelten die Originalfarben aus stocks.css. */
+html:not([data-theme=dark]) .stock-wrap{color:#333}
+html:not([data-theme=dark]) .stock-wrap h1,html:not([data-theme=dark]) .stock-wrap h2,html:not([data-theme=dark]) .stock-card strong{color:#111827}
+html:not([data-theme=dark]) .stock-wrap p{color:#4b5260}
+html:not([data-theme=dark]) .stock-kicker{color:#1c66cb!important}
+html:not([data-theme=dark]) .stock-search input{background:#fff;color:#111827;border-color:#9aa1ad}
+html:not([data-theme=dark]) .stock-search input::placeholder{color:#6b6f76}
+html:not([data-theme=dark]) .stock-search button{background:#1c66cb}
+html:not([data-theme=dark]) .stock-wrap :focus-visible{outline-color:#1c66cb}
+html:not([data-theme=dark]) .stock-note,html:not([data-theme=dark]) .stock-heading span{color:#5b616b!important}
+html:not([data-theme=dark]) .stock-card{background:#fff;border-color:#e5e5e5;box-shadow:0 1px 2px rgba(16,24,40,.06)}
+html:not([data-theme=dark]) .stock-card:hover{background:#f7faff;border-color:#1c66cb}
+html:not([data-theme=dark]) .stock-card small{color:#5b616b}
+html:not([data-theme=dark]) .stock-monogram{background:#e6f0fc;color:#1c66cb}
+html:not([data-theme=dark]) .stock-info,html:not([data-theme=dark]) .stock-panel{background:#fff;border-color:#e5e5e5;box-shadow:0 1px 2px rgba(16,24,40,.06)}
+html:not([data-theme=dark]) .stock-info a,html:not([data-theme=dark]) .stock-source,html:not([data-theme=dark]) .stock-news a,html:not([data-theme=dark]) .stock-back a{color:#1c66cb}
+html:not([data-theme=dark]) .stock-tag{background:#e6f0fc;color:#1556ad;border-color:#bcd5f5}
+html:not([data-theme=dark]) .stock-tabs{border-color:#e5e5e5}
+html:not([data-theme=dark]) .stock-tabs a{color:#1c66cb}
+html:not([data-theme=dark]) .stock-quote{background:linear-gradient(120deg,#fff,#eef5fd);border-color:#cfe0f5;box-shadow:0 1px 2px rgba(16,24,40,.06)}
+html:not([data-theme=dark]) .stock-wrap dt{color:#5b616b}
+html:not([data-theme=dark]) .stock-wrap dd{color:#111827}
+html:not([data-theme=dark]) .stock-facts>div{border-color:#e5e5e5}
+html:not([data-theme=dark]) #stock-empty{border-color:#9aa1ad}
+/* Layout-Fix: Kursfelder umbrechen statt Zahlen zeichenweise zu brechen */
+.stock-quote dl{flex-wrap:wrap}.stock-quote dl>*{min-width:0}.stock-wrap dd{white-space:nowrap}
