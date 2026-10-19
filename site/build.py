@@ -238,3 +238,7 @@ items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><descriptio
 open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
 json.dump(Q,open(OUT+'/quotes.json','w'))
 print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx))
+
+# Final isolated pass: advertising, consent and activation gates (no third-party code by default).
+import sys
+subprocess.check_call([sys.executable,'../tools/monetization.py',OUT])
