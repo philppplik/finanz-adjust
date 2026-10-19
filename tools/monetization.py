@@ -67,9 +67,9 @@ SITE = {'key': 'fa',
             'und <a href="/cookies/">Cookies &amp; Einstellungen</a>.</p>',
  'cookies': '<h1>Cookies &amp; Einstellungen</h1><p>Statistik- und Werbedienste sind derzeit ausgeschaltet. Ohne Einwilligung werden sie nicht geladen. Sie können die Datenschutzeinstellungen '
             'jederzeit über die gleichnamige Schaltfläche im Footer öffnen, Ihre Auswahl ändern oder eine Einwilligung zurücknehmen. Ablehnen schränkt die Nutzung der Seite nicht ein.</p>\n'
-            '<h2>Gespeicherte Auswahl</h2><p>Wir speichern Ihre Datenschutzauswahl im lokalen Speicher Ihres Browsers unter <strong>fa-consent-v1</strong>. Der Eintrag enthält die gewählten '
+            '<h2>Gespeicherte Auswahl</h2><p>Wir speichern Ihre Datenschutzauswahl im lokalen Speicher Ihres Browsers (Eintrag <strong>fa-consent-v1</strong>) und zusätzlich in einem technisch notwendigen First-Party-Cookie <strong>fa_consent_v1</strong> (Pfad /, 180 Tage, SameSite=Lax, erst nach Ihrem Klick gesetzt). Der Eintrag enthält die gewählten '
             'Kategorien, die Version des Hinweises und den Zeitpunkt der Auswahl. Er wird nicht an einen Statistik- oder Werbedienst übertragen. Nach spätestens 180 Tagen oder bei einer neuen '
-            'Version fragen wir erneut. Ist der lokale Speicher gesperrt, gilt Ihre Auswahl nur für den aktuellen Seitenaufruf.</p><p>Diese Speicherung dient ausschließlich dazu, Ihre ausdrücklich '
+            'Version fragen wir erneut. Sind lokaler Speicher und Cookies gesperrt, gilt Ihre Auswahl nur für den aktuellen Seitenaufruf.</p><p>Diese Speicherung dient ausschließlich dazu, Ihre ausdrücklich '
             'gewählte Datenschutzeinstellung zu beachten. Rechtsgrundlagen: § 25 Abs. 2 Nr. 2 TDDDG und Art. 6 Abs. 1 lit. f DSGVO. Keine nutzerübergreifende Kennung und kein Tracking-Profil. Sie '
             'können den Eintrag jederzeit in den Website-Daten Ihres Browsers löschen.</p>\n'
             '<h2>Design-Wahl</h2><p>Wenn Sie zwischen hellem und dunklem Design wechseln, merkt sich Ihr Browser die Wahl lokal unter <strong>fa-theme</strong>. Der Eintrag wird nicht übertragen und '
@@ -93,7 +93,7 @@ SITE = {'key': 'fa',
            'intro': 'Sie entscheiden über Statistik und Werbung. Ohne Zustimmung bleibt beides aus.',
            'q': 'Wofür dürfen Daten genutzt werden?',
            'nec': 'Seite, Design- und Datenschutzauswahl. Kein Tracking.',
-           'foot': 'Jederzeit im Footer änderbar. Schließen erteilt keine Einwilligung.'},
+           'foot': 'Ohne Auswahl bleiben Statistik und Werbung aus. Jederzeit im Footer änderbar.'},
  'footer_anchor': '<a href="/datenschutz/">Datenschutz</a>',
  'footer_links': ' <a href="/werben/">Werben</a> <a href="/werbung/">Werbung &amp; Affiliate</a> <a href="/cookies/">Cookies</a> <button type="button" class="@@p@@-consent-open" '
                  'data-@@p@@-consent-open>Datenschutzeinstellungen</button><span id="@@p@@-consent-status" class="@@p@@-sr" role="status"></span>',
@@ -143,7 +143,6 @@ def validate(cfg):
 def u(name): return SITE['urls'][name]
 
 PANEL = '''<section id="@@p@@-consent" class="@@p@@-consent" role="region" aria-labelledby="@@p@@-consent-title" hidden>
-<button type="button" class="@@p@@-consent-close" data-consent="close" aria-label="Einstellungen schließen, ohne Auswahl zu ändern">Schließen</button>
 <h2 id="@@p@@-consent-title">%(h)s</h2>
 <p>%(intro)s</p>
 <p><strong>Aktueller Stand:</strong> Statistik und Werbung sind noch nicht aktiviert.</p>
@@ -151,7 +150,7 @@ PANEL = '''<section id="@@p@@-consent" class="@@p@@-consent" role="region" aria-
 <label><input type="checkbox" checked disabled><span><strong>Notwendig</strong><small>%(nec)s</small></span></label>
 <label><input type="checkbox" id="@@p@@-statistics"><span><strong>Statistik</strong><small>Seitenaufrufe und Interaktionen. Derzeit aus.</small></span></label>
 <label><input type="checkbox" id="@@p@@-advertising"><span><strong>Werbung</strong><small>AdSense und Werbedienste. Derzeit aus.</small></span></label>
-</fieldset><div class="@@p@@-consent-actions"><button type="button" data-consent="reject">Alle ablehnen</button><button type="button" data-consent="all">Alle verfügbaren erlauben</button><button type="button" data-consent="save">Auswahl speichern</button></div>
+</fieldset><div class="@@p@@-consent-actions"><button type="button" data-consent="reject">Alle ablehnen</button><button type="button" data-consent="all">Alle verfügbaren akzeptieren</button><button type="button" data-consent="save">Auswahl speichern</button></div>
 <p><a href="%(ds)s">Datenschutz</a> · <a href="%(ck)s">Cookies &amp; Einstellungen</a> · <a href="%(im)s">Impressum</a></p><p class="@@p@@-muted">%(foot)s</p></section>'''.replace('@@p@@', P) % dict(SITE['panel'], ds=u('datenschutz'), ck=u('cookies'), im=u('impressum'))
 
 def mailto(kind):
