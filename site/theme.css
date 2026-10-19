@@ -26,3 +26,18 @@ html:not([data-theme=dark]) #stock-empty{border-color:#9aa1ad}
 .stock-quote dl{flex-wrap:wrap}.stock-quote dl>*{min-width:0}.stock-wrap dd{white-space:nowrap}
 html:not([data-theme=dark]) .stock-tv button{background:#1c66cb}
 html:not([data-theme=dark]) .stock-tv .blue-text{color:#1c66cb}
+
+/* Footer-Layout: Marke links, Linkspalten rechts */
+footer{padding:44px 20px 28px}
+footer .ft{display:grid;grid-template-columns:minmax(240px,1.6fr) repeat(3,minmax(120px,1fr));gap:32px 40px;padding-bottom:28px;border-bottom:1px solid var(--b);margin-bottom:20px}
+footer .fb p{margin:12px 0 0;max-width:340px;color:var(--mut);font-size:13px;line-height:1.6}
+footer a.fl{display:inline-flex;align-items:center;gap:10px;margin:0;color:var(--hd);font-weight:700;font-size:18px;letter-spacing:-.01em}
+footer a.fl img{display:block;height:34px;width:auto}
+footer a.fl .wm b{color:var(--ac);font-weight:700}
+footer .fc{display:flex;flex-direction:column;gap:9px}
+footer .fc h3{margin:0 0 4px;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--mut)}
+footer .fc a{margin:0;width:fit-content;font-weight:500}
+footer .warn{max-width:none}
+@media(max-width:900px){footer .ft{grid-template-columns:1fr 1fr 1fr}footer .fb{grid-column:1/-1}}
+@media(max-width:560px){footer{padding:32px 16px 24px}footer .ft{grid-template-columns:1fr 1fr;gap:24px}footer .fc:last-child{grid-column:1/-1}}
+footer .warn a{margin:0}
