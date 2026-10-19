@@ -11,6 +11,7 @@ Q=json.load(open('../data/quotes.json')); N=permitted_news(json.load(open('../da
 import sys
 sys.path.insert(0,str(__import__('pathlib').Path(__file__).resolve().parent.parent/'tools'))
 from licensed_news import collect, merge_current
+from share import share_block, SHARE_CSS
 licensed_archive=collect('..','fa',N)
 N=merge_current(N,licensed_archive)
 fx={}
@@ -50,6 +51,7 @@ footer{background:var(--p);border-top:1px solid var(--b);margin-top:36px;padding
 .cta{background:linear-gradient(135deg,#1A6ACD,#0086F5 60%,#00A7F8);border:0;box-shadow:var(--sh-lg)}.cta h2,.cta a{color:#fff}.cta a.b{color:#1A6ACD}.cta p{margin:0 0 12px;color:#dbe9ff}.cta a.b{background:#fff;color:#1A6ACD;padding:9px 15px;border-radius:9px;font-weight:700;display:inline-block;box-shadow:0 1px 2px rgba(0,0,0,.15);transition:transform .15s ease}.cta a.b:hover{transform:translateY(-1px)}
 @media(max-width:900px){.g{grid-template-columns:1fr}.idx{grid-template-columns:repeat(2,minmax(0,1fr))}.ic svg{width:100%}.idx{gap:8px}.ic .p{font-size:18px}.hero{grid-template-columns:1fr}.gl{grid-template-columns:1fr}.links{display:none;position:absolute;top:56px;left:0;right:0;background:var(--p);border-bottom:1px solid var(--b);flex-direction:column;align-items:flex-start;gap:0;padding:8px 20px 14px}.links a.l,.links a.btn{padding:10px 0;width:100%}.links a.l::after{display:none}.mt:checked~.links{display:flex}.bg{display:flex}.nav{gap:14px}.hide{display:none}.hero .hl h1{font-size:24px}.art h1{font-size:24px}}
 '''
+CSS+=SHARE_CSS
 open(OUT+'/style.css','w').write(CSS)
 shutil.copyfile('theme.css',OUT+'/theme.css')
 shutil.copyfile('news.css',OUT+'/news.css')
@@ -137,7 +139,7 @@ def art_ld(a):
     if a.get('faq'):
         ld.append({'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':f['q'],'acceptedAnswer':{'@type':'Answer','text':f['a']}} for f in a['faq']]})
     return ld
-def art_body(a):
+def _art_body(a):
     dt=adate(a)
     img=''
     if a.get('image'):
@@ -151,7 +153,10 @@ def art_body(a):
     src=''
     if a.get('sources'):
         src='<div class="srcl"><b>Quellen:</b> '+' · '.join('<a href="%s" target="_blank" rel="noopener nofollow">%s</a>'%(esc(s['url']),esc(s['title'])) for s in a['sources'])+'</div>'
-    return '''<div class="art"><h1>%s</h1><div class="by">Von der <b>FA Redaktion</b> · %s · <a href="/transparenz/" style="color:inherit;text-decoration:underline">mit KI-Unterstützung erstellt und redaktionell geprüft</a> %s</div>%s<div class="body">%s</div>%s%s<div class="note"><b>Hinweis:</b> Dieser Artikel dient der Information und Einordnung. Er ist keine Anlageberatung und keine Kauf- oder Verkaufsempfehlung. Kursdaten können verzögert oder fehlerhaft sein. Mehr dazu im <a href="/risikohinweis/" style="text-decoration:underline">Risikohinweis</a>.</div></div>'''%(esc(a['title']),dt.strftime('%d.%m.%Y, %H:%M Uhr'),chip,img,a['body'],faq,src)
+    return '''<div class="art"><h1>%s</h1><div class="by">Von der <b>FA Redaktion</b> · %s · <a href="/transparenz/" style="color:inherit;text-decoration:underline">mit KI-Unterstützung erstellt und redaktionell geprüft</a> %s</div>%s<div class="body">%s</div>@@SHAREB@@%s%s<div class="note"><b>Hinweis:</b> Dieser Artikel dient der Information und Einordnung. Er ist keine Anlageberatung und keine Kauf- oder Verkaufsempfehlung. Kursdaten können verzögert oder fehlerhaft sein. Mehr dazu im <a href="/risikohinweis/" style="text-decoration:underline">Risikohinweis</a>.</div></div>'''%(esc(a['title']),dt.strftime('%d.%m.%Y, %H:%M Uhr'),chip,img,a['body'],faq,src)
+def art_body(a):
+    h=_art_body(a); u=BASE+'/artikel/%s/'%a['slug']
+    return h.replace('<div class="body">',share_block(u,a['title'],'fa',True)+'<div class="body">',1).replace('@@SHAREB@@',share_block(u,a['title'],'fa'),1)
 urls=[]
 org={'@context':'https://schema.org','@type':'NewsMediaOrganization','name':'finanz adjust','url':BASE,'email':'philipp.l.paulik@gmail.com'}
 site_ld={'@context':'https://schema.org','@type':'WebSite','name':'finanz adjust','url':BASE,'inLanguage':'de-DE'}
