@@ -1,6 +1,7 @@
 import json,os,re,shutil,subprocess,glob
 from common import *
 from news_media import permitted_news, source_badge, news_cards
+from news_policy import destination
 from exit_intent import attach as exit_attach
 OUT='out'; shutil.rmtree(OUT,ignore_errors=True); os.makedirs(OUT+'/berichte')
 if os.path.isdir('../images'): shutil.copytree('../images',OUT+'/images',dirs_exist_ok=True)
@@ -107,7 +108,7 @@ def trow(q):
     cur={'EUR':'€','USD':'$'}.get(q['cur'],q['cur'])
     return '<tr><td><b>%s</b><div class="mut" style="font-size:11px">%s · %s</div></td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%(esc(q['name']),esc(q['sym']),q['grp'],num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
 def tbl(rows): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q) for q in rows)+'</table></div>'
-def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(i['url']),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
+def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
 # ---------- Artikel (content/articles/*.json, Redaktion: FA Redaktion) ----------
 ARTS=[]
 os.makedirs('../content/articles',exist_ok=True)
@@ -240,6 +241,10 @@ items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><descriptio
 open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
 json.dump(Q,open(OUT+'/quotes.json','w'))
 print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx))
+
+# Rights-gated noindex sources, deliberately excluded from sitemaps and RSS.
+from news_detail import build_details
+build_details(page, N, OUT)
 
 # Final isolated pass: advertising, consent and activation gates (no third-party code by default).
 import sys

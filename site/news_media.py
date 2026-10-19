@@ -58,6 +58,7 @@ def source_badge(item):
     return '<span class="source-badge">%s<span>%s</span></span>' % (mark, e(label))
 
 def news_cards(items, limit=500):
+    from news_policy import destination, has_detail
     e = lambda s: html.escape(str(s), quote=True)
     cards = []
     for item in permitted_news(items)[:limit]:
@@ -73,5 +74,5 @@ def news_cards(items, limit=500):
             when = '<time datetime="%s">%s</time>' % (dt.isoformat(), dt.strftime('%d.%m.%Y · %H:%M')) if item['ts'] else ''
         except (KeyError, TypeError, ValueError, OSError):
             when = ''
-        cards.append('<li class="news-card">%s<div class="news-copy">%s<h2><a href="%s" target="_blank" rel="noopener noreferrer nofollow">%s<span class="news-arrow" aria-hidden="true"> ↗</span></a></h2><div class="news-meta">%s<span>Original lesen ↗</span></div></div></li>' % (media, source_badge(item), e(item['url']), e(item['title']), when))
+        cards.append('<li class="news-card">%s<div class="news-copy">%s<h2><a href="%s" %s>%s<span class="news-arrow" aria-hidden="true">%s</span></a></h2><div class="news-meta">%s<span>%s</span></div></div></li>' % (media, source_badge(item), e(destination(item)), '' if has_detail(item) else 'target="_blank" rel="noopener noreferrer nofollow"', e(item['title']), ' →' if has_detail(item) else ' ↗', when, '<a href="%s" target="_blank" rel="noopener noreferrer nofollow">Original lesen ↗</a>' % e(item['url']) if has_detail(item) else 'Original lesen ↗'))
     return '<ul class="news-grid">' + ''.join(cards) + '</ul>' if cards else '<p class="note">Aktuell sind keine Meldungen verfügbar. Neue Schlagzeilen folgen mit dem nächsten Datenlauf.</p>'
