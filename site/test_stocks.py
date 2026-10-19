@@ -1,7 +1,7 @@
 import json, os, tempfile, time, unittest
 from pathlib import Path
 from unittest.mock import patch
-from stock_data import parse_quote, refresh, render_quote
+from stock_data import parse_quote, refresh, render_quote, format_number
 from stocks import related
 class StocksTest(unittest.TestCase):
     def setUp(self):
@@ -9,6 +9,19 @@ class StocksTest(unittest.TestCase):
         self.raw=dict(symbol='AAPL',exchange='NASDAQ',currency='USD',close='123.45',timestamp=int(time.time()),change='1',percent_change='0.8')
     def test_quote(self):
         q=parse_quote(self.raw,self.s);self.assertEqual(q['price'],123.45);self.assertIn('123,45 USD',render_quote(q,self.s))
+    def test_german_numbers(self):
+        self.assertEqual(format_number(346.089996),'346,09')
+        self.assertEqual(format_number(1234567.899),'1.234.567,90')
+        self.assertEqual(format_number(1234567,0),'1.234.567')
+        self.assertEqual(format_number(-1234.567),'-1.234,57')
+    def test_all_rendered_fields(self):
+        q=parse_quote({**self.raw,'open':'346.089996','high':'1500.456','low':'320.1234','previous_close':'340.999','volume':'1234567'},self.s)
+        html=render_quote(q,self.s)
+        for value in ['123,45 USD','346,09','1.500,46','320,12','341,00','1.234.567']:
+            self.assertIn(value,html)
+        q['open']='NaN';q['high']='invalid';q['low']=None
+        html=render_quote(q,self.s)
+        self.assertNotIn('NaN',html);self.assertNotIn('invalid',html)
     def test_reject_bad_data(self):
         for field,value in [('symbol','MSFT'),('exchange','XETRA'),('currency','EUR'),('close','NaN'),('close','0'),('timestamp',0),('timestamp',time.time()+99999)]:
             self.assertIsNone(parse_quote({**self.raw,field:value},self.s))

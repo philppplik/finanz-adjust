@@ -82,6 +82,12 @@ def refresh(stocks, cache_path, provider=None, now=None, ttl=10800, max_calls=16
     tmp=path.with_suffix('.tmp');tmp.write_text(json.dumps(cache,ensure_ascii=False));tmp.replace(path)
     return cache
 
+def format_number(value, decimals=2):
+    """German display format, independent of the build machine locale."""
+    number=float(value)
+    if not math.isfinite(number): raise ValueError("non-finite quote field")
+    return f"{number:,.{decimals}f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
 def render_quote(quote, stock):
     from html import escape as e
     if not quote:return None
@@ -91,11 +97,14 @@ def render_quote(quote, stock):
         price=float(quote['price']);timestamp=int(quote['timestamp']);fetched=int(quote['fetched_at'])
         if not math.isfinite(price) or price<=0 or timestamp<=0 or timestamp>time.time()+300:return None
     except (KeyError,ValueError,TypeError): return None
-    formatted=f'{price:,.2f}'.replace(',','X').replace('.',',').replace('X','.')
+    formatted=format_number(price)
     stamp=dt.datetime.fromtimestamp(timestamp,dt.timezone.utc).strftime('%d.%m.%Y %H:%M UTC')
     fetched_stamp=dt.datetime.fromtimestamp(fetched,dt.timezone.utc).strftime('%d.%m.%Y %H:%M UTC')
     stale=time.time()-fetched>21600
     details=''
     for key,label in [('open','Eröffnung'),('high','Tageshoch'),('low','Tagestief'),('previous_close','Vortagesschluss'),('volume','Volumen')]:
-        if key in quote:details+='<div><dt>'+label+'</dt><dd>'+e(str(quote[key]))+'</dd></div>'
+        if key not in quote: continue
+        try: value=format_number(quote[key],0 if key=='volume' else 2)
+        except (ValueError,TypeError,OverflowError): continue
+        details+='<div><dt>'+label+'</dt><dd>'+e(value)+'</dd></div>'
     return '<section id="kurs" class="stock-quote"><p class="stock-kicker">LETZTER VERFÜGBARER KURS'+(' · ÄLTERER CACHE' if stale else '')+'</p><h2>'+formatted+' '+e(quote['currency'])+'</h2><dl><div><dt>Kurszeit</dt><dd>'+stamp+'</dd></div><div><dt>Handelsplatz</dt><dd>'+e(stock['exchange'])+'</dd></div></dl><p class="stock-note">Verzögerung: '+e(quote.get('delay','Nicht ausgewiesen'))+'. Abruf: '+fetched_stamp+'. Keine Live-Aktualisierung im Browser.</p><dl class="stock-facts">'+details+'</dl><p><a class="stock-source" href="https://twelvedata.com/" rel="noopener" target="_blank">Kursdaten: Twelve Data</a></p></section>'
