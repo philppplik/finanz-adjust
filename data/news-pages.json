@@ -1,5 +1,16 @@
 [
   {
+    "title": "EUREX / DAX - Future gibt weiter nach",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69879311-eurex-dax-future-gibt-weiter-nach-015.htm",
+    "ts": 1792480500.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-10-20T10:36:17.448111+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
     "title": "Rohöl im Wert von 30,0 Milliarden Euro im Zeitraum Januar bis August 2026 importiert",
     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_372_51.html",
     "ts": 1792476000.0,
@@ -33,6 +44,17 @@
     "license_key": "destatis",
     "feed_url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624",
     "captured_at": "2026-10-20T06:02:54.340025+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
+    "title": "EUREX / DAX - Futures im Frühhandel etwas leichter",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69878091-eurex-dax-futures-im-fruehhandel-etwas-leichter-015.htm",
+    "ts": 1792472400.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-10-20T10:36:17.448142+00:00",
     "rights_checked": "2026-10-19"
   },
   {
