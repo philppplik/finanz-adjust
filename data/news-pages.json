@@ -1,5 +1,41 @@
 [
   {
+    "title": "Rohöl im Wert von 30,0 Milliarden Euro im Zeitraum Januar bis August 2026 importiert",
+    "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_372_51.html",
+    "ts": 1792476000.0,
+    "src": "Statistisches Bundesamt (Destatis)",
+    "sum": "",
+    "teaser": "Im Zeitraum Januar bis August 2026 wurden 49,1 Millionen Tonnen Rohöl im Wert von 30,0 Milliarden Euro nach Deutschland importiert. Im Vorjahreszeitraum 2025 betrug der Import von Rohöl 49,4 Millionen Tonnen im Wert von 24,6 Milliarden Euro. Wie das Statistische Bundesamt (Destatis) weiter mitteilt, nahm der Import damit mengenmäßig um 0,6 % ab, während er wertmäßig um 21,7 % stieg. Grund dafür waren die Preissteigerungen bei Rohöl im Zuge der Konflikte im Nahen Osten.",
+    "license_key": "destatis",
+    "feed_url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624",
+    "captured_at": "2026-10-20T06:02:54.339977+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
+    "title": "Erzeugerpreise im September 2026: +6,7 % gegenüber September 2025",
+    "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_373_61241.html",
+    "ts": 1792476000.0,
+    "src": "Statistisches Bundesamt (Destatis)",
+    "sum": "",
+    "teaser": "Die Erzeugerpreise gewerblicher Produkte waren im September 2026 um 6,7 % höher als im September 2025. Das war der stärkste Anstieg gegenüber dem Vorjahresmonat seit März 2023 (+7,5 %). Wie das Statistische Bundesamt (Destatis) weiter mitteilt, stiegen die Erzeugerpreise im September 2026 gegenüber dem Vormonat August 2026 um 1,9 %.",
+    "license_key": "destatis",
+    "feed_url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624",
+    "captured_at": "2026-10-20T06:02:54.339911+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
+    "title": "Gastgewerbeumsatz im August 2026 real 1,3 % niedriger als im Vormonat",
+    "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_374_45213.html",
+    "ts": 1792476000.0,
+    "src": "Statistisches Bundesamt (Destatis)",
+    "sum": "",
+    "teaser": "Das Gastgewerbe in Deutschland hat im August 2026 nach vorläufigen Ergebnissen des Statistischen Bundesamtes (Destatis) kalender- und saisonbereinigt real (preisbereinigt) 1,3 % und nominal (nicht preisbereinigt) 1,2 % weniger umgesetzt als im Juli 2026. Im Vergleich zum Vorjahresmonat August 2025 sank der Umsatz real um 4,2 %, wohingegen er nominal um 2,7 % stieg. Im Juli 2026 verzeichnete das Gastgewerbe gegenüber Juni 2026 nach Revision der vorläufigen Ergebnisse einen Anstieg von real 1,9 % (vorläufiger Wert: 1,5 %) und nominal 1,7 % (vorläufiger Wert: 1,3 %).",
+    "license_key": "destatis",
+    "feed_url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624",
+    "captured_at": "2026-10-20T06:02:54.340025+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
     "title": "EUREX / DAX - Futures bauen Verluste aus",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69868799-eurex-dax-futures-bauen-verluste-aus-015.htm",
     "ts": 1792395000.0,
