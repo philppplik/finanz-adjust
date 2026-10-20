@@ -1,0 +1,49 @@
+{
+  "slug": "wie-entsteht-ein-boersenkurs",
+  "title": "Wie entsteht ein Börsenkurs? Orderbuch, Bid und Ask einfach erklärt",
+  "description": "Ein Börsenkurs entsteht aus Angebot und Nachfrage im Orderbuch. Wie Geldkurs, Briefkurs und das Meistausführungsprinzip funktionieren und was Xetra vom Parkett unterscheidet.",
+  "section": "einordnung",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/wie-entsteht-ein-boersenkurs.jpg",
+  "body": "<p>Wenn du eine <a href=\"/glossar/was-ist-eine-aktie/\">Aktie</a> im Depot anschaust, siehst du einen Kurs, der sich ständig verändert. Wer legt diesen Preis fest? Die kurze Antwort: niemand einzeln. Ein Börsenkurs entsteht fortlaufend aus Angebot und Nachfrage, also aus den Aufträgen aller Käufer und Verkäufer, die gerade am Markt sind. Dieser Artikel zeigt Schritt für Schritt, wie aus vielen einzelnen Orders ein Preis wird und wer dabei welche Rolle spielt.</p>\n<p><strong>Stand: 20.10.2026</strong></p>\n<div class=\"note\">\n<p><strong>Das Wichtigste in Kürze</strong></p>\n<ul>\n<li>Ein Börsenkurs entsteht im Orderbuch aus Kauf- und Verkaufsaufträgen; er gilt jeweils nur für den Moment seiner Feststellung.</li>\n<li>Beim Meistausführungsprinzip wird der Preis gewählt, bei dem der größte Umsatz zustande kommt.</li>\n<li>Auf Xetra läuft die Preisfindung vollautomatisch, am Parkett der Frankfurter Wertpapierbörse übernehmen Spezialisten die Kursfeststellung.</li>\n</ul>\n</div>\n<h2>Das Orderbuch: Wo Käufer und Verkäufer aufeinandertreffen</h2>\n<p>Im Zentrum jeder Kursfeststellung steht das Orderbuch. Dort sammeln sich alle offenen Aufträge einer Aktie: Kauforders mit dem höchsten Preis, den jemand zu zahlen bereit ist, und Verkaufsorders mit dem niedrigsten Preis, zu dem jemand verkaufen möchte. Der beste Kaufpreis heißt <a href=\"/glossar/geldkurs/\">Geldkurs</a> (Bid), der beste Verkaufspreis <a href=\"/glossar/briefkurs/\">Briefkurs</a> (Ask). Die Differenz dazwischen ist der Spread. Solange Geld- und Briefkurs auseinanderliegen, passiert nichts; erst wenn sich beide Seiten treffen, kommt ein Geschäft zustande, und dieser Preis wird zum neuen Kurs.</p>\n<p>Ein vereinfachtes Beispiel zeigt die Logik. Im Orderbuch einer Aktie liegen auf der Kaufseite 200 Stück zu 99,80 Euro und 300 Stück zu 99,70 Euro, auf der Verkaufsseite 250 Stück zu 100,00 Euro und 400 Stück zu 100,10 Euro. Der Geldkurs ist 99,80 Euro, der Briefkurs 100,00 Euro, der Spread 20 Cent. Kommt nun ein Käufer, der sofort 250 Stück kaufen will, trifft er auf die 250 Stück zu 100,00 Euro, und der Handel wird zu genau diesem Preis ausgeführt: Der neue Kurs lautet 100,00 Euro.</p>\n<h2>Limit- und Marktorders: Wie deine Order ins Buch kommt</h2>\n<p>Wenn du selbst eine Order aufgibst, bestimmst du mit, wie sie ins Orderbuch eingereiht wird. Bei einer Limitorder nennst du den Höchstpreis beim Kauf beziehungsweise den Mindestpreis beim Verkauf; die Order bleibt im Buch, bis sich ein Gegenpart findet oder du sie löschst. Bei einer unlimitierten Order, im Börsenjargon \"billigst\" beim Kauf und \"bestens\" beim Verkauf, nimmst du den nächsten verfügbaren Preis, wie immer er ausfällt. In liquiden Werten mit engem Spread ist der Unterschied klein; in ruhigen Werten kann eine unlimitierte Order dagegen deutlich teurer oder billiger ausgeführt werden, als der zuletzt angezeigte Kurs vermuten lässt.</p>\n<p>Dazu kommen Orderzusätze wie Gültigkeitsdauer oder Stop-Marken, die festlegen, wann eine Order aktiviert wird. Sie ändern nichts am Grundprinzip: Jede Order ist ein Eintrag im Orderbuch, und der Kurs entsteht aus dem Zusammentreffen all dieser Einträge.</p>\n<h2>Das Meistausführungsprinzip</h2>\n<p>Bei Auktionen, etwa zur Eröffnung oder zum Schluss des Handelstags, kommt das Meistausführungsprinzip zum Tragen: Der Preis wird so gewählt, dass die größtmögliche Zahl von Orders ausgeführt werden kann. Die Deutsche Börse beschreibt das Verfahren so: Alle limitierten und unlimitierten Aufträge werden zusammengeführt, und der Auktionspreis liegt dort, wo der höchste Umsatz zustande kommt. Liegen bei 100,00 Euro 500 ausführbare Stück vor, bei 100,10 Euro aber nur 200, wird der Auktionspreis 100,00 Euro, weil dort mehr Umsatz möglich ist.</p>\n<h2>Xetra und Parkett: Zwei Wege der Preisfindung</h2>\n<p>In Deutschland laufen die meisten Umsätze über <a href=\"/glossar/xetra/\">Xetra</a>, das elektronische Handelssystem der Frankfurter Wertpapierbörse. Dort gleicht ein Computer die Orders vollautomatisch ab. Der Handel läuft fortlaufend, wird aber durch Auktionen eingerahmt: eine Eröffnungsauktion am Morgen, Zwischenauktionen und eine Schlussauktion am Abend, in der der Schlusskurs festgestellt wird.</p>\n<p>Am Parkett in Frankfurt, das Anleger über die Börse Frankfurt nutzen, stellen dagegen Spezialisten die Kurse. Diese Skontroführer beobachten Angebot und Nachfrage, stellen Geld- und Briefkurse und sorgen dafür, dass auch in ruhigen Phasen handelbare Preise existieren. Gerade bei weniger gehandelten Werten kann das die Ausführung stabiler machen. Beide Wege führen zum selben Grundprinzip: Der Kurs ist immer der Preis, zu dem Käufer und Verkäufer gerade übereinkommen.</p>\n<h2>Warum sich Kurse ständig bewegen</h2>\n<p>Jede neue Information verändert die Auftragslage. Meldet ein Unternehmen gute Quartalszahlen, wollen mehr Anleger kaufen, die Kauforders steigen, und der Kurs bewegt sich nach oben, bis sich Käufer und Verkäufer wieder treffen. Zinsentscheide, Konjunkturdaten oder Branchennachrichten wirken auf dieselbe Weise, nur über viele Aktien gleichzeitig. Wichtig ist die Einordnung: Der Kurs bildet keine \"Wahrheit\" über einen Firmenwert ab, sondern den aktuellen Ausgleich aus Kauf- und Verkaufsbereitschaft. Deshalb schwankt er, auch wenn sich am Unternehmen selbst in diesem Moment gar nichts geändert hat.</p>\n<h2>Kurse außerhalb der Haupthandelszeiten</h2>\n<p>Nachts und am Wochenende werden an der Börse keine Kurse festgestellt; der letzte Kurs bleibt stehen, und manche Plattformen zeigen indikative Preise aus dem außerbörslichen Handel. Eröffnet die Börse nach wichtigen Nachrichten, kann der Eröffnungskurs deutlich vom Schlusskurs des Vortags abweichen, weil sich die Auftragslage über Nacht verändert hat. Gerade bei Quartalszahlen großer Unternehmen ist das regelmäßig zu beobachten.</p>\n<h2>Vom Kurs zur Ausführung: Was du im Depot siehst</h2>\n<p>Im Online-Depot siehst du neben dem letzten Kurs meist auch Geld- und Briefkurs, das Tageshoch und -tief sowie das Handelsvolumen. Diese Angaben helfen bei der Einordnung: Ein hoher Umsatz bedeutet, dass viele Orders zusammenkamen und der Preis belastbarer ist als bei dünnem Handel. Vor einer Order lohnt der Vergleich der Kurse an verschiedenen Handelsplätzen, denn dieselbe Aktie kann auf Xetra, am Parkett und im außerbörslichen Handel leicht unterschiedlich notieren.</p>\n<h2>Grenzen und Risiken</h2>\n<p>Das Orderbuch zeigt immer nur einen Ausschnitt. Große Orders können in Teilausführungen zerlegt sein, und in sehr ruhigen Werten ist das Buch dünn: Dann kann schon eine einzelne Order den Kurs deutlich bewegen. Auch sichtbare Kurse sind keine Zusage; zwischen deinem Blick auf den Kurs und der Ausführung deiner Order kann der Preis bereits weitergegangen sein. Wer mit Limit statt \"billigst\" oder \"bestens\" arbeitet, begrenzt dieses Ausführungsrisiko, verzichtet aber auf die Sicherheit, überhaupt zum Zug zu kommen.</p>\n<h2>Häufige Fragen</h2>\n<p><em>Dieser Text ist ein Bildungsangebot und keine Anlage-, Steuer- oder Rechtsberatung.</em></p>",
+  "sources": [
+    {
+      "title": "Deutsche Börse: So wird der Aktienpreis ermittelt (abgerufen am 20.10.2026)",
+      "url": "https://live.deutsche-boerse.com/einstieg/so-wird-der-aktienpreis-ermittelt"
+    },
+    {
+      "title": "Deutsche Börse: Marktplatzprinzip - so funktioniert Börse (abgerufen am 20.10.2026)",
+      "url": "https://live.deutsche-boerse.com/grundlagen/so-funktioniert-boerse/marktplatzprinzip"
+    },
+    {
+      "title": "Deutsche Börse: Fortlaufender Handel mit Auktionen (Xetra) (abgerufen am 20.10.2026)",
+      "url": "https://cashmarket.deutsche-boerse.com/cash-de/Handel/Xetra/fortlaufender-handel-mit-auktionen"
+    },
+    {
+      "title": "Börse Frankfurt: Aktien (abgerufen am 20.10.2026)",
+      "url": "https://www.boerse-frankfurt.de/aktien"
+    },
+    {
+      "title": "BaFin: Aktien (abgerufen am 20.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/aktien/aktien.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer legt den Aktienkurs fest?",
+      "a": "Niemand einzeln. Der Kurs entsteht im Orderbuch aus den Kauf- und Verkaufsaufträgen aller Marktteilnehmer. Auf Xetra gleicht ein Computersystem die Orders automatisch ab, am Frankfurter Parkett stellen Spezialisten die Kurse."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Geld- und Briefkurs?",
+      "a": "Der Geldkurs ist der höchste Preis, den Käufer gerade bieten, der Briefkurs der niedrigste Preis, zu dem Verkäufer abgeben. Die Differenz heißt Spread. Ein Handel kommt zustande, wenn sich beide Seiten auf einen Preis einigen."
+    },
+    {
+      "q": "Warum ändert sich der Kurs, ohne dass es Nachrichten gibt?",
+      "a": "Weil sich Angebot und Nachfrage laufend verschieben. Schon einzelne größere Orders oder das Zurückziehen von Aufträgen verändern das Orderbuch und damit den Preis, ohne dass das Unternehmen selbst etwas gemeldet haben muss."
+    },
+    {
+      "q": "Was passiert in der Schlussauktion?",
+      "a": "Am Ende des Handelstags werden alle offenen Orders gesammelt und zu einem einzigen Auktionspreis ausgeführt, dem Schlusskurs. Gewählt wird der Preis mit dem höchsten Umsatz, also nach dem Meistausführungsprinzip."
+    }
+  ]
+}
