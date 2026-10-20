@@ -1,0 +1,33 @@
+{
+  "slug": "krypto-ecke-2026-10-20",
+  "title": "Krypto-Ecke: Bitcoin hält sich über 81.000 Dollar, CME startet Uniswap-Futures",
+  "description": "Bitcoin notiert am Dienstagmorgen um 81.800 US-Dollar. Neu an der CME: Futures auf Uniswap. BlackRock beantragt einen Bitcoin-Schutz-ETF (Stand: 20.10.2026).",
+  "section": "krypto",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/krypto-ecke-2026-10-20.jpg",
+  "body": "<p>Der Kryptomarkt zeigt sich am Dienstagmorgen ruhig. Bitcoin notierte gegen 08:00 Uhr bei rund 81.800 US-Dollar, kaum verändert zum Vortag (gold.de, Stand 20.10.2026). In Euro entsprach das etwa 72.900. Der Branchendienst Coin Edition spricht in seinem 24-Stunden-Rückblick von einem Rückgang um 0,8 Prozent auf etwa 82.000 Dollar. Ethereum hielt sich demnach über 2.400 Dollar.</p><h2>CME listet Futures auf Uniswap</h2><p>Die US-Terminbörse CME Group hat Futures auf den Token Uniswap (UNI) gestartet. Laut Coin Edition ist UNI damit der erste Token aus dem DeFi-Bereich, für den es einen börsennotierten Terminkontrakt an der CME gibt. Der Handel läuft rund um die Uhr. Einen Tag zuvor hatte die CME bereits Futures auf Bitcoin Cash eingeführt. Futures sind Wetten auf den künftigen Kurs und bergen eigene Risiken, etwa durch Hebelwirkung.</p><h2>BlackRock beantragt Schutz-ETF</h2><p>Der Vermögensverwalter BlackRock hat laut Coin Edition einen neuen ETF beantragt: einen sogenannten Downside-Protection-ETF auf Bitcoin mit dem Ticker PBIT. Solche Produkte sollen Verluste abfedern, begrenzen dafür aber auch die Gewinnchancen. Der Antrag bedeutet noch keine Zulassung.</p><h2>Einordnung</h2><p>Die Marktkapitalisierung von Bitcoin lag am Dienstagmorgen bei rund 1,64 Billionen US-Dollar (gold.de). Kryptokurse schwanken stark, und ein Totalverlust ist möglich. Diese Kolumne informiert und ist keine Anlageberatung. (Stand aller Kursdaten: 20.10.2026, morgens.)</p>",
+  "sources": [
+    {
+      "title": "Bitcoin Kurs in Euro und Dollar - gold.de (Stand 20.10.2026)",
+      "url": "https://www.gold.de/kurse/bitcoinpreis/"
+    },
+    {
+      "title": "24-Stunden-Krypto-Rückblick: Das ist passiert am Markt - Coin Edition (20.10.2026)",
+      "url": "https://coinedition.com/de/24-stunden-krypto-rueckblick-das-ist-passiert-am-markt-45/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo steht Bitcoin am 20.10.2026?",
+      "a": "Am Morgen bei rund 81.800 US-Dollar beziehungsweise etwa 72.900 Euro, kaum verändert zum Vortag. Quelle: gold.de."
+    },
+    {
+      "q": "Was ist neu an der CME?",
+      "a": "Die Börse hat Futures auf Uniswap (UNI) gestartet, laut Coin Edition der erste börsennotierte Terminkontrakt auf einen DeFi-Token."
+    },
+    {
+      "q": "Was will BlackRock mit dem PBIT-ETF?",
+      "a": "Der beantragte ETF soll Verluste bei Bitcoin begrenzen, kappt dafür aber auch die Gewinnchancen. Der Antrag ist noch keine Zulassung."
+    }
+  ]
+}

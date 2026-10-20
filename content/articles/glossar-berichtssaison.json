@@ -1,0 +1,33 @@
+{
+  "slug": "glossar-berichtssaison",
+  "title": "Glossar: Berichtssaison - warum alle auf die Quartalszahlen schauen",
+  "description": "SAP, Tesla und viele weitere Unternehmen legen Zahlen vor: Die Berichtssaison läuft. Was das bedeutet und warum die Börse so stark darauf reagiert, einfach erklärt.",
+  "section": "glossar",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/glossar-berichtssaison.jpg",
+  "body": "<p>Mehrmals im Jahr steht die Börse Kopf: Dann ist Berichtssaison, auf Englisch Earnings Season. In dieser Zeit veröffentlichen viele börsennotierte Unternehmen kurz nacheinander ihre Quartalszahlen. Auch diese Woche berichten große Namen wie SAP und Tesla, wie das Handelsblatt in seinem Wochenausblick notiert.</p><h2>Was genau ist die Berichtssaison?</h2><p>Die Berichtssaison ist kein offizieller Zeitraum, sondern eine Gewohnheit des Marktes. Die meisten Unternehmen schließen ihr Quartal zum selben Kalendertermin ab und berichten wenige Wochen später. So ballen sich die Veröffentlichungen vor allem in den Wochen nach Quartalsende. In den USA startet die Saison traditionell mit den großen Banken, in Deutschland folgen die Dax-Konzerne.</p><h2>Warum reagiert der Kurs so stark?</h2><p>An der Börse zählt weniger das Ergebnis allein als der Vergleich mit der Erwartung. Verkauft ein Unternehmen mehr als erwartet und verdient mehr, kann der Kurs steigen. Enttäuscht der Ausblick, kann er fallen, selbst wenn die nackten Zahlen gut waren. Der Ausblick auf die kommenden Quartale ist oft wichtiger als der Blick zurück.</p><h2>Was heißt das für Einsteiger?</h2><p>In der Berichtssaison bewegen sich Kurse oft schneller als sonst, auch über Nacht, wenn US-Konzerne nach unserem Börsenschluss berichten. Wer neu an der Börse ist, sollte wissen: Kurzfristige Sprünge nach Zahlen sind normal und keine Richtschnur für die langfristige Qualität eines Unternehmens. Dieser Artikel erklärt Begriffe und ist keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Dax und Börse aktuell: Sechs Punkte, die für Anleger heute wichtig sind - Handelsblatt (20.10.2026)",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html"
+    },
+    {
+      "title": "Investor Relations (Earnings-Termine) - Tesla",
+      "url": "https://ir.tesla.com/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann ist Berichtssaison?",
+      "a": "Vor allem in den Wochen nach jedem Quartalsende, also etwa im Januar, April, Juli und Oktober. Es gibt keinen festen Starttermin."
+    },
+    {
+      "q": "Warum fällt eine Aktie trotz guter Zahlen?",
+      "a": "Weil der Markt auf Erwartungen schaut. Waren die Erwartungen noch höher oder ist der Ausblick schwach, kann der Kurs trotz guter Vergangenheitszahlen fallen."
+    },
+    {
+      "q": "Wo finde ich die Termine?",
+      "a": "Auf den Investor-Relations-Seiten der Unternehmen. Tesla listet seinen Q3-Termin 2026 zum Beispiel auf ir.tesla.com (21.10.2026, laut Unternehmensseite)."
+    }
+  ]
+}

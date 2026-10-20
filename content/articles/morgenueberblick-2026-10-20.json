@@ -1,0 +1,41 @@
+{
+  "slug": "morgenueberblick-2026-10-20",
+  "title": "Morgenüberblick: Dax nach Montagsverlust vorbörslich leicht schwächer",
+  "description": "Der Dax startet nach dem Minus von 1,2 Prozent am Montag nervös in den Dienstag. ZEW-Index, Erzeugerpreise und Quartalszahlen prägen den Tag (Stand: 20.10.2026, 08:00 Uhr).",
+  "section": "markt",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/morgenueberblick-2026-10-20.jpg",
+  "body": "<p>Der deutsche Leitindex geht angeschlagen in den Dienstag. Am Montag hatte der Dax 1,2 Prozent verloren und bei 25.319,77 Punkten geschlossen (Xetra-Schluss, 19.10.2026). Das waren 302,84 Punkte weniger als am Freitag (25.622,61 Punkte). Zwischenzeitlich rutschte der Index bis auf 25.198,97 Punkte und schloss damit nur knapp über der 21-Tage-Linie, die laut dpa-AFX bei rund 25.297 Punkten lag.</p><h2>Vorbörse am Dienstag</h2><p>Vorbörslich notierte der Dax am Dienstagmorgen leicht im Minus. Die dpa-AFX erwartete in ihrem Morgen-Flash (20.10.2026, 06:46 Uhr) weitere Verluste und hielt einen Test des Vortagestiefs für möglich. Hintergrund sind laut Handelsblatt die Unsicherheit an den Märkten und die Zurückhaltung vieler Anleger vor den anstehenden Quartalszahlen. (Stand dieser Zahlen: 20.10.2026, circa 08:00 Uhr.)</p><h2>Das steht heute an</h2><p>Um 08:00 Uhr veröffentlichte das Statistische Bundesamt die Erzeugerpreise für September. Um 11:05 Uhr folgt der ZEW-Index zu den Konjunkturerwartungen (Oktober). Am Abend, gegen 19:00 Uhr, legt die Deutsche Börse ihre Quartalsmitteilung zum dritten Quartal vor. Im Laufe der Woche berichten außerdem SAP und Tesla ihre Quartalszahlen, wie das Handelsblatt in seinem Morgenausblick zusammenfasst.</p><h2>Wie Experten die Lage sehen</h2><p>Marktexperte Andreas Lipkow vom Broker CMC Markets spricht laut Handelsblatt von einer Bewährungsprobe. Seiner Einschätzung nach bleibe das Marktgefüge stabil, solange die Unternehmensgewinne überzeugten und die Inflation nicht erneut außer Kontrolle gerate. Breche eine dieser Stützen weg, könne aus der Nervosität eine deutlichere Korrektur werden. Das ist seine persönliche Einschätzung, keine Prognose mit Garantie.</p><p>Einordnung: Kursschwankungen vor wichtigen Konjunkturdaten und Quartalszahlen sind normal. Dieser Überblick ersetzt keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "DAX P (^GDAXI) Historische Daten - Yahoo Finanzen",
+      "url": "https://de.finance.yahoo.com/quote/%5EGDAXI/history/"
+    },
+    {
+      "title": "Dax und Börse aktuell: Sechs Punkte, die für Anleger heute wichtig sind - Handelsblatt (20.10.2026)",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html"
+    },
+    {
+      "title": "DAX-FLASH: Verluste erwartet - Vortagestief dürfte getestet werden - dpa-AFX via MarketScreener (20.10.2026)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/dax-flash-verluste-erwartet-vortagestief-duerfte-getestet-werden-ce785cdbde8ef126"
+    },
+    {
+      "title": "DAX schließt wegen Nahost-Risiken 1,2 Prozent tiefer - ad-hoc-news (19.10.2026)",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-wegen-nahost-risiken-1-2-prozent-tiefer/70364715"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hat der Dax am Montag, den 19.10.2026, geschlossen?",
+      "a": "Der Dax schloss bei 25.319,77 Punkten, ein Minus von 302,84 Punkten beziehungsweise 1,18 Prozent gegenüber dem Freitagsschluss (25.622,61 Punkte). Quelle: Yahoo Finanzen, Xetra-Schlusskurse."
+    },
+    {
+      "q": "Welche Termine sind am Dienstag, den 20.10.2026, wichtig?",
+      "a": "Erzeugerpreise (08:00 Uhr), ZEW-Konjunkturerwartungen (11:05 Uhr) und die Quartalsmitteilung der Deutschen Börse (gegen 19:00 Uhr). Im Wochenverlauf folgen Quartalszahlen von SAP und Tesla."
+    },
+    {
+      "q": "Was bedeutet der Test des Vortagestiefs?",
+      "a": "Gemeint ist, ob der Kurs bis an das Tief des Vortags (25.198,97 Punkte am 19.10.2026) heranrückt. Das ist eine technische Beobachtung und sagt nichts Sicheres über den weiteren Verlauf."
+    }
+  ]
+}

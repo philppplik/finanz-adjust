@@ -1,0 +1,33 @@
+{
+  "slug": "glossar-erzeugerpreise",
+  "title": "Erzeugerpreise einfach erklärt: Der Frühindikator aus der Fabrik",
+  "description": "Heute erscheinen die Erzeugerpreise für September. Was dieser Index misst, warum er der Inflation vorausläuft und wo die Zahlen herkommen.",
+  "section": "glossar",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/glossar-erzeugerpreise.jpg",
+  "body": "<p>Heute Morgen um 08:00 Uhr hat das Statistische Bundesamt die Erzeugerpreise für September veröffentlicht, so der Terminplan. Der Index der Erzeugerpreise gilt als einer der wichtigsten Vorboten für die Verbraucherinflation. Grund genug, ihn einmal einfach zu erklären.</p><h2>Was der Index misst</h2><p>Die Erzeugerpreise zeigen, zu welchen Preisen Unternehmen in Deutschland ihre gewerblichen Produkte verkaufen, also ab Werk, bevor Handel und Steuern ins Spiel kommen. Das Statistische Bundesamt erhebt die Daten monatlich und rechnet sie auf ein Basisjahr um. Aktuell gilt 2021 gleich 100. Zuletzt lag der Index im August 2026 bei 131,2 Punkten, wie die Übersicht des Statistischen Bundesamts zeigt.</p><h2>Warum der Index der Inflation vorausläuft</h2><p>Steigen die Preise ab Werk, geben Händler die höheren Kosten oft mit Verzögerung an die Kunden weiter. Darum schauen Börsen und Notenbanken auf die Erzeugerpreise, um die künftige Verbraucherinflation einzuschätzen. Der Zusammenhang ist aber nicht eins zu eins: Energie, Löhne und der Wettbewerb im Handel spielen ebenfalls eine Rolle.</p><h2>Einordnung für Einsteiger</h2><p>Ein einzelner Monatswert ist noch kein Trend. Erst mehrere Monate in eine Richtung zeigen, ob sich etwas Grundsätzliches ändert. Die Daten sind frei abrufbar beim Statistischen Bundesamt, in der Regel um den 20. eines Monats gegen 08:00 Uhr. Dieser Artikel erklärt einen Indikator und ist keine Anlageberatung. (Stand: 20.10.2026.)</p>",
+  "sources": [
+    {
+      "title": "Preisstatistik im Überblick - Statistisches Bundesamt (Destatis)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Ueberblick/_inhalt.html"
+    },
+    {
+      "title": "DAX schließt wegen Nahost-Risiken 1,2 Prozent tiefer (Terminhinweis Erzeugerpreise) - ad-hoc-news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-wegen-nahost-risiken-1-2-prozent-tiefer/70364715"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sind Erzeugerpreise?",
+      "a": "Die Preise, zu denen deutsche Unternehmen ihre gewerblichen Produkte ab Werk verkaufen. Erhoben vom Statistischen Bundesamt, Basisjahr 2021 = 100."
+    },
+    {
+      "q": "Wo stand der Index zuletzt?",
+      "a": "Im August 2026 bei 131,2 Punkten, laut der Preisstatistik-Übersicht des Statistischen Bundesamts. Der Septemberwert erscheint am 20.10.2026."
+    },
+    {
+      "q": "Warum interessiert das die Börse?",
+      "a": "Weil steigende Erzeugerpreise oft mit Verzögerung in den Verbraucherpreisen ankommen. Der Index gilt damit als Frühindikator für die Inflation."
+    }
+  ]
+}

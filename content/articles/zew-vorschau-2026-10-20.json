@@ -1,0 +1,37 @@
+{
+  "slug": "zew-vorschau-2026-10-20",
+  "title": "ZEW-Index heute um 11:05 Uhr: Das erwartet der Markt",
+  "description": "Heute erscheinen die ZEW-Konjunkturerwartungen für Oktober. Die Markterwartung liegt unter dem Septemberwert. Was der Index aussagt und was nicht (20.10.2026).",
+  "section": "einordnung",
+  "date": "2026-10-20T08:30:00+02:00",
+  "image": "/images/zew-vorschau-2026-10-20.jpg",
+  "body": "<p>Heute um 11:05 Uhr veröffentlicht das Zentrum für Europäische Wirtschaftsforschung (ZEW) in Mannheim seine Konjunkturerwartungen für Oktober. So steht es im offiziellen Veröffentlichungskalender des Instituts. Der Termin gilt an vielen Börsen als einer der wichtigsten Stimmungstermine des Monats für Deutschland.</p><h2>Was der ZEW-Index misst</h2><p>Für den Index befragt das ZEW monatlich bis zu 300 Expertinnen und Experten aus Banken, Versicherungen und Finanzabteilungen großer Unternehmen. Sie schätzen ein, wie sich die deutsche Wirtschaft in den kommenden sechs Monaten entwickelt. Ein Wert über null bedeutet: Im Schnitt erwarten die Befragten eine Verbesserung. Ein Wert unter null signalisiert eine pessimistische Mehrheit.</p><h2>Die Ausgangslage</h2><p>Im September lag der Index bei 34,7 Punkten und blieb damit unter der damaligen Prognose von 39,8 Punkten. Für die heutige Oktober-Veröffentlichung liegt die Markterwartung laut Investing.com bei 30,2 Punkten. Das wäre ein Rückgang gegenüber dem Vormonat. Wichtig: Das ist eine Erwartung aus Umfragen, keine Entscheidung und keine Vorbestimmung des tatsächlichen Werts.</p><h2>Warum der Termin bewegt</h2><p>Der ZEW-Index gilt als Frühindikator. Kommt er deutlich anders heraus als erwartet, reagieren oft der Euro und der Dax kurzfristig. Ein einzelner Monatswert sagt aber wenig über die tatsächliche Konjunktur aus. Er bildet Stimmung ab, keine harten Daten wie Produktion oder Aufträge. Wer langfristig schaut, sollte den Index daher im Zusammenhang mit anderen Daten lesen. (Stand aller Angaben: 20.10.2026, vor der Veröffentlichung um 11:05 Uhr.)</p>",
+  "sources": [
+    {
+      "title": "Veröffentlichungstermine ZEW-Konjunkturerwartungen 2026 (PDF) - ZEW",
+      "url": "https://www.zew.de/fileadmin/FTP/div/ZEW-Konjunkturerwartungen_Termine2026.pdf"
+    },
+    {
+      "title": "ZEW-Konjunkturerwartungen - ZEW Mannheim",
+      "url": "https://www.zew.de/publikationen/zew-gutachten-und-forschungsberichte/forschungsberichte/konjunktur/zew-finanzmarktreport"
+    },
+    {
+      "title": "Deutschland - ZEW Konjunkturerwartungen - Investing.com",
+      "url": "https://de.investing.com/economic-calendar/zew---konjunkturerwartungen-deutschland-144"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann erscheint der ZEW-Index am 20.10.2026?",
+      "a": "Laut Veröffentlichungskalender des ZEW um 11:05 Uhr."
+    },
+    {
+      "q": "Was erwarten die Märkte für Oktober?",
+      "a": "Laut Investing.com liegt die Prognose bei 30,2 Punkten nach 34,7 Punkten im September. Das ist eine Markterwartung, keine Festlegung."
+    },
+    {
+      "q": "Was bedeutet ein positiver ZEW-Wert?",
+      "a": "Ein Wert über null heißt, dass im Durchschnitt mehr befragte Finanzexperten eine Verbesserung der Wirtschaftslage in sechs Monaten erwarten als eine Verschlechterung."
+    }
+  ]
+}
