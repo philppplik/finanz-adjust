@@ -1,0 +1,460 @@
+{
+  "paket": "A",
+  "welle": 1,
+  "pfade": [
+    {
+      "id": "LP-FA-01",
+      "name": "Geld-Basics: Budget, Notgroschen, Inflation",
+      "frage": "Wie bekomme ich meine monatlichen Finanzen in den Griff, bevor ich ans Anlegen denke?",
+      "intro": "Dieser Pfad legt das Fundament: Du ordnest Einnahmen und Ausgaben in einem Haushaltsbudget, verstehst, wie viel Notfallreserve sinnvoll ist und warum Inflation unverzinste Guthaben langsam auffrisst. Am Ende weißt du, ob und ab wann Anlegen für dich überhaupt infrage kommt und welche Reihenfolge dabei gilt: erst Budget, dann Notgroschen, dann Schulden prüfen, dann anlegen.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 60-90 Minuten",
+      "voraussetzungen": [
+        "Keine"
+      ],
+      "lernziel": "Du kannst Einnahmen und Ausgaben ordnen, eine Reserve planen und erklären, warum Inflation Sparguthaben auffrisst.",
+      "steps": [
+        {
+          "slug": "/artikel/haushaltsbudget-aufstellen/",
+          "warum": "Grundlage: Ohne Überblick über Einnahmen und Ausgaben ist jede weitere Entscheidung blind."
+        },
+        {
+          "slug": "/artikel/notgroschen-wie-viel/",
+          "warum": "Die Reserve entscheidet, ob du im Ernstfall verkaufen musst oder ruhig bleiben kannst."
+        },
+        {
+          "slug": "/glossar/inflation/",
+          "warum": "Der Begriff erklärt, warum Geld unterm Kopfkissen jedes Jahr weniger kauft."
+        },
+        {
+          "slug": "/rechner/inflation/",
+          "warum": "Praxisschritt: Rechne selbst aus, was dein Guthaben in 10 oder 20 Jahren noch wert ist."
+        },
+        {
+          "slug": "/artikel/sparen-vs-anlegen/",
+          "warum": "Ordnet die Kernfrage: Was gehört aufs Sparkonto, was in die Anlage?"
+        },
+        {
+          "slug": "/artikel/finanzziele-setzen/",
+          "warum": "Ziele mit Betrag und Termin machen aus Wunschdenken einen Plan."
+        }
+      ],
+      "terms": [
+        "inflation",
+        "zins",
+        "tagesgeld",
+        "rendite"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Du hast 1.800 Euro netto und weißt am Monatsende nie, wo das Geld blieb. Was ist dein erster Schritt?",
+            "loesung": "Ein Haushaltsbudget aufstellen: Alle Einnahmen und Ausgaben einen Monat lang erfassen, in Fixkosten und variable Posten ordnen. Erst dann sichtbar, wo Spielraum ist."
+          },
+          {
+            "frage": "Nach dem Budget bleiben dir 250 Euro im Monat. Du hast keine Reserve. Wie verteilst du die 250 Euro sinnvoll?",
+            "loesung": "Zuerst den Notgroschen aufbauen (Richtwert 2-3 Monatsausgaben), erst danach an Anlegen denken. Eine Anlage ohne Reserve zwingt im Notfall zum Verkauf im falschen Moment."
+          },
+          {
+            "frage": "Dein Konto zeigt 10.000 Euro, die Inflation liegt bei 3 Prozent. Was bedeutet das konkret?",
+            "loesung": "Dein Geld verliert rund 300 Euro Kaufkraft pro Jahr, wenn es unverzinst liegt. Nach 10 Jahren kaufen 10.000 Euro nur noch, was heute etwa 7.400 Euro wert sind (Inflationsrechner)."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Welche Reihenfolge gilt vor dem Anlegen?",
+            "loesung": "Budget ordnen, Notgroschen aufbauen, teure Schulden tilgen, dann anlegen."
+          },
+          {
+            "frage": "Wie hoch sollte der Notgroschen grob sein?",
+            "loesung": "Etwa 2-3 Monatsausgaben (BaFin nennt rund drei Monatseinkommen als Richtwert)."
+          },
+          {
+            "frage": "Warum eignet sich Tagesgeld für die Reserve besser als Aktien?",
+            "loesung": "Es ist täglich verfügbar und schwankt nicht im Wert; Aktien können gerade im Notfall tief stehen."
+          },
+          {
+            "frage": "Was frisst unverzinste Guthaben langfristig auf?",
+            "loesung": "Die Inflation: Das Geld verliert jedes Jahr Kaufkraft."
+          },
+          {
+            "frage": "Was macht ein gutes Finanzziel aus?",
+            "loesung": "Es hat einen konkreten Betrag, einen Termin und eine monatliche Rate, die zum Budget passt."
+          }
+        ]
+      },
+      "danach": [
+        "LP-FA-02"
+      ]
+    },
+    {
+      "id": "LP-FA-02",
+      "name": "Zinsen & Tagesgeld verstehen",
+      "frage": "Wie funktionieren Zinsen, wie sicher ist mein Geld auf dem Konto und was bleibt nach Steuern übrig?",
+      "intro": "Dieser Pfad erklärt, woher Zinsen kommen, was Tagesgeld und Festgeld unterscheidet und wie die Einlagensicherung dein Guthaben bis 100.000 Euro pro Bank absichert. Du lernst außerdem, wie Zinsen in Deutschland besteuert werden und wie der Sparer-Pauschbetrag von 1.000 Euro dafür sorgt, dass kleine und mittlere Erträge steuerfrei bleiben können.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 60-90 Minuten",
+      "voraussetzungen": [
+        "LP-FA-01 hilfreich, aber nicht nötig"
+      ],
+      "lernziel": "Du verstehst, wie Zinsen entstehen, was Tagesgeld und Festgeld unterscheidet und wie Einlagensicherung funktioniert.",
+      "steps": [
+        {
+          "slug": "/glossar/zins/",
+          "warum": "Der Grundbegriff: Preis für geliehenes Geld."
+        },
+        {
+          "slug": "/artikel/leitzins-einfach-erklaert/",
+          "warum": "Zeigt, warum die Zentralbank die Zinsen am Markt vorgibt."
+        },
+        {
+          "slug": "/glossar/tagesgeld/",
+          "warum": "Das flexible Parkplatz-Konto für Reserve und Zwischenlager."
+        },
+        {
+          "slug": "/artikel/einlagensicherung-erklaert/",
+          "warum": "Was passiert, wenn die Bank scheitert: 100.000 Euro je Kunde und Bank, 7 Arbeitstage."
+        },
+        {
+          "slug": "/glossar/festgeld/",
+          "warum": "Zinsbindung gegen Verfügbarkeit getauscht."
+        },
+        {
+          "slug": "/vergleiche/tagesgeld/",
+          "warum": "Praxisschritt: Aktuelle Konditionen vergleichen statt dem Girokonto beim Parken zuzusehen."
+        },
+        {
+          "slug": "/artikel/zinsen-versteuern-einsteiger/",
+          "warum": "Abgeltungsteuer, Sparer-Pauschbetrag und Freistellungsauftrag verstehen."
+        }
+      ],
+      "terms": [
+        "zins",
+        "tagesgeld",
+        "festgeld",
+        "leitzins"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Deine Bank wirbt mit 3 Prozent Tagesgeldzins. Wie viel bleibt von 300 Euro Jahreszins nach Steuern übrig, wenn dein Pauschbetrag noch frei ist?",
+            "loesung": "Alles: Mit eingerichtetem Freistellungsauftrag bleiben Erträge bis 1.000 Euro pro Jahr steuerfrei."
+          },
+          {
+            "frage": "Deine Bank geht pleite, du hast dort 120.000 Euro auf Giro- und Tagesgeldkonto. Was ist abgesichert?",
+            "loesung": "100.000 Euro pro Kunde und Bank durch die gesetzliche Einlagensicherung; 20.000 Euro wären im schlechtesten Fall verloren."
+          },
+          {
+            "frage": "Du heiratest und führst ein Gemeinschaftskonto mit 150.000 Euro. Wie hoch ist die Absicherung?",
+            "loesung": "Gemeinschaftskonten sind bis 200.000 Euro abgesichert (100.000 Euro je Kontoinhaber)."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wie hoch ist die gesetzliche Einlagensicherung pro Kunde und Bank?",
+            "loesung": "100.000 Euro."
+          },
+          {
+            "frage": "Wie schnell muss die Entschädigung ausgezahlt werden?",
+            "loesung": "Innerhalb von sieben Arbeitstagen."
+          },
+          {
+            "frage": "Wie hoch ist der Sparer-Pauschbetrag für Alleinstehende?",
+            "loesung": "1.000 Euro pro Jahr (2.000 Euro für Zusammenveranlagte)."
+          },
+          {
+            "frage": "Wie hoch ist die Abgeltungsteuer?",
+            "loesung": "25 Prozent plus 5,5 Prozent Solidaritätszuschlag auf die Steuer."
+          },
+          {
+            "frage": "Sind Aktien im Depot von der Einlagensicherung gedeckt?",
+            "loesung": "Nein, sie brauchen sie nicht: Wertpapiere sind dein Eigentum und kein Teil der Insolvenzmasse der Bank."
+          }
+        ]
+      },
+      "danach": [
+        "LP-FA-03"
+      ]
+    },
+    {
+      "id": "LP-FA-03",
+      "name": "Was ist eine Aktie? Börse für Einsteiger",
+      "frage": "Was kaufe ich eigentlich, wenn ich eine Aktie kaufe, und woher kommt ihr Preis?",
+      "intro": "Dieser Pfad nimmt dir die Börse Schritt für Schritt auseinander: was eine Aktie rechtlich ist, wie ein Kurs im Orderbuch aus Angebot und Nachfrage entsteht, welche Rechte und Pflichten du als Aktionär hast und welche Risiken Einzelaktien tragen. Zum Abschluss lernst du, Aktienprofile systematisch zu lesen, statt dich von Kurscharts leiten zu lassen.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 90-120 Minuten",
+      "voraussetzungen": [
+        "LP-FA-01 empfohlen"
+      ],
+      "lernziel": "Du erklärst Aktie, Börse, Kurs und Dividende in eigenen Worten und kennst die wichtigsten Risiken.",
+      "steps": [
+        {
+          "slug": "/glossar/was-ist-eine-aktie/",
+          "warum": "Der Grundbegriff: Unternehmensanteil statt Kurszettel."
+        },
+        {
+          "slug": "/artikel/wie-entsteht-ein-boersenkurs/",
+          "warum": "Orderbuch, Geld- und Briefkurs, Meistausführungsprinzip verstehen."
+        },
+        {
+          "slug": "/glossar/boerse/",
+          "warum": "Was der Handelsplatz leistet und was nicht."
+        },
+        {
+          "slug": "/glossar/was-ist-eine-dividende/",
+          "warum": "Die Gewinnbeteiligung als eine von zwei Renditequellen."
+        },
+        {
+          "slug": "/artikel/aktionaer-rechte-pflichten/",
+          "warum": "Stimmrecht, Bezugsrecht, Auskunftsrecht nach dem Aktiengesetz."
+        },
+        {
+          "slug": "/artikel/aktie-risiken-einsteiger/",
+          "warum": "Kurs-, Totalverlust- und Konzentrationsrisiken realistisch einordnen."
+        },
+        {
+          "slug": "/artikel/aktien-profile-lesen/",
+          "warum": "Stammdaten, Geschäftsmodell und Kennzahlen in der richtigen Reihenfolge lesen."
+        }
+      ],
+      "terms": [
+        "was-ist-eine-aktie",
+        "boerse",
+        "was-ist-eine-dividende",
+        "geldkurs",
+        "briefkurs",
+        "xetra",
+        "diversifikation"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Im Orderbuch liegen 200 Stück Geldkurs zu 99,80 Euro und 250 Stück Briefkurs zu 100,00 Euro. Du willst sofort 250 Stück kaufen. Zu welchem Preis wirst du ausgeführt?",
+            "loesung": "Zu 100,00 Euro: Eine sofortige Kauforder trifft auf den besten Briefkurs; dieser Preis wird zum neuen Kurs."
+          },
+          {
+            "frage": "Deine Aktiengesellschaft erhöht das Kapital: Kurs 100 Euro, Bezugspreis 80 Euro, Verhältnis 5:1. Was ist dein Bezugsrecht rechnerisch wert?",
+            "loesung": "Etwa 3,33 Euro je alter Aktie: (100 minus 80) geteilt durch (5 plus 1). Nicht genutzte Bezugsrechte verfallen nach der Frist wertlos."
+          },
+          {
+            "frage": "Ein Bekannter hat sein ganzes Geld in einer einzigen Aktie, die gerade 40 Prozent gefallen ist. Welche Risikokategorien treffen hier zusammen?",
+            "loesung": "Kursrisiko und fehlende Diversifikation (Einzelrisiko), dazu womöglich Verhaltensrisiko beim Verkauf unter Druck."
+          },
+          {
+            "frage": "Ein Profil zeigt eine Dividendenrendite von 8 Prozent. Warum ist das allein kein Qualitätsmerkmal?",
+            "loesung": "Hohe Rendite kann Folge eines stark gefallenen Kurses sein; ohne Dividendenhistorie und Geschäftsmodell ist die Zahl nichtssagend."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wer legt den Börsenkurs fest?",
+            "loesung": "Niemand einzeln: Er entsteht im Orderbuch aus Angebot und Nachfrage."
+          },
+          {
+            "frage": "Was ist der Spread?",
+            "loesung": "Die Differenz zwischen Geldkurs (bestes Kaufgebot) und Briefkurs (bestes Verkaufsangebot)."
+          },
+          {
+            "frage": "Welche Rechte hat ein Aktionär nach dem Aktiengesetz?",
+            "loesung": "Vermögensrechte (Dividende, Bezugsrecht, Liquidationsanteil) und Verwaltungsrechte (Stimmrecht, HV-Teilnahme, Auskunft)."
+          },
+          {
+            "frage": "Gibt es bei Aktien eine Nachschusspflicht?",
+            "loesung": "Nein. Das Risiko ist auf den Einsatz begrenzt; danach haftest du nicht weiter."
+          },
+          {
+            "frage": "Was schützt vor Verlusten in allgemeinen Marktcrashs?",
+            "loesung": "Nichts zuverlässig: Diversifikation verteilt Einzelrisiken, aber im Crash fallen fast alle Aktien gleichzeitig."
+          }
+        ]
+      },
+      "danach": [
+        "LP-FA-04"
+      ]
+    },
+    {
+      "id": "LP-FA-04",
+      "name": "ETF-Einstieg: Was ist ein ETF und wie funktioniert er?",
+      "frage": "Wie kann ein einziges Produkt tausend Aktien bündeln und was kostet und riskiert das?",
+      "intro": "Dieser Pfad erklärt, wie ein Index aufgebaut ist, am Beispiel des MSCI World mit seinen rund 1.250 Werten und dem hohen US-Anteil, und wie ein ETF diesen Index abbildet. Du lernst Begriffe wie Replikation, Gesamtkostenquote und Thesaurierung einzuordnen und bekommst einen nüchternen Blick auf die Risiken, die auch breit gestreute Fonds tragen.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 60-90 Minuten",
+      "voraussetzungen": [
+        "LP-FA-03 empfohlen"
+      ],
+      "lernziel": "Du verstehst Aufbau, Kosten und Risiken eines ETF und kannst Begriffe wie Index, TER und Thesaurierung einordnen.",
+      "steps": [
+        {
+          "slug": "/glossar/was-ist-ein-etf/",
+          "warum": "Der Grundbegriff: börsengehandelter Indexfonds."
+        },
+        {
+          "slug": "/glossar/boersenindex/",
+          "warum": "Was ein Index misst und wie er regelbasiert zusammengesetzt wird."
+        },
+        {
+          "slug": "/artikel/etf-index-aufbau-msci-world/",
+          "warum": "Ländergewichte, Streubesitz-Gewichtung und was der Index nicht abdeckt."
+        },
+        {
+          "slug": "/glossar/gesamtkostenquote/",
+          "warum": "Die laufenden Kosten, die deine Rendite jedes Jahr direkt drücken."
+        },
+        {
+          "slug": "/glossar/thesaurierung/",
+          "warum": "Ausschütten oder wiederanlegen: Cashflow- und Steuerfrage."
+        },
+        {
+          "slug": "/artikel/etf-risiken-einsteiger/",
+          "warum": "Marktrisiko, Konzentration, Währung, Replikation und Sondervermögen."
+        },
+        {
+          "slug": "/rechner/etf-kosten/",
+          "warum": "Praxisschritt: Kostenquoten zweier Fonds über die Laufzeit vergleichen."
+        }
+      ],
+      "terms": [
+        "was-ist-ein-etf",
+        "boersenindex",
+        "gesamtkostenquote",
+        "thesaurierung",
+        "diversifikation"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Ein Bekannter sagt, der MSCI World sei weltweit gestreut. Was sagst du zum US-Anteil von rund 73 Prozent?",
+            "loesung": "Breit gestreut über viele Titel, aber konzentriert auf ein Land und den Technologiesektor; fällt der US-Markt, fällt der Index überproportional mit."
+          },
+          {
+            "frage": "Deine Fondsgesellschaft geht insolvent. Was passiert mit deinem ETF-Vermögen?",
+            "loesung": "Nichts: ETF-Vermögen ist Sondervermögen und gehört den Anlegern, nicht der Insolvenzmasse; es wird abgewickelt oder übertragen."
+          },
+          {
+            "frage": "Zwei ETFs bilden denselben Index ab, einer mit 0,12 Prozent, einer mit 0,45 Prozent Kostenquote. Worauf schaust du sonst noch?",
+            "loesung": "Replikationsart, Tracking Difference, Fondsgröße und Domizil; die Kostenquote allein sagt nicht, wie genau der Fonds dem Index folgt."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wie viele Aktien enthält der MSCI World ungefähr?",
+            "loesung": "Rund 1.250 aus 23 Industrieländern (Stand Faktenblatt 30.09.2026)."
+          },
+          {
+            "frage": "Sind Schwellenländer im MSCI World?",
+            "loesung": "Nein, die stecken im MSCI Emerging Markets; der ACWI bündelt beides."
+          },
+          {
+            "frage": "Was ist das größte Risiko eines breiten Aktien-ETF?",
+            "loesung": "Das Marktrisiko: In Crashs sind 30 bis 50 Prozent Verlust möglich, trotz aller Streuung."
+          },
+          {
+            "frage": "Was bedeutet thesaurierend?",
+            "loesung": "Der Fonds legt Erträge wie Dividenden automatisch wieder an statt sie auszuzahlen."
+          },
+          {
+            "frage": "Warum entsteht bei Welt-ETFs ein Währungsrisiko?",
+            "loesung": "Weil die enthaltenen Aktien in Fremdwährungen notieren; ein starker Euro drückt die Rendite in Euro gerechnet."
+          }
+        ]
+      },
+      "danach": [
+        "LP-FA-05"
+      ]
+    },
+    {
+      "id": "LP-FA-05",
+      "name": "Sparplan: Regelmäßig investieren, so funktioniert es",
+      "frage": "Wie richte ich einen Sparplan ein, was kostet er und wie flexibel ist er wirklich?",
+      "intro": "Dieser Pfad macht aus dem Sparplan kein Werbeversprechen, sondern ein verstandenes Werkzeug: Du lernst den Cost-Average-Effekt rechnerisch einordnen, siehst an einer Modellrechnung, wie stark kleine Kostenunterschiede über 30 Jahre wirken, und weißt am Ende, wie du Raten änderst, pausierst oder den Plan löschst, ohne Fehler zu machen.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 60-90 Minuten",
+      "voraussetzungen": [
+        "LP-FA-04 empfohlen"
+      ],
+      "lernziel": "Du verstehst Sparplan, Cost-Average-Effekt und Kosten und kannst ein Sparplan-Szenario selbst durchrechnen.",
+      "steps": [
+        {
+          "slug": "/glossar/sparplan/",
+          "warum": "Der Grundbegriff: automatischer Dauerauftrag aufs Depot."
+        },
+        {
+          "slug": "/artikel/cost-average-effekt-erklaert/",
+          "warum": "Die Mathematik hinter dem Durchschnittspreis und ihre Grenzen."
+        },
+        {
+          "slug": "/rechner/sparplan/",
+          "warum": "Praxisschritt: Eigenes Szenario mit Rate, Laufzeit und Renditeannahme durchrechnen."
+        },
+        {
+          "slug": "/rechner/zinseszins/",
+          "warum": "Praxisschritt: Zinseszinseffekt sichtbar machen, der hinter jeder Langzeitplanung steht."
+        },
+        {
+          "slug": "/artikel/sparplan-kosten-ausfuehrung/",
+          "warum": "Ausführungsgebühr, Gesamtkostenquote, Depotkosten und Bruchstücke verstehen."
+        },
+        {
+          "slug": "/artikel/sparplan-pausieren-anpassen-einsteiger/",
+          "warum": "Rate ändern, pausieren, Fonds wechseln: Flexibilität richtig nutzen."
+        }
+      ],
+      "terms": [
+        "sparplan",
+        "was-ist-ein-etf",
+        "gesamtkostenquote",
+        "rendite"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Du zahlst drei Monate je 100 Euro bei Kursen von 100, 50 und 80 Euro. Wie hoch ist dein durchschnittlicher Kaufpreis?",
+            "loesung": "Rund 70,59 Euro: 300 Euro geteilt durch 4,25 Anteile; unter dem Durchschnittskurs von rund 76,67 Euro."
+          },
+          {
+            "frage": "100 Euro monatlich, 30 Jahre, 5 Prozent vor Kosten. Was kostet ein halber Prozentpunkt laufender Gebühren?",
+            "loesung": "Rund 7.000 Euro Endvermögen: 83.573 Euro bei 5 Prozent gegenüber rund 76.223 Euro bei 4,5 Prozent (Modellrechnung)."
+          },
+          {
+            "frage": "Du wechselst den Job und hast zwei Monate Gehaltslücke. Sparplan stoppen oder Notgroschen anfassen?",
+            "loesung": "Plan kostenfrei pausieren: Die Anteile bleiben investiert, die Reserve bleibt für Notfälle erhalten."
+          },
+          {
+            "frage": "Der Markt fällt 20 Prozent und du willst pausieren, bis es wieder bergauf geht. Was ist das Problem?",
+            "loesung": "Du lässt ausgerechnet die billigen Kaufphasen aus und steigst wieder teuer ein; damit drehst du den Cost-Average-Effekt ins Gegenteil."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Warum liegt der Durchschnittspreis beim Sparplan unter dem Durchschnittskurs?",
+            "loesung": "Weil feste Raten bei niedrigen Kursen mehr Anteile kaufen; mathematisch entspricht der Preis dem harmonischen Mittel, das unter dem arithmetischen liegt."
+          },
+          {
+            "frage": "Schützt der Cost-Average-Effekt vor Verlusten?",
+            "loesung": "Nein: In fallenden Märkten verlierst du trotzdem Geld; der Effekt ist eine Rechengröße, keine Absicherung."
+          },
+          {
+            "frage": "Welche drei Kostenarten kann ein Sparplan haben?",
+            "loesung": "Ausführungsgebühr je Rate, laufende Fondskosten (Gesamtkostenquote) und Depotkosten."
+          },
+          {
+            "frage": "Was passiert beim Pausieren mit den gekauften Anteilen?",
+            "loesung": "Sie bleiben im Depot und entwickeln sich weiter; pausiert wird nur die Rate."
+          },
+          {
+            "frage": "Ist ein Fondswechsel im Sparplan steuerfrei?",
+            "loesung": "Das Umlenken künftiger Raten ja; das Umschichten vorhandener Anteile löst beim Verkauf Abgeltungsteuer auf Gewinne aus."
+          }
+        ]
+      },
+      "danach": [
+        "LP-FA-06"
+      ]
+    }
+  ]
+}
