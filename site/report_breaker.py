@@ -9,7 +9,7 @@ import sys
 PDF = '/berichte/aktuell.pdf'
 BRAND = 'fa'
 CSS = """<style id="report-breaker-style">
-.report-breaker{box-sizing:border-box;clear:both;display:block;margin:32px 0;padding:24px;border:1px solid var(--b);border-left:4px solid #1c66cb;border-radius:12px;background:var(--p);color:var(--hd);max-width:100%;overflow-wrap:anywhere}
+.report-breaker{box-sizing:border-box;clear:both;display:block;margin:32px 0;padding:24px;border:1px solid var(--b);border-radius:12px;background:var(--p);color:var(--hd);max-width:100%;overflow-wrap:anywhere}
 .report-breaker .rb-label{display:block;color:var(--ac);font:700 11px/1.4 system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;margin:0 0 10px}
 .report-breaker .rb-title{display:block;font:700 23px/1.25 system-ui,sans-serif;letter-spacing:-.02em;color:var(--hd);margin:0 0 10px}
 .report-breaker p.rb-copy{font:400 15px/1.6 system-ui,sans-serif;margin:0 0 18px;color:var(--mut)}

@@ -25,7 +25,7 @@ a{color:#1A6ACD;text-decoration:none}
 .cover p{margin:0;font-size:10.5pt;color:#dcecff}
 .wrap{padding:0 15mm}
 .kpis{display:flex;gap:4mm;margin:0 0 6mm}
-.kpi{flex:1;border:1px solid #dfe3ee;border-top:3px solid #0086F5;border-radius:4px;padding:3mm 3.5mm;background:#f7f9fd}
+.kpi{flex:1;border:1px solid #dfe3ee;border-radius:4px;padding:3mm 3.5mm;background:#f7f9fd}
 .kpi .n{font-size:8pt;color:#6b7080;text-transform:uppercase;letter-spacing:.05em}
 .kpi .p{font-size:16pt;font-weight:700;margin:1px 0}
 .kpi .c{font-size:9.5pt;font-weight:700}
@@ -39,7 +39,7 @@ tbody tr:nth-child(even) td{background:#f9fafd}
 .up{color:#0b8a5e}.dn{color:#c62828}.mut{color:#6b7080}
 .two{display:flex;gap:6mm}.two>div{flex:1;min-width:0}
 .fx{display:flex;flex-wrap:wrap;gap:3mm;margin-top:1mm}.fx span{border:1px solid #dfe3ee;background:#f7f9fd;border-radius:20px;padding:2px 10px;font-size:9pt}
-.art{border:1px solid #dfe3ee;border-left:4px solid #0086F5;border-radius:4px;padding:3.2mm 4mm;margin-bottom:3.2mm;break-inside:avoid}
+.art{border:1px solid #dfe3ee;border-radius:4px;padding:3.2mm 4mm;margin-bottom:3.2mm;break-inside:avoid}
 .art .m{font-size:8pt;color:#6b7080;text-transform:uppercase;letter-spacing:.05em}
 .art .t{font-size:11.5pt;font-weight:700;color:#0b2a55;margin:1px 0 2px;line-height:1.3}
 .art .d{font-size:9.3pt;color:#3a3f52}
