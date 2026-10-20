@@ -1,0 +1,71 @@
+{
+ "slug": "depotauszug-lesen-einsteiger",
+ "title": "Depotauszug lesen: Spalte für Spalte erklärt (mit fiktivem Beispiel)",
+ "description": "Ein fiktiver Depotauszug Zeile für Zeile: ISIN, Stück, Kurs, Kurswert und Anteil. Dazu, was auf dem Auszug fehlt und welche Dokumente du sammeln solltest.",
+ "section": "einordnung",
+ "date": "2026-10-20T09:20:00+02:00",
+ "image": "/images/depotauszug-lesen-einsteiger.jpg",
+ "body": "<div class=\"note\" style=\"margin:0 0 18px\"><b>Das Wichtigste in drei Punkten</b><ol style=\"margin:8px 0 0;padding-left:20px\"><li>Der Depotauszug zeigt Bestand, Kurswert und Summe. Der Wert ergibt sich aus Stück mal Kurs.</li><li>Ein Kurswert ist eine Momentaufnahme. Er sagt nicht, was du bei einem Verkauf nach Kosten und Steuern erhältst.</li><li>Prüfe Auszug und Abrechnungen regelmäßig und melde Abweichungen deinem Anbieter.</li></ol></div><p>Der Depotauszug ist die Visitenkarte deines Depots. Er sieht auf den ersten Blick nach Zahlenkolonne aus. Mit fünf Fragen liest du ihn aber schnell: Was besitze ich? Wie viele Stück? Zu welchem Kurs wird bewertet? Auf welchen Stichtag bezieht sich das? Welche Kosten und Steuern stehen dabei? Dieser Artikel führt dich durch einen fiktiven Auszug. Alle Namen, ISIN und Zahlen sind erfunden und dienen nur der Übung.</p>\n<h2>Was der Auszug ist und woher die Zahlen kommen</h2>\n<p>Wertpapiere wechseln laut Deutscher Börse digital den Besitzer: Sie werden einem Depot gutgeschrieben und aus einem anderen ausgebucht. Die Bank führt über den Bestand Buch und fasst ihn im Depotauszug zusammen. Je nach Anbieter findest du ihn im Online-Zugang oder bekommst ihn per Post oder E-Mail. Im Glossar steht die Kurzform unter <a href=\"/glossar/depotauszug/\">Depotauszug</a>. Die Bewertung nutzt in der Regel einen aktuellen Börsenkurs oder den letzten verfügbaren Kurs, dazu gehört stets ein Stichtag.</p>\n<h2>Ein fiktiver Auszug, Spalte für Spalte</h2><div class=\"tw\"><table><caption style=\"text-align:left;color:var(--mut);font-size:12.5px;padding:0 0 6px\">Fiktiver Depotauszug zum Stichtag 30.09.2026 (Beispielwerte)</caption><thead><tr><th style=\"text-align:left\">Bezeichnung</th><th style=\"text-align:left\">ISIN</th><th style=\"text-align:left\">Stück</th><th style=\"text-align:left\">Kurs</th><th style=\"text-align:left\">Kurswert</th><th style=\"text-align:left\">Anteil</th></tr></thead><tbody><tr><td style=\"text-align:left\">Beispiel Welt-ETF</td><td style=\"text-align:left\">DE0000000001</td><td style=\"text-align:left\">40</td><td style=\"text-align:left\">82,50 €</td><td style=\"text-align:left\">3.300,00 €</td><td style=\"text-align:left\">49,1 %</td></tr><tr><td style=\"text-align:left\">Beispiel Aktie AG</td><td style=\"text-align:left\">DE0000000002</td><td style=\"text-align:left\">15</td><td style=\"text-align:left\">120,00 €</td><td style=\"text-align:left\">1.800,00 €</td><td style=\"text-align:left\">26,8 %</td></tr><tr><td style=\"text-align:left\">Beispiel Anleihe 2030</td><td style=\"text-align:left\">DE0000000003</td><td style=\"text-align:left\">10</td><td style=\"text-align:left\">98,40 €</td><td style=\"text-align:left\">984,00 €</td><td style=\"text-align:left\">14,6 %</td></tr><tr><td style=\"text-align:left\">Beispiel Rohstoff-ETC</td><td style=\"text-align:left\">DE0000000004</td><td style=\"text-align:left\">20</td><td style=\"text-align:left\">31,25 €</td><td style=\"text-align:left\">625,00 €</td><td style=\"text-align:left\">9,3 %</td></tr><tr><td style=\"text-align:left\"><b>Summe</b></td><td style=\"text-align:left\"></td><td style=\"text-align:left\"></td><td style=\"text-align:left\"></td><td style=\"text-align:left\"><b>6.709,00 €</b></td><td style=\"text-align:left\">100,0 %</td></tr></tbody></table></div><ul><li><b>Bezeichnung:</b> Name des Wertpapiers. Wichtig ist die Art: Aktie, Fonds, ETF, Anleihe oder Rohstoffpapier.</li>\n<li><b>ISIN:</b> Die international eindeutige Kennnummer. Verwechslungen sind damit ausgeschlossen. Mehr im Glossar zu <a href=\"/glossar/isin/\">ISIN</a> und <a href=\"/glossar/wkn/\">WKN</a>.</li>\n<li><b>Stück:</b> Bei Anleihen steht hier oft ein Nennbetrag. Bei ETFs können Bruchstücke vorkommen, weil Sparpläne Teilstücke erzeugen.</li>\n<li><b>Kurs:</b> Bewertungskurs am Stichtag. Welcher Handelsplatz gilt, steht meist im Kleingedruckten.</li>\n<li><b>Kurswert:</b> Stück mal Kurs. Beispiel erste Zeile: 40 × 82,50 Euro = 3.300,00 Euro.</li>\n<li><b>Anteil:</b> Kurswert geteilt durch Gesamtwert, hier 3.300 geteilt durch 6.709,00 ergibt rund 49,19 Prozent.</li></ul><figure style=\"margin:20px 0\"><div style=\"background:var(--p);border:1px solid var(--b);border-radius:12px;padding:10px\"><svg role=\"img\" aria-label=\"Balkendiagramm: Anteile der vier Positionen am Gesamtwert des fiktiven Depots in Prozent\" viewBox=\"0 0 480 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"240\" x2=\"460\" y2=\"240\" style=\"stroke:var(--b)\" stroke-width=\"1\"/><rect x=\"42.0\" y=\"57.4\" width=\"66.0\" height=\"182.6\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"75.0\" y=\"50.4\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">49,20 %</text><text x=\"75.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Welt-ETF</text><text x=\"75.0\" y=\"279\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\"></text><rect x=\"152.0\" y=\"140.5\" width=\"66.0\" height=\"99.5\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"185.0\" y=\"133.5\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">26,80 %</text><text x=\"185.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Aktie AG</text><text x=\"185.0\" y=\"279\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\"></text><rect x=\"262.0\" y=\"185.4\" width=\"66.0\" height=\"54.6\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"295.0\" y=\"178.4\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">14,70 %</text><text x=\"295.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Anleihe 2030</text><text x=\"295.0\" y=\"279\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\"></text><rect x=\"372.0\" y=\"205.5\" width=\"66.0\" height=\"34.5\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"405.0\" y=\"198.5\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">9,30 %</text><text x=\"405.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Rohstoff-ETC</text><text x=\"405.0\" y=\"279\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\"></text></svg></div><figcaption style=\"font-size:12.5px;color:var(--mut);margin-top:6px\">Anteil jeder Position am Gesamtwert, berechnet aus der Tabelle oben. Fiktive Beispielwerte.</figcaption></figure><h2>Was auf dem Auszug oft fehlt</h2>\n<p>Der Kurswert ist nicht das, was auf dem Konto landet, wenn du abgibst. Es fehlen Entgelte, Spread und Steuern. Die Verbraucherzentrale zeigt, dass Handelsplatz und Zeitpunkt die Ausführung beeinflussen. Außerdem fehlen auf einem einfachen Auszug oft die Anschaffungskosten. Sie sind aber für die Steuer wichtig. Die BaFin schreibt zum Depotwechsel: Falsche oder fehlende Anschaffungsdaten sind ein steuerrechtliches Thema, bei dem Finanzbehörden oder Steuerberatung helfen. Bei deutschen Depots rechnet die Bank Gewinne und Verluste aus Kapitalerträgen im Kalenderjahr gegeneinander. § 43a Einkommensteuergesetz verpflichtet die auszahlende Stelle, negative Kapitalerträge einschließlich gezahlter Stückzinsen bis zur Höhe der positiven Erträge zu berücksichtigen. Diese Steuerthemen vertiefen wir im Pfad <a href=\"/artikel/abgeltungsteuer-erklaert/\">Steuern auf Geldanlage</a>.</p>\n<h2>Auszug, Abrechnung, Ertragsmitteilung: drei Dokumente</h2>\n<p>Der Auszug zeigt den Bestand. Die Wertpapierabrechnung gehört zu einer einzelnen Order und listet Stückzahl, Kurs, Handelsplatz, Entgelte und Schlusstag auf. Die Ertragsmitteilung belegt Ausschüttungen wie Dividenden oder Zinsen. Sammle alle drei Dokumente. Sie sind die Grundlage, wenn du später Zahlen prüfst oder bei einem Depotwechsel Daten abgleichst.</p>\n<h2>Auf diese Details kannst du achten</h2>\n<ul><li>Stimmen Stückzahlen mit deinen Abrechnungen überein?</li>\n<li>Ist das Bewertungsdatum nachvollziehbar?</li>\n<li>Sind Fremdwährungspapiere umgerechnet, und zu welchem Kurs?</li>\n<li>Erkennst du jedes Papier? Taucht eines auf, das du nicht beauftragt hast, frage sofort beim Anbieter nach.</li></ul>\n<p>Die BaFin weist zudem darauf hin, dass das deutsche System der Wertpapierverwahrung in der Regel keine Bruchstücke überträgt. Teilstücke aus Sparplänen können beim Wechsel Thema werden. Das Depotgesetz regelt, dass deine Papiere als Eigentum verwahrt werden. Du hast also Anspruch auf Herausgabe, falls etwas schiefgeht.</p>\n<h2>Übung mit Lösung</h2>\n<p>Nimm den fiktiven Auszug von oben. <b>Aufgabe 1:</b> Wie hoch ist der Kurswert der Anleihe-Zeile? Rechne 10 × 98,40 Euro. Lösung: 984,00 Euro. <b>Aufgabe 2:</b> Wie groß ist der Anteil des Rohstoff-ETC? 625 Euro geteilt durch 6.709 Euro ergeben rund 9,3 Prozent. <b>Aufgabe 3:</b> Der Kurs der Aktie steigt im Modell um 10 Prozent auf 132,00 Euro. Wie ändert sich der Gesamtwert, wenn alles andere gleich bleibt? 15 × 132,00 Euro sind 1.980,00 Euro, also 180,00 Euro mehr, der neue Gesamtwert beträgt 6.889,00 Euro. Das ist eine Rechenübung und keine Prognose. Kurse können ebenso fallen, und dann sinkt der Wert entsprechend.</p>\n<h2>Grenzen und Risiken</h2>\n<p>Ein fiktiver Auszug erklärt Struktur, keine Anlageentscheidung. Die Verteilung im Beispiel ist weder gut noch schlecht, sie ist eine Übung. Kurswerte schwanken und können fallen. Für Rechtsfragen, etwa zu Erbschaft oder Auslandsdepots, brauchst du Fachberatung.</p>\n<h2>So prüfst du es in der Praxis</h2>\n<p>Rufe in deinem Online-Zugang den aktuellen Auszug auf. Nimm einen Stift oder eine Tabelle und rechne für zwei Positionen nach: Stück mal Kurs gleich Kurswert. Notiere das Bewertungsdatum. Danach lies eine Abrechnung und finde die Entgelte. Mit der <a href=\"/aktien/\">Aktiensuche</a> von finanz adjust findest du ISIN und Basisdaten zu Aktien, ohne Bewertung.</p><h2>Weiterlesen</h2><ul><li><a href=\"/artikel/was-ist-ein-wertpapierdepot/\">Was ist ein Wertpapierdepot?</a></li><li><a href=\"/artikel/legitimation-und-ablauf-depoteroeffnung/\">Ablauf der Depoteröffnung</a></li><li><a href=\"/glossar/depotauszug/\">Glossar: Depotauszug</a></li><li><a href=\"/glossar/isin/\">Glossar: ISIN</a></li></ul><p style=\"font-size:13.5px;color:var(--mut)\">Stand: 20.10.2026. Bildungsinhalt, keine Anlageberatung oder Steuer-/Rechtsberatung. Mehr dazu im <a href=\"/risikohinweis/\">Risikohinweis</a>.</p>",
+ "sources": [
+  {
+   "title": "BaFin: Depotübertrag, Fachartikel",
+   "url": "https://bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2019/fa_bj_1908_Deptouebertragung.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "BaFin: Wertpapiergeschäfte, Fragen und Antworten",
+   "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/wertpapiergeschaefte/wertpapiergeschaefte_node.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Gesetz über die Verwahrung und Anschaffung von Wertpapieren (DepotG)",
+   "url": "https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Börsen organisieren Märkte",
+   "url": "https://www.deutsche-boerse.com/dbg-de/media/news-stories/explainers/wissen-finanzmarkt/boerse-maerkte-handel",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Einkommensteuergesetz § 43a: Bemessung der Kapitalertragsteuer",
+   "url": "https://www.gesetze-im-internet.de/estg/__43a.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Verbraucherzentrale: Neobroker, Kosten und Risiken (03.03.2026)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/neobroker-kosten-und-risiken-des-schnellen-wertpapierhandels-per-app-62408",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was zeigt ein Depotauszug?",
+   "a": "Bestand, Stückzahlen, Bewertungskurse und Kurswerte zu einem Stichtag."
+  },
+  {
+   "q": "Ist der Kurswert mein Verkaufserlös?",
+   "a": "Nein. Entgelte, Spread und Steuern kommen hinzu, und der Kurs ändert sich laufend."
+  },
+  {
+   "q": "Was ist eine ISIN?",
+   "a": "Eine international eindeutige Kennnummer für Wertpapiere."
+  },
+  {
+   "q": "Was tun bei einem Papier, das ich nicht kenne?",
+   "a": "Beim Anbieter nachfragen und die Abrechnung prüfen."
+  }
+ ],
+ "key_takeaways": [
+  "Kurswert = Stück × Kurs zum Stichtag.",
+  "Kosten und Steuern fehlen oft im Kurswert.",
+  "Abrechnung, Auszug und Ertragsmitteilung zusammen aufheben."
+ ],
+ "related": [
+  {
+   "url": "/artikel/abgeltungsteuer-erklaert/",
+   "title": "Abgeltungsteuer erklärt"
+  }
+ ],
+ "lernpfad_stand": "20.10.2026"
+}

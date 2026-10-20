@@ -1,0 +1,71 @@
+{
+ "slug": "orderarten-erklaert",
+ "title": "Orderarten erklärt: Market, Limit und Stop im Überblick",
+ "description": "Market Order, Limit Order, Stop Market und Stop Limit einfach erklärt, mit Beispiel zu Geld- und Briefkurs und den Grenzen der einzelnen Orderarten.",
+ "section": "einordnung",
+ "date": "2026-10-20T09:10:00+02:00",
+ "image": "/images/orderarten-erklaert.jpg",
+ "body": "<div class=\"note\" style=\"margin:0 0 18px\"><b>Das Wichtigste in drei Punkten</b><ol style=\"margin:8px 0 0;padding-left:20px\"><li>Die Market Order wird zum nächsten Preis ausgeführt, die Limit Order nur zu deinem Preis oder besser.</li><li>Stop-Orders lösen erst bei Erreichen eines Kurses aus. Eine Garantie auf Ausführung zum erwarteten Preis gibt es nicht.</li><li>Wie sich Orders genau verhalten, hängt vom Handelsplatz ab. Prüfe die Bedingungen deines Anbieters.</li></ol></div><p>Wenn du im Depot eine Order aufgibst, wählst du meist eine Orderart. Sie legt fest, wie dein Auftrag am Markt behandelt wird. Das klingt nach Details für Profis, entscheidet aber, zu welchem Preis und ob überhaupt ausgeführt wird. Dieser Artikel erklärt die vier Grundtypen und zwei Zusätze, die du in jeder App wiederfindest. Als Quelle dient vor allem die Beschreibung der Deutschen Börse für ihren Handelsplatz Xetra.</p>\n<h2>Wie ein Preis entsteht</h2>\n<p>Laut Deutscher Börse berechnet das Handelssystem den Preis aus den vorhandenen Kauf- und Verkaufsaufträgen. Im Grunde setzt er sich aus Angebot und Nachfrage zusammen. Zentral ist das Orderbuch: Links stehen die Kaufangebote (Geld, englisch Bid), rechts die Verkaufsangebote (Brief, englisch Ask). Oben steht jeweils das attraktivste Gebot. Es kommt der Preis zustande, zu dem die meisten Aktien den Besitzer wechseln können. Die Differenz zwischen bestem Kauf- und Verkaufskurs heißt Spread.</p><figure style=\"margin:20px 0\"><div style=\"background:var(--p);border:1px solid var(--b);border-radius:12px;padding:10px\"><svg role=\"img\" aria-label=\"Preisachse mit Geldkurs 100,00 Euro, Briefkurs 100,10 Euro und zwei Limits\" viewBox=\"0 0 480 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"280\" style=\"stroke:var(--b)\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"50.0\" r=\"8\" style=\"fill:var(--mut)\"/><text x=\"138\" y=\"51.0\" font-size=\"15\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Verkaufs-Limit 100,30</text><text x=\"138\" y=\"68.0\" font-size=\"12.5\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">wartet im Orderbuch</text><text x=\"100\" y=\"55.0\" font-size=\"13\" text-anchor=\"end\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">100.30</text><circle cx=\"120\" cy=\"120.0\" r=\"8\" style=\"fill:var(--ac)\"/><text x=\"138\" y=\"121.0\" font-size=\"15\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Briefkurs 100,10</text><text x=\"138\" y=\"138.0\" font-size=\"12.5\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Market-Kauf wird hier bedient</text><text x=\"100\" y=\"125.0\" font-size=\"13\" text-anchor=\"end\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">100.10</text><circle cx=\"120\" cy=\"190.0\" r=\"8\" style=\"fill:var(--dn)\"/><text x=\"138\" y=\"191.0\" font-size=\"15\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Geldkurs 100,00</text><text x=\"138\" y=\"208.0\" font-size=\"12.5\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">bester Kaufwunsch</text><text x=\"100\" y=\"195.0\" font-size=\"13\" text-anchor=\"end\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">100.00</text><circle cx=\"120\" cy=\"260.0\" r=\"8\" style=\"fill:var(--mut)\"/><text x=\"138\" y=\"261.0\" font-size=\"15\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Kauf-Limit 99,80</text><text x=\"138\" y=\"278.0\" font-size=\"12.5\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">wartet im Orderbuch</text><text x=\"100\" y=\"265.0\" font-size=\"13\" text-anchor=\"end\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">99.80</text></svg></div><figcaption style=\"font-size:12.5px;color:var(--mut);margin-top:6px\">Fiktives Beispiel, nicht maßstabsgetreu: Limits außerhalb der Spanne warten im Orderbuch, eine Market Order trifft auf den Briefkurs.</figcaption></figure><h2>Die vier Grundtypen</h2><div class=\"tw\"><table><caption style=\"text-align:left;color:var(--mut);font-size:12.5px;padding:0 0 6px\">Grundtypen nach der Beschreibung der Deutschen Börse (Xetra)</caption><thead><tr><th style=\"text-align:left\">Orderart</th><th style=\"text-align:left\">So funktioniert sie</th><th style=\"text-align:left\">Was du bedenken kannst</th></tr></thead><tbody><tr><td style=\"text-align:left\">Market Order</td><td style=\"text-align:left\">Unlimitierter Auftrag, wird bei der nächsten Preisfeststellung ausgeführt. Laut Xetra hat sie die höchste Ausführungswahrscheinlichkeit.</td><td style=\"text-align:left\">Den Preis kennst du vorher nicht genau. Bei engen Spannen und liquiden Papieren ist die Abweichung meist klein.</td></tr><tr><td style=\"text-align:left\">Limit Order</td><td style=\"text-align:left\">Wird zum angegebenen Preislimit oder besser ausgeführt: höchstens zum Limit gekauft, mindestens zum Limit abgegeben.</td><td style=\"text-align:left\">Wird das Limit nicht erreicht, bleibt der Auftrag offen oder läuft ohne Ausführung ab.</td></tr><tr><td style=\"text-align:left\">Stop Market Order</td><td style=\"text-align:left\">Wird erst beim Erreichen des Stop-Preises ins Orderbuch gestellt und dann wie eine Market Order bedient.</td><td style=\"text-align:left\">Keine Garantie, dass sie zum Stop-Preis läuft. Ausgeführt wird zum nächstmöglichen Preis.</td></tr><tr><td style=\"text-align:left\">Stop Limit Order</td><td style=\"text-align:left\">Beim Erreichen des Stop-Limits wird eine Limit Order ins Orderbuch gestellt.</td><td style=\"text-align:left\">Wenn der Kurs das Ausführungslimit überspringt, bleibt sie unausgeführt.</td></tr></tbody></table></div><h2>Beispiel: Limit gegen Market</h2>\n<p>Angenommen, ein Wertpapier steht bei Geldkurs 100,00 Euro und Briefkurs 100,10 Euro. Das Beispiel ist erfunden. Eine Market Order zum Kauf wird beim nächsten Preis ausgeführt, hier also nahe dem Briefkurs von 100,10 Euro. Bei 50 Stück sind das 5.005,00 Euro, ohne Entgelte. Eine Limit Order mit Limit 99,80 Euro wird erst ausgeführt, wenn Verkäufer bereit sind, zu 99,80 Euro oder niedriger abzugeben. Steigt der Kurs weg, bleibt sie ohne Ausführung. Du bekommst mit dem Limit Preissicherheit, mit der Market Order Ausführungssicherheit. Beides gleichzeitig gibt es nicht.</p>\n<h2>Zusätze: Gültigkeit und Teilausführung</h2>\n<p>Zusätzliche Ausführungsbedingungen und Gültigkeitsbeschränkungen können die Grundtypen weiter spezifizieren. Xetra nennt zum Beispiel die Immediate-or-cancel Order: Sie wird sofort und vollständig oder soweit wie möglich ausgeführt, nicht ausgeführte Teile werden gelöscht. Über Gültigkeitsbeschränkungen legst du fest, wie lange eine Order im Orderbuch bleibt, falls sie nicht vorher ausgeführt wird. In Apps heißt das oft \"gültig bis Tagesende\" oder \"bis Datum\". Außerdem kann eine Order teilweise ausgeführt werden. Dann siehst du auf der Abrechnung mehrere Teilausführungen, und manche Anbieter berechnen Entgelte pro Teil. Das steht im Preisverzeichnis.</p>\n<h2>Handelsplatz, Zeit und Spread spielen mit</h2>\n<p>Dieselbe Orderart verhält sich je nach Handelsplatz unterschiedlich. Die Verbraucherzentrale nennt Beispiele: Viele Neobroker arbeiten nur mit wenigen Handelsplätzen, etwa gettex, der Börse Hannover oder Xetra. Welche das sind, steht im Kleingedruckten der Kundendokumente. Außerdem rät sie zur Vorsicht bei Randzeiten: Wer früh morgens oder spät abends handelt, bekommt laut Verbraucherzentrale im Durchschnitt schlechtere Preise, weil die Geld-Brief-Spanne größer sein kann. Auf Xetra läuft der Handel montags bis freitags von 9:00 bis 17:30 Uhr, daneben gibt es Früh- und Späthandel im erweiterten Retail Service (8:00 bis 8:55 Uhr und ab 17:30 bis 22:00 Uhr). Mehr dazu im Artikel <a href=\"/artikel/boersenzeiten-und-handelsplaetze/\">Börsenzeiten und Handelsplätze</a>.</p>\n<h2>Typische Missverständnisse</h2>\n<p>Erstens: \"Limit heißt sicher.\" Ein Limit schützt nur den Preis, nicht die Ausführung. Zweitens: \"Stop heißt Notbremse.\" Nach der Beschreibung der Deutschen Börse wird eine ausgelöste Stop Market Order wie eine Market Order bedient, der Ausführungspreis kann also vom Stop-Preis abweichen, besonders wenn der Kurs springt. Drittens: \"Die Order läuft immer sofort.\" Außerhalb der Handelszeiten oder bei Auktionen wird erst bei der nächsten Preisfeststellung ausgeführt. Viertens: \"Teilausführung ist ein Fehler.\" Sie ist normal, wenn zum Limit nicht die ganze Stückzahl verfügbar ist.</p>\n<h2>Grenzen und Risiken</h2>\n<ul><li>Stop-Orders sind keine Absicherung gegen Verluste. Sie lösen aus und werden zum nächstmöglichen Preis ausgeführt, der deutlich vom Stop-Preis abweichen kann.</li>\n<li>Ein zu enges Limit kann dazu führen, dass nichts passiert. Ein fehlendes Limit kann zu einem unerwartet schlechten Preis führen.</li>\n<li>Prüfe vor dem Absenden die Vorschau mit Stückzahl, Limit, Handelsplatz und Gesamtkosten. Ein Tippfehler bei Stückzahl oder Limit kostet Geld.</li></ul>\n<h2>So prüfst du es in der Praxis</h2>\n<p>Öffne in deiner App die Orderstrecke eines Wertpapiers, ohne abzusenden. Such die Felder Handelsplatz, Orderart, Limit und Gültigkeit. Vergleiche Geld- und Briefkurs. Wie du Kurstabellen liest, zeigt der Artikel <a href=\"/artikel/kurstabelle-lesen/\">Kurstabelle lesen</a>. Die Abkürzungen im Glossar helfen: <a href=\"/glossar/geldkurs/\">Geldkurs</a>, <a href=\"/glossar/briefkurs/\">Briefkurs</a>, <a href=\"/glossar/spread/\">Spread</a>.</p><h2>Weiterlesen</h2><ul><li><a href=\"/artikel/was-ist-ein-wertpapierdepot/\">Was ist ein Wertpapierdepot?</a></li><li><a href=\"/artikel/broker-kosten-verstehen/\">Broker-Kosten verstehen</a></li><li><a href=\"/glossar/xetra/\">Glossar: Xetra</a></li><li><a href=\"/glossar/boersenplatz/\">Glossar: Börsenplatz</a></li></ul><p style=\"font-size:13.5px;color:var(--mut)\">Stand: 20.10.2026. Bildungsinhalt, keine Anlageberatung oder Steuer-/Rechtsberatung. Mehr dazu im <a href=\"/risikohinweis/\">Risikohinweis</a>.</p>",
+ "sources": [
+  {
+   "title": "Deutsche Börse Xetra: Ordertypen und -attribute",
+   "url": "https://www.cashmarket.deutsche-boerse.com/cash-de/Handel/ordertypen",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse Xetra: Grundtypen (Market, Limit, Stop)",
+   "url": "https://www.eurexgroup.com/xetra-de/handel/ordertypen/grundtypen",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse live: So wird der Aktienpreis ermittelt",
+   "url": "https://live.deutsche-boerse.com/einstieg/so-wird-der-aktienpreis-ermittelt",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Börsenlexikon Spread",
+   "url": "https://www.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/Spread-250438",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Verbraucherzentrale: Neobroker, Kosten und Risiken (03.03.2026)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/neobroker-kosten-und-risiken-des-schnellen-wertpapierhandels-per-app-62408",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Handelszeiten und -kalender",
+   "url": "https://www.cashmarket.deutsche-boerse.com/cash-de/Handel/handelskalender-und-zeiten",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Unterschied zwischen Market Order und Limit Order?",
+   "a": "Die Market Order wird zum nächsten Preis ausgeführt. Die Limit Order wird nur zum Limit oder besser ausgeführt (Deutsche Börse Xetra)."
+  },
+  {
+   "q": "Wird eine Stop-Order zum Stop-Preis ausgeführt?",
+   "a": "Nicht zwingend. Sie löst beim Stop-Preis aus und wird dann zum nächstmöglichen Preis bedient. Eine Garantie gibt es laut Xetra nicht."
+  },
+  {
+   "q": "Warum wird meine Limit Order nicht ausgeführt?",
+   "a": "Weil das Limit nicht erreicht wurde oder die Order abgelaufen ist."
+  },
+  {
+   "q": "Kann eine Order teilweise ausgeführt werden?",
+   "a": "Ja. Je nach Ordertyp und Markt kann nur ein Teil der Stückzahl zustande kommen. Die Bedingungen nennt dein Anbieter."
+  }
+ ],
+ "key_takeaways": [
+  "Market: Ausführung vor Preis. Limit: Preis vor Ausführung.",
+  "Stop-Orders garantieren keinen Ausführungspreis.",
+  "Handelsplatz und Zeit beeinflussen das Ergebnis."
+ ],
+ "related": [
+  {
+   "url": "/artikel/kurstabelle-lesen/",
+   "title": "Kurstabelle lesen"
+  }
+ ],
+ "lernpfad_stand": "20.10.2026"
+}
