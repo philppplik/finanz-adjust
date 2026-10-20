@@ -1,0 +1,74 @@
+{
+ "slug": "kapitalertragsteuer-beispiel-rechnung",
+ "title": "Kapitalertragsteuer: Beispielrechnung Schritt für Schritt",
+ "description": "Eine fiktive Rechnung mit 2.500 Euro Kapitalerträgen: Sparer-Pauschbetrag, 25 Prozent Steuer, Soli und Kirchensteuer, mit Tabelle und Rechenweg.",
+ "section": "einordnung",
+ "date": "2026-10-20T10:40:00+02:00",
+ "image": "/images/kapitalertragsteuer-beispiel-rechnung.jpg",
+ "body": "<div class=\"note\" style=\"margin:0 0 18px\"><b>Das Wichtigste in drei Punkten</b><ol style=\"margin:8px 0 0;padding-left:20px\"><li>Modellfall: 2.500 € Erträge, 1.000 € Pauschbetrag, 1.500 € steuerpflichtig.</li><li>Ohne Kirchensteuer ergeben sich 375,00 € Steuer und 20,62 € Soli, zusammen 395,62 €.</li><li>Mit Kirchensteuer verändert sich der Satz, weil sie die Bemessungsgrundlage mindert.</li></ol></div><p><em>Stand: 20.10.2026. Rechtslage und Werte können sich ändern, prüfe sie vor Entscheidungen bei den verlinkten Quellen.</em></p><p>Zahlen machen Regeln greifbar. Wir rechnen einen vollständig fiktiven Fall durch. Er ist ein Modell. Banken runden im Detail unterschiedlich, und dein Fall kann abweichen.</p>\n<h2>Die Ausgangslage</h2>\n<p>Annahme: Eine Person erhält im Jahr 2.500 Euro Kapitalerträge bei einer Bank, etwa aus Zinsen und Dividenden. Sie hat einen Freistellungsauftrag über 1.000 Euro (Sparer-Pauschbetrag nach § 20 Abs. 9 EStG) erteilt. Sie zahlt keine Kirchensteuer.</p><figure style=\"margin:20px 0\"><div style=\"background:var(--p);border:1px solid var(--b);border-radius:12px;padding:10px\"><svg role=\"img\" aria-label=\"Rechenweg im Modellfall ohne Kirchensteuer\" viewBox=\"0 0 480 350\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"4\" y=\"6\" width=\"472\" height=\"58\" rx=\"10\" style=\"fill:var(--p2);stroke:var(--b)\"/><circle cx=\"34\" cy=\"35\" r=\"15\" style=\"fill:var(--ac)\"/><text x=\"34\" y=\"41\" font-size=\"16\" text-anchor=\"middle\" style=\"fill:#fff\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">1</text><text x=\"62\" y=\"31\" font-size=\"16\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Erträge</text><text x=\"62\" y=\"51\" font-size=\"13\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">2.500 €</text><rect x=\"4\" y=\"74\" width=\"472\" height=\"58\" rx=\"10\" style=\"fill:var(--p2);stroke:var(--b)\"/><circle cx=\"34\" cy=\"103\" r=\"15\" style=\"fill:var(--ac)\"/><text x=\"34\" y=\"109\" font-size=\"16\" text-anchor=\"middle\" style=\"fill:#fff\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">2</text><text x=\"62\" y=\"99\" font-size=\"16\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Pauschbetrag</text><text x=\"62\" y=\"119\" font-size=\"13\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">− 1.000 €</text><rect x=\"4\" y=\"142\" width=\"472\" height=\"58\" rx=\"10\" style=\"fill:var(--p2);stroke:var(--b)\"/><circle cx=\"34\" cy=\"171\" r=\"15\" style=\"fill:var(--ac)\"/><text x=\"34\" y=\"177\" font-size=\"16\" text-anchor=\"middle\" style=\"fill:#fff\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">3</text><text x=\"62\" y=\"167\" font-size=\"16\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Steuerpflichtig</text><text x=\"62\" y=\"187\" font-size=\"13\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">1.500 €</text><rect x=\"4\" y=\"210\" width=\"472\" height=\"58\" rx=\"10\" style=\"fill:var(--p2);stroke:var(--b)\"/><circle cx=\"34\" cy=\"239\" r=\"15\" style=\"fill:var(--ac)\"/><text x=\"34\" y=\"245\" font-size=\"16\" text-anchor=\"middle\" style=\"fill:#fff\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">4</text><text x=\"62\" y=\"235\" font-size=\"16\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">KESt 25 %</text><text x=\"62\" y=\"255\" font-size=\"13\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">375,00 €</text><rect x=\"4\" y=\"278\" width=\"472\" height=\"58\" rx=\"10\" style=\"fill:var(--p2);stroke:var(--b)\"/><circle cx=\"34\" cy=\"307\" r=\"15\" style=\"fill:var(--ac)\"/><text x=\"34\" y=\"313\" font-size=\"16\" text-anchor=\"middle\" style=\"fill:#fff\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">5</text><text x=\"62\" y=\"303\" font-size=\"16\" text-anchor=\"start\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">Soli 5,5 %</text><text x=\"62\" y=\"323\" font-size=\"13\" text-anchor=\"start\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">20,62 €</text></svg></div><figcaption style=\"font-size:12.5px;color:var(--mut);margin-top:6px\">Rechenweg: 2.500 Euro Erträge, minus 1.000 Euro Pauschbetrag, 1.500 Euro steuerpflichtig, 375 Euro Steuer, 20,62 Euro Soli.</figcaption></figure><h2>Schritt für Schritt (ohne Kirchensteuer)</h2>\n<ol><li>Erträge 2.500,00 € minus Pauschbetrag 1.000,00 € = 1.500,00 € steuerpflichtig.</li>\n<li>Kapitalertragsteuer: 25 % von 1.500,00 € = 375,00 € (§ 32d Abs. 1 EStG).</li>\n<li>Solidaritätszuschlag: 5,5 % von 375,00 € = 20,625 €. Bruchteile eines Cents bleiben außer Ansatz (§ 4 SolzG), also 20,62 €.</li>\n<li>Summe: 395,62 €.</li></ol>\n<h2>Mit Kirchensteuer</h2>\n<p>Die Kirchensteuer wird bei der Abgeltungsteuer berücksichtigt, indem die Steuer nach der Formel in § 32d Abs. 1 EStG berechnet wird. Bei 9 Prozent Kirchensteuer (BZSt: 8 Prozent in Baden-Württemberg und Bayern) ergibt sich rechnerisch ein effektiver Satz von 100/(4+0,09) = 24,45 Prozent. Das ergibt hier ca. 366,75 Euro Steuer, ca. 33,01 Euro Kirchensteuer und ca. 20,17 Euro Soli.</p><div class=\"tw\"><table><caption style=\"text-align:left;color:var(--mut);font-size:12.5px;padding:0 0 6px\">Modellrechnung, fiktiv. Rundungen können je Bank abweichen.</caption><thead><tr><th style=\"text-align:left\">Position</th><th style=\"text-align:left\">Ohne KiSt</th><th style=\"text-align:left\">Mit 9 % KiSt (ca.)</th></tr></thead><tbody><tr><td style=\"text-align:left\">Steuerpflichtige Erträge</td><td style=\"text-align:left\">1.500,00 €</td><td style=\"text-align:left\">1.500,00 €</td></tr><tr><td style=\"text-align:left\">Kapitalertragsteuer</td><td style=\"text-align:left\">375,00 €</td><td style=\"text-align:left\">366,75 €</td></tr><tr><td style=\"text-align:left\">Solidaritätszuschlag</td><td style=\"text-align:left\">20,62 €</td><td style=\"text-align:left\">20,17 €</td></tr><tr><td style=\"text-align:left\">Kirchensteuer</td><td style=\"text-align:left\">0,00 €</td><td style=\"text-align:left\">33,01 €</td></tr><tr><td style=\"text-align:left\">Summe</td><td style=\"text-align:left\">395,62 €</td><td style=\"text-align:left\">419,93 €</td></tr></tbody></table></div><h2>Was sich ändert, wenn ...</h2>\n<ul><li>kein Freistellungsauftrag vorliegt: Die Bank rechnet auf 2.500 Euro, also 625,00 Euro Steuer und 34,37 Euro Soli.</li>\n<li>Verluste vorliegen: Die Bank gleicht sie im Kalenderjahr mit positiven Erträgen aus (§ 43a Abs. 3 EStG).</li>\n<li>ein Ehepaar zusammen veranlagt wird: Der Pauschbetrag beträgt 2.000 Euro, dann wären 500 Euro steuerpflichtig.</li></ul>\n<h2>Grenzen</h2>\n<p>Das Modell kennt weder Teilfreistellung bei Fonds noch ausländische Quellensteuer noch Vorabpauschale. Es soll nur die Rechenlogik zeigen. Vergangene Steuersätze sind kein verlässlicher Indikator für künftige. Prüfe aktuelle Werte bei den Quellen.</p><h2>Sensitivität: Wie ändert sich die Steuer mit den Erträgen?</h2><p>Fiktive Erträge, Pauschbetrag voll genutzt (1.000 €), keine Kirchensteuer.</p><div class=\"tw\"><table><thead><tr><th>Erträge</th><th>Steuerpflichtig</th><th>Steuer 25 %</th><th>Soli</th><th>Summe</th></tr></thead><tbody><tr><td>1.000 €</td><td>0 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td></tr><tr><td>1.500 €</td><td>500 €</td><td>125,00 €</td><td>6,87 €</td><td>131,87 €</td></tr><tr><td>2.500 €</td><td>1.500 €</td><td>375,00 €</td><td>20,62 €</td><td>395,62 €</td></tr><tr><td>5.000 €</td><td>4.000 €</td><td>1.000,00 €</td><td>55,00 €</td><td>1.055,00 €</td></tr></tbody></table></div><p><em>Modellrechnung. 5,5 % von 125 € sind 6,875 €, daher 6,87 €.</em></p><p>Die Tabelle zeigt: Die Steuer wächst linear, sobald der Pauschbetrag überschritten ist. Der Satz steigt nicht mit den Erträgen. Das unterscheidet die Abgeltungsteuer vom normalen Einkommensteuertarif.</p><h2>Weitere Modellfälle</h2><ul><li><strong>Ehepaar, gemeinsamer Auftrag:</strong> 2.500 € Erträge, 2.000 € Pauschbetrag, 500 € steuerpflichtig: 125,00 € + 6,87 € Soli = 131,87 €.</li><li><strong>Ohne Freistellungsauftrag:</strong> 2.500 € steuerpflichtig: 625,00 € + 34,37 € Soli = 659,37 €.</li><li><strong>Dividende mit Verlust:</strong> 600 € Dividende, 200 € Verlust bei derselben Bank, 400 € steuerpflichtig: 100,00 € + 5,50 € Soli = 105,50 €.</li><li><strong>Mit 8 % Kirchensteuer (BW, BY), 1.500 € steuerpflichtig:</strong> Satz 100/(4+0,08) = 24,51 %, Steuer ca. 367,65 €, Kirchensteuer ca. 29,41 €, Soli ca. 20,22 €, zusammen ca. 417,28 €.</li></ul><h2>So rechnest du selbst nach</h2><ol><li>Alle Erträge eines Jahres bei einer Bank addieren, Verluste abziehen.</li><li>Freigestellten Betrag abziehen.</li><li>Ohne Kirchensteuer: Rest mal 0,25, dazu 5,5 % davon (Cent-Bruchteile streichen).</li><li>Mit Kirchensteuer: Rest mal 1/(4+k) mal 100 Prozent, k = 0,08 oder 0,09, dann Kirchensteuer und Soli auf diese Steuer.</li></ol><p>Vergleiche das Ergebnis mit der Bescheinigung deiner Bank, siehe <a href=\"/artikel/steuerbescheinigung-lesen/\">Steuerbescheinigung lesen</a>. Abweichungen im Cent-Bereich sind normal. Die Rechnungen sind Modelle und kein Ersatz für Beratung.</p><h2>Häufige Fehler beim Selbstrechnen</h2><ul><li>Den Soli auf die Erträge statt auf die Steuer berechnen. Er beträgt 5,5 Prozent der Steuer, nicht der Erträge.</li><li>Den Pauschbetrag doppelt abziehen, wenn mehrere Banken im Spiel sind.</li><li>Cent-Bruchteile beim Soli aufrunden, obwohl sie entfallen (§ 4 SolzG).</li><li>Kirchensteuer addieren, ohne den Satz anzupassen. Die Formel in § 32d Abs. 1 EStG senkt den Steuersatz leicht.</li></ul><h2>Was du aus der Rechnung mitnehmen kannst</h2><p>Du siehst, wie groß der Hebel des Freistellungsauftrags ist: Im Modell spart er bei 2.500 Euro Erträgen 263,75 Euro (659,37 Euro gegenüber 395,62 Euro, gerundet nach Cent). Du siehst auch, dass Zuschläge die Last spürbar erhöhen können. Mehr nicht. Die Rechnung ist keine Prognose, und sie sagt nichts darüber, wie du anlegen solltest.</p><h2>Weiterlesen</h2><ul><li><a href=\"/artikel/abgeltungsteuer-erklaert/\">Abgeltungsteuer erklärt</a></li><li><a href=\"/artikel/sparer-pauschbetrag-freistellungsauftrag/\">Sparer-Pauschbetrag</a></li><li><a href=\"/risikohinweis/\">Risikohinweis</a></li></ul><p style=\"font-size:13.5px;color:var(--mut)\">Stand: 20.10.2026. Bildungsinhalt, keine Anlageberatung oder Steuer-/Rechtsberatung. Mehr dazu im <a href=\"/risikohinweis/\">Risikohinweis</a>.</p>",
+ "sources": [
+  {
+   "title": "EStG § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen",
+   "url": "https://www.gesetze-im-internet.de/estg/__32d.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "EStG § 20 Einkünfte aus Kapitalvermögen (Abs. 9 Sparer-Pauschbetrag)",
+   "url": "https://www.gesetze-im-internet.de/estg/__20.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "SolzG 1995 § 4 Bemessungsgrundlage und Zuschlagsatz",
+   "url": "https://www.gesetze-im-internet.de/solzg_1995/__4.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "BZSt: Hinweis zum Informationsaustausch zur Kirchensteuer (Mustertext)",
+   "url": "https://www.bzst.de/SharedDocs/Downloads/DE/KiStA/Widerspruch_Mustertext.pdf?__blob=publicationFile&v=10",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "EStG § 43a Bemessung der Kapitalertragsteuer",
+   "url": "https://www.gesetze-im-internet.de/estg/__43a.html",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Ist die Rechnung verbindlich?",
+   "a": "Nein, sie ist ein Modell. Dein tatsächlicher Steuerabzug kann wegen Rundung, Verlusten oder Kirchensteuer abweichen."
+  },
+  {
+   "q": "Warum 20,62 und nicht 20,63 Euro Soli?",
+   "a": "Bruchteile eines Cents bleiben außer Ansatz (§ 4 SolzG), es wird nicht aufgerundet."
+  },
+  {
+   "q": "Wie hoch ist die Kirchensteuer?",
+   "a": "8 Prozent in Baden-Württemberg und Bayern, sonst 9 Prozent, laut BZSt. Sie wird auf die Steuer berechnet."
+  },
+  {
+   "q": "Was ist ohne Freistellungsauftrag?",
+   "a": "Die Bank rechnet ohne Abzug des Pauschbetrags. Du kannst über die Steuererklärung Steuer erstattet bekommen."
+  },
+  {
+   "q": "Wieso steigt der Satz nicht, wenn ich mehr verdiene?",
+   "a": "Auf Kapitalerträge gilt ein fester Satz von 25 Prozent, nicht der progressive Einkommensteuertarif (§ 32d EStG)."
+  },
+  {
+   "q": "Kann ich das mit einem Rechner prüfen?",
+   "a": "Ein Taschenrechner genügt. Für Vorsteuer-Entwicklungen helfen unsere Rechner unter /rechner/, die Steuer rechnen sie nicht."
+  }
+ ],
+ "key_takeaways": [
+  "375,00 € Steuer und 20,62 € Soli im Modell.",
+  "Soli wird abgeschnitten, nicht gerundet.",
+  "Kirchensteuer ändert den Satz."
+ ],
+ "related": [
+  {
+   "url": "/artikel/abgeltungsteuer-erklaert/",
+   "title": "Abgeltungsteuer"
+  }
+ ],
+ "lernpfad_stand": "20.10.2026"
+}
