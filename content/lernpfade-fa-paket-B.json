@@ -1,0 +1,276 @@
+{
+ "paket": "B1",
+ "stand": "20.10.2026",
+ "lernpfade": [
+  {
+   "id": "LP-FA-06",
+   "name": "Depot und Broker verstehen",
+   "frage": "Was brauche ich, um ein Depot zu eröffnen, und worauf achte ich beim Vergleich?",
+   "intro": "Bevor du ein Wertpapier handeln kannst, brauchst du ein Depot bei einer Bank oder einem Broker. Dieser Pfad erklärt, was ein Depot ist, aus welchen Kosten sich Handel zusammensetzt, welche Orderarten es gibt und wie die Eröffnung abläuft. Am Ende kannst du einen Depotauszug lesen und Anbieter nach Kriterien vergleichen. Empfehlungen für einzelne Anbieter gibt es hier nicht, nur Mechanik und Prüffragen.",
+   "level": "Einsteiger",
+   "zielgruppe": "Menschen, die ein Wertpapierdepot eröffnen wollen oder gerade eröffnet haben",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "keine",
+   "lernziel": "Du kennst Depottypen, Kostenbestandteile und Orderarten und kannst Broker nach Kriterien (nicht Empfehlung) vergleichen.",
+   "steps": [
+    {
+     "slug": "/artikel/was-ist-ein-wertpapierdepot/",
+     "warum": "Grundlage: Was ein Depot ist und was mit deinen Wertpapieren passiert."
+    },
+    {
+     "slug": "/vergleiche/depot/",
+     "warum": "Zeigt, nach welchen Kriterien Anbieter vergleichbar sind."
+    },
+    {
+     "slug": "/artikel/broker-kosten-verstehen/",
+     "warum": "Kostenarten verstehen, bevor du vergleichst."
+    },
+    {
+     "slug": "/artikel/orderarten-erklaert/",
+     "warum": "Wie Aufträge ausgeführt werden."
+    },
+    {
+     "slug": "/glossar/geldkurs/",
+     "warum": "Geld- und Briefkurs als Basis für Spread und Ausführung."
+    },
+    {
+     "slug": "/artikel/legitimation-und-ablauf-depoteroeffnung/",
+     "warum": "Was bei der Eröffnung passiert."
+    },
+    {
+     "slug": "/artikel/depotauszug-lesen-einsteiger/",
+     "warum": "Dein Depot nach der Eröffnung lesen."
+    }
+   ],
+   "terms": [
+    "depotauszug",
+    "geldkurs",
+    "briefkurs",
+    "spread",
+    "isin",
+    "wkn",
+    "xetra",
+    "boersenplatz",
+    "gesamtkostenquote",
+    "was-ist-eine-aktie"
+   ],
+   "abschluss_check": {
+    "praxisfaelle": [
+     {
+      "szenario": "Zwei fiktive Broker: A mit 0 € Ordergebühr, aber breiterem Spread, B mit 4,90 € je Order. Nenne die Prüffragen, mit denen du vergleichst.",
+      "loesung": "Gesamtkosten je Order inkl. Spread, Handelsplatz, Fremdspesen, Depotgebühr, Einlagen- und Verwahrungsregeln prüfen; kein Anbieter ist per se günstiger."
+     },
+     {
+      "szenario": "Du willst wissen, warum dein Limit-Auftrag nicht ausgeführt wurde. Wo suchst du?",
+      "loesung": "Limit zu weit vom aktuellen Kurs, Handelszeiten, Handelsplatz, Orderlaufzeit prüfen."
+     },
+     {
+      "szenario": "Auf deinem Depotauszug stehen ISIN, Stückzahl und Kurs. Wie berechnest du den Marktwert?",
+      "loesung": "Stückzahl mal Kurs; Währung und Stichtag beachten."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was unterscheidet Depot und Verrechnungskonto?",
+      "loesung": "Das Depot verwahrt Wertpapiere, das Verrechnungskonto wickelt Zahlungen ab."
+     },
+     {
+      "frage": "Was beschreibt der Spread?",
+      "loesung": "Die Differenz zwischen Geld- und Briefkurs."
+     },
+     {
+      "frage": "Welche Orderart begrenzt den Preis?",
+      "loesung": "Die Limit-Order."
+     },
+     {
+      "frage": "Wofür braucht die Bank eine Legitimation?",
+      "loesung": "Geldwäschegesetz: Identifizierung der Kunden."
+     },
+     {
+      "frage": "Nenne zwei Bestandteile der Kosten.",
+      "loesung": "z. B. Ordergebühr und Spread, Depotgebühr, Fremdspesen."
+     }
+    ]
+   },
+   "danach": [
+    "LP-FA-07",
+    "LP-FA-08"
+   ]
+  },
+  {
+   "id": "LP-FA-07",
+   "name": "Börsenmeldungen und Kurstabellen lesen",
+   "frage": "Was bedeuten Punkte, Prozent und Indexstände in einer Börsenmeldung?",
+   "intro": "Börsenmeldungen sind voller Zahlen: Punkte, Prozent, Indexstände, Geld- und Briefkurse. Dieser Pfad zeigt dir, wie du sie liest. Du lernst die wichtigsten Indizes kennen, rechnest Punkte in Prozent um, liest eine Kurstabelle und eine Heatmap und erfährst, wann welche Börse offen ist. Am Ende prüfst du Nachrichten mit fünf einfachen Fragen. Alle Beispiele sind Modelle.",
+   "level": "Einsteiger",
+   "zielgruppe": "Menschen, die Börsennachrichten verstehen wollen",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "keine",
+   "lernziel": "Du liest eine Börsenmeldung und einen Kurszettel und verstehst Punkte, Prozent und Indexstände.",
+   "steps": [
+    {
+     "slug": "/glossar/was-ist-der-dax/",
+     "warum": "Einstieg über den bekanntesten deutschen Index."
+    },
+    {
+     "slug": "/artikel/indizes-der-welt-ueberblick/",
+     "warum": "Die wichtigsten Indizes und wie sie gebaut sind."
+    },
+    {
+     "slug": "/artikel/prozent-punkte-und-kursstaende/",
+     "warum": "Rechnen mit Punkten und Prozenten."
+    },
+    {
+     "slug": "/artikel/kurstabelle-lesen/",
+     "warum": "Spalten einer Kurstabelle."
+    },
+    {
+     "slug": "/artikel/maerkte-heatmap-lesen/",
+     "warum": "Farben und Kachelgrößen richtig deuten."
+    },
+    {
+     "slug": "/artikel/boersenzeiten-und-handelsplaetze/",
+     "warum": "Wann und wo gehandelt wird."
+    },
+    {
+     "slug": "/artikel/nachrichten-einordnen-einsteiger/",
+     "warum": "Meldungen prüfen."
+    }
+   ],
+   "terms": [
+    "boersenindex",
+    "kursindex",
+    "performanceindex",
+    "was-ist-der-dax",
+    "geldkurs",
+    "briefkurs",
+    "spread",
+    "xetra",
+    "boersenplatz"
+   ],
+   "abschluss_check": {
+    "praxisfaelle": [
+     {
+      "szenario": "Ein fiktiver Index fällt von 20.000 auf 19.600 Punkte. Wie viel Prozent sind das?",
+      "loesung": "400/20.000 = 2 Prozent Minus."
+     },
+     {
+      "szenario": "Eine Heatmap zeigt eine große rote Kachel. Was weißt du, was nicht?",
+      "loesung": "Die Farbe zeigt die Tagesveränderung, die Größe richtet sich nach der Darstellungslogik; Ursache und Zukunft folgen daraus nicht."
+     },
+     {
+      "szenario": "Eine Schlagzeile sagt \"Aktie bricht ein\". Welche Fragen stellst du?",
+      "loesung": "Quelle, Zahl, Zeitraum, Vergleichswert, Ursache, fehlende Risiken."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was ist ein Performanceindex?",
+      "loesung": "Ein Index, der Erträge wie Dividenden berücksichtigt."
+     },
+     {
+      "frage": "Was ist der Unterschied zwischen Punkten und Prozent?",
+      "loesung": "Punkte sind absolute Indexveränderung, Prozent die relative."
+     },
+     {
+      "frage": "Was zeigt der Geldkurs?",
+      "loesung": "Den Preis, zu dem Käufer bereit sind zu kaufen."
+     },
+     {
+      "frage": "Warum können Handelsplätze unterschiedliche Kurse zeigen?",
+      "loesung": "Eigene Orderbücher und Handelszeiten."
+     },
+     {
+      "frage": "Nenne ein Warnzeichen bei Anlagetipps.",
+      "loesung": "z. B. Gewinnversprechen oder Zeitdruck."
+     }
+    ]
+   },
+   "danach": [
+    "LP-FA-06",
+    "LP-FA-08"
+   ]
+  },
+  {
+   "id": "LP-FA-08",
+   "name": "Steuern auf Kapitalerträge: Grundlagen",
+   "frage": "Wie werden Kapitalerträge besteuert, und was muss ich selbst tun?",
+   "intro": "Auf Kapitalerträge fällt in Deutschland meist Abgeltungsteuer an. Dieser Pfad erklärt in groben Zügen, wie sie funktioniert, was der Sparer-Pauschbetrag und der Freistellungsauftrag bewirken, wie du eine Steuerbescheinigung liest und wie eine Beispielrechnung aussieht. Zum Schluss erfährst du, wann Beratung sinnvoll sein kann. Das ist allgemeine Bildung, keine Steuerberatung.",
+   "level": "Einsteiger",
+   "zielgruppe": "Menschen mit Zinsen, Dividenden oder Kursgewinnen",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "keine",
+   "lernziel": "Du verstehst Abgeltungsteuer, Sparer-Pauschbetrag und Freistellungsauftrag in groben Zügen.",
+   "steps": [
+    {
+     "slug": "/artikel/abgeltungsteuer-erklaert/",
+     "warum": "Grundprinzip."
+    },
+    {
+     "slug": "/artikel/sparer-pauschbetrag-freistellungsauftrag/",
+     "warum": "Wie Erträge steuerfrei bleiben."
+    },
+    {
+     "slug": "/artikel/steuerbescheinigung-lesen/",
+     "warum": "Unterlagen der Bank deuten."
+    },
+    {
+     "slug": "/artikel/kapitalertragsteuer-beispiel-rechnung/",
+     "warum": "Rechnung an einem Modellfall."
+    },
+    {
+     "slug": "/artikel/wo-steuerberater-noetig-ist/",
+     "warum": "Grenzen der Selbsthilfe."
+    }
+   ],
+   "terms": [
+    "inflation",
+    "rendite",
+    "ausschuettung",
+    "thesaurierung"
+   ],
+   "abschluss_check": {
+    "praxisfaelle": [
+     {
+      "szenario": "Fiktiv: 3.000 € Erträge, Freistellungsauftrag 1.000 €, keine Kirchensteuer. Steuer und Soli?",
+      "loesung": "2.000 € steuerpflichtig: 500 € Steuer, 27,50 € Soli, zusammen 527,50 €."
+     },
+     {
+      "szenario": "Du hast zwei Banken und 1.000 € Pauschbetrag. Wie verteilst du?",
+      "loesung": "Aufträge dürfen in Summe 1.000 € nicht übersteigen; Verteilung nach erwarteten Erträgen."
+     },
+     {
+      "szenario": "Du hast ein Auslandsdepot. Reicht der Abzug der Bank?",
+      "loesung": "Oft nicht, dann musst du selbst erklären; Beratung kann sinnvoll sein."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wie hoch ist der Steuersatz auf Kapitalerträge?",
+      "loesung": "25 Prozent plus Soli und ggf. Kirchensteuer."
+     },
+     {
+      "frage": "Wie hoch ist der Sparer-Pauschbetrag?",
+      "loesung": "1.000 €, bei Zusammenveranlagung 2.000 €."
+     },
+     {
+      "frage": "Was braucht ein Freistellungsauftrag?",
+      "loesung": "Steuer-Identifikationsnummer."
+     },
+     {
+      "frage": "Wann gilt die Steuer als abgegolten?",
+      "loesung": "Wenn die Bank sie abgeführt hat, in der Regel."
+     },
+     {
+      "frage": "Was ist die Anlage KAP?",
+      "loesung": "Anlage der Steuererklärung für Kapitalerträge."
+     }
+    ]
+   },
+   "danach": [
+    "LP-FA-06",
+    "LP-FA-07"
+   ]
+  }
+ ]
+}
