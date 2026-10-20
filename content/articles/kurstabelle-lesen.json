@@ -1,0 +1,71 @@
+{
+ "slug": "kurstabelle-lesen",
+ "title": "Kurstabelle lesen: Geld, Brief, Vortag und Spanne erklärt",
+ "description": "Eine fiktive Kurstabelle Spalte für Spalte: letzter Preis, Veränderung zum Vortag, Geld- und Briefkurs und die Spanne. Mit Rechenweg.",
+ "section": "einordnung",
+ "date": "2026-10-20T09:35:00+02:00",
+ "image": "/images/kurstabelle-lesen.jpg",
+ "body": "<div class=\"note\" style=\"margin:0 0 18px\"><b>Das Wichtigste in drei Punkten</b><ol style=\"margin:8px 0 0;padding-left:20px\"><li>Die wichtigsten Spalten: letzter Preis, Veränderung zum Vortag, Geld und Brief.</li><li>Die Spanne zwischen Geld und Brief ist ein Kostenposten. Bei selten gehandelten Papieren ist sie oft größer.</li><li>Jede Zahl gehört zu einem Zeitpunkt und einem Handelsplatz. Ohne beides ist ein Vergleich unsicher.</li></ol></div><p>Kurstabellen sehen nach Zahlensalat aus. Mit etwas Übung liest du sie in Sekunden. Dieser Artikel nimmt eine fiktive Kurstabelle und erklärt Spalte für Spalte, was sie sagt und was nicht. Name, Kurse und Werte sind erfunden.</p>\n<h2>Eine Beispieltabelle</h2><div class=\"tw\"><table><caption style=\"text-align:left;color:var(--mut);font-size:12.5px;padding:0 0 6px\">Fiktive Kurstabelle (Beispielwerte in Euro)</caption><thead><tr><th style=\"text-align:left\">Name</th><th style=\"text-align:left\">Letzter Preis</th><th style=\"text-align:left\">Vortag</th><th style=\"text-align:left\">Veränderung</th><th style=\"text-align:left\">Geld</th><th style=\"text-align:left\">Brief</th><th style=\"text-align:left\">Spanne</th></tr></thead><tbody><tr><td style=\"text-align:left\">Beispiel Aktie A</td><td style=\"text-align:left\">52,40</td><td style=\"text-align:left\">51,90</td><td style=\"text-align:left\">+0,96 %</td><td style=\"text-align:left\">52,38</td><td style=\"text-align:left\">52,42</td><td style=\"text-align:left\">0,08 %</td></tr><tr><td style=\"text-align:left\">Beispiel Aktie B</td><td style=\"text-align:left\">118,20</td><td style=\"text-align:left\">119,10</td><td style=\"text-align:left\">-0,76 %</td><td style=\"text-align:left\">118,10</td><td style=\"text-align:left\">118,30</td><td style=\"text-align:left\">0,17 %</td></tr><tr><td style=\"text-align:left\">Beispiel Aktie C</td><td style=\"text-align:left\">7,86</td><td style=\"text-align:left\">7,80</td><td style=\"text-align:left\">+0,77 %</td><td style=\"text-align:left\">7,80</td><td style=\"text-align:left\">7,92</td><td style=\"text-align:left\">1,53 %</td></tr></tbody></table></div><h2>Spalte für Spalte</h2>\n<ul><li><b>Letzter Preis:</b> Der zuletzt zustande gekommene Preis. Er entsteht laut Deutscher Börse aus den vorhandenen Kauf- und Verkaufsaufträgen im Orderbuch. Er ist keine Garantie, dass du genau dazu handeln kannst.</li>\n<li><b>Vortag und Veränderung:</b> Der Schlusskurs des Vortags und die prozentuale Veränderung dazu. Die Börse Frankfurt zeigt in ihren Listen die Spalten Name, Zum Vortag und Letzter Preis. Rechnung für Aktie A: 52,40 geteilt durch 51,90 minus 1 ergibt plus 0,96 Prozent.</li>\n<li><b>Geld (Bid):</b> Der Preis, zu dem Käufer bereit sind zu kaufen. Wenn du abgibst, bekommst du ihn. Laut Börse Frankfurt ist beim Verkauf der Geldkurs wichtig.</li>\n<li><b>Brief (Ask):</b> Der Preis, zu dem Verkäufer bereit sind abzugeben. Beim Kauf zählt der Briefkurs. Der Briefkurs liegt über dem Geldkurs.</li>\n<li><b>Spanne (Spread):</b> Die Differenz. Je enger sie ist, desto niedriger sind laut Deutscher Börse die Transaktionskosten und desto höher ist die Marktliquidität.</li></ul><figure style=\"margin:20px 0\"><div style=\"background:var(--p);border:1px solid var(--b);border-radius:12px;padding:10px\"><svg role=\"img\" aria-label=\"Balkendiagramm: Geld-Brief-Spannen der drei fiktiven Aktien in Prozent vom Mittelkurs\" viewBox=\"0 0 480 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"240\" x2=\"460\" y2=\"240\" style=\"stroke:var(--b)\" stroke-width=\"1\"/><rect x=\"49.3\" y=\"230.5\" width=\"88.0\" height=\"9.5\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"93.3\" y=\"223.5\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">0,08 %</text><text x=\"93.3\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Aktie A</text><rect x=\"196.0\" y=\"219.7\" width=\"88.0\" height=\"20.3\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"240.0\" y=\"212.7\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">0,17 %</text><text x=\"240.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Aktie B</text><rect x=\"342.7\" y=\"57.4\" width=\"88.0\" height=\"182.6\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"386.7\" y=\"50.4\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">1,53 %</text><text x=\"386.7\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Aktie C</text></svg></div><figcaption style=\"font-size:12.5px;color:var(--mut);margin-top:6px\">Spanne als Prozent des Mittelkurses. Aktie C hat im Modell eine deutlich größere Spanne. Fiktive Werte.</figcaption></figure><h2>Was die Spanne dir sagt</h2>\n<p>Die Spanne in Prozent rechnest du so: (Brief minus Geld) geteilt durch den Mittelwert aus Brief und Geld. Aktie A: 0,04 geteilt durch 52,40 ergibt etwa 0,08 Prozent. Aktie C: 0,12 geteilt durch 7,86 ergibt etwa 1,5 Prozent. Im Modell kostet die sofortige Hin-und-zurück-Runde bei Aktie C also rund zwanzigmal so viel Spread wie bei Aktie A. Das Beispiel ist erfunden, aber die Logik gilt: Selten gehandelte Werte haben in der Regel breitere Spannen. Die Verbraucherzentrale ergänzt, dass Spannen außerhalb der Kernhandelszeiten größer sein können. Welche Orderart dir davor schützt, steht im Artikel <a href=\"/artikel/orderarten-erklaert/\">Orderarten erklärt</a>.</p>\n<h2>Zeit und Ort gehören dazu</h2>\n<p>Auf Xetra gilt der Handel montags bis freitags von 9:00 bis 17:30 Uhr, im Frankfurter Handel von 8:00 bis 22:00 Uhr. Ein Kurs \"um 21:30 Uhr\" kann deshalb aus einem anderen Handelsplatz stammen als einer um 12:00 Uhr. Prüfe, ob die Tabelle Zeitstempel und Handelsplatz nennt. Kursdaten können verzögert sein. Die Details dazu stehen im Artikel <a href=\"/artikel/boersenzeiten-und-handelsplaetze/\">Börsenzeiten und Handelsplätze</a>.</p>\n<h2>Weitere Spalten, die dir begegnen</h2>\n<p>Je nach Anbieter siehst du Tageshoch und Tagestief, Umsatz, Stückzahl oder Kennzahlen. Der Umsatz zeigt laut Börse Frankfurt, wie viel gehandelt wurde, nachdem Preis und Menge von Kauf und Verkauf zusammenpassten. Hoher Umsatz kann auf viel Aufmerksamkeit hindeuten, sagt aber nichts über die Richtung. Die ISIN und WKN identifizieren das Papier eindeutig. Das ist wichtig, weil Namen sich ähneln.</p>\n<h2>Übung mit Lösung</h2>\n<p><b>Aufgabe 1:</b> Aktie B schloss gestern bei 119,10 Euro und steht jetzt bei 118,20 Euro. Wie groß ist die Veränderung? Lösung: 118,20 geteilt durch 119,10 minus 1 ergibt minus 0,76 Prozent. <b>Aufgabe 2:</b> Du siehst bei Aktie B Geld 118,10 und Brief 118,30. Was kostet die sofortige Hin-und-zurück-Runde an Spanne bei 10 Stück? Lösung: 0,20 Euro je Stück mal 10 sind 2,00 Euro, ohne Entgelte. <b>Aufgabe 3:</b> Welche Zahl würdest du bei einer Limit-Order als Orientierung nehmen, wenn du abgeben willst? Lösung: Der Geldkurs ist der Preis, zu dem aktuell Käufer bereitstehen. Ein Limit darüber wird erst ausgeführt, wenn jemand höher bietet. Das ist eine Rechenübung, keine Handlungsempfehlung.</p>\n<h2>Typische Fallen beim Lesen</h2>\n<p>Erstens: Veränderung zum Vortag mit Veränderung seit Jahresbeginn verwechseln. Zweitens: Kurse in verschiedenen Währungen vergleichen. Drittens: Den letzten Preis für den aktuell handelbaren Preis halten. Er kann Minuten alt sein, wenn kaum gehandelt wird. Viertens: Vorbörsliche und nachbörsliche Kurse wie reguläre Kurse behandeln. Fünftens: Ähnliche Namen verwechseln. Nutze die ISIN.</p>\n<h2>Grenzen und Risiken</h2>\n<ul><li>Eine Tabelle zeigt Zahlen, keine Ursachen. Ein Plus oder Minus ist kein Signal.</li>\n<li>Kurse können verzögert oder fehlerhaft sein. Verlass dich bei Aufträgen nur auf die Kurse deines Anbieters.</li>\n<li>Stimmen Handelsplatz und Währung? Dieselbe Aktie wird an mehreren Plätzen mit leicht unterschiedlichen Preisen gehandelt.</li></ul>\n<h2>So prüfst du es in der Praxis</h2>\n<p>Öffne die <a href=\"/aktien/\">Aktiensuche</a> und die <a href=\"/maerkte/\">Marktübersicht</a> auf finanz adjust. Such dir drei beliebige Werte, notiere letzten Preis und Vortag und rechne die Veränderung nach. Frage dich: Wie groß wäre die Spanne, wenn du jetzt handeln wolltest? Unsere Daten kommen von Twelve Data und Yahoo Finance und können verzögert sein.</p><h2>Weiterlesen</h2><ul><li><a href=\"/artikel/prozent-punkte-und-kursstaende/\">Prozent, Punkte und Kursstände</a></li><li><a href=\"/artikel/orderarten-erklaert/\">Orderarten erklärt</a></li><li><a href=\"/glossar/geldkurs/\">Glossar: Geldkurs</a></li><li><a href=\"/glossar/briefkurs/\">Glossar: Briefkurs</a></li><li><a href=\"/glossar/spread/\">Glossar: Spread</a></li></ul><p style=\"font-size:13.5px;color:var(--mut)\">Stand: 20.10.2026. Bildungsinhalt, keine Anlageberatung oder Steuer-/Rechtsberatung. Mehr dazu im <a href=\"/risikohinweis/\">Risikohinweis</a>.</p>",
+ "sources": [
+  {
+   "title": "Börse Frankfurt: Aktien, Über Aktien",
+   "url": "https://www.boerse-frankfurt.de/aktien?lang=de",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Börsenlexikon Spread",
+   "url": "https://www.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/Spread-250438",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse live: So wird der Aktienpreis ermittelt",
+   "url": "https://live.deutsche-boerse.com/einstieg/so-wird-der-aktienpreis-ermittelt",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Verbraucherzentrale: Neobroker, Kosten und Risiken (03.03.2026)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/neobroker-kosten-und-risiken-des-schnellen-wertpapierhandels-per-app-62408",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse Xetra: Ordertypen und -attribute",
+   "url": "https://www.cashmarket.deutsche-boerse.com/cash-de/Handel/ordertypen",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Handelszeiten und -kalender",
+   "url": "https://www.cashmarket.deutsche-boerse.com/cash-de/Handel/handelskalender-und-zeiten",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Unterschied zwischen Geld- und Briefkurs?",
+   "a": "Zum Geldkurs können Käufer kaufen, zum Briefkurs Verkäufer abgeben. Der Briefkurs liegt über dem Geldkurs."
+  },
+  {
+   "q": "Was bedeutet die Spanne?",
+   "a": "Die Differenz zwischen bestem Kauf- und Verkaufskurs. Sie wirkt wie ein versteckter Kostenposten."
+  },
+  {
+   "q": "Warum weichen Kurse zwischen Anbietern ab?",
+   "a": "Handelsplatz, Zeitpunkt und Datenverzögerung können sich unterscheiden."
+  },
+  {
+   "q": "Wie berechne ich die Veränderung zum Vortag?",
+   "a": "Letzter Preis geteilt durch Vortagesschluss minus 1, mal 100."
+  }
+ ],
+ "key_takeaways": [
+  "Geld, Brief, letzter Preis und Vortag sind die Kernspalten.",
+  "Die Spanne ist ein Kostenposten.",
+  "Zeit und Handelsplatz gehören zu jedem Kurs."
+ ],
+ "related": [
+  {
+   "url": "/artikel/maerkte-heatmap-lesen/",
+   "title": "Märkte-Heatmap lesen"
+  }
+ ],
+ "lernpfad_stand": "20.10.2026"
+}

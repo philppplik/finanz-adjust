@@ -1,0 +1,71 @@
+{
+ "slug": "indizes-der-welt-ueberblick",
+ "title": "Indizes der Welt im Überblick: DAX, Dow, S&P 500, Nasdaq-100",
+ "description": "Was ein Börsenindex ist, wie DAX, MDAX, Dow, S&P 500 und Nasdaq-100 aufgebaut sind und worin sie sich bei Auswahl, Gewichtung und Dividenden unterscheiden.",
+ "section": "einordnung",
+ "date": "2026-10-20T09:25:00+02:00",
+ "image": "/images/indizes-der-welt-ueberblick.jpg",
+ "body": "<div class=\"note\" style=\"margin:0 0 18px\"><b>Das Wichtigste in drei Punkten</b><ol style=\"margin:8px 0 0;padding-left:20px\"><li>Ein Index bündelt viele Aktien zu einer Kennzahl. Er zeigt, wie sich ein Markt insgesamt entwickelt hat, nicht wie sich dein Depot entwickelt.</li><li>Indizes unterscheiden sich in Auswahl, Gewichtung und darin, ob Dividenden mitgerechnet werden.</li><li>Ein Index ist keine Anlage. Wer ihn über ein Produkt nachbildet, trägt die Risiken des Marktes.</li></ol></div><p>\"Der Dax schließt höher\", \"Dow im Minus\", \"Nasdaq mit Rekord\": In Börsenmeldungen tauchen Indizes ständig auf. Dieser Artikel zeigt, was sich dahinter verbirgt und worin sich die bekanntesten unterscheiden. Du musst danach keine Regelwerke kennen, aber die richtigen Fragen stellen können.</p>\n<h2>Was ist ein Index?</h2>\n<p>Laut Deutscher Börse ist ein Index ein statistisches Instrument, das die Entwicklung von Preisen abbildet. Die Börse Frankfurt nennt Indizes den \"Spiegel für den Aktienmarkt\". Aktien werden darin nach einem festen Regelwerk gesammelt und zu einer einzigen Zahl verrechnet. Steigt die Zahl, sind die enthaltenen Aktien zusammengenommen im Wert gestiegen. Ein Index hat keinen Preis, den du zahlen kannst. Du kannst ihn nur über Produkte nachbilden, die ihn abbilden, etwa ETFs. Dazu mehr im Lernpfad zum ETF-Einstieg.</p>\n<h2>Die wichtigsten Indizes im Überblick</h2><div class=\"tw\"><table><caption style=\"text-align:left;color:var(--mut);font-size:12.5px;padding:0 0 6px\">Bekannte Aktienindizes, vereinfacht nach den Angaben der Indexanbieter</caption><thead><tr><th style=\"text-align:left\">Index</th><th style=\"text-align:left\">Was er abbildet</th><th style=\"text-align:left\">Gut zu wissen</th></tr></thead><tbody><tr><td style=\"text-align:left\">DAX</td><td style=\"text-align:left\">Die 40 größten im Regulierten Markt der Frankfurter Wertpapierbörse notierten Unternehmen, die Mindestanforderungen erfüllen (STOXX).</td><td style=\"text-align:left\">Auswahl nach Streubesitz-Marktkapitalisierung. Seit 18.03.2024 maximal 15 Prozent Gewicht je Aktie, vorher 10 Prozent. Wird in erster Linie als Performanceindex berechnet.</td></tr><tr><td style=\"text-align:left\">MDAX / TecDAX</td><td style=\"text-align:left\">MDAX: 50 nächstgrößere Werte. TecDAX: 30 größte Technologieunternehmen (Deutsche Börse).</td><td style=\"text-align:left\">Ergänzen den DAX um mittlere und Technologiewerte.</td></tr><tr><td style=\"text-align:left\">Dow Jones Industrial Average</td><td style=\"text-align:left\">30 große US-Unternehmen. Charles Dow berechnete 1896 einen ersten Durchschnitt aus 12 Aktien (S&P Dow Jones Indices).</td><td style=\"text-align:left\">Wenige Werte, daher nur ein Ausschnitt des US-Marktes.</td></tr><tr><td style=\"text-align:left\">S&P 500</td><td style=\"text-align:left\">500 große US-Unternehmen. Die heutige Form besteht seit März 1957 (S&P Dow Jones Indices).</td><td style=\"text-align:left\">Ein Ausschuss wählt unter Kandidaten mit quantitativen Kriterien aus.</td></tr><tr><td style=\"text-align:left\">Nasdaq-100</td><td style=\"text-align:left\">100 der größten inländischen und ausländischen Nicht-Finanzunternehmen an der Nasdaq. Zusammensetzung wird jährlich im Dezember überprüft (Nasdaq).</td><td style=\"text-align:left\">Stark von Technologie geprägt. Finanzunternehmen sind nicht enthalten.</td></tr></tbody></table></div><figure style=\"margin:20px 0\"><div style=\"background:var(--p);border:1px solid var(--b);border-radius:12px;padding:10px\"><svg role=\"img\" aria-label=\"Balkendiagramm: Anzahl der Unternehmen in DAX 40, MDAX 50, TecDAX 30, Dow 30 und Nasdaq-100 100\" viewBox=\"0 0 480 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"240\" x2=\"460\" y2=\"240\" style=\"stroke:var(--b)\" stroke-width=\"1\"/><rect x=\"37.6\" y=\"167.0\" width=\"52.8\" height=\"73.0\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"64.0\" y=\"160.0\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">40</text><text x=\"64.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">DAX</text><rect x=\"125.6\" y=\"148.7\" width=\"52.8\" height=\"91.3\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"152.0\" y=\"141.7\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">50</text><text x=\"152.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">MDAX</text><rect x=\"213.6\" y=\"185.2\" width=\"52.8\" height=\"54.8\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"240.0\" y=\"178.2\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">30</text><text x=\"240.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">TecDAX</text><rect x=\"301.6\" y=\"185.2\" width=\"52.8\" height=\"54.8\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"328.0\" y=\"178.2\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">30</text><text x=\"328.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Dow</text><rect x=\"389.6\" y=\"57.4\" width=\"52.8\" height=\"182.6\" rx=\"5\" style=\"fill:var(--ac)\"/><text x=\"416.0\" y=\"50.4\" font-size=\"15\" text-anchor=\"middle\" style=\"fill:var(--hd)\" font-weight=\"700\" font-family=\"system-ui,sans-serif\">100</text><text x=\"416.0\" y=\"262\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">Nasdaq-</text><text x=\"416.0\" y=\"279\" font-size=\"13.5\" text-anchor=\"middle\" style=\"fill:var(--mut)\" font-weight=\"400\" font-family=\"system-ui,sans-serif\">100</text></svg></div><figcaption style=\"font-size:12.5px;color:var(--mut);margin-top:6px\">Zahl der enthaltenen Unternehmen. Der S&P 500 mit 500 Werten ist wegen der Skala nicht abgebildet. Quellen: Deutsche Börse, S&P DJI, Nasdaq.</figcaption></figure><h2>Drei Unterschiede, die Schlagzeilen verändern</h2>\n<p><b>Auswahl.</b> Der DAX nimmt nach Streubesitz-Marktkapitalisierung die größten Werte, die Nasdaq-100 schließt Finanzunternehmen aus, der S&P 500 setzt auf einen Ausschuss mit quantitativen Kriterien. Dieselbe Marktlage führt deshalb in verschiedenen Indizes zu verschiedenen Ergebnissen.</p>\n<p><b>Gewichtung.</b> Der DAX gewichtet nach Streubesitz-Marktkapitalisierung, also nach dem Wert der frei handelbaren Aktien. Einzelne Werte dürfen seit März 2024 höchstens 15 Prozent ausmachen. Eine große Aktie kann den Index also spürbar bewegen. Bei anderen Indizes gelten andere Regeln, die du in der Methodik des Anbieters findest.</p>\n<p><b>Dividenden.</b> Der DAX wird laut STOXX in erster Linie als Performanceindex berechnet. Er berücksichtigt damit Dividenden und zeigt die Wertentwicklung eines Portfolios, das Erträge wieder anlegt. Ein Kursindex tut das nicht. Beim Nasdaq-100 gibt es laut Factsheet beide Varianten: einen Price-Return- und einen Total-Return-Index. Beim Vergleich von Indexständen verschiedener Länder lohnt deshalb die Frage: Kursindex oder Performanceindex? Im Glossar: <a href=\"/glossar/kursindex/\">Kursindex</a> und <a href=\"/glossar/performanceindex/\">Performanceindex</a>.</p>\n<h2>Ein Beispiel zur Einordnung</h2>\n<p>Der DAX wurde laut dem Indexleitfaden von STOXX mit einem Basiswert von 1.000 Punkten am 30.12.1987 gestartet. Heutige Stände sind daher kein Preis und keine Prozentzahl, sondern ein Vielfaches dieses Startwerts. Mit einem Stand von 20.000 Punkten wäre der Index, rein rechnerisch, 20-mal so hoch wie am Start. Das Beispiel ist ein Rechenmodell mit runden Zahlen, keine Aussage zum aktuellen Stand. Warum Punkte allein wenig sagen, erklärt der nächste Artikel <a href=\"/artikel/prozent-punkte-und-kursstaende/\">Prozent, Punkte und Kursstände</a>.</p>\n<h2>Eine Indexmeldung Satz für Satz lesen</h2>\n<p>Nimm den erfundenen Satz: \"Der Dow schloss 0,8 Prozent im Plus, der Nasdaq-100 gab 0,3 Prozent nach.\" Frage dich erstens, welche Indizes genannt werden und was sie enthalten. Der Dow hat 30 Werte, der Nasdaq-100 hundert ohne Finanzunternehmen. Zweitens: Ist von Punkten oder Prozent die Rede? Prozent lassen sich indexübergreifend vergleichen, Punkte nicht. Drittens: Welcher Zeitraum gilt, Tagesschluss oder laufender Handel? Viertens: Wer sagt das und mit welcher Quelle? Diese vier Fragen helfen bei jeder Börsenmeldung, mehr dazu im Artikel <a href=\"/artikel/nachrichten-einordnen-einsteiger/\">Nachrichten einordnen</a>.</p>\n<h2>Grenzen und Risiken</h2>\n<ul><li>Ein Index ist ein Ausschnitt. Der DAX bildet 40 Unternehmen ab, nicht \"die Wirtschaft\".</li>\n<li>Die Zusammensetzung ändert sich. Unternehmen steigen auf und ab. Frühere Indexstände vergleichen Äpfel mit Birnen, wenn die Regeln sich geändert haben.</li>\n<li>Ein steigender Index heißt nicht, dass jede Aktie steigt. Einzelwerte können fallen.</li>\n<li>Indexstände sind keine Prognose. Vergangene Entwicklung ist kein verlässlicher Indikator für die Zukunft.</li></ul>\n<h2>So prüfst du es in der Praxis</h2>\n<p>Wähle einen Index aus einer Meldung und suche beim Anbieter die drei Angaben: Zahl der Werte, Gewichtungsregel, Kurs- oder Performanceindex. Mit der <a href=\"/heatmap/\">Aktien-Heatmap</a> von finanz adjust siehst du, wie sich einzelne Werte an einem Tag verhalten. Die Tagesveränderung ist keine Bewertung.</p><h2>Weiterlesen</h2><ul><li><a href=\"/glossar/was-ist-der-dax/\">Glossar: DAX</a></li><li><a href=\"/glossar/boersenindex/\">Glossar: Börsenindex</a></li><li><a href=\"/artikel/prozent-punkte-und-kursstaende/\">Prozent, Punkte und Kursstände</a></li><li><a href=\"/heatmap/\">Aktien-Heatmap</a></li></ul><p style=\"font-size:13.5px;color:var(--mut)\">Stand: 20.10.2026. Bildungsinhalt, keine Anlageberatung oder Steuer-/Rechtsberatung. Mehr dazu im <a href=\"/risikohinweis/\">Risikohinweis</a>.</p>",
+ "sources": [
+  {
+   "title": "STOXX: DAX (DE)",
+   "url": "https://stoxx.com/solutions/dax-de/",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "STOXX: Guide to the DAX Equity Indices",
+   "url": "https://www.dax-indices.com/document/Resources/Guides/DAX_Equity_Indices.pdf",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Deutsche Börse: Börsen organisieren Märkte",
+   "url": "https://www.deutsche-boerse.com/dbg-de/media/news-stories/explainers/wissen-finanzmarkt/boerse-maerkte-handel",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "S&P Dow Jones Indices: Icons, The S&P 500 and The Dow",
+   "url": "https://www.spglobal.com/spdji/en/research-insights/index-literacy/the-sp-500-and-the-dow/",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Nasdaq: Nasdaq-100 Factsheet",
+   "url": "https://indexes.nasdaq.com/docs/FS_XNDX.pdf",
+   "accessed": "2026-10-20"
+  },
+  {
+   "title": "Börse Frankfurt: Aktien, Über Aktien",
+   "url": "https://www.boerse-frankfurt.de/aktien?lang=de",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie viele Unternehmen sind im DAX?",
+   "a": "40, nach STOXX die größten im Regulierten Markt der Frankfurter Wertpapierbörse, die Mindestanforderungen erfüllen."
+  },
+  {
+   "q": "Was ist der Unterschied zwischen Dow und S&P 500?",
+   "a": "Der Dow hat 30 Werte, der S&P 500 500 Werte. Beide gehören zu S&P Dow Jones Indices."
+  },
+  {
+   "q": "Was bedeutet Performanceindex?",
+   "a": "Ein Index, der Dividenden einrechnet. Der DAX wird laut STOXX in erster Linie so berechnet."
+  },
+  {
+   "q": "Kann ich einen Index direkt handeln?",
+   "a": "Nein. Ein Index ist eine Rechengröße. Nachbildende Produkte wie ETFs können ihn abbilden."
+  }
+ ],
+ "key_takeaways": [
+  "Index = Regelwerk plus Rechenzahl.",
+  "Auswahl, Gewichtung und Dividenden unterscheiden Indizes.",
+  "Ein Index ist keine Prognose und kein Produkt."
+ ],
+ "related": [
+  {
+   "url": "/artikel/prozent-punkte-und-kursstaende/",
+   "title": "Prozent, Punkte und Kursstände"
+  }
+ ],
+ "lernpfad_stand": "20.10.2026"
+}
