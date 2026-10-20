@@ -1,0 +1,249 @@
+{
+  "paket": "B Teil 2",
+  "welle": 1,
+  "stand": "2026-10-20",
+  "lernpfade": [
+    {
+      "id": "LP-FA-09",
+      "name": "Anleihen & Festgeld: Zins gegen Zeit",
+      "frage": "Wie funktionieren Anleihen und Festgeld, und was bedeuten Zinsänderungen für deinen Kurs?",
+      "intro": "Festverzinsliche Anlagen gelten als der ruhige Teil des Depots, aber ruhig heißt nicht risikofrei. In diesem Pfad lernst du, wie eine Anleihe aufgebaut ist, was Kupon, Laufzeit und Bonität bedeuten und warum Anleihekurse fallen, wenn die Zinsen steigen. Du rechnest ein Kursrisiko-Beispiel selbst nach, ordnest Staats- und Unternehmensanleihen ein und siehst, was Festgeld und Tagesgeld von Anleihen unterscheidet. Am Ende kannst du Renditeversprechen grob einordnen und weißt, welche Fragen du vor jeder Zinsanlage stellst.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "45-60 Minuten",
+      "voraussetzungen": "Keine. Grundbegriffe wie Zins und Rendite werden im Pfad erklärt.",
+      "lernziel": "Du verstehst Anleihe, Kupon, Laufzeit und Bonität und kannst Rendite und Risiko grob einordnen.",
+      "steps": [
+        {
+          "type": "glossar",
+          "slug": "/glossar/anleihe/",
+          "title": "Anleihe",
+          "warum": "Der Grundbegriff: Wer dir Geld leiht, bekommt Zinsen und am Ende den Nennwert zurück."
+        },
+        {
+          "type": "glossar",
+          "slug": "/glossar/kupon/",
+          "title": "Kupon",
+          "warum": "Der Kupon bestimmt, welche laufenden Zinszahlungen du während der Laufzeit bekommst."
+        },
+        {
+          "type": "glossar",
+          "slug": "/glossar/bonitaet/",
+          "title": "Bonität",
+          "warum": "Bonität und Rating zeigen, wie wahrscheinlich der Emittent seine Versprechen einhalten kann."
+        },
+        {
+          "type": "glossar",
+          "slug": "/glossar/faelligkeit/",
+          "title": "Fälligkeit",
+          "warum": "Die Laufzeit entscheidet, wie stark der Kurs auf Zinsänderungen reagiert und wann du den Nennwert zurückbekommst."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/kursrisiko-bei-anleihen/",
+          "title": "Kursrisiko bei Anleihen: Warum steigende Zinsen Kurse drücken",
+          "warum": "Das zentrale Risiko festverzinslicher Anlagen, mit einem Rechenbeispiel zum Nachvollziehen."
+        },
+        {
+          "type": "glossar",
+          "slug": "/glossar/unternehmensanleihe/",
+          "title": "Unternehmensanleihe",
+          "warum": "Mehr Rendite gegen mehr Ausfallrisiko: die wichtigste Weiche nach den Staatsanleihen."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/staatsanleihen-erklaert/",
+          "title": "Staatsanleihen erklärt: Sicherer Hafen mit Zinsfuß",
+          "warum": "Bundesanleihen, Ausfallrisiko und die Frage, wofür Staatsanleihen im Depot wirklich gut sind."
+        },
+        {
+          "type": "vergleich",
+          "slug": "/vergleiche/zinsmonitor/",
+          "title": "Zinsmonitor",
+          "warum": "Praxisschritt: Vergleiche aktuelle Tagesgeld- und Festgeldzinsen und ordne ein, was Anbieter gerade zahlen."
+        }
+      ],
+      "terms": [
+        "anleihe",
+        "kupon",
+        "bonitaet",
+        "faelligkeit",
+        "unternehmensanleihe",
+        "high-yield-anleihe",
+        "nennwert",
+        "emittent",
+        "festgeld",
+        "tagesgeld"
+      ],
+      "abschluss_check": {
+        "praxisszenarien": [
+          {
+            "szenario": "Du hältst eine Anleihe über 1.000 Euro Nennwert mit 2 % Kupon und 10 Jahren Restlaufzeit. Der Marktzins steigt auf 3 %. Was passiert mit dem Kurs, ungefähr und warum?",
+            "musterloesung": "Der Kurs fällt deutlich, grob um 8-9 %. Neue Anleihen zahlen jetzt 3 %, deine 2-%-Anleihe ist nur noch attraktiv, wenn sie weniger kostet. Der Kurs sinkt, bis die Rendite für Käufer wieder etwa 3 % beträgt. Hältst du bis zur Fälligkeit, bekommst du trotzdem den Nennwert zurück."
+          },
+          {
+            "szenario": "Ein Anbieter wirbt mit 7 % jährlicher Verzinsung für eine Unternehmensanleihe, während Bundesanleihen rund 2-3 % bringen. Welche drei Fragen stellst du, bevor du dich weiter damit beschäftigst?",
+            "musterloesung": "1) Wie ist die Bonität des Emittenten und gibt es ein Rating? 2) Wie hoch ist das Ausfallrisiko, also was passiert bei Insolvenz mit meinem Geld? 3) Warum muss dieser Emittent so viel mehr Zins zahlen als der Markt? Der Zinsaufschlag ist der Preis für höheres Risiko, kein Geschenk."
+          },
+          {
+            "szenario": "Du willst 10.000 Euro für zwei Jahre parken und brauchst das Geld danach sicher. Du schwankst zwischen einer 10-jährigen Anleihe und Festgeld über zwei Jahre. Was passt besser zum Ziel und warum?",
+            "musterloesung": "Festgeld über zwei Jahre passt besser: Laufzeit und Anlagehorizont stimmen überein, es gibt kein Kursrisiko beim vorzeitigen Verkauf, weil gar nicht verkauft wird. Die 10-jährige Anleihe kann in zwei Jahren im Kurs gefallen sein, wenn die Zinsen gestiegen sind; der Nennwert ist erst in zehn Jahren sicher."
+          },
+          {
+            "szenario": "Im Zinsmonitor siehst du ein Festgeldangebot mit deutlich höherem Zins als alle anderen. Wie gehst du vor, bevor du Geld überweist?",
+            "musterloesung": "Erst prüfen, nicht zahlen: Einlagensicherung und Land prüfen, Anbieter in der BaFin-Unternehmensdatenbank suchen, Bewertungen und Warnmeldungen lesen und die Bedingungen auf Mindestanlage, Kündigung und automatische Verlängerung prüfen. Ein Ausreißer-Zins ist ein Prüfauftrag, kein Kaufargument."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was ist der Kupon einer Anleihe?",
+            "loesung": "Der festgelegte Zinssatz, mit dem der Nennwert während der Laufzeit verzinst wird."
+          },
+          {
+            "frage": "Der Marktzins steigt. Was passiert mit dem Kurs einer laufenden Anleihe?",
+            "loesung": "Er fällt, weil ältere Anleihen mit niedrigerem Kupon nur über einen Preisabschlag konkurrenzfähig bleiben."
+          },
+          {
+            "frage": "Was sagt die Bonität eines Emittenten aus?",
+            "loesung": "Wie wahrscheinlich es ist, dass er Zinsen und Rückzahlung pünktlich und vollständig leistet."
+          },
+          {
+            "frage": "Warum gelten High-Yield-Anleihen als riskanter als Staatsanleihen?",
+            "loesung": "Ihre Emittenten haben schlechtere Bonität, deshalb ist das Ausfallrisiko höher; der höhere Kupon ist die Entschädigung dafür."
+          },
+          {
+            "frage": "Du hältst eine Anleihe bis zur Fälligkeit und der Emittent bleibt zahlungsfähig. Welchen Betrag bekommst du am Ende?",
+            "loesung": "Den Nennwert, also typischerweise 100 % des eingesetzten Nennbetrags, unabhängig vom Zwischenkurs."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-11",
+          "name": "Risiko & Rendite: Streuung verstehen",
+          "warum": "Nach dem ruhigen Baustein folgt die Frage, wie du Risiken über Anlagen und Anlageklassen verteilst."
+        },
+        {
+          "id": "LP-FA-12",
+          "name": "Inflation & Realzins im Alltag",
+          "warum": "Zinsen verstehen heißt auch verstehen, was nach Inflation real übrig bleibt."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-10",
+      "name": "Finanzfallen erkennen: Betrug, Hype, teure Produkte",
+      "frage": "Woran erkennst du Anlagebetrug, verdeckte Werbung und überteuerte Produkte, bevor sie Geld kosten?",
+      "intro": "Anlagebetrug ist kein Randphänomen, und die Maschen werden professioneller: gefälschte Trading-Plattformen, WhatsApp-Gruppen, Promi-Werbung und Schneeballsysteme. In diesem Pfad lernst du die Warnsignale, denen alle Betrugsformen folgen, prüfst Anbieter in den offiziellen Registern der BaFin und der ESMA und erkennst, wann Finanzinhalte in sozialen Medien vor allem Werbung sind. Ein eigener Schritt zeigt, wie laufende Kosten auch legale Produkte teuer machen. Am Ende hast du eine feste Prüfroutine, bevor irgendwo Geld fließt.",
+      "level": "Einsteiger",
+      "zielgruppe": "Alle",
+      "dauer": "60-75 Minuten",
+      "voraussetzungen": "Keine.",
+      "lernziel": "Du erkennst typische Maschen, wirst bei Hype kritisch und weißt, wo du Warnlisten findest.",
+      "steps": [
+        {
+          "type": "artikel",
+          "slug": "/artikel/anlagebetrug-warnsignale/",
+          "title": "Anlagebetrug erkennen: Die wichtigsten Warnsignale",
+          "warum": "Das Grundgerüst: Druck, Renditeversprechen und Auszahlungstricks, die fast jede Masche teilt."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/finfluencer-und-werbung-erkennen/",
+          "title": "Finfluencer und Finanzwerbung erkennen",
+          "warum": "Viel Finanzcontent ist bezahlte Werbung: So erkennst du Interessenkonflikte und Pump-and-Dump-Muster."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/bafin-warnliste-nutzen/",
+          "title": "BaFin-Warnliste und Unternehmensdatenbank nutzen",
+          "warum": "Die wichtigste Prüffertigkeit des Pfads: Anbieter in fünf Minuten gegen die offiziellen Register prüfen."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/teure-produkte-erkennen/",
+          "title": "Teure Produkte erkennen: Kosten, die Rendite fressen",
+          "warum": "Nicht jede Falle ist Betrug: Ausgabeaufschlag, TER und versteckte Kosten legaler Produkte systematisch einordnen."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/schneeballsysteme-und-ponzi/",
+          "title": "Schneeballsysteme und Ponzi-Schemata: Die Mathematik des Betrugs",
+          "warum": "Das klassische Betrugsmodell verstehen: Warum solche Systeme mathematisch immer kollabieren."
+        },
+        {
+          "type": "artikel",
+          "slug": "/artikel/fake-brokers-und-krypto-scams/",
+          "title": "Fake-Broker und Krypto-Scams: Wie der Betrug mit falschen Plattformen läuft",
+          "warum": "Die aktuell aggressivste Masche im Detail, inklusive Prüfung im ESMA-CASP-Register."
+        },
+        {
+          "type": "rechner",
+          "slug": "/rechner/etf-kosten/",
+          "title": "ETF-Kostenrechner",
+          "warum": "Praxisschritt: Rechne selbst nach, wie viel Endvermögen unterschiedliche Kostenquoten über Jahrzehnte kosten."
+        }
+      ],
+      "terms": [
+        "ausgabeaufschlag",
+        "gesamtkostenquote",
+        "verwaltungsgebuehr",
+        "rendite",
+        "liquiditaet"
+      ],
+      "abschluss_check": {
+        "praxisszenarien": [
+          {
+            "szenario": "In einer WhatsApp-Gruppe empfiehlt ein »Trader« eine Plattform mit 15 % Rendite im Monat. Mehrere Mitglieder posten Screenshots ihrer Gewinne. Was tust du?",
+            "musterloesung": "Nicht einzahlen. Feste Monatsrenditen dieser Größenordnung sind ökonomisch unmöglich, die Gewinn-Screenshots sind Teil der Inszenierung. Die Gruppe verlassen, den Vorgang bei der Plattform und ggf. der Verbraucherzentrale melden und den Anbieter in der BaFin-Unternehmensdatenbank und auf Warnlisten prüfen."
+          },
+          {
+            "szenario": "Eine Trading-Plattform zeigt deinen Kontostand wachsend, aber für die Auszahlung sollst du erst 10 % »Steuer« überweisen. Was bedeutet das?",
+            "musterloesung": "Klassische Auszahlungsblockade eines Fake-Brokers: Die angezeigten Gewinne sind frei manipulierbar, und die Steuerforderung soll eine letzte Zahlung herauslocken. Keine weiteren Zahlungen, alles dokumentieren, Anzeige erstatten und die BaFin informieren."
+          },
+          {
+            "szenario": "Ein Finfluencer empfiehlt begeistert einen kleinen Krypto-Token. Im Kleingedruckten steht »bezahlte Partnerschaft«. Wie ordnest du das ein?",
+            "musterloesung": "Als bezahlte Werbung mit klarem Interessenkonflikt: Der Empfehler verdient an deiner Aufmerksamkeit oder am Kursanstieg, nicht an deinem Erfolg. Bei kleinen, wenig liquiden Token ist zusätzlich Pump-and-Dump möglich. Die Empfehlung ist Werbematerial, keine Analyse."
+          },
+          {
+            "szenario": "Ein aktiver Fonds kostet 1,8 % laufende Kosten pro Jahr, ein ETF auf denselben Markt 0,2 %. Was bedeutet das über 30 Jahre grob für das Endvermögen?",
+            "musterloesung": "Ein grober Richtwert bei 5 % Bruttorendite: Aus 10.000 Euro werden mit 0,2 % Kosten rund 40.800 Euro, mit 1,8 % spürbar weniger; bereits bei 1,5 % Kostenquote bleiben nur etwa 28.100 Euro. Der Unterschied von über 12.000 Euro entsteht allein durch die Kosten, die sich jährlich auf das wachsende Vermögen beziehen (Modellrechnung)."
+          },
+          {
+            "szenario": "Du willst einen Anbieter prüfen, der dir per Werbeanzeige eine Geldanlage mit »garantierten 8 % pro Jahr« anbietet. Beschreibe deine Prüfroutine in drei Schritten.",
+            "musterloesung": "1) BaFin-Unternehmensdatenbank: Hat der Anbieter eine Erlaubnis für diese Tätigkeit, und stimmen Name, Adresse und Webadresse exakt überein? 2) Warnlisten: BaFin-Warnmeldungen und Meldungen der Verbraucherzentralen nach dem Namen durchsuchen. 3) Das Versprechen selbst bewerten: Garantie plus überdurchschnittliche Rendite ist ein Warnsignal, kein Merkmal seriöser Angebote."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Nenne drei klassische Warnsignale für Anlagebetrug.",
+            "loesung": "Zeitdruck, überdurchschnittliche Renditeversprechen ohne Schwankungen und Gebührenforderungen vor der Auszahlung; dazu Kaltakquise über Messenger oder Social Media."
+          },
+          {
+            "frage": "Was zeigt die BaFin-Unternehmensdatenbank?",
+            "loesung": "Ob ein Unternehmen eine Erlaubnis für Finanzdienstleistungen in Deutschland hat und unter welchen offiziellen Daten es registriert ist."
+          },
+          {
+            "frage": "Woran erkennst du, dass ein Finfluencer-Beitrag Werbung ist?",
+            "loesung": "An Kennzeichnungen wie »Werbung« oder »bezahlte Partnerschaft«, Affiliate-Links und daran, dass ein konkretes Produkt oder Token beworben wird."
+          },
+          {
+            "frage": "Wie finanziert ein Schneeballsystem die Renditen früher Anleger?",
+            "loesung": "Aus den Einzahlungen neuer Kunden, nicht aus echten Erträgen; deshalb bricht es zusammen, sobald der Zufluss stoppt."
+          },
+          {
+            "frage": "Was ist ein Recovery Scam?",
+            "loesung": "Ein Folgebetrug: Täter kontaktieren bereits Geschädigte und versprechen gegen Vorkasse, das verlorene Geld zurückzuholen."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-11",
+          "name": "Risiko & Rendite: Streuung verstehen",
+          "warum": "Wer Fallen erkennt, lernt als Nächstes, seriöse Risiken richtig einzuordnen und zu verteilen."
+        }
+      ]
+    }
+  ]
+}
