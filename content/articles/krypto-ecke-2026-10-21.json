@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-21",
+  "title": "Krypto-Ecke: Bitcoin um 83.000 Dollar, Tech-Quartalszahlen geben Rückenwind",
+  "description": "Bitcoin notiert am Mittwochmorgen um 83.000 US-Dollar, Zcash springt nach Upgrade-Termin um 11 Prozent. Die Lage mit Quelle und Stand (21.10.2026, morgens).",
+  "section": "krypto",
+  "date": "2026-10-21T08:30:00+02:00",
+  "image": "/images/krypto-ecke-2026-10-21.jpg",
+  "body": "<p>Der Kryptomarkt kommt am Mittwoch mit leichtem Rückenwind aus der Nacht. Bitcoin notierte am Morgen um die 83.000 US-Dollar und lag damit gut 1 Prozent höher als am Vortag, wie CoinDesk in seiner deutschen Morgenanalyse schreibt (21.10.2026). Starker Tech-Quartalszahlen, etwa von SpaceX, hatten asiatische Aktienmärkte und den KI-Handel befeuert.</p><h2>Zcash springt nach Upgrade-Termin</h2><p>Deutlich bewegter war Zcash (ZEC): Der Coin legte laut CoinDesk rund 11 Prozent auf etwa 1.260 Dollar zu, nachdem die Entwickler den Aktivierungstermin für das nächste Netzwerk-Upgrade NU7 festgelegt hatten. Das Upgrade soll die Zeit zwischen zwei Blöcken von 75 auf 25 Sekunden verkürzen. Ethereum notierte bei rund 2.450 Dollar, XRP bei etwa 1,33 Dollar.</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>Krypto am Morgen (21.10.2026)</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>Bitcoin: rund 83.000 US-Dollar (+gut 1 %)</li><li>Ethereum: rund 2.450 US-Dollar (+2 %)</li><li>Zcash: rund 1.260 US-Dollar (+11 %)</li><li>XRP: rund 1,33 US-Dollar (+3 %)</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: CoinDesk (deutsch), 21.10.2026, Morgenanalyse.</p></div><h2>Wie Analysten die Lage sehen</h2><p>Der Vermögensverwalter Hashdex sieht die Bitcoin-Bärenphase möglicherweise vor dem Ende: Sie habe am 30. September 359 Tage gedauert, ähnlich lang wie frühere Phasen seit 2011, zitiert CoinDesk aus einer Hashdex-Mitteilung. Vor der Fed-Sitzung in der kommenden Woche müsse Bitcoin erst wieder über 84.000 Dollar steigen, um neue Stärke zu signalisieren. Das ist die Einschätzung eines einzelnen Hauses, keine Prognose mit Garantie.</p><p>Einordnung: Kryptokurse schwanken stark, ein Totalverlust ist möglich. Diese Kolumne informiert und ist keine Anlageberatung. (Stand aller Kurse: 21.10.2026, morgens.)</p>",
+  "sources": [
+    {
+      "title": "Bitcoin bewegt sich um 83.000 $, da KI-Gewinne den Technologiesektor beleben, ZEC steigt um 11 % - CoinDesk (21.10.2026)",
+      "url": "https://www.coindesk.com/de/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo steht Bitcoin am 21.10.2026?",
+      "a": "Am Morgen bei rund 83.000 US-Dollar, gut 1 Prozent über dem Vortag. Quelle: CoinDesk, Morgenanalyse vom 21.10.2026."
+    },
+    {
+      "q": "Warum steigt Zcash so stark?",
+      "a": "Die Entwickler haben den Aktivierungstermin für das Netzwerk-Upgrade NU7 festgelegt. Es soll Blöcke dreimal schneller bestätigen. ZEC legte rund 11 Prozent zu."
+    },
+    {
+      "q": "Was sagt Hashdex zur Bitcoin-Bärenphase?",
+      "a": "Sie habe Ende September 359 Tage gedauert und damit ähnlich lang wie frühere Phasen. Das ist eine Analysten-Einschätzung, keine Vorhersage."
+    }
+  ]
+}

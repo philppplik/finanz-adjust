@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-ebitda",
+  "title": "Glossar: EBITDA - die Gewinnkennzahl einfach erklärt",
+  "description": "Fast jede Quartalsmeldung nennt das EBITDA, zuletzt die Deutsche Börse. Was dahinter steckt, was es aussagt und wo die Grenzen liegen, einfach erklärt.",
+  "section": "glossar",
+  "date": "2026-10-21T08:30:00+02:00",
+  "image": "/images/glossar-ebitda.jpg",
+  "body": "<p>Wenn Unternehmen Quartalszahlen melden, fällt fast immer ein Begriff: EBITDA. Zuletzt bei der Deutschen Börse, deren EBITDA im dritten Quartal 2026 um 16 Prozent auf 978 Millionen Euro stieg. Zeit für eine einfache Erklärung.</p><h2>Was bedeutet EBITDA?</h2><p>Die Abkürzung steht für Earnings Before Interest, Taxes, Depreciation and Amortization, auf Deutsch: Gewinn vor Zinsen, Steuern und Abschreibungen. Man nimmt also den Gewinn und rechnet Posten heraus, die wenig über das eigentliche Tagesgeschäft aussagen: Zinsen hängen von der Finanzierung ab, Steuern vom Land und der Struktur, Abschreibungen von Anschaffungen aus der Vergangenheit.</p><h2>Ein Rechenbeispiel ohne echte Firmendaten</h2><div class=\"tw\"><table><tr><th>Position</th><th>Beispiel</th></tr><tr><td>Umsatz</td><td>100</td></tr><tr><td>- Betriebskosten (Personal, Material, Miete)</td><td>-70</td></tr><tr><td><b>= EBITDA</b></td><td><b>30</b></td></tr><tr><td>- Abschreibungen</td><td>-10</td></tr><tr><td>- Zinsen und Steuern</td><td>-8</td></tr><tr><td>= Jahresüberschuss</td><td>12</td></tr></table></div><p style=\"font-size:13px;color:#5a6070\">Reines Strukturbeispiel zur Veranschaulichung, keine echten Unternehmensdaten.</p><h2>Wofür ist die Kennzahl gut?</h2><p>Das EBITDA macht Unternehmen vergleichbarer, weil Finanzierung, Steuern und bilanzielle Abschreibungen herausgerechnet sind. Auch Veränderungen von Quartal zu Quartal lassen sich so sauberer lesen. Deshalb kommunizieren viele Firmen ihre Prognose in EBITDA.</p><h2>Wo sind die Grenzen?</h2><p>Abschreibungen sind kein Fantasieposten: Maschinen und Software nutzen sich ab und müssen ersetzt werden. Wer nur aufs EBITDA schaut, übersieht, wie viel Geld ein Unternehmen investieren muss, um überhaupt zu verdienen. Zinsen und Steuern sind ebenfalls reale Kosten. Das EBITDA ist deshalb eine grobe Brille aufs Geschäft, kein vollständiges Bild. Dieser Artikel erklärt eine Kennzahl und ist keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Quartalsmitteilung Q3/2026 (EBITDA +16 % auf 978 Mio. Euro) - Deutsche Börse Group",
+      "url": "https://www.deutsche-boerse.com/resource/blob/5441076/03bd7cd8c8ac80891a53a952742c8c1e/data/gdb-quartalsmitteilung-q3-2026_de.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was heißt EBITDA auf Deutsch?",
+      "a": "Gewinn vor Zinsen, Steuern und Abschreibungen. Die Kennzahl zeigt das operative Ergebnis ohne Finanzierungs-, Steuer- und Bilanzierungseffekte."
+    },
+    {
+      "q": "Ist ein hohes EBITDA immer gut?",
+      "a": "Nicht automatisch. Es ignoriert Investitionen, Zinsen und Steuern. Ein Unternehmen kann ein hohes EBITDA und trotzdem wenig freien Cashflow haben."
+    },
+    {
+      "q": "Warum berichten Firmen das EBITDA so prominent?",
+      "a": "Weil es Unternehmen und Quartale besser vergleichbar macht und viele Firmen ihre Prognosen daran festmachen."
+    }
+  ]
+}
