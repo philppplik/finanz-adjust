@@ -1,0 +1,29 @@
+{
+  "slug": "sap-q3-ergebnis-2026",
+  "title": "SAP: Cloud-Geschäft wächst um 26 Prozent",
+  "description": "SAP steigerte im dritten Quartal 2026 den Cloud-Umsatz um 26 Prozent auf 6,7 Milliarden Euro. Der Cloud-Backlog legte um 28 Prozent zu. Die Zahlen im Detail (21.10.2026).",
+  "section": "einordnung",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/sap-q3-ergebnis-2026.jpg",
+  "body": "<p>Der Druck aus der Berichtssaison sitzt SAP gut. Der Walldorfer Softwarekonzern meldete am Mittwochabend für das dritte Quartal 2026 einen Cloud-Umsatz von 6,668 Milliarden Euro, ein Plus von 26 Prozent gegenüber dem Vorjahr. Der Cloud-Backlog, also der Bestand abgeschlossener, noch nicht abgerechneter Cloud-Verträge, wuchs um 28 Prozent auf 24,144 Milliarden Euro. Das steht in der offiziellen Quartalsmitteilung.</p><figure style=\"margin:0 0 14px\"><img src=\"/images/sap-q3-ergebnis-2026-cloud.png\" alt=\"Balkendiagramm: SAP-Cloud-Umsatz stieg von 5.290 auf 6.668 Millionen Euro, der Cloud-Backlog von 18.839 auf 24.144 Millionen Euro (Q3/2025 gegenüber Q3/2026).\" style=\"width:100%;height:auto;border-radius:12px;display:block\" loading=\"lazy\"><figcaption style=\"font-size:13px;color:#5a6070;margin-top:6px\">Cloud-Umsatz und Cloud-Backlog, Q3/2025 im Vergleich zu Q3/2026. Quelle: SAP Quarterly Statement Q3/2026 (21.10.2026).</figcaption></figure><h2>Weitere Kennzahlen</h2><p>Der Gesamtumsatz stieg um 13 Prozent auf 10,270 Milliarden Euro (währungsbereinigt plus 12 Prozent). Das klassische Lizenzgeschäft schrumpfte wie erwartet weiter: Software-Lizenzen brachten 147 Millionen Euro ein, minus 9 Prozent. Die Cloud ERP Suite, das Kernprodukt der Cloud-Strategie, wuchs innerhalb des Backlogs um 29 Prozent.</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>SAP Q3/2026 in Zahlen</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>Cloud-Umsatz: 6.668 Mio. Euro (+26 %)</li><li>Cloud-Backlog: 24.144 Mio. Euro (+28 %)</li><li>Gesamtumsatz: 10.270 Mio. Euro (+13 %)</li><li>Software-Lizenzen: 147 Mio. Euro (-9 %)</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: SAP Quarterly Statement Q3/2026 (21.10.2026).</p></div><h2>Einordnung</h2><p>Die Zahlen bestätigen den Kurs des Konzerns weg von Einmal-Lizenzen hin zu Abo-Modellen. Wichtig ist dabei der Blick auf das Wachstum der Cloud-Sparte, nicht auf einzelne Lizenzrückgänge. Wie die Börse die Zahlen bewertet, zeigt sich heute im Xetra-Handel. Dieser Artikel ist eine Einordnung, keine Anlageempfehlung. (Stand: 22.10.2026, 08:30 Uhr.)</p>",
+  "sources": [
+    {
+      "title": "SAP Quarterly Statement Q3/2026 (PDF, 21.10.2026)",
+      "url": "https://www.sap.com/docs/download/investors/2026/sap-2026-q3-statement.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lief Q3/2026 bei SAP?",
+      "a": "Cloud-Umsatz plus 26 Prozent auf 6,668 Milliarden Euro, Gesamtumsatz plus 13 Prozent auf 10,270 Milliarden Euro, Cloud-Backlog plus 28 Prozent auf 24,144 Milliarden Euro. Quelle: Quartalsmitteilung vom 21.10.2026."
+    },
+    {
+      "q": "Was ist der Cloud-Backlog?",
+      "a": "Der Bestand an Cloud-Verträgen, deren Umsatz SAP erst in künftigen Quartalen verbucht. Ein wachsender Backlog gilt als positives Signal für das kommende Geschäft."
+    },
+    {
+      "q": "Warum schrumpfen die Software-Lizenzen?",
+      "a": "Weil SAP Kunden vom Einmalkauf von Lizenzen auf Cloud-Abos umstellt. Der Rückgang ist Teil der Strategie, kein neues Problem."
+    }
+  ]
+}

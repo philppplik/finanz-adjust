@@ -1,0 +1,29 @@
+{
+  "slug": "meta-q3-ergebnis-2026",
+  "title": "Meta: Umsatz plus 26 Prozent, Gewinn unter Kostendruck",
+  "description": "Meta steigerte den Umsatz im dritten Quartal 2026 um 26 Prozent auf 64,6 Milliarden Dollar. Die Kosten stiegen aber um 68 Prozent, das operative Ergebnis fiel um 37 Prozent (21.10.2026).",
+  "section": "einordnung",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/meta-q3-ergebnis-2026.jpg",
+  "body": "<p>Meta hat am Mittwochabend seine Zahlen zum dritten Quartal 2026 vorgelegt. Der Umsatz stieg um 26 Prozent auf 64,6 Milliarden US-Dollar. Gleichzeitig schossen die Kosten um 68 Prozent auf 51,6 Milliarden hoch, vor allem wegen der Investitionen in Künstliche Intelligenz. Das operative Ergebnis fiel dadurch um 37 Prozent auf knapp 13 Milliarden Dollar, die operative Marge sank von 40 auf 20 Prozent. Das steht in der offiziellen Mitteilung des Unternehmens.</p><figure style=\"margin:0 0 14px\"><img src=\"/images/meta-q3-ergebnis-2026-zahlen.png\" alt=\"Balkendiagramm: Meta-Umsatz stieg von 51,2 auf 64,6 Milliarden Dollar, das operative Ergebnis fiel von 20,5 auf 13,0 Milliarden Dollar (Q3/2025 gegenüber Q3/2026).\" style=\"width:100%;height:auto;border-radius:12px;display:block\" loading=\"lazy\"><figcaption style=\"font-size:13px;color:#5a6070;margin-top:6px\">Umsatz und operatives Ergebnis, Q3/2025 im Vergleich zu Q3/2026. Quelle: Meta Q3 2026 Results (21.10.2026).</figcaption></figure><h2>Was Zuckerberg sagt</h2><p>Gründer und Chef Mark Zuckerberg zeigte sich in der Mitteilung zufrieden: Man habe wichtige Meilensteine auf dem Weg zur persönlichen Superintelligenz erreicht, das Kerngeschäft sei stark. Seine Botschaft in eigener Sache, keine unabhängige Bewertung.</p><h2>Warum die Kosten explodieren</h2><p>Hinter dem Kostensprung stecken die KI-Investitionen: Rechenzentren, Chips und Personal für die eigenen Modelle. Für Anleger ist das die zentrale Frage der Berichtssaison: Zahlt sich der KI-Aufwand später aus? Meta argumentiert mit wachsendem Kerngeschäft, Kritiker sehen die Marge schrumpfen. Beide Lesarten sind vertretbar, entscheidend sind die kommenden Quartale. (Stand: 22.10.2026, 08:30 Uhr.)</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>Meta Q3/2026 in Zahlen</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>Umsatz: 64,6 Mrd. USD (+26 %)</li><li>Kosten: 51,6 Mrd. USD (+68 %)</li><li>Operatives Ergebnis: 13,0 Mrd. USD (-37 %)</li><li>Operative Marge: 20 % (Vorjahr: 40 %)</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: Meta Q3 2026 Results, Pressemitteilung (21.10.2026).</p></div>",
+  "sources": [
+    {
+      "title": "Meta Reports Third Quarter 2026 Results - Meta Investor Relations (21.10.2026)",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lief Q3/2026 bei Meta?",
+      "a": "Umsatz plus 26 Prozent auf 64,6 Milliarden US-Dollar, operatives Ergebnis minus 37 Prozent auf rund 13 Milliarden, Marge 20 statt 40 Prozent. Quelle: Unternehmensmitteilung vom 21.10.2026."
+    },
+    {
+      "q": "Warum fiel der Gewinn trotz Umsatzplus?",
+      "a": "Die Kosten stiegen um 68 Prozent, vor allem durch Investitionen in Künstliche Intelligenz: Rechenzentren, Chips, Personal."
+    },
+    {
+      "q": "Was bedeutet die Marge von 20 Prozent?",
+      "a": "Von jedem Dollar Umsatz blieben operativ 20 Cent. Im Vorjahr waren es noch 40 Cent. Das zeigt, wie stark die KI-Ausgaben aktuell auf das Ergebnis drücken."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "krypto-ecke-2026-10-22",
+  "title": "Krypto-Ecke: Bitcoin springt kurz über 84.000 Dollar",
+  "description": "Bitcoin übersprang in der Nacht die 84.000-Dollar-Marke, notiert am Morgen aber wieder darunter. Was dahinter steht, mit Quelle und Stand (22.10.2026, morgens).",
+  "section": "krypto",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/krypto-ecke-2026-10-22.jpg",
+  "body": "<p>Bitcoin hat in der Nacht eine Marke berührt, auf die Beobachter seit Tagen schauen: 84.000 US-Dollar. Das Tageshoch lag laut Yahoo Finanzen bei 84.280 Dollar. Am Morgen notierte die Kryptowährung wieder darunter bei rund 82.800 Dollar, ein leichtes Plus von 0,15 Prozent (Stand 22.10.2026, 04:25 UTC).</p><h2>Warum die Marke wichtig war</h2><p>Der Vermögensverwalter Hashdex hatte Anfang der Woche gegenüber CoinDesk gesagt: Vor der Fed-Sitzung in der kommenden Woche müsse Bitcoin über 84.000 Dollar steigen, um neue Stärke zu signalisieren. Diese Schwelle wurde in der Nacht kurz erreicht, aber nicht gehalten. Das ist die Einschätzung eines Hauses und zeigt vor allem, wie sehr der Markt auf runde Marken schaut.</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>Bitcoin am Morgen (22.10.2026)</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>Kurs: rund 82.800 US-Dollar (+0,15 %)</li><li>Tageshoch: 84.280 US-Dollar (in der Nacht)</li><li>Wochenverlauf: von rund 81.400 auf über 82.000 USD</li><li>Nächster Termin: Fed-Sitzung 27./28. Oktober</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: Yahoo Finanzen (BTC-USD), CoinDesk.</p></div><h2>Einordnung</h2><p>Ein kurzer Ausflug über eine runde Marke ist noch kein Trend. Entscheidend ist, ob der Kurs darüber schließen und bleiben kann. Kryptokurse schwanken stark, ein Totalverlust ist möglich. Diese Kolumne informiert und ist keine Anlageberatung. (Stand aller Kurse: 22.10.2026, morgens.)</p>",
+  "sources": [
+    {
+      "title": "Bitcoin USD (BTC-USD) Kursverlauf und historische Daten - Yahoo Finanzen (22.10.2026)",
+      "url": "https://de.finance.yahoo.com/quote/BTC-USD/history/"
+    },
+    {
+      "title": "Bitcoin bewegt sich um 83.000 $, ZEC steigt um 11 % - CoinDesk (21.10.2026)",
+      "url": "https://www.coindesk.com/de/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo steht Bitcoin am 22.10.2026?",
+      "a": "Am Morgen bei rund 82.800 US-Dollar, nach einem Tageshoch von 84.280 Dollar in der Nacht. Quelle: Yahoo Finanzen."
+    },
+    {
+      "q": "Warum war 84.000 Dollar ein Thema?",
+      "a": "Der Vermögensverwalter Hashdex hatte diese Marke als Signal für neue Stärke genannt. Sie wurde kurz erreicht, aber nicht gehalten."
+    },
+    {
+      "q": "Was ist der nächste wichtige Termin?",
+      "a": "Die Sitzung der US-Notenbank Fed am 27. und 28. Oktober. Zinsentscheide bewegen oft auch den Kryptomarkt."
+    }
+  ]
+}

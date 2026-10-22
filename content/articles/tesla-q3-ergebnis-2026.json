@@ -1,0 +1,37 @@
+{
+  "slug": "tesla-q3-ergebnis-2026",
+  "title": "Tesla: Umsatz flach, Cashflow überrascht positiv",
+  "description": "Tesla meldet für Q3/2026 einen nahezu unveränderten Umsatz von 28,0 Milliarden Dollar. Der operative Gewinn halbierte sich fast, der Free Cashflow lag bei 1,5 Milliarden Dollar (21.10.2026).",
+  "section": "einordnung",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/tesla-q3-ergebnis-2026.jpg",
+  "body": "<p>Tesla hat in der Nacht seine Zahlen zum dritten Quartal 2026 veröffentlicht. Der Umsatz lag bei 28,05 Milliarden US-Dollar und damit nahezu unverändert zum Vorjahr (28,1 Milliarden). Der vom Unternehmen zusammengestellte Analystenkonsens hatte im Schnitt 28,3 Milliarden erwartet. Der operative Gewinn fiel auf 718 Millionen Dollar nach 1,62 Milliarden im Vorjahresquartal. Der Nettogewinn lag bei 787 Millionen Dollar (Vorjahr: 1,37 Milliarden).</p><figure style=\"margin:0 0 14px\"><img src=\"/images/tesla-q3-ergebnis-2026-umsatz.png\" alt=\"Balkendiagramm des Tesla-Umsatzes von Q3/2025 (28,1 Mrd. Dollar) bis Q3/2026 (28,0 Mrd. Dollar), mit einem Zwischentief in Q1/2026.\" style=\"width:100%;height:auto;border-radius:12px;display:block\" loading=\"lazy\"><figcaption style=\"font-size:13px;color:#5a6070;margin-top:6px\">Tesla-Umsatz je Quartal. Quelle: Tesla Q3 2026 Update Deck (21.10.2026).</figcaption></figure><h2>Was die Zahlen zeigen</h2><p>Die Auslieferungen sanken um 2 Prozent auf 486.532 Fahrzeuge, der Umsatz im Autogeschäft um 3 Prozent auf 20,56 Milliarden Dollar (CNBC). Die Energiesparte verlor 16 Prozent auf 2,88 Milliarden, unter anderem wegen tarifbedingter Erstattungen, wie Tesla im Bericht erklärt. Gleichzeitig wuchs das Service-Geschäft auf 4,6 Milliarden Dollar. Positiv: Der operative Cashflow erreichte 6,3 Milliarden Dollar, der Free Cashflow 1,5 Milliarden. Die Gigafactory Berlin meldete Rekordproduktion, und Tesla stellte den Semi-Truck in Serienfertigung.</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>Tesla Q3/2026 in Zahlen</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>Umsatz: 28,05 Mrd. USD (flach zum Vorjahr)</li><li>Operatives Ergebnis: 718 Mio. USD (Vorjahr: 1,62 Mrd.)</li><li>Nettogewinn (GAAP): 787 Mio. USD</li><li>Auslieferungen: 486.532 (-2 %)</li><li>Free Cashflow: 1,5 Mrd. USD</li><li>Liquidität: 45,4 Mrd. USD</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: Tesla Q3 2026 Update Deck (21.10.2026).</p></div><h2>Einordnung</h2><p>Die Marge leidet unter höheren Ausgaben für Forschung, etwa an KI und Robotik, und unter gesunkenen Einnahmen aus Umweltgutschriften. Gleichzeitig zeigt der Cashflow, dass das Geschäft weiter Geld erwirtschaftet. Beides kann stimmen. Ob das die Aktie trägt, entscheidet der Markt heute. Dieser Artikel ist eine Einordnung, keine Anlageempfehlung. (Stand: 22.10.2026, 08:30 Uhr.)</p>",
+  "sources": [
+    {
+      "title": "Tesla Q3 2026 Update Deck (SEC/EDGAR, 21.10.2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm"
+    },
+    {
+      "title": "Tesla (TSLA) Q3 2026 earnings report - CNBC (21.10.2026)",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+    },
+    {
+      "title": "Q3 2026 Earnings Consensus - Tesla Investor Relations",
+      "url": "https://ir.tesla.com/press-release/earnings-consensus-third-quarter-2026"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lief Q3/2026 bei Tesla?",
+      "a": "Umsatz nahezu unverändert bei 28,05 Milliarden US-Dollar, operatives Ergebnis 718 Millionen (Vorjahr: 1,62 Milliarden), Nettogewinn 787 Millionen Dollar, Auslieferungen minus 2 Prozent."
+    },
+    {
+      "q": "Warum fiel der Gewinn?",
+      "a": "Tesla nennt höhere Ausgaben für Forschung (KI, Robotik), geringere Einnahmen aus Umweltgutschriften und eine schwächere Energiesparte als Gründe."
+    },
+    {
+      "q": "Was war positiv?",
+      "a": "Operativer Cashflow von 6,3 Milliarden Dollar, Free Cashflow von 1,5 Milliarden, Rekordproduktion in Grünheide und Serienstart des Tesla Semi."
+    }
+  ]
+}

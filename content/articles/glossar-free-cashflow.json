@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-free-cashflow",
+  "title": "Glossar: Free Cashflow - das Geld, das wirklich übrig bleibt",
+  "description": "Tesla meldet 1,5 Milliarden Dollar Free Cashflow und überrascht damit. Was die Kennzahl bedeutet, wie man sie liest und warum sie wichtiger ist als der Gewinn, einfach erklärt.",
+  "section": "glossar",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/glossar-free-cashflow.jpg",
+  "body": "<p>In Teslas Quartalsbericht steht eine Zeile, die viele Beobachter aufhorchen ließ: Free Cashflow 1,5 Milliarden US-Dollar. Doch was genau ist das, und warum gilt die Kennzahl als so ehrlich?</p><h2>Die einfache Rechnung</h2><p>Free Cashflow heißt freier Cashflow. Die Formel: Geld, das aus dem laufenden Geschäft hereinkommt (operativer Cashflow), minus dem Geld, das in Fabriken, Maschinen und andere Anlagen fließt (Investitionen, englisch Capex). Was übrig bleibt, kann das Unternehmen frei verwenden: für Schuldenabbau, Dividenden, Aktienrückkäufe oder Rücklagen.</p><div class=\"tw\"><table><tr><th>Position</th><th>Beispiel</th></tr><tr><td>Operativer Cashflow</td><td>100</td></tr><tr><td>- Investitionen (Capex)</td><td>-60</td></tr><tr><td><b>= Free Cashflow</b></td><td><b>40</b></td></tr></table></div><p style=\"font-size:13px;color:#5a6070\">Reines Strukturbeispiel zur Veranschaulichung, keine echten Unternehmensdaten.</p><h2>Warum der Free Cashflow ehrlicher ist als der Gewinn</h2><p>Der ausgewiesene Gewinn hängt von Bilanzregeln ab: Abschreibungen, Rückstellungen und Bewertungen können ihn drücken oder schönen, ohne dass Geld fließt. Beim Cashflow zählt nur, was auf dem Konto ankommt und abfließt. Ein Unternehmen kann also Gewinn schreiben und trotzdem Geld verlieren, oder umgekehrt.</p><h2>Praxisbeispiel Tesla (Q3/2026)</h2><p>Bei Tesla lag der operative Cashflow im dritten Quartal 2026 bei 6,3 Milliarden Dollar, die Investitionen bei 4,7 Milliarden. Übrig blieben 1,5 Milliarden Free Cashflow. Gleichzeitig sank der ausgewiesene Gewinn auf 787 Millionen Dollar. Der Blick auf beide Zeilen zeigt: Das Geschäft wirft weiter mehr Geld ab, als der Gewinn vermuten lässt, aber Tesla investiert aktuell sehr viel in KI, Fabriken und Infrastruktur. Quelle: Tesla Q3 2026 Update Deck vom 21.10.2026.</p><h2>Einordnung</h2><p>Ein hoher Free Cashflow ist gut, aber nicht alles: Wer stark investiert, hat kurzfristig weniger übrig, baut aber vielleicht das Geschäft von morgen. Dieser Artikel erklärt eine Kennzahl und ist keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Tesla Q3 2026 Update Deck (SEC/EDGAR, 21.10.2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Free Cashflow?",
+      "a": "Der Geldüberschuss aus dem laufenden Geschäft nach Abzug der Investitionen. Er zeigt, was ein Unternehmen wirklich frei verwenden kann."
+    },
+    {
+      "q": "Wie hoch war Teslas Free Cashflow in Q3/2026?",
+      "a": "1,5 Milliarden US-Dollar, aus 6,3 Milliarden operativem Cashflow minus 4,7 Milliarden Investitionen. Quelle: Tesla Q3 2026 Update Deck."
+    },
+    {
+      "q": "Kann ein Unternehmen Gewinn haben und trotzdem Geld verlieren?",
+      "a": "Ja. Der Gewinn folgt Bilanzregeln, der Cashflow dem realen Geldfluss. Beide Kennzahlen zusammen geben das vollständige Bild."
+    }
+  ]
+}

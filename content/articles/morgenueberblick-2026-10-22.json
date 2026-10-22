@@ -1,0 +1,37 @@
+{
+  "slug": "morgenueberblick-2026-10-22",
+  "title": "Morgenüberblick: Dax nach starkem Mittwoch wieder im Minus erwartet",
+  "description": "Nach dem Sprung auf 25.645 Punkte taxiert IG den Dax 0,6 Prozent tiefer. SAP überzeugt mit Cloud-Wachstum, Tesla mit Cashflow, Meta mit Umsatz (Stand: 22.10.2026, 08:00 Uhr).",
+  "section": "markt",
+  "date": "2026-10-22T08:30:00+02:00",
+  "image": "/images/morgenueberblick-2026-10-22.jpg",
+  "body": "<p>Nach dem besten Tag seit Wochen dürfte der Dax am Donnerstag wieder nachgeben. Der Broker IG taxierte den Leitindex rund zweieinhalb Stunden vor dem Xetra-Start 0,6 Prozent tiefer auf 25.500 Punkte, meldet die dpa-AFX (22.10.2026, 06:48 Uhr).</p><h2>Rückblick: Starker Mittwoch</h2><p>Am Mittwoch hatte der Dax 1,35 Prozent auf 25.645,04 Punkte zugelegt (Xetra-Schluss, 21.10.2026). Zwischenzeitlich kletterte er bis auf 25.706,19 Punkte, den höchsten Stand seit vier Wochen. An der 50-Tage-Linie blieb er dennoch hängen, wie die dpa-AFX charttechnisch einordnet.</p><figure style=\"margin:0 0 14px\"><img src=\"/images/morgenueberblick-2026-10-22-dax.png\" alt=\"Liniendiagramm der DAX-Schlussstände vom 15.10. bis 21.10.2026: Nach dem Tief bei 25.304 Punkten stieg der Index auf 25.645 Punkte.\" style=\"width:100%;height:auto;border-radius:12px;display:block\" loading=\"lazy\"><figcaption style=\"font-size:13px;color:#5a6070;margin-top:6px\">DAX-Schlussstände der letzten Handelstage. Quelle: Yahoo Finanzen (Xetra). Stand: 21.10.2026.</figcaption></figure><h2>Quartalsnacht: SAP, Tesla, Meta</h2><p>Drei Schwergewichte haben in der Nacht Zahlen gemeldet: SAP überzeugte mit 26 Prozent Cloud-Wachstum, Tesla mit überraschend starkem Cashflow bei flachem Umsatz, und Meta steigerte den Umsatz um 26 Prozent, verdiente aber operativ deutlich weniger, weil die Kosten kräftig stiegen. Details stehen in unseren Einzelartikeln. In Asien gaben Nikkei und Kospi am Morgen wieder nach. Marktexperte Stephen Innes sieht nach den widersprüchlichen KI-Signalen von Meta und Tesla die Unsicherheit im Sektor wieder wachsen, zitiert die dpa-AFX. Das ist seine Einschätzung.</p><h2>Termine</h2><p>Heute steht in Deutschland ein ruhiger Konjunkturtag an. Morgen früh um 10:00 Uhr folgt der Einkaufsmanagerindex für den Euroraum (Oktober, erste Schätzung). Nächste Woche tagt die US-Notenbank Fed. (Stand aller Angaben: 22.10.2026, circa 08:00 Uhr.)</p><div style=\"border:1px solid #d8dce6;border-left:4px solid #1A6ACD;border-radius:10px;padding:14px 16px;margin:18px 0;background:rgba(28,102,203,0.05)\"><b>Der Tag im Überblick (22.10.2026)</b><ul style=\"margin:8px 0 0;padding-left:20px\"><li>DAX-Schluss 21.10.: 25.645,04 Punkte (+1,35 %)</li><li>Vorbörse: IG taxiert 25.500 Punkte (-0,6 %)</li><li>SAP: Cloud-Umsatz +26 %, Meta: Umsatz +26 %</li><li>Tesla: Umsatz flach, Free Cashflow 1,5 Mrd. USD</li></ul><p style=\"font-size:13px;color:#5a6070;margin:8px 0 0\">Quellen: dpa-AFX/IG (06:48 Uhr), Yahoo Finanzen, Unternehmensmeldungen.</p></div><p>Einordnung: Vorbörsliche Taxierungen sind Indikationen, keine Kursgarantie. Dieser Überblick ersetzt keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "DAX-FLASH: Erneuter Rückschlag von 50-Tage-Linie erwartet - dpa-AFX via FinanzNachrichten (22.10.2026)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69902003-dax-flash-erneuter-rueckschlag-von-50-tage-linie-erwartet-016.htm"
+    },
+    {
+      "title": "DAX P (^GDAXI) Historische Daten - Yahoo Finanzen",
+      "url": "https://de.finance.yahoo.com/quote/%5EGDAXI/history/"
+    },
+    {
+      "title": "Einkaufsmanagerindex Euroraum: Termin und Prognose - Makkler",
+      "url": "https://makkler.com/de/labs/economic-calendar/eu-pmi"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie schloss der Dax am 21.10.2026?",
+      "a": "Mit 25.645,04 Punkten und einem Plus von 1,35 Prozent. Intraday erreichte er mit 25.706,19 Punkten den höchsten Stand seit vier Wochen. Quelle: Yahoo Finanzen, Xetra."
+    },
+    {
+      "q": "Wie startet der Dax am 22.10.2026?",
+      "a": "Der Broker IG taxierte ihn vorbörslich 0,6 Prozent tiefer auf 25.500 Punkte (dpa-AFX, 06:48 Uhr). Das ist eine Indikation, kein eröffneter Kurs."
+    },
+    {
+      "q": "Welche Unternehmen meldeten in der Nacht Zahlen?",
+      "a": "SAP, Tesla und Meta. Details zu allen drei Berichten stehen in den Einzelartikeln auf finanz-adjust.de."
+    }
+  ]
+}
