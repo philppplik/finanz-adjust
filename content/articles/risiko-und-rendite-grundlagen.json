@@ -1,0 +1,33 @@
+{
+  "slug": "risiko-und-rendite-grundlagen",
+  "title": "Risiko und Rendite: Warum mehr Ertrag immer mehr Schwankung kostet",
+  "description": "Rendite ist der Preis für Risiko: Warum sichere Anlagen wenig bringen und schwankende mehr abwerfen müssen. Mit Beispielrechnung. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/risiko-und-rendite-grundlagen.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Wer an der Börse mehr Ertrag will, muss mehr Ungewissheit ertragen. Das ist kein Sprichwort, sondern der Kern des Marktes: Investoren verlangen für jedes Risiko, das sie tragen, eine Entschädigung. Diese Entschädigung heißt Risikoprämie. Ohne sie gäbe es keinen Grund, eine schwankende Aktie zu kaufen, wenn ein verzinstes Konto dasselbe Ziel sicherer erreicht.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Mehr Rendite gibt es nicht umsonst, sondern nur gegen mehr Schwankung und Verlustrisiko.</li><li>Die Risikoprämie ist der Renditeaufschlag, den Anleger für das Tragen von Risiko verlangen.</li><li>Sicherheit und Rendite sind ein Tauschgeschäft: Wer das eine will, gibt das andere auf.</li><li>Dein <a href=\"/artikel/risikoprofil-selbsteinschaetzung/\">Risikoprofil</a> entscheidet, welcher Punkt auf dieser Linie zu dir passt.</li></ul></div><h2>Das Tauschgeschäft verstehen</h2><p>Stell dir zwei Angebote vor: Angebot A bringt sichere 2 Prozent im Jahr. Angebot B kann 8 Prozent bringen, aber auch 20 Prozent verlieren. Niemand würde B wählen, wenn es im Schnitt ebenfalls nur 2 Prozent brächte. B muss also im langfristigen Durchschnitt mehr abwerfen, sonst findet es keine Käufer. Genau dieser Mechanismus sorgt dafür, dass Aktien über lange Zeiträume historisch mehr Rendite brachten als Tagesgeld oder sichere Anleihen. Vergangenheit ist dabei keine Garantie für die Zukunft, erklärt aber die Struktur: Der Markt bezahlt dich für das Risiko, nicht für deine Geduld allein.</p><h2>Was Risiko konkret bedeutet</h2><p>Im Alltag heißt Risiko Gefahr. An der Börse misst man es nüchterner: als Schwankung des Kurses um seinen Durchschnitt, die <a href=\"/glossar/was-bedeutet-volatilitaet/\">Volatilität</a>, und als möglichen Verlust in schlechten Phasen, den <a href=\"/artikel/volatilitaet-und-drawdown/\">Drawdown</a>. Beides hängt zusammen: Anlagen mit hoher Renditeerwartung schwanken stärker und können tiefer fallen.</p><h2>Beispielrechnung mit zwei Wegen</h2><p>Ein Strukturbeispiel zeigt den Unterschied: 10.000 Euro über 20 Jahre. Weg A (sicher, 2 Prozent pro Jahr) wächst auf rund 14.860 Euro. Weg B (schwankend, im Mittel 6 Prozent) wächst im Durchschnitt auf rund 32.070 Euro, kann aber zwischendurch auf 6.000 Euro fallen. Wer in so einem Tief verkauft, realisiert den Verlust und hat die Prämie nie eingesammelt. Deshalb gehören Risiko und Zeithorizont zusammen: Je länger du das Geld nicht brauchst, desto mehr Schwankung kannst du aushalten.</p><p>Einordnung: Dieser Artikel erklärt den Mechanismus und ersetzt keine Anlageberatung. Welche Risikomischung zu deiner Situation passt, hängt von Zielen, Einkommen und deiner Risikotragfähigkeit ab.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Merkblatt Hinweise zum Tatbestand der Anlageberatung (10.02.2025)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_250210_anlageberatung.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum bringen Aktien langfristig mehr als Tagesgeld?",
+      "a": "Weil Anleger für das Kursrisiko eine Risikoprämie verlangen. Ohne höhere Renditeerwartung würde niemand die Schwankung tragen. Das ist ein struktureller Zusammenhang, keine Garantie für einzelne Jahre."
+    },
+    {
+      "q": "Ist Risiko dasselbe wie Verlust?",
+      "a": "Nein. Risiko ist die Möglichkeit und das Ausmaß von Schwankungen. Ein Verlust entsteht erst, wenn du im Minus verkaufst oder eine Anlage dauerhaft an Wert verliert."
+    },
+    {
+      "q": "Kann ich Risiko komplett vermeiden?",
+      "a": "Nein. Selbst vermeintlich sichere Anlagen tragen Risiken: Tagesgeld das Inflationsrisiko (siehe <a href=\"/artikel/realzins-berechnen/\">Realzins</a>), Anleihen Zinsänderungs- und Bonitätsrisiken. Du kannst Risiken nur wählen und mischen."
+    }
+  ]
+}

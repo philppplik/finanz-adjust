@@ -1,0 +1,33 @@
+{
+  "slug": "realzins-berechnen",
+  "title": "Realzins berechnen: Die wichtigste Formel des Sparens",
+  "description": "Nominalzins minus Inflation: So rechnest du aus, was dein Geld wirklich verdient. Mit Beispiel und aktuellen Zahlen. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/realzins-berechnen.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Drei Prozent Zinsen aufs Tagesgeld klingen nach einem Gewinn. Ob du real etwas dazuverdienst, entscheidet erst die Inflation. Der Realzins ist der ehrlichste Zinswert überhaupt: Er zeigt, ob dein Geld an Kaufkraft gewinnt oder verliert.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Realzins (überschlägig) = Nominalzins minus Inflationsrate.</li><li>Exakt: Realzins = (1 + Nominalzins) / (1 + Inflationsrate) minus 1.</li><li>Negativer Realzins = Kaufkraftverlust trotz Zinszahlung.</li><li>Mit den aktuellen Zahlen (Destatis 3,3 Prozent, EZB-Einlagensatz 2,50 Prozent) ist der Realzins auf sichere Einlagen negativ.</li></ul></div><h2>Die einfache Formel und die exakte</h2><p>Für den Alltag reicht die Überschlagsrechnung: Nominalzins minus Inflationsrate. Bei 2,5 Prozent Zins und 3,3 Prozent Inflation ergeben sich rund minus 0,8 Prozent. Exakt rechnet man mit der Fisher-Gleichung: (1,025 geteilt durch 1,033) minus 1, das ergibt etwa minus 0,77 Prozent. Der Unterschied ist klein, wird aber bei hohen Raten größer. Wichtig ist die Richtung: Solange die Inflation über deinem Zins liegt, verliert dein Geld real an Wert, auch wenn der Kontostand wächst.</p><h2>Was das in Euro bedeutet</h2><p>Strukturbeispiel: 10.000 Euro auf einem Konto mit 2,5 Prozent Nominalzins werden in zehn Jahren nominal rund 12.800 Euro. Legt man die aktuelle Inflationsrate von 3,3 Prozent (Destatis, September 2026) als konstante Annahme zugrunde, haben diese 12.800 Euro dann aber nur die Kaufkraft von rund 9.260 heutigen Euro. Du hast also trotz Zinsgutschrift real verloren. Das ist keine Prognose, sondern eine Mechanik-Illustration mit festen Annahmen.</p><h2>Wo der Realzins überall steckt</h2><p>Der Realzins ist der heimliche Maßstab fast aller Finanzfragen. Er erklärt, warum <a href=\"/artikel/inflation-und-sparer/\">Sparer in Inflationsphasen verlieren</a>, warum <a href=\"/artikel/inflation-und-schuldner/\">Schuldner profitieren können</a> und warum Anlagen, die nur nominal gut aussehen, real mau sein können. Umgekehrt kann ein niedriger Nominalzins bei fallender Inflation real attraktiv sein. Merksatz: Vergleiche nie Zinsen, vergleiche Realzinsen.</p><p>Einordnung: Rechnung mit aktuellen, datierten Zahlen (Destatis 13.10.2026, EZB Stand 22.10.2026). Annahmen sind konstant gehalten, die Realität ändert sich. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex September 2026, Pressemitteilung Nr. 364 (13.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+    },
+    {
+      "title": "EZB: Leitzinsen (aktueller Stand)",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie rechne ich den Realzins schnell im Kopf?",
+      "a": "Nominalzins minus Inflationsrate. Für eine grobe Einschätzung reicht das; die exakte Fisher-Formel liefert fast dasselbe Ergebnis bei kleinen Zahlen."
+    },
+    {
+      "q": "Ist ein negativer Realzins ein Verlust auf dem Konto?",
+      "a": "Nicht nominal: Dein Kontostand wächst weiter. Aber die Kaufkraft des Guthabens sinkt, weil die Preise schneller steigen als die Zinsen."
+    },
+    {
+      "q": "Gilt der Realzins auch für Aktien?",
+      "a": "Das Konzept hilft auch dort: Von der erwarteten Nominalrendite zieht man die Inflation ab, um die reale Renditeerwartung zu sehen. Aktien schwanken zusätzlich stark, siehe <a href=\"/artikel/volatilitaet-und-drawdown/\">Volatilität und Drawdown</a>."
+    }
+  ]
+}

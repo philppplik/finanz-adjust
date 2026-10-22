@@ -1,0 +1,33 @@
+{
+  "slug": "inflation-und-sparer",
+  "title": "Inflation und Sparer: Was Teuerung Jahr für Jahr mit deinem Guthaben macht",
+  "description": "Inflation frisst Guthaben leise auf: Kaufkraftverluste über 5, 10 und 20 Jahre, und was Sparer wissen müssen. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/inflation-und-sparer.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Inflation ist die unauffälligste Steuer der Welt: Kein Bescheid, kein Abbuchungsdatum, und trotzdem wird dein Geld jedes Jahr ein Stück weniger wert. Wer spart, sollte diese Mechanik genau kennen, denn sie entscheidet darüber, ob Disziplin sich auszahlt.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bei 3,3 Prozent Inflation verliert Geld in 10 Jahren rund 28 Prozent Kaufkraft.</li><li>Zinsen können den Verlust bremsen, aber nur, wenn sie über der Teuerung liegen.</li><li>Das Versteckspiel: Steigender Kontostand, sinkende Kaufkraft.</li><li>Der <a href=\"/rechner/inflation/\">Inflationsrechner</a> zeigt dir deine Zahlen.</li></ul></div><h2>Die stille Entwertung in Zahlen</h2><p>Nimm die aktuelle deutsche Inflationsrate von 3,3 Prozent (Destatis, September 2026) und halte sie als reine Rechenannahme fest. Aus 10.000 Euro ohne Verzinsung wird die Kaufkraft nach 5 Jahren noch rund 8.500 heutiger Euro betragen, nach 10 Jahren rund 7.220 Euro, nach 20 Jahren rund 5.220 Euro. Der Kontostand bliebe unverändert bei 10.000 Euro. Genau diese Lücke zwischen Zahl und Wert ist der Kaufkraftverlust.</p><h2>Warum Zinsen nicht automatisch retten</h2><p>Zinsen helfen nur, wenn sie die Inflation schlagen. Liegt dein Tagesgeld bei 2,5 Prozent und die Teuerung bei 3,3 Prozent, bleibt ein <a href=\"/artikel/realzins-berechnen/\">Realzins</a> von etwa minus 0,8 Prozent: Der Verlust wird kleiner, aber er bleibt. Historisch gab es Phasen, in denen sichere Einlagen über Jahre real verloren. Deshalb ist die Frage nicht Zins ja oder nein, sondern: Ist mein Zins real positiv?</p><h2>Drei Verhaltensweisen, die Sparer teuer zu stehen kommen</h2><p>Erstens: Geld unverzinst liegen lassen, weil es sich sicher anfühlt. Zweitens: nur den Nominalzins vergleichen und die Teuerung ignorieren. Drittens: aus Angst vor Schwankungen gar nicht anlegen und damit den garantierten realen Verlust in Kauf nehmen. Kein Weg ist risikofrei: Das eine Risiko ist sichtbar (Kurse), das andere unsichtbar (Kaufkraft). Das Kernstück der Gegenstrategie ist ein Mix, der zu deinem <a href=\"/artikel/risikoprofil-selbsteinschaetzung/\">Risikoprofil</a> passt, und der Blick auf den Realzins statt auf den Kontostand.</p><p>Einordnung: Beispielrechnungen mit konstanter Annahme (3,3 Prozent), keine Prognose. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex September 2026, Pressemitteilung Nr. 364 (13.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viel verliert mein Geld bei 3,3 Prozent Inflation in 10 Jahren?",
+      "a": "Ohne Verzinsung rund 28 Prozent seiner Kaufkraft. Aus 10.000 Euro werden real etwa 7.220 Euro. Mit 2,5 Prozent Zins sinkt der Verlust auf rund 7 Prozent."
+    },
+    {
+      "q": "Ist Tagesgeld sinnlos bei Inflation?",
+      "a": "Nicht sinnlos: Für die Notreserve zählen Verfügbarkeit und Sicherheit mehr als Rendite. Für langfristiges Vermögen ist der Realzins aber der Prüfstein."
+    },
+    {
+      "q": "Was ist die einfachste Gegenwehr?",
+      "a": "Den Realzins jeder Anlage kennen, Kosten niedrig halten und die Anlagedauer nutzen. Konkrete Produkte hängen von deiner Situation ab."
+    }
+  ]
+}

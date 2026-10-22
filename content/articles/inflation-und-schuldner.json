@@ -1,0 +1,33 @@
+{
+  "slug": "inflation-und-schuldner",
+  "title": "Inflation und Schuldner: Warum Teuerung Kredite real entwertet",
+  "description": "Inflation hilft Schuldnern: Warum die reale Last deines Kredits sinkt und wo die Grenzen liegen. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/inflation-und-schuldner.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Inflation hat zwei Gesichter. Während sie Guthaben auffrisst, knabbert sie gleichzeitig an Schulden. Wer einen Kredit mit Festzins hat, zahlt mit jedem Jahr hoher Teuerung real weniger zurück, als er geliehen hat. Das klingt nach einem Trick, ist aber einfache Mathematik.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bei Festzins bleibt die Rate nominal gleich, ihr realer Wert sinkt mit der Inflation.</li><li>Schuldner profitieren nur, wenn ihr Einkommen mit der Teuerung Schritt hält.</li><li>Variable Zinsen kehren den Effekt um: Dann steigt die Rate mit dem Zinsniveau.</li><li>Der Staat ist der größte Profiteur: Hohe Inflation entwertet reale Schuldenstände.</li></ul></div><h2>Der Mechanismus: Schulden in heutigem Geld, Rückzahlung in künftigem</h2><p>Du leihst dir 300.000 Euro für eine Immobilie, Festzins 3 Prozent über 10 Jahre. Deine Rate bleibt nominal fix. Steigt das Preisniveau jährlich um 3,3 Prozent (aktuelle Rate: Destatis, September 2026), verlieren die zurückgezahlten Euros jedes Jahr an Kaufkraft. Real entspricht die Restschuld am Ende deutlich weniger heutiger Kaufkraft. Gleichzeitig steigt idealerweise dein Gehalt mit der Inflation, wodurch die Rate relativ zum Einkommen leichter wird. Genau dieser Doppeleffekt macht Inflation für Festzins-Schuldner zum stillen Helfer.</p><h2>Die drei Bedingungen, unter denen der Trick funktioniert</h2><p>Erstens: Der Zins muss fest sein. Bei variablen Krediten ziehen Banken den Zins nach, und der Vorteil schmilzt. Zweitens: Dein Einkommen muss annähernd mit der Inflation steigen; wer real weniger verdient, spürt die Rate trotzdem stärker. Drittens: Die Inflation darf nicht in einen Zinsschock münden, der bei der Anschlussfinanzierung zuschlägt. Wer in 10 Jahren prolongieren muss und dann 6 statt 3 Prozent zahlt, verliert den Vorteil schnell wieder.</p><h2>Warum der Staat der größte Gewinner ist</h2><p>Das Prinzip gilt in groß: Staaten mit hohen Schulden und eigener Währung profitieren, wenn Teuerung und nominalwachsende Steuereinnahmen die reale Schuldenlast senken. Ökonomen nennen das Entschuldung über die Inflation. Für dich als Anleger ist das die Kehrseite: Inflationsphasen verteilen von Gläubigern (Sparern, Anleihehaltern) zu Schuldnern um. Wer das versteht, sieht die Inflationsdebatte mit anderen Augen: Sie ist auch eine Verteilungsfrage, keine Politikfrage an dieser Stelle, sondern eine Rechenfrage.</p><p>Einordnung: Mechanische Darstellung, keine Empfehlung zu Verschuldung oder Immobilienkauf. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex September 2026, Pressemitteilung Nr. 364 (13.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+    },
+    {
+      "title": "EZB: Leitzinsen (aktueller Stand)",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Profitiere ich als Kreditnehmer immer von Inflation?",
+      "a": "Nur bei Festzins und steigendem Einkommen. Bei variablem Zins oder stagnierendem Lohn kann Inflation dich zusätzlich belasten, weil alles andere teurer wird."
+    },
+    {
+      "q": "Sollte ich deshalb mehr Schulden machen?",
+      "a": "Nein. Der Effekt ist ein Nebenprodukt, kein Grund für Verschuldung. Kredite kosten Zinsen und bergen Risiken, etwa bei der Anschlussfinanzierung."
+    },
+    {
+      "q": "Was passiert mit meinem Kredit bei Deflation?",
+      "a": "Der Effekt dreht sich um: Fallende Preise erhöhen die reale Schuldenlast. Genau deshalb fürchten Zentralbanken Deflation mehr als moderate Inflation."
+    }
+  ]
+}

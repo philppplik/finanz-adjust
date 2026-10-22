@@ -1,0 +1,33 @@
+{
+  "slug": "volatilitaet-und-drawdown",
+  "title": "Volatilität und Drawdown: Die zwei Risikomaße, die wirklich zählen",
+  "description": "Volatilität misst die Schwankung, der Drawdown den tiefsten Einbruch. Beide Maße einfach erklärt, mit Beispiel. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/volatilitaet-und-drawdown.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Wie riskant ist eine Anlage? Zwei Zahlen beantworten fast die ganze Frage: die Volatilität beschreibt die typische Schwankung im Alltag, der Drawdown den schlimmsten Rücksetzer vom Hoch zum Tief. Wer beide versteht, lässt sich von einer ruhigen Kurve genauso wenig täuschen wie von einem einzigen schlechten Jahr.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Volatilität = durchschnittliche Schwankungsstärke, meist als Jahreswert in Prozent.</li><li>Drawdown = größter Verlust von einem Hoch bis zum folgenden Tief, in Prozent.</li><li>Beide Maße beschreiben Vergangenheit, sie sagen keinen zukünftigen Crash voraus.</li><li>Wichtig ist deine Reaktion: Hältst du einen Drawdown aus, ohne zu verkaufen?</li></ul></div><h2>Volatilität: das Thermometer der Nervosität</h2><p>Die Volatilität misst, wie stark ein Kurs um seinen Mittelwert streut. Eine Aktie mit 20 Prozent Volatilität bewegt sich typischerweise deutlich stärker als eine mit 10 Prozent. Der Wert wird aus historischen Kursen berechnet und auf ein Jahr hochgerechnet. Er sagt nichts über die Richtung aus: Eine Anlage kann gleichmäßig steigen oder fallen und dabei dieselbe Volatilität haben. Grob gilt: Deutsche und internationale Aktienindizes lagen historisch oft in einer Größenordnung von 15 bis 25 Prozent, einzelne Aktien deutlich höher, Anleihen guter Bonität niedriger.</p><h2>Drawdown: der Blick in den Abgrund</h2><p>Der Drawdown beantwortet eine emotionalere Frage: Wie tief saß ich schon einmal im Minus? Gefallen von 25.000 auf 17.500 Punkte, beträgt der Drawdown 30 Prozent. Zum Aufholen reichen dann keine 30 Prozent, sondern rund 43 Prozent Plus vom Tief aus. Diese Asymmetrie ist der Grund, warum tiefe Verluste so gefährlich sind: Minus 50 Prozent braucht plus 100 Prozent zur Heilung.</p><h2>Beide Maße zusammen lesen</h2><p>Ein Fonds kann ruhig wirken (niedrige Volatilität) und trotzdem einmal tief stürzen, etwa weil er selten gehandelte Werte enthält. Umgekehrt kann ein schwankungsstarker Index lange Bullenphasen mit kleinen Drawdowns durchlaufen. Darum gehören beide Zahlen in jeden Vergleich, ergänzt um die Frage: Wie lange dauerte es bis zum neuen Hoch (Recovery-Zeit)?</p><p>Einordnung: Risikomaße vergangener Perioden sind Anhaltspunkte, keine Obergrenzen für künftige Verluste. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Geldanlage und Wertpapiere (Verbraucherportal)",
+      "url": "https://www.bafin.de/DE/Verbraucher/verbraucher_node.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Volatilität und Drawdown?",
+      "a": "Volatilität misst die alltägliche Schwankung um den Durchschnitt, der Drawdown den maximalen Verlust vom Hoch zum Tief. Das eine ist Dauergeräusch, das andere der Tiefpunkt."
+    },
+    {
+      "q": "Was bedeutet eine Volatilität von 20 Prozent?",
+      "a": "Der Kurs streut typischerweise um 20 Prozent pro Jahr um seinen Mittelwert. Es ist ein statistisches Maß der Schwankung, keine Prognose."
+    },
+    {
+      "q": "Wie viel Prozent brauche ich nach 40 Prozent Verlust zum Aufholen?",
+      "a": "Rund 67 Prozent. Von 60 auf 100 braucht es plus 66,7 Prozent. Verlust und nötiges Erholungsplus laufen auseinander."
+    }
+  ]
+}

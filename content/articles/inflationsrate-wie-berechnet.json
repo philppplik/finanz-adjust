@@ -1,0 +1,33 @@
+{
+  "slug": "inflationsrate-wie-berechnet",
+  "title": "Inflationsrate: Wie das Statistische Bundesamt die Teuerung misst",
+  "description": "Wie aus 300.000 Einzelpreisen die Inflationsrate wird: Warenkorb, Gewichtung und Berechnung des VPI. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/inflationsrate-wie-berechnet.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Einmal im Monat erscheint eine Zahl, die direkt in deine Geldbörse spricht: die Inflationsrate. Im September 2026 lagen die Verbraucherpreise in Deutschland 3,3 Prozent über dem Vorjahreswert, wie das Statistische Bundesamt am 13. Oktober 2026 mitteilte. Aber wie kommt diese eine Zahl zustande? Dahinter steckt ein festes Verfahren mit Hunderttausenden Einzelpreisen.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Verbraucherpreisindex (VPI) misst die Preisentwicklung eines repräsentativen Warenkorbs.</li><li>Rund 300.000 Einzelpreise fließen monatlich in die Berechnung ein.</li><li>Die Inflationsrate ist die Veränderung des Index zum Vorjahresmonat.</li><li>Deine persönliche Inflation kann davon abweichen, je nach Ausgabenmuster.</li></ul></div><h2>Der Warenkorb als Maßstab</h2><p>Grundlage ist der Wägungsschema, ein fiktiver Einkaufskorb, der die Ausgaben der privaten Haushalte in Deutschland abbildet. Er enthält etwa 750 Güter und Dienstleistungen, von Miete über Lebensmittel bis zum Friseurbesuch. Jede Position bekommt ein Gewicht, das ihrem Anteil an den Haushaltsausgaben entspricht: Wohnen, Wasser, Strom und Heizung machen mit Abstand den größten Posten aus. Das Schema wird regelmäßig an geänderte Ausgabengewohnheiten angepasst.</p><h2>Vom Preis zur Rate</h2><p>Die Preiserhebung läuft über das Statistische Bundesamt und die statistischen Ämter der Länder: Erhebungsteams erfassen jeden Monat rund 300.000 Einzelpreise in Geschäften und online. Daraus entsteht der Indexstand. Die Inflationsrate ist dann die prozentuale Veränderung gegenüber dem Vorjahresmonat. Steigt der Index von 100 auf 103,3, beträgt die Rate 3,3 Prozent. Für September 2026 meldete Destatis zusätzlich: gegenüber dem Vormonat August stiegen die Preise um 0,6 Prozent, Energie verteuerte sich um 14,9 Prozent zum Vorjahr, die Kerninflation (ohne Nahrungsmittel und Energie) lag bei plus 2,4 Prozent.</p><h2>Warum deine Inflation anders sein kann</h2><p>Die Rate ist ein Durchschnitt über alle Haushalte. Wer viel Auto fährt, spürt steigende Energiepreise stärker; wer zur Miete in einer angespannten Großstadt wohnt, hat eine andere Last als ein Eigentümer mit abbezahltem Haus. Das Statistische Bundesamt bietet deshalb einen persönlichen Inflationsrechner an, mit dem du dein eigenes Ausgabenmuster gewichten kannst. Für die <a href=\"/artikel/realzins-berechnen/\">Realzinsrechnung</a> deines Sparplans zählt am Ende deine persönliche Rate mehr als die Schlagzeile.</p><p>Einordnung: Die amtliche Statistik ist die gemeinsame Basis für Politik, Tarifrunden und EZB. Methodische Kritik gibt es, das Verfahren gilt international als vergleichbar. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex September 2026, Pressemitteilung Nr. 364 (13.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+    },
+    {
+      "title": "Statistische Bundesamt: Verbraucherpreise (Themenseite)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist die Inflationsrate genau?",
+      "a": "Die prozentuale Veränderung des Verbraucherpreisindex gegenüber dem Vorjahresmonat. Sie misst, wie viel teurer ein fester Warenkorb geworden ist."
+    },
+    {
+      "q": "Wie oft wird die Inflationsrate veröffentlicht?",
+      "a": "Monatlich. Destatis veröffentlicht zunächst eine Schätzung gegen Monatsende, danach das endgültige Ergebnis etwa zwei Wochen später."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Inflationsrate und Preisniveau?",
+      "a": "Das Niveau sagt, wie hoch die Preise absolut stehen; die Rate sagt, wie schnell sie steigen. Fällt die Rate von 4 auf 3 Prozent, werden Preise weiter teurer, nur langsamer."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "paket": "C Teil 1",
+  "welle": 2,
+  "stand": "2026-10-22",
+  "pfade": [
+    {
+      "id": "LP-FA-11",
+      "name": "Risiko & Rendite: Streuung verstehen",
+      "frage": "Warum schwankt mein Depot, und wie streue ich richtig, ohne die Rendite zu verschenken?",
+      "intro": "Risiko ist an der Börse kein Unglück, sondern der Preis der Rendite. Dieser Pfad erklärt den Zusammenhang zwischen Rendite und Schwankung, zeigt die zwei wichtigsten Risikomaße (Volatilität und Drawdown) und macht Diversifikation greifbar: Warum es nicht reicht, viele Titel zu halten, wenn alle gleich laufen. Am Ende kannst du Klumpenrisiken im eigenen Depot erkennen und deine Risikotragfähigkeit ehrlich einschätzen. Ohne Produktempfehlung, nur Mechanik.",
+      "level": "Praktiker",
+      "zielgruppe": "Alle, die schon ein Depot haben oder eines planen",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "Grundbegriffe Aktie, ETF und Rendite (Lernpfade 03 und 04).",
+      "lernziel": "Du kannst den Rendite-Risiko-Zusammenhang erklären, Volatilität und Drawdown unterscheiden und beurteilen, ob ein Depot wirklich gestreut ist.",
+      "steps": [
+        {
+          "slug": "/artikel/risiko-und-rendite-grundlagen/",
+          "warum": "Grundlage: Warum höhere Rendite immer mehr Schwankung bedeutet und Sicherheit Rendite kostet."
+        },
+        {
+          "slug": "/glossar/diversifikation/",
+          "warum": "Der Fachbegriff dafür, nicht alles auf eine Karte zu setzen."
+        },
+        {
+          "slug": "/artikel/volatilitaet-und-drawdown/",
+          "warum": "Die zwei wichtigsten Risikomaße verstehen und sauber unterscheiden."
+        },
+        {
+          "slug": "/artikel/klumpenrisiko-erkennen/",
+          "warum": "Versteckte Häufungen im eigenen Depot sichtbar machen, bevor sie wehtun."
+        },
+        {
+          "slug": "/artikel/korrelationen-erklaert/",
+          "warum": "Streuung wirkt nur, wenn die Anlagen nicht im Gleichtakt laufen."
+        },
+        {
+          "slug": "/glossar/was-bedeutet-volatilitaet/",
+          "warum": "Kurz nachgeschlagen: das Maß der Schwankung in einem Satz."
+        },
+        {
+          "slug": "/artikel/risikoprofil-selbsteinschaetzung/",
+          "warum": "Praxisschritt: Deine Risikotragfähigkeit ehrlich prüfen, bevor der nächste Rücksetzer kommt."
+        }
+      ],
+      "terms": [
+        "diversifikation",
+        "was-bedeutet-volatilitaet",
+        "rendite"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Dein Depot besteht aus vier Technologie-Aktien und einem Technologie-ETF. Bist du breit gestreut?",
+            "loesung": "Nur scheinbar. Fünf Positionen, aber ein Thema: Alle Anlagen reagieren auf dieselben Nachrichten und fallen gemeinsam. Echte Streuung braucht Anlagen, die nicht im Gleichtakt laufen (geringe Korrelation), zum Beispiel verschiedene Branchen, Regionen und Anlageklassen."
+          },
+          {
+            "frage": "Ein Fonds schwankt kaum, wirft aber nur 1,5 Prozent ab. Ein anderer schwankt stark und brachte im Schnitt 6 Prozent. Welcher ist besser?",
+            "loesung": "Die Frage ist so nicht beantwortbar. Es kommt auf deine Risikotragfähigkeit an: Wann brauchst du das Geld, und hältst du einen Einbruch von 30 Prozent aus, ohne zu verkaufen? Mehr Rendite gibt es nicht umsonst, sondern nur gegen mehr Schwankung."
+          },
+          {
+            "frage": "Dein Depot fällt von 20.000 auf 14.000 Euro. Wie groß ist der Drawdown, und wie viel Prozent braucht es zum Aufholen?",
+            "loesung": "Der Drawdown beträgt 30 Prozent. Zum Aufholen reichen 30 Prozent nicht: Von 14.000 aus braucht es rund 43 Prozent, um wieder bei 20.000 Euro zu sein. Verluste und Aufholbedarf laufen asymmetrisch auseinander."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was misst die Volatilität?",
+            "loesung": "Wie stark der Kurs um seinen Durchschnitt schwankt, meist als Jahreswert in Prozent. Sie sagt nichts über die Richtung aus."
+          },
+          {
+            "frage": "Was ist ein Klumpenrisiko?",
+            "loesung": "Eine ungewollt große Häufung auf einen Wert, eine Branche oder einen Faktor, zum Beispiel die eigene Arbeitgeberaktie plus Branchen-ETF derselben Branche."
+          },
+          {
+            "frage": "Warum senkt Diversifikation das Risiko, ohne zwangsläufig die Rendite zu halbieren?",
+            "loesung": "Weil Anlagen nicht gleichzeitig und gleich stark fallen. Solange die Korrelation unter eins liegt, federn Gewinne der einen Verluste der anderen ab."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-12",
+          "warum": "Der Realzins zeigt, was von der Rendite nach Inflation übrig bleibt."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-12",
+      "name": "Inflation & Realzins im Alltag",
+      "frage": "Wie wird Inflation gemessen, und was bleibt von meiner Verzinsung real übrig?",
+      "intro": "3 Prozent Zinsen klingen gut, bis die Preise um 3,3 Prozent steigen. Dieser Pfad zeigt, wie das Statistische Bundesamt die Inflationsrate misst, was der Warenkorb und der europäische HVPI unterscheiden und wie du aus Nominalzins und Teuerung den Realzins rechnest. Danach schaust du auf Sparer- und Schuldnerseite: Inflation frisst Guthaben, entwertet aber auch Kredite. Mit aktuellen Zahlen von Destatis und EZB (Stand 22.10.2026).",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 90 Minuten",
+      "voraussetzungen": "Keine. Der Pfad baut auf sich selbst auf.",
+      "lernziel": "Du kannst erklären, wie die Inflationsrate entsteht, den Realzins selbst rechnen und die Wirkung auf Guthaben und Kredite einordnen.",
+      "steps": [
+        {
+          "slug": "/artikel/inflationsrate-wie-berechnet/",
+          "warum": "Wie aus tausenden Preisen eine einzige Prozentzahl wird."
+        },
+        {
+          "slug": "/artikel/warenkorb-und-hicp/",
+          "warum": "Was im Warenkorb steckt und warum Europa anders misst als Deutschland."
+        },
+        {
+          "slug": "/artikel/realzins-berechnen/",
+          "warum": "Die wichtigste Formel des Sparens: Nominalzins minus Inflation."
+        },
+        {
+          "slug": "/artikel/inflation-und-sparer/",
+          "warum": "Was Teuerung Jahr für Jahr mit deinem Guthaben macht."
+        },
+        {
+          "slug": "/artikel/inflation-und-schuldner/",
+          "warum": "Die Kehrseite: Warum Inflation Kredite real entwertet."
+        },
+        {
+          "slug": "/rechner/inflation/",
+          "warum": "Praxisschritt: Rechne selbst, was dein Geld in 10 Jahren noch kauft."
+        },
+        {
+          "slug": "/artikel/glossar-erzeugerpreise/",
+          "warum": "Der vorgelagerte Indikator: Was die Erzeugerpreise über künftige Inflation verraten."
+        }
+      ],
+      "terms": [
+        "inflation",
+        "zins",
+        "rendite"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Dein Tagesgeldkonto zahlt 2,5 Prozent, die Inflationsrate liegt bei 3,3 Prozent (Destatis, September 2026). Was passiert mit deiner Kaufkraft?",
+            "loesung": "Sie sinkt: Der Realzins liegt bei etwa minus 0,8 Prozent. Du bekommst zwar Zinsen, kannst dir aber am Jahresende weniger kaufen als vorher."
+          },
+          {
+            "frage": "Du hast einen Kredit mit 3 Prozent Festzins über 10 Jahre. Die Inflation steigt auf 4 Prozent. Wer profitiert?",
+            "loesung": "Du als Schuldner: Du zahlst weiter 3 Prozent, während Geld real 4 Prozent pro Jahr an Wert verliert. Die reale Last deines Kredits sinkt."
+          },
+          {
+            "frage": "Dein Warenkorb sieht anders aus als der von Destatis: Du fährst viel Auto, kaufst kaum Kleidung. Ist die Inflationsrate für dich falsch?",
+            "loesung": "Nicht falsch, aber nicht maßgeschneidert. Der VPI bildet den Durchschnitt aller Haushalte ab. Deine persönliche Inflationsrate kann höher oder niedriger liegen, je nachdem, wofür du dein Geld ausgibst."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wie berechnest du den Realzins überschlägig?",
+            "loesung": "Nominalzins minus Inflationsrate. Bei 2,5 Prozent Zins und 3,3 Prozent Inflation: rund minus 0,8 Prozent."
+          },
+          {
+            "frage": "Was ist der Unterschied zwischen VPI und HVPI?",
+            "loesung": "Der VPI ist der deutsche Verbraucherpreisindex, der HVPI die europäisch harmonisierte Variante, nach der sich die Geldpolitik der EZB richtet."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-13",
+          "warum": "Der Zinseszins zeigt die Gegenrichtung: So arbeitet Zeit für statt gegen dich."
+        }
+      ]
+    }
+  ]
+}

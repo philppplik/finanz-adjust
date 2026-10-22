@@ -4,7 +4,7 @@ Fortschritt nur im localStorage (Schluessel fa-lernpfad-<id>), kein Server, kein
 import json, re, html, glob, shutil
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent
-LEVELS = ['Einsteiger', 'Fortgeschritten', 'Profi']
+LEVELS = ['Einsteiger', 'Praktiker', 'Fortgeschritten', 'Profi']
 esc = lambda s: html.escape(str(s), quote=True)
 
 def slugify(t):

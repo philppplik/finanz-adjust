@@ -1,0 +1,33 @@
+{
+  "slug": "klumpenrisiko-erkennen",
+  "title": "Klumpenrisiko erkennen: Wenn zu viel am selben Ast hängt",
+  "description": "Ein Klumpenrisiko entsteht, wenn viel Geld an einer einzigen Wette hängt. Typische Fallen und ein Selbstcheck. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/klumpenrisiko-erkennen.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Viele Anleger halten ihre Anlage für breit gestreut, bis sie die Bestandteile einmal sauber zusammenzählen. Dann zeigt sich: 40 Prozent des Depots hängt an derselben Branche, derselben Firma oder demselben Land. Diese Ballung nennt man Klumpenrisiko. Sie entsteht selten aus Übermut, meistens schleichend: durch Mitarbeiteraktien, Erbschaften, einen Lieblingswert oder überschneidende Fonds.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Klumpenrisiko = hoher Anteil des Vermögens an einem einzigen Wert, einer Branche oder einem Land.</li><li>Schädlich wird er, weil ein einzelnes Ereignis dann das ganze Depot trifft.</li><li>Fallen: Arbeitgeber-Aktien, geerbte Einzelaktien, überschneidende Fonds, der Heimatmarkt.</li><li>Gegenmittel ist echte <a href=\"/glossar/diversifikation/\">Diversifikation</a>, nicht die Anzahl der Positionen.</li></ul></div><h2>Warum ein Klumpen so gefährlich ist</h2><p>Ein einzelnes Unternehmen kann scheitern, ein einzelnes Land kann in eine lange Krise rutschen. Wer 50 Prozent seines Vermögens dort hält, verliert bei einem Totalausfall die Hälfte. Historische Beispiele reichen von einstigen Börsenstars, die in die Insolvenz gingen, bis zu ganzen Länderindizes, die Jahrzehnte brauchten, um alte Höchststände wiederzusehen. Der Punkt: Es muss kein Betrug sein. Normale Marktentwicklungen reichen, wenn die Konzentration hoch genug ist.</p><h2>Typische Klumpen im deutschen Privatdepot</h2><p>Vier Muster kommen immer wieder vor. Erstens der Arbeitgeber: Mitarbeiteraktien wirken loyal, bündeln aber Gehalt und Vermögen an derselben Firma. Zweitens die Erb- oder Lieblingsaktie, die man nie verkauft hat. Drittens Scheindiversifikation: drei Fonds, die inhaltlich fast dieselben Großwerte halten. Viertens der Heimatmarkt: ein überproportionaler Anteil deutscher Titel, obwohl Deutschland nur einen kleinen Teil der Weltmarktkapitalisierung ausmacht.</p><h2>Selbstcheck in drei Schritten</h2><p>Schritt eins: Liste jede Position mit ihrem Anteil am Gesamtvermögen, nicht nur am Depot. Schritt zwei: Schlag die Positionen auf, die sich wiederholen, etwa Fondsbestandteile über die Bestandslisten (Factsheets) der Anbieter. Schritt drei: Stelle dir vor, dein größter Posten fällt um die Hälfte. Wenn dieser Gedanke deine Lebensplanung berührt, ist der Klumpen zu groß. Als grobe Daumenregel gilt: Keine Einzelposition sollte so groß sein, dass ihr Totalverlust deine Ziele gefährdet.</p><p>Einordnung: Der Artikel hilft beim Erkennen von Konzentration. Wie du umbaust, hängt von Steuern, Kosten und deiner Situation ab. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Geldanlage und Wertpapiere (Verbraucherportal)",
+      "url": "https://www.bafin.de/DE/Verbraucher/verbraucher_node.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Reicht es, zehn verschiedene Aktien zu halten?",
+      "a": "Nicht automatisch. Wenn alle zehn aus derselben Branche stammen oder ein Wert 40 Prozent des Depots ausmacht, bleibt ein Klumpen. Entscheidend sind die Anteile und die Gemeinsamkeiten, nicht die Zahl der Positionen."
+    },
+    {
+      "q": "Sind drei ETFs schon diversifiziert?",
+      "a": "Nur, wenn sie unterschiedliche Märkte abbilden. Drei Fonds auf denselben Index sind eine Position in dreifacher Verpackung. Prüfe die Überschneidungen in den Bestandslisten."
+    },
+    {
+      "q": "Was mache ich mit einer großen Altposition?",
+      "a": "Erst bilanzieren: Wie groß ist der Anteil am Gesamtvermögen, welche Steuern fielen bei einem Verkauf an? Dann schrittweise entscheiden. Eine Beratung lohnt sich bei steuerlich komplexen Fällen."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "risikoprofil-selbsteinschaetzung",
+  "title": "Risikoprofil selbst einschätzen: Tragfähigkeit und Toleranz sind zwei Paar Schuhe",
+  "description": "Wie viel Risiko passt zu dir? Der Unterschied zwischen Risikotragfähigkeit und Risikobereitschaft, mit ehrlichen Testfragen. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/risikoprofil-selbsteinschaetzung.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Die meisten Anlagefehler beginnen mit einer falschen Selbsteinschätzung. Wer sich für risikofreudig hält und dann beim ersten Minus von 20 Prozent verkauft, hat die teuerste Lektion der Börse auf dem Konto. Dabei lässt sich das eigene Risikoprofil recht nüchtern bestimmen, wenn man zwei Dinge trennt, die oft vermischt werden: die finanzielle Tragfähigkeit und die psychologische Toleranz.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Risikotragfähigkeit = was du dir objektiv leisten kannst (Einkommen, Reserven, Zeithorizont).</li><li>Risikobereitschaft = was du emotional aushältst, wenn Kurse fallen.</li><li>Dein Risikoprofil ist das Minimum aus beiden.</li><li>Ehrlichkeit beim Selbsttest schlägt Optimismus.</li></ul></div><h2>Risikotragfähigkeit: die harte Seite</h2><p>Die Tragfähigkeit lässt sich rechnen. Vier Fragen: Wie hoch sind deine Rücklagen im Verhältnis zu deinen monatlichen Ausgaben? Üblich ist die Faustregel von drei bis sechs Nettogehältern als Notreserve. Wie stabil ist dein Einkommen? Wann brauchst du das Geld wieder? Und welche festen Verpflichtungen laufen? Wer in drei Jahren ein Haus kaufen will, kann mit dem Eigenkapital kein Aktienrisiko tragen, egal wie mutig er sich fühlt. Die BaFin prüft bei einer Anlageberatung genau diese Punkte in der Geeignetheitserklärung; das Merkblatt der BaFin zur Anlageberatung beschreibt, welche Angaben Institute erheben müssen.</p><h2>Risikobereitschaft: die weiche Seite</h2><p>Die Toleranz ist kein Rechenwert. Sie zeigt sich im Verhalten. Testfragen, die ehrliche Antworten geben: Was hast du beim letzten starken Börsenrückgang getan: nachgekauft, stillgehalten oder verkauft? Wie würdest du dich fühlen, wenn dein Depot morgen 30 Prozent weniger wert wäre und die Erholung drei Jahre dauert? Schläfst du schlecht, wenn du die Kurse checkst? Wer bei minus 20 Prozent in Panik gerät, sollte sein Depot so bauen, dass es selten mehr als minus 15 Prozent zeigt, auch wenn das weniger Renditeerwartung bedeutet.</p><h2>Beide Seiten zusammenführen</h2><p>Das Ergebnis ist kein Punktwert, sondern ein Rahmen: Wer hoch tragfähig und hoch tolerant ist, kann einen hohen Aktienanteil fahren. Wer hoch tragfähig, aber wenig tolerant ist, landet trotzdem in einer moderaten Mischung, weil er sonst im Crash verkauft und die <a href=\"/artikel/risiko-und-rendite-grundlagen/\">Risikoprämie</a> verschenkt. Wer wenig tragfähig ist, hat keine Wahl: Sicherheit geht vor, unabhängig vom Mut. Halte das Ergebnis schriftlich fest. Im nächsten Crash ist es dein Anker gegen den Impuls der Stunde.</p><p>Einordnung: Dieser Selbsttest ersetzt keine Anlageberatung nach dem Wertpapierhandelsgesetz. Er hilft dir, die richtigen Fragen zu stellen.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Merkblatt Hinweise zum Tatbestand der Anlageberatung (10.02.2025)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_250210_anlageberatung.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist wichtiger: Tragfähigkeit oder Bereitschaft?",
+      "a": "Keine von beiden allein. Dein Risikoprofil ergibt sich aus der schwächeren Seite: Hohe Tragfähigkeit hilft nichts, wenn du im Crash verkaufst; hohe Bereitschaft schützt nicht vor ruinösen Verlusten, wenn du das Geld bald brauchst."
+    },
+    {
+      "q": "Kann sich mein Risikoprofil ändern?",
+      "a": "Ja. Heirat, Kinder, Erbschaft, Jobverlust oder ein nahendes Ziel verändern die Tragfähigkeit; erlebte Crashs verändern oft die Bereitschaft. Eine Überprüfung alle paar Jahre oder nach großen Lebensereignissen ist sinnvoll."
+    },
+    {
+      "q": "Woher weiß ich, ob ich im Crash verkaufen würde?",
+      "a": "Ehrlichkeit hilft: Wie hast du bei vergangenen Rücksetzern reagiert? Wer noch nie einen erlebt hat, startet besser mit einem moderateren Risiko und lernt seine Reaktion kennen, bevor der Anteil steigt."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "korrelationen-erklaert",
+  "title": "Korrelationen erklärt: Warum Streuung manchmal versagt, wenn du sie brauchst",
+  "description": "Korrelation misst, wie sich Anlagen gemeinsam bewegen. Warum echte Diversifikation davon abhängt. Stand: 22.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-22T22:30:00+02:00",
+  "image": "/images/korrelationen-erklaert.jpg",
+  "body": "<p><small>Stand: 22.10.2026</small></p><p>Streuung funktioniert nur, wenn die Teile sich nicht im Gleichschritt bewegen. Genau das misst die Korrelation: Sie ist eine Zahl zwischen minus 1 und plus 1 und beschreibt, wie zwei Anlagen typischerweise zusammenhängen. Plus 1 heißt Gleichlauf, null heißt kein erkennbarer Zusammenhang, minus 1 heißt exakter Gegenlauf.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Korrelation misst den Gleichlauf zweier Anlagen zwischen minus 1 und plus 1.</li><li>Streuung bringt nur etwas, wenn die Korrelationen niedrig sind.</li><li>In Crashphasen steigen viele Korrelationen, der Schutz sinkt genau dann, wenn er gebraucht wird.</li><li>Korrelation ist ein historisches Maß und kann sich jederzeit ändern.</li></ul></div><h2>Ein Beispiel macht es greifbar</h2><p>Halte Aktie A und Aktie B, beide Versorger, beide reagieren auf dieselben Zinsnachrichten: Korrelation nahe plus 1. Das Depot hat zwei Zeilen und ein Risiko. Kombinierst du dagegen Anlagen mit unterschiedlichen Treibern, etwa Aktien und Geldmarkt oder Aktien aus verschiedenen Regionen und Branchen, sinkt die Korrelation und damit die Gesamtschwankung des Depots. Das ist der eigentliche Mechanismus hinter <a href=\"/glossar/diversifikation/\">Diversifikation</a>: Nicht viele Positionen glätten die Kurve, sondern unterschiedliche Positionen.</p><h2>Warum Korrelationen in Krisen steigen</h2><p>Studien der Finanzforschung zeigen ein ungemütliches Muster: In ruhigen Zeiten bewegen sich Märkte unterschiedlich, in Panikphasen verkaufen Anleger quer durchs Depot. Dann springen die Korrelationen riskanter Anlagen nach oben. Der Fachbegriff dafür lautet Korrelationsbruch oder flight to quality. Für dich heißt das: Eine Streuung, die im Aufschwung schön aussah, schützt im Crash weniger als erwartet. Deshalb zählt zur echten Streuung auch ein Baustein, der von Aktien weitgehend unabhängig ist, etwa verzinste Anlagen kurzer Laufzeit.</p><h2>Wie du Korrelationen praktisch nutzt</h2><p>Du musst keine Matrizen rechnen. Drei Fragen reichen als Näherung: Erstens, reagieren meine Anlagen auf dieselben Treiber (Zinsen, Dollar, Konjunktur)? Zweitens, hängen sie am selben Land oder derselben Branche? Drittens, was bliebe im Depot, wenn Aktien weltweit 30 Prozent fallen? Wer bei allen drei Fragen nur einen Treiber findet, hat trotz vieler Positionen ein <a href=\"/artikel/klumpenrisiko-erkennen/\">Klumpenrisiko</a> auf höherer Ebene.</p><p>Einordnung: Korrelation ist ein vergangenheitsbezogenes statistisches Maß. Keine Prognose, keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Geldanlage und Wertpapiere (Verbraucherportal)",
+      "url": "https://www.bafin.de/DE/Verbraucher/verbraucher_node.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet eine Korrelation von minus 1?",
+      "a": "Zwei Anlagen bewegen sich exakt gegenläufig. Steigt die eine um 5 Prozent, fällt die andere entsprechend. In der Praxis kommen perfekt negative Korrelationen selten vor."
+    },
+    {
+      "q": "Warum schützt Diversifikation im Crash schlechter?",
+      "a": "In Stressphasen verkaufen viele Anleger gleichzeitig verschiedene Anlageklassen. Dadurch steigen die Korrelationen und die Streuung verliert zeitweise an Wirkung."
+    },
+    {
+      "q": "Muss ich Korrelationen selbst berechnen?",
+      "a": "Nein. Es reicht zu prüfen, ob deine Anlagen von denselben Treibern abhängen, etwa Zinsen, ein Land oder eine Branche. Das ist eine gute Näherung."
+    }
+  ]
+}
