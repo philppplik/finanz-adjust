@@ -1,0 +1,41 @@
+{
+  "slug": "morgenueberblick-2026-10-23",
+  "title": "Morgenüberblick 23.10.2026: Dax nach Tech-Ausverkauf im Minus, PMI am Vormittag",
+  "description": "Dax schloss bei 25.371,75 Punkten (-1,07 %). US-Tech-Ausverkauf belastet, Asien schwach, Brent 113,92 USD, PMI steht an. Stand: 23.10.2026, früher Morgen.",
+  "section": "markt",
+  "date": "2026-10-23T07:55:00+02:00",
+  "image": "/images/morgenueberblick-2026-10-23.jpg",
+  "body": "<p><small>Stand: 23.10.2026, früher Morgen</small></p><p>Der deutsche Leitindex geht nach einem schwachen Donnerstag in den letzten Handelstag der Woche. Der Dax schloss am 22. Oktober bei 25.371,75 Punkten, ein Minus von 273,29 Punkten oder 1,07 Prozent (Xetra-Schluss). Die Tagesspanne reichte von 25.318,18 bis 25.563,13 Punkten. Am frühen Freitagmorgen tendierten die Dax-Futures im Frühhandel etwas leichter, wie finanzen.net unter Berufung auf EUREX-Daten meldete.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Dax Xetra-Schluss 22.10.: 25.371,75 Punkte (-1,07 Prozent).</li><li>Belastungsfaktor: Ausverkauf bei US-Technologiewerten, laut n-tv das Motto \"Sell on Good News\".</li><li>Asien schwach: Nikkei -1,7 %, Topix -1,8 %, Shanghai -1,5 % (n-tv, 06:53 Uhr).</li><li>Brent am Morgen: 113,92 US-Dollar, +0,66 % zum Vortag (dpa-AFX, 07:37 Uhr).</li><li>Heute Vormittag: Einkaufsmanagerindex (PMI) für Deutschland und die Eurozone.</li></ul></div><h2>Was den Donnerstag geprägt hat</h2><p>Laut n-tv lautete das Motto des Tages \"Sell on Good News\": Selbst gut aufgenommene Quartalszahlen konnten den Dax nicht stützen. Im Zentrum standen Sorgen um Technologiewerte, nachdem mehrere US-Tech-Unternehmen durchwachsene Quartalszahlen vorgelegt hatten. Relativ robust zeigte sich dagegen SAP; die Deutsche Finanznachrichten-Agentur wertete die SAP-Stärke als Faktor, der den Rückgang des Gesamtindex begrenzte.</p><h2>Asien über Nacht</h2><p>Die asiatischen Börsen gaben nach: Der Nikkei verlor 1,7 Prozent auf 61.825 Punkte, der breiter gefasste Topix 1,8 Prozent auf 3.925 Zähler und die Börse Shanghai 1,5 Prozent auf 3.605 Stellen (n-tv, 06:53 Uhr). Als Treiber wurden der US-Tech-Ausverkauf und Zinssorgen genannt.</p><h2>Rohstoffe und der Termin des Tages</h2><p>Die Ölsorte Brent kostete am Morgen 113,92 US-Dollar je Barrel, 0,66 Prozent mehr als am Vortag (dpa-AFX, 07:37 Uhr). Zum Wochenausklang richtet sich der Blick auf den Einkaufsmanagerindex: Nach einer von n-tv vor Veröffentlichung genannten Markterwartung dürfte der Gesamtindex für die deutsche Privatwirtschaft um 0,5 Zähler auf 53,3 Punkte gesunken sein; er läge damit weiter über der Schwelle von 50, ab der der Index Wachstum signalisiert. Für die Eurozone wurde ein ähnlicher Rückgang erwartet. Erwartungswerte sind keine Ergebnisse - die tatsächliche Veröffentlichung entscheidet.</p><p>Einordnung: Marktüberblick am frühen Morgen; alle Kursstände mit Quelle und Uhrzeit versehen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "n-tv: Der Börsen-Tag Freitag, 23. Oktober 2026 (Live-Blog)",
+      "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Freitag-23-Oktober-2026-id31448348.html"
+    },
+    {
+      "title": "Investing.com: DAX historische Kurse, Xetra 22.10.2026",
+      "url": "https://de.investing.com/indices/germany-30-historical-data"
+    },
+    {
+      "title": "finanzen.net: EUREX/DAX-Futures im Frühhandel etwas leichter",
+      "url": "https://www.finanzen.net/nachricht/aktien/eurex-dax-futures-im-fruehhandel-etwas-leichter-16002872"
+    },
+    {
+      "title": "ARIVA.DE / dpa-AFX: Ölpreise steigen weiter (23.10.2026, 07:37 Uhr)",
+      "url": "https://www.ariva.de/news/oelpreise-steigen-weiter-12179253"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum ist der Dax am Donnerstag gefallen?",
+      "a": "Laut n-tv prägte ein Ausverkauf bei US-Technologiewerten den Handel; das Tagesmotto lautete \"Sell on Good News\". Der Dax schloss 1,07 Prozent tiefer bei 25.371,75 Punkten (Xetra, 22.10.)."
+    },
+    {
+      "q": "Was bedeutet der PMI-Wert von 53,3?",
+      "a": "Der Einkaufsmanagerindex fasst die Stimmung in der Privatwirtschaft zusammen. Werte über 50 signalisieren Wachstum. Die 53,3 sind eine von n-tv genannte Markterwartung, kein veröffentlichtes Ergebnis."
+    },
+    {
+      "q": "Woher stammen die Kursangaben in diesem Überblick?",
+      "a": "Dax: Xetra-Schlussdaten (Investing.com, 22.10.). Asien und Tagesvorschau: n-tv-Börsen-Tag (23.10., mit Uhrzeiten). Brent: dpa-AFX (23.10., 07:37 Uhr). Futures: finanzen.net/EUREX."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "glossar-buy-the-rumor-sell-the-news",
+  "title": "Buy the rumor, sell the news: Was hinter der Börsenweisheit steckt",
+  "description": "Glossar: Warum Kurse oft vor dem Ereignis steigen und bei der Nachricht fallen - Mechanik, Beispiel und Grenzen. Stand: 23.10.2026.",
+  "section": "glossar",
+  "date": "2026-10-23T07:55:00+02:00",
+  "image": "/images/glossar-buy-the-rumor-sell-the-news.jpg",
+  "body": "<p><small>Stand: 23.10.2026, früher Morgen</small></p><p>\"Buy the rumor, sell the news\" - auf Deutsch etwa: Kaufe das Gerücht, verkaufe die Nachricht. Die Börsenweisheit beschreibt ein Muster, das Anleger immer wieder beobachten: Kurse steigen in der Erwartung eines Ereignisses und drehen ausgerechnet dann nach unten, wenn die gute Nachricht offiziell ist. Am 22. Oktober 2026 beschrieb n-tv das Tagesgeschehen am deutschen Aktienmarkt mit der verwandten Formel \"Sell on Good News\".</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bedeutung: Erwartungen werden eingepreist, bevor das Ereignis eintritt.</li><li>Nach der offiziellen Nachricht nehmen viele Anleger Gewinne mit - der Kurs fällt trotz guter Meldung.</li><li>Das Muster ist eine Beobachtung, kein Naturgesetz.</li><li>Keine Handelsregel und keine Anlageberatung.</li></ul></div><h2>Die Mechanik hinter dem Spruch</h2><p>Börsenkurse bilden Erwartungen ab, nicht die Gegenwart. Zeichnet sich eine positive Nachricht ab - etwa gute Quartalszahlen - kaufen Anleger vorab, und der Kurs steigt Schritt für Schritt. Ist die Nachricht dann offiziell, ist sie im Preis bereits enthalten. Wer auf das Ereignis spekuliert hat, verkauft genau in diesem Moment, um den Gewinn zu sichern. Treffen viele Verkäufe auf begrenzte Nachfrage, fällt der Kurs - obwohl die Nachricht objektiv gut ist.</p><h2>Beispiel aus dieser Woche</h2><p>Am Donnerstag, den 22. Oktober 2026, verlor der Dax 1,07 Prozent auf 25.371,75 Punkte (Xetra-Schluss), obwohl mehrere Unternehmen solide Quartalszahlen gemeldet hatten. n-tv fasste den Tag unter die Formel \"Sell on Good News\": Selbst gute Zahlen konnten den Index nicht stützen, weil die Erwartungen vorher hoch waren und Verkäufe überwogen. Das ist die typische Konstellation der Börsenweisheit: Die Realität trifft auf bereits eingepreisten Optimismus.</p><h2>Grenzen des Musters</h2><p>Der Spruch beschreibt eine Tendenz, keine Regel. Übertrifft eine Nachricht selbst die optimistischsten Erwartungen, kann der Kurs weitersteigen. Bleibt sie hinter den Erwartungen zurück, kann der Rückgang besonders hart ausfallen. Für Einsteiger ist der Merkwert: Ein Kursrutsch nach guten Nachrichten ist kein Widerspruch, sondern häufig das Ergebnis vorweg genommener Erwartungen. Wer das Muster kennt, interpretiert solche Tage nüchterner, aber nicht automatisch richtig.</p>",
+  "sources": [
+    {
+      "title": "n-tv: Der Börsen-Tag Freitag, 23. Oktober 2026 (Live-Blog, Formel \"Sell on Good News\")",
+      "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Freitag-23-Oktober-2026-id31448348.html"
+    },
+    {
+      "title": "Investing.com: DAX historische Kurse, Xetra 22.10.2026",
+      "url": "https://de.investing.com/indices/germany-30-historical-data"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was heißt \"Buy the rumor, sell the news\" auf Deutsch?",
+      "a": "Sinngemäß: Kaufe das Gerücht, verkaufe die Nachricht. Kurse steigen in der Erwartung und fallen oft, wenn die erwartete Nachricht offiziell wird, weil dann Gewinnmitnahmen einsetzen."
+    },
+    {
+      "q": "Warum fallen Kurse nach guten Nachrichten?",
+      "a": "Weil die gute Nachricht oft schon vorher eingepreist war. Nach der Bestätigung fehlen neue Käufer, während Spekulanten ihre Gewinne realisieren."
+    },
+    {
+      "q": "Kann ich damit handeln?",
+      "a": "Das Muster ist eine Beobachtung, keine Strategie. Ob es eintritt, weiß man erst hinterher. Dieser Artikel erklärt das Phänomen und gibt keine Anlageberatung."
+    }
+  ]
+}
