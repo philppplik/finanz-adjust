@@ -1,5 +1,17 @@
 [
   {
+    "title": "Auftragseingang im Bauhauptgewerbe im August 2026: +23,0 % zum Vormonat",
+    "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_375_441.html",
+    "ts": 1792735200.0,
+    "src": "Statistisches Bundesamt (Destatis)",
+    "sum": "",
+    "teaser": "Der reale (preisbereinigte) Auftragseingang im Bauhauptgewerbe ist im August 2026 gegenüber Juli 2026 kalender- und saisonbereinigt um 23,0 % gestiegen. Bedingt durch mehrere Großaufträge war dies der höchste saisonbereinigte Anstieg zum Vormonat im Bauhauptgewerbe seit Beginn der Zeitreihe im Jahr 1991. Wie das Statistische Bundesamt (Destatis) weiter mitteilt, nahm der Auftragseingang im Hochbau um 12,4 % und im Tiefbau um 31,6 % zu. Im weniger volatilen Dreimonatsvergleich war der kalender- und saisonbereinigte Auftragseingang von Juni 2026 bis August 2026 um 7,6 % höher als in den drei Monaten zuvor (Hochbau: +0,6 %; Tiefbau: +13,8 %)",
+    "license_key": "destatis",
+    "feed_url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624",
+    "captured_at": "2026-10-23T06:09:42.524546+00:00",
+    "rights_checked": "2026-10-19"
+  },
+  {
     "title": "EUREX / DAX - Futures schwächer durch Absicherungen",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69903176-eurex-dax-futures-schwaecher-durch-absicherungen-015.htm",
     "ts": 1792652400.0,
