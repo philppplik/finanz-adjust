@@ -1,7 +1,7 @@
 {
   "slug": "krypto-ecke-2026-10-23",
   "title": "Krypto-Ecke 23.10.2026: Bitcoin hält sich über 81.000 US-Dollar",
-  "description": "Bitcoin notiert am Morgen bei rund 81.671 US-Dollar (+0,6 %). Tagesspanne 81.018 bis 81.912 USD. Einordnung ohne Hype. Stand: 23.10.2026, früher Morgen.",
+  "description": "Bitcoin notiert am Morgen bei rund 81.677 US-Dollar (CoinGecko, 08:04 Uhr, minus 1,3 % in 24 Stunden). Einordnung ohne Hype. Stand: 23.10.2026, Morgen.",
   "section": "krypto",
   "date": "2026-10-23T07:55:00+02:00",
   "image": "/images/krypto-ecke-2026-10-23.jpg",
@@ -23,15 +23,15 @@
   "faq": [
     {
       "q": "Wie hoch steht Bitcoin gerade?",
-      "a": "Beim Abruf am Morgen des 23.10.2026 bei 81.671,10 US-Dollar, +0,62 Prozent im Tagesverlauf (Investing.com, BRTI). Krypto-Kurse ändern sich sekündlich; der Wert ist eine Momentaufnahme."
+      "a": "Beim eigenen Abruf am 23.10.2026 gegen 08:04 Uhr MESZ bei 81.677 US-Dollar (72.854 Euro), minus 1,3 Prozent in 24 Stunden (CoinGecko). Krypto-Kurse ändern sich sekündlich; der Wert ist eine Momentaufnahme mit Zeitstempel."
     },
     {
       "q": "Was ist die BRTI?",
-      "a": "Der Bitcoin Real-Time Index ist ein von Investing.com geführter Referenzkurs, der Preise mehrerer Handelsplätze zusammenfasst. Andere Anbieter können leicht abweichende Kurse zeigen."
+      "a": "Der Bitcoin Real-Time Index ist ein von Investing.com geführter Referenzkurs, der Preise mehrerer Handelsplätze zusammenfasst. Die historischen Tageswerte in diesem Artikel stammen aus der BRTI-Kurstabelle und decken sich mit den Kraken-Tageskerzen; andere Anbieter können leicht abweichen."
     },
     {
       "q": "Wo steht der Kurs im Jahresvergleich?",
-      "a": "Die 52-Wochen-Spanne reicht von 57.750,06 bis 116.371,94 US-Dollar. Der aktuelle Stand liegt etwa in der unteren Hälfte dieser Spanne (Investing.com, 23.10.)."
+      "a": "Die 52-Wochen-Spanne reicht von 57.750,06 bis 116.371,94 US-Dollar (Investing.com, Suchmaschinen-Snapshot vom Morgen, Seitenstempel 01:38:42, Zeitzone nicht ausgewiesen). Der aktuelle Stand liegt in der unteren Hälfte dieser Spanne."
     }
   ]
 }
