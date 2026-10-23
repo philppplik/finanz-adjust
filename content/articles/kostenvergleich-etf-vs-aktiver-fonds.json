@@ -1,0 +1,33 @@
+{
+  "slug": "kostenvergleich-etf-vs-aktiver-fonds",
+  "title": "Kostenvergleich: ETF gegen aktiven Fonds im Detail",
+  "description": "0,05 bis 2 Prozent TER, bis 5 Prozent Ausgabeaufschlag: Was die beiden Welten typischerweise kosten und wie du vergleichst. Stand: 23.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-23T11:05:00+02:00",
+  "image": "/images/kostenvergleich-etf-vs-aktiver-fonds.jpg",
+  "body": "<p><small>Stand: 23.10.2026</small></p><p>Wenn es ums Anlegen mit Fonds geht, ist die erste Frage fast immer die falsche: nicht welcher Fonds, sondern was kostet er. Der Kostenunterschied zwischen einem Indexfonds (ETF) und einem aktiv gemanagten Fonds ist die größte strukturelle Trennlinie in der Fondswelt - und sie lässt sich in konkrete Zahlen fassen, die jeder im Factsheet nachlesen kann.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>justETF nennt als günstigsten Welt-ETF eine TER von 0,05 % pro Jahr (5 Cent je 100 Euro).</li><li>Aktiv gemanagte Aktienfonds liegen in der justETF-Beispielrechnung bei 2,00 % laufenden Kosten.</li><li>Ausgabeaufschläge bis 5 % kommen bei aktiven Fonds obendrauf - bei ETF üblich: 0 %.</li><li>Langfristig entscheidet dieser Unterschied über zehntausende Euro (siehe <a href=\"/artikel/kosten-fressen-rendite-beispiel/\">30-Jahre-Beispiel</a>).</li></ul></div><h2>Die typischen Kostenbilder nebeneinander</h2><p>Die Kostenübersicht der justETF Academy (abgerufen am 23.10.2026) stellt drei Wege gegenüber: Ein Welt-ETF mit 0,05 Prozent laufenden Kosten pro Jahr - das entspricht 5 Cent je 100 Euro Anlagevolumen - und null Ausgabeaufschlag. Ein aktiv gemanagter Aktienfonds mit 2,00 Prozent laufenden Kosten und 5,00 Prozent Ausgabeaufschlag. Und ein Depot mit gesetzlichem Kostendeckel dazwischen (1,00 Prozent laufend, kein Aufschlag). Die Spanne zwischen den beiden Enden ist Faktor 40 bei den laufenden Kosten.</p><h2>Was jede Position bedeutet</h2><p>Die laufenden Kosten (TER) zieht der Fonds jedes Jahr direkt aus dem Vermögen - unsichtbar, aber spürbar in der Rendite. Der <a href=\"/glossar/ausgabeaufschlag/\">Ausgabeaufschlag</a> fällt einmalig beim Kauf an: Bei 5 Prozent und 10.000 Euro Anlage arbeiten von Tag eins an nur 9.500 Euro für dich. Die <a href=\"/glossar/verwaltungsgebuehr/\">Verwaltungsgebühr</a> ist der klassische Posten aktiver Fonds. Beim ETF kommen dagegen eher Handelsseitenkosten ins Spiel: die Geld-Brief-Spanne (<a href=\"/glossar/spread/\">Spread</a>) und Ordergebühren, dafür meist kein Ausgabeaufschlag.</p><h2>Fair vergleichen: Was der aktive Fonds leisten muss</h2><p>Kosten sind nicht alles - aber sie legen die Hürde fest. Ein aktiver Fonds mit 1,5 bis 2 Prozent laufenden Kosten muss Jahr für Jahr rund 1,5 bis 2 Prozentpunkte besser laufen als ein vergleichbarer Indexfonds, nur um Gleichstand herzustellen. Manche schaffen das einzelne Jahre; über Jahrzehnte wird es mathematisch immer härter, weil die Kostenlücke mitwächst (<a href=\"/artikel/zinseszins-erklaert/\">Zinseszins</a> wirkt auch gegen dich). Beim direkten Vergleich zweier konkreter Produkte hilft zusätzlich die <a href=\"/artikel/tracking-difference-und-error/\">Tracking Difference</a>: Sie zeigt die tatsächliche Abweichung vom Index statt nur der Prospektkosten. Zum Durchrechnen eigener Fälle: <a href=\"/rechner/etf-kosten/\">ETF-Kostenrechner</a>.</p><p>Einordnung: Kostentransparenz mit Quellenangabe, keine Produktempfehlung und keine Anlageberatung. Ob aktiv oder passiv zu dir passt, hängt von Zielen und Risikoprofil ab.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: ETF-Kosten - Vergleichstabelle (abgerufen 23.10.2026)",
+      "url": "https://www.justetf.com/de/academy/etf-kosten.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein ETF typischerweise im Jahr?",
+      "a": "Große Welt-ETF liegen laut justETF (23.10.2026) bei Gesamtkostenquoten ab 0,05 Prozent pro Jahr; viele breite Produkte bewegen sich im Bereich bis etwa 0,25 Prozent. Aktive Aktienfonds typischerweise bei 1,5 bis 2 Prozent."
+    },
+    {
+      "q": "Lohnt sich ein aktiver Fonds trotz der Kosten?",
+      "a": "Das hängt davon ab, ob er seine Kosten durch Mehrleistung ausgleicht - über lange Strecken gelingt das nur einer Minderheit. Die Kostenlast kennt man vorher, die Mehrleistung nicht. Dieser Artikel gibt keine Empfehlung."
+    },
+    {
+      "q": "Wo stehen die Kosten verbindlich?",
+      "a": "Im Basisinformationsblatt (KID) und im Factsheet des Anbieters: laufende Kosten, Ausgabeaufschlag und weitere Posten. Zum Vergleich dient die tatsächliche Tracking Difference bei ETF."
+    }
+  ]
+}

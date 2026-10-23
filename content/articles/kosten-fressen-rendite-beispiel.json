@@ -1,0 +1,33 @@
+{
+ "slug": "kosten-fressen-rendite-beispiel",
+ "title": "Wie Kosten Rendite fressen: Das 30-Jahre-Beispiel in Zahlen",
+ "description": "Ein Prozentpunkt Kosten klingt nach wenig. Über 30 Jahre frisst er ein Vermögen. Die Beispielrechnung Schritt für Schritt. Stand: 23.10.2026.",
+ "section": "einordnung",
+ "date": "2026-10-23T11:05:00+02:00",
+ "image": "/images/kosten-fressen-rendite-beispiel.jpg",
+ "body": "<p><small>Stand: 23.10.2026</small></p><p>Kosten sind der unterschätzteste Renditekiller, weil sie nie auf einer Abrechnung als Schmerz auftauchen. Sie stehen als kleine Prozentzahl im Factsheet und wirken im Jahr eins fast unsichtbar. Aber sie gehen jedes Jahr von der gesamten, wachsenden Anlagesumme ab - und was weg ist, erwirtschaftet keine Erträge mehr. Über 30 Jahre wird daraus eine Lawine.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Fondskosten fallen jedes Jahr auf die volle Summe an, in guten wie in schlechten Jahren.</li><li>Entgangene Rendite auf abgezogene Kosten summiert sich exponentiell.</li><li>Ein Prozentpunkt Unterschied kann über 30 Jahre ein Viertel des Endvermögens kosten.</li><li>Kosten sind der eine Renditefaktor, den du vollständig selbst kontrollierst.</li></ul></div><h2>Die Beispielrechnung</h2><p>Strukturbeispiel mit festen Annahmen: Du sparst 30 Jahre lang monatlich 300 Euro, Bruttorendite 6 Prozent pro Jahr. Variante A mit 0,2 Prozent laufenden Kosten (netto 5,8 Prozent) endet bei rund 290.000 Euro. Variante B mit 1,5 Prozent laufenden Kosten (netto 4,5 Prozent) endet bei rund 228.000 Euro. Die Differenz: über 60.000 Euro, obwohl beide Varianten dieselbe Marktrendite hatten und du in beiden 108.000 Euro eingezahlt hast. Der Kostensatz von 1,3 Prozentpunkten hat mehr als ein Fünftel des möglichen Endvermögens aufgezehrt.</p><h2>Warum der Effekt exponentiell ist</h2><p>Im ersten Jahr kosten 1,5 Prozent einer im Jahresschnitt knapp 2.000 Euro großen Anlage gerade mal rund 30 Euro. Nach 20 Jahren stehen aber über 100.000 Euro im Topf, und die gleichen 1,5 Prozent sind über 1.500 Euro pro Jahr. Gleichzeitig fehlt jedes abgezogene Geld in der Zinseszins-Maschine (<a href=\"/artikel/zinseszins-erklaert/\">Zinseszins</a>): Es wäre ja selbst wieder gewachsen. Die Kosten eines Jahres sind also nie nur die Kosten eines Jahres, sondern deren entgangene Erträge für alle Folgejahre.</p><h2>Welche Kostenarten zusammenwirken</h2><p>Die Rechnung oben nutzt nur die laufenden Kosten. In der Praxis können dazukommen: Ausgabeaufschlag beim Kauf, Spread (Geld-Brief-Spanne) bei jeder Order, Depotgebühren und gegebenenfalls Erfolgsgebühren. Wie du alle Stellen findest, zeigt der <a href=\"/artikel/kostenvergleich-etf-vs-aktiver-fonds/\">Kostenvergleich</a> und der Lernpfad zu Fondskosten. Zum Selbstrechnen: <a href=\"/rechner/etf-kosten/\">ETF-Kostenrechner</a>.</p><p>Einordnung: Strukturbeispiel mit konstanten Annahmen, keine Prognose. Keine Anlageberatung.</p>",
+ "sources": [
+  {
+   "title": "justETF Academy: ETF-Kosten (Vergleichstabelle TER und Ausgabeaufschlag, abgerufen 23.10.2026)",
+   "url": "https://www.justetf.com/de/academy/etf-kosten.html"
+  },
+  {
+   "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Sind 1,5 Prozent Kosten wirklich so schlimm?",
+   "a": "Über ein Jahr kaum spürbar, über 30 Jahre enorm: Im Beispiel mit 300 Euro im Monat und 6 Prozent Bruttorendite kostet der Unterschied zu 0,2 Prozent über 60.000 Euro Endvermögen."
+  },
+  {
+   "q": "Warum sind niedrige Kosten so ein starkes Argument?",
+   "a": "Weil Kosten der eine Faktor sind, den du vor dem Kauf vollständig kennst: Die Marktrendite kann niemand garantieren, aber jeder gesparte Kostenpunkt erhöht die Nettorendite eins zu eins und jedes Jahr."
+  },
+  {
+   "q": "Wo sehe ich die Kosten meines Fonds?",
+   "a": "Im Basisinformationsblatt (KID) und Factsheet: laufende Kosten (TER), Ausgabeaufschlag und weitere Posten. Die tatsächliche Belastung zeigt zusätzlich die <a href=\"/artikel/tracking-difference-und-error/\">Tracking Difference</a>."
+  }
+ ]
+}

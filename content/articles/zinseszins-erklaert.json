@@ -1,0 +1,29 @@
+{
+ "slug": "zinseszins-erklaert",
+ "title": "Zinseszins einfach erklärt: Warum die Laufzeit der stärkste Hebel ist",
+ "description": "Zinseszins bedeutet: Erträge erwirtschaften selbst Erträge. Die Formel, ein Beispiel und warum der Effekt unterschätzt wird. Stand: 23.10.2026.",
+ "section": "einordnung",
+ "date": "2026-10-23T11:05:00+02:00",
+ "image": "/images/zinseszins-erklaert.jpg",
+ "body": "<p><small>Stand: 23.10.2026</small></p><p>Albert Einstein soll den Zinseszins das achte Weltwunder genannt haben - ob das Zitat echt ist, ist umstritten. Unbestritten ist dagegen die Mathematik: Wer seine Erträge wieder anlegt, lässt sein Geld nicht linear, sondern exponentiell wachsen. Genau dieser Unterschied entscheidet über Jahrzehnte darüber, ob aus Sparen Vermögen wird.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Zinseszins = Erträge werden wieder angelegt und erwirtschaften selbst Erträge.</li><li>Das Wachstum beschleunigt sich mit jedem Jahr, die Kurve wird immer steiler.</li><li>Die Formel: Endkapital = Anfangskapital mal (1 + Zinssatz) hoch Jahre.</li><li>Den Effekt selbst durchrechnen: <a href=\"/rechner/zinseszins/\">Zinseszinsrechner</a>.</li></ul></div><h2>Die Mechanik in einem Beispiel</h2><p>Strukturbeispiel mit festen Annahmen: Du legst 10.000 Euro zu 5 Prozent pro Jahr an und lässt die Erträge liegen. Nach dem ersten Jahr hast du 10.500 Euro. Im zweiten Jahr bekommst du 5 Prozent auf 10.500, also 525 statt 500 Euro. Der Extra-Betrag wirkt zunächst klein. Nach 10 Jahren stehen rund 16.289 Euro auf dem Konto, nach 20 Jahren rund 26.533 Euro und nach 30 Jahren rund 43.219 Euro. Ohne Wiederanlage der Erträge wären es nach 30 Jahren nur 25.000 Euro: 10.000 Start plus 30 mal 500 Euro Zinsen. Der Zinseszins hat die Differenz von über 18.000 Euro erzeugt, ohne dass du einen Euro mehr eingezahlt hast.</p><h2>Warum unser Bauchgefühl den Effekt verfehlt</h2><p>Menschen denken in geraden Linien: gleicher Betrag pro Jahr, gleiche Schritte. Exponentielles Wachstum fühlt sich dagegen lange langsam an und explodiert gefühlt erst am Ende. Genau das ist die Falle: Wer in den ersten zehn Jahren ungeduldig wird, bricht die Kurve ab, bevor sie steil wird. Deshalb ist die wichtigste Zutat des Zinseszinses nicht die Rendite, sondern die Zeit - siehe <a href=\"/artikel/zeit-statt-timing/\">Zeit statt Timing</a>.</p><h2>Die drei Stellschrauben</h2><p>Die Zinseszins-Formel hat nur drei Variablen: Anfangskapital (plus regelmäßige Einzahlungen), Rendite pro Jahr und Laufzeit. Von allen dreien ist die Laufzeit die mächtigste, weil sie im Exponenten steht. Eine Verdopplung der Laufzeit mehr als verdoppelt das Endergebnis. Umgekehrt schwächen zwei Dinge den Effekt systematisch: Kosten, die jedes Jahr von der Basis abgehen (<a href=\"/artikel/kosten-fressen-rendite-beispiel/\">Beispielrechnung</a>), und Steuern, die Erträge vor der Wiederanlage kürzen.</p><p>Einordnung: Reine Mathematik mit deklarierten Annahmen, keine Prognose und keine Anlageberatung.</p>",
+ "sources": [
+  {
+   "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Unterschied zwischen einfachem Zins und Zinseszins?",
+   "a": "Beim einfachen Zins bekommst du jedes Jahr denselben Betrag aufs Anfangskapital. Beim Zinseszins werden die Erträge mitverzinst, die Basis wächst also jedes Jahr."
+  },
+  {
+   "q": "Wie lautet die Zinseszins-Formel?",
+   "a": "Endkapital = Anfangskapital mal (1 + Zinssatz) hoch Jahre. Bei 10.000 Euro, 5 Prozent und 20 Jahren: 10.000 mal 1,05 hoch 20, also rund 26.533 Euro."
+  },
+  {
+   "q": "Wann lohnt sich der Zinseszins?",
+   "a": "Er wirkt ab dem ersten Jahr, entfaltet seine Stärke aber erst über lange Zeiträume. Je früher du startest und je länger das Geld liegen bleibt, desto größer der Effekt."
+  }
+ ]
+}

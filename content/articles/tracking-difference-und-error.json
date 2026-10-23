@@ -1,0 +1,33 @@
+{
+  "slug": "tracking-difference-und-error",
+  "title": "Tracking Difference und Tracking Error: Die ehrlichsten Kennzahlen eines ETF",
+  "description": "Die TER sagt, was ein ETF kosten soll. Die Tracking Difference sagt, was er wirklich hinter dem Index lässt. Stand: 23.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-23T11:05:00+02:00",
+  "image": "/images/tracking-difference-und-error.jpg",
+  "body": "<p><small>Stand: 23.10.2026</small></p><p>Die Gesamtkostenquote (TER) steht im Factsheet und verspricht, was ein ETF pro Jahr kostet. Aber die Wahrheit liegt im Ergebnis: Um wie viel lief der Fonds tatsächlich hinter seinem Index her? Genau das misst die Tracking Difference. Sie ist die ehrlichste Kostenkennzahl, weil sie alles enthält - Gebühren, Handelskosten im Fonds, aber auch Gegeneffekte, die Geld zurückbringen.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Tracking Difference = tatsächliche Renditedifferenz zwischen ETF und seinem Index über eine Periode.</li><li>Tracking Error = die Schwankung (Streuung) dieser Abweichung über die Zeit.</li><li>Eine TD kann besser ausfallen als die TER, etwa durch Erträge aus Wertpapierleihe.</li><li>Beim Vergleich zweier ETF auf denselben Index zählt die gemessene TD mehr als die TER.</li></ul></div><h2>Tracking Difference: die Netto-Wahrheit</h2><p>Angenommen, ein Index legt in einem Jahr 8,0 Prozent zu und ein ETF darauf 7,8 Prozent: Die Tracking Difference beträgt minus 0,2 Prozentpunkte. Das ist die reale Belastung des Anlegers in diesem Jahr. Interessant wird es, wenn die TD kleiner ausfällt als die TER: Erzielt der Fonds zusätzliche Erträge - etwa aus Wertpapierleihe oder durch steuerliche Behandlung im Fondsdomizil - kann die gemessene Abweichung geringer sein als die ausgewiesene Gebühr. Ein ETF mit 0,20 Prozent TER, der im Mittel nur 0,05 hinter dem Index liegt, ist real billiger als sein Schild sagt.</p><h2>Tracking Error: die Verlässlichkeit der Nachbildung</h2><p>Der Tracking Error misst etwas anderes: wie stark die Abweichung um ihren Mittelwert schwankt. Ein ETF, der mal 0,1 besser und mal 0,5 schlechter liegt als sein Index, hat einen hohen Tracking Error - seine Nachbildung ist unruhig. Ursachen liegen in der <a href=\"/glossar/volle-replikation/\">Replikationsmethode</a>: Bei physischer Nachbildung mit Sampling hält der Fonds nicht alle Indexwerte, bei <a href=\"/glossar/synthetische-replikation/\">synthetischer Replikation</a> hängt die Genauigkeit vom Swap-Partner und den Vertragsbedingungen ab. Die Übersicht der Replikationsmethoden bei justETF beschreibt diese Unterschiede im Detail.</p><h2>Wie du beide Zahlen praktisch nutzt</h2><p>Vergleichst du zwei ETF auf denselben Index, schau in dieser Reihenfolge: Erstens die gemessene Tracking Difference über mehrere Jahre (viele Datenportale und Anbieter-Factsheets weisen sie aus), zweitens die TER, drittens den Tracking Error als Qualitätsmaß der Nachbildung. Dazu kommen die Handelsseite (<a href=\"/glossar/spread/\">Spread</a>) und die Größe des Fonds. Kosten sind der eine Faktor, den du vor dem Kauf vollständig kennst - siehe <a href=\"/artikel/kosten-fressen-rendite-beispiel/\">Kostenbeispiel über 30 Jahre</a>.</p><p>Einordnung: Konzepterklärung ohne Produktempfehlung. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: Replikationsmethoden von ETFs im Überblick (abgerufen 23.10.2026)",
+      "url": "https://www.justetf.com/de/academy/replikationsmethoden-von-etfs.html"
+    },
+    {
+      "title": "justETF Academy: ETF-Kosten (abgerufen 23.10.2026)",
+      "url": "https://www.justetf.com/de/academy/etf-kosten.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Tracking Difference und Tracking Error?",
+      "a": "Die Tracking Difference ist die durchschnittliche Renditedifferenz zum Index in Prozentpunkten. Der Tracking Error misst, wie stark diese Differenz über die Zeit schwankt - also die Konstanz der Nachbildung."
+    },
+    {
+      "q": "Kann ein ETF günstiger sein als seine TER?",
+      "a": "Ja. Erzielt der Fonds Zusatzerträge, etwa aus Wertpapierleihe, kann die tatsächliche Tracking Difference kleiner ausfallen als die ausgewiesene Gesamtkostenquote."
+    },
+    {
+      "q": "Wo finde ich die Tracking Difference meines ETF?",
+      "a": "In den Berichten und Factsheets des Anbieters sowie auf Vergleichsportalen, die die Abweichung zum Index über mehrere Jahre ausweisen."
+    }
+  ]
+}

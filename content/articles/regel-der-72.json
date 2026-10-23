@@ -1,0 +1,29 @@
+{
+  "slug": "regel-der-72",
+  "title": "Die 72er-Regel: Verdopplungszeit im Kopf rechnen",
+  "description": "72 durch Zinssatz = Jahre bis zur Verdopplung. Die Kopfrechenregel erklärt, mit Beispielen und Grenzen. Stand: 23.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-23T11:05:00+02:00",
+  "image": "/images/regel-der-72.jpg",
+  "body": "<p><small>Stand: 23.10.2026</small></p><p>Wie lange dauert es, bis sich dein Geld verdoppelt? Die 72er-Regel beantwortet das ohne Taschenrechner: Teile 72 durch den jährlichen Zinssatz, und du hast ungefähr die Anzahl der Jahre. Bei 6 Prozent Rendite sind das 12 Jahre, bei 3 Prozent 24 Jahre, bei 1 Prozent 72 Jahre. Mehr steckt nicht dahinter - und genau das macht die Regel so nützlich.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Formel: 72 geteilt durch Zinssatz in Prozent = Verdopplungszeit in Jahren.</li><li>Beispiel: 72 / 6 = 12 Jahre bei 6 Prozent.</li><li>Die Regel ist eine Näherung und liegt zwischen etwa 1 und 10 Prozent fast exakt richtig.</li><li>Sie funktioniert auch umgekehrt: 72 geteilt durch Jahre = nötiger Zinssatz.</li></ul></div><h2>Beispiele zum Mitrechnen</h2><p>Ein Tagesgeldkonto mit 2,5 Prozent Zins verdoppelt dein Geld nach der Regel in etwa 29 Jahren (72 / 2,5 = 28,8). Ein Aktieninvestment mit 7 Prozent Durchschnittsrendite braucht gut 10 Jahre. Und ein Produkt, das eine Verdopplung in 5 Jahren verspricht? Dafür müsste es rund 14,4 Prozent pro Jahr bringen (72 / 5) - ein Wert, der bei seriösen Anlagen sofort alle Alarmglocken läuten lässt. Genau darin liegt der praktische Wert der Regel: Sie macht Angebote in Sekunden überprüfbar.</p><h2>Warum 72 und nicht 70 oder 100?</h2><p>Die exakte Verdopplungsformel lautet: Jahre = ln(2) geteilt durch ln(1 + Zinssatz). Der natürliche Logarithmus von 2 ist rund 0,693, was für kleine Zinssätze auf die Näherung 69,3 durch Zinssatz hinausläuft. Die 72 hat sich durchgesetzt, weil sie durch viele kleine Zahlen glatt teilbar ist (2, 3, 4, 6, 8, 9, 12) und im typischen Zinsbereich zwischen 2 und 10 Prozent minimal genauer liegt als die 69er-Variante. Mathematisch ist das eine Faustregel, kein Satz - aber eine sehr gute.</p><h2>Grenzen und die dunkle Seite</h2><p>Bei sehr hohen Renditen weicht die Regel stärker ab (bei 20 Prozent sagt sie 3,6 Jahre, exakt sind es etwa 3,8). Und sie gilt nur für Wiederanlage: Wer Erträge entnimmt, hat keinen <a href=\"/artikel/zinseszins-erklaert/\">Zinseszins</a> und keine Verdopplung im Rechnungssinn. Nützlich ist die Regel auch für die Gegenrechnung: Bei 3,3 Prozent Inflation (Destatis, September 2026) halbiert sich die Kaufkraft unverzinsten Geldes in etwa 22 Jahren (72 / 3,3 = 21,8). Dieselbe Mathematik, andere Richtung - siehe <a href=\"/artikel/realzins-berechnen/\">Realzins</a>.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex September 2026, Pressemitteilung Nr. 364 (13.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie genau ist die 72er-Regel?",
+      "a": "Im Bereich von etwa 2 bis 10 Prozent weicht sie meist um weniger als ein halbes Jahr von der exakten Rechnung ab. Bei sehr hohen Zinssätzen wird die Abweichung größer."
+    },
+    {
+      "q": "Gilt die Regel auch bei monatlichen Sparraten?",
+      "a": "Nicht direkt: Sie gilt für einen einmalig angelegten Betrag mit Wiederanlage der Erträge. Bei Sparplänen hilft der <a href=\"/rechner/zinseszins/\">Zinseszinsrechner</a> weiter."
+    },
+    {
+      "q": "Kann ich die Regel für Inflation nutzen?",
+      "a": "Ja: 72 geteilt durch die Inflationsrate ergibt die Jahre bis zur Halbierung der Kaufkraft. Bei 3,3 Prozent (Destatis, Sept. 2026) sind das rund 22 Jahre."
+    }
+  ]
+}

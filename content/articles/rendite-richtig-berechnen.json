@@ -1,0 +1,29 @@
+{
+ "slug": "rendite-richtig-berechnen",
+ "title": "Rendite richtig berechnen: Warum der CAGR ehrlicher rechnet als der Durchschnitt",
+ "description": "Arithmetischer Durchschnitt oder geometrische Rendite? So rechnest du Renditen vergleichbar - mit Beispiel. Stand: 23.10.2026.",
+ "section": "einordnung",
+ "date": "2026-10-23T11:05:00+02:00",
+ "image": "/images/rendite-richtig-berechnen.jpg",
+ "body": "<p><small>Stand: 23.10.2026</small></p><p>Zwei Anlagen, zwei Behauptungen, eine Frage: Was ist die wahre Rendite? Die Antwort hängt davon ab, wie du rechnest. Der naive Durchschnitt der Jahresrenditen (arithmetisch) schmeichelt fast immer. Der geometrische Durchschnitt - die durchschnittliche jährliche Wachstumsrate, kurz CAGR - sagt die Wahrheit.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>CAGR = durchschnittliche jährliche Wachstumsrate über einen Zeitraum, geometrisch gerechnet.</li><li>Formel: (Endwert / Anfangswert) hoch (1 / Jahre) minus 1.</li><li>Der arithmetische Schnitt ignoriert den Zinseszins und überzeichnet schwankende Anlagen.</li><li>Nach minus 50 Prozent braucht es plus 100 Prozent, nicht plus 50.</li></ul></div><h2>Das Beispiel, das alles zeigt</h2><p>Eine Anlage startet mit 10.000 Euro. Jahr eins: minus 50 Prozent, Zwischenstand 5.000 Euro. Jahr zwei: plus 60 Prozent, Endstand 8.000 Euro. Der arithmetische Durchschnitt der beiden Jahresrenditen lautet plus 5 Prozent pro Jahr. Klingt nach einem kleinen Gewinn - tatsächlich hast du 2.000 Euro verloren. Der CAGR rechnet: (8.000 / 10.000) hoch (1/2) minus 1, das ergibt rund minus 10,6 Prozent pro Jahr. Nur diese Zahl beschreibt, was wirklich mit deinem Geld passiert ist.</p><h2>Die Formel in der Praxis</h2><p>Der CAGR braucht nur drei Angaben: Anfangswert, Endwert, Jahre. Aus 25.000 Euro, die in 8 Jahren auf 41.000 Euro gewachsen sind, wird: (41.000 / 25.000) hoch (1/8) minus 1, also rund 6,4 Prozent pro Jahr. Zum Nachrechnen: <a href=\"/rechner/rendite/\">Renditerechner</a>. Wichtig: Der CAGR glättet den Weg. Er sagt nichts darüber, wie holprig er war - dafür gibt es <a href=\"/artikel/volatilitaet-und-drawdown/\">Volatilität und Drawdown</a>. Und bei laufenden Ein- und Auszahlungen (Sparplan) taugt die einfache Formel nicht; dann braucht es den internen Zinsfuß (IRR/XIRR), den viele Depot-Auswertungen und Tabellenfunktionen liefern.</p><h2>Typische Vergleichsfehler</h2><p>Drei Fehler sieht man ständig. Erstens: Jahresrenditen arithmetisch mitteln und als langfristige Rate ausgeben (Beispiel oben). Zweitens: Zeiträume mit unterschiedlicher Länge an Gesamtrenditen messen - 30 Prozent in drei Jahren schlagen 40 Prozent in zehn Jahren (CAGR 9,1 gegen 3,4 Prozent). Drittens: Kosten und Steuern unter den Tisch fallen lassen; vergleichbar ist nur die Nettorendite nach allem. Wer diese drei Punkte beachtet, liest Werbeprospekte und Depotauszüge mit anderen Augen.</p><p>Einordnung: Rechenmethodik mit Beispielen, keine Anlageberatung.</p>",
+ "sources": [
+  {
+   "title": "Verbraucherzentrale: Sparen und Anlegen (Wissensportal)",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was bedeutet CAGR?",
+   "a": "Compound Annual Growth Rate: die konstante Jahresrendite, die vom Anfangs- zum Endwert geführt hätte. Formel: (Endwert / Anfangswert) hoch (1 / Jahre) minus 1."
+  },
+  {
+   "q": "Warum ist der Durchschnitt der Jahresrenditen falsch?",
+   "a": "Weil er den Zinseszins ignoriert. Nach einem Verlust braucht es prozentual mehr Gewinn zum Ausgleich; das arithmetische Mittel blendet diese Asymmetrie aus."
+  },
+  {
+   "q": "Wie vergleiche ich zwei Anlagen fair?",
+   "a": "Beide über denselben Zeitraum als CAGR und nach Kosten und Steuern. Ergänzend Schwankung und maximalen Verlust (Drawdown) betrachten."
+  }
+ ]
+}
