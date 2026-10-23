@@ -7,7 +7,7 @@
    "id": "LP-FA-13",
    "name": "Zinseszins & langfristiger Vermögensaufbau",
    "frage": "Wie wird aus regelmäßigem Sparen über Jahrzehte ein Vermögen, und welche Denkfehler bremsen dich aus?",
-   "intro": "Der Zinseszins ist der stärkste Freund des Langzeitanlegers und der am häufigsten unterschätzte Effekt überhaupt. Dieser Pfad zeigt dir die Mechanik, warum Zeit wichtiger ist als der perfekte Einstiegszeitpunkt, und gibt dir zwei Werkzeuge an die Hand: die 72er-Regel für Überschlagsrechnungen im Kopf und eine saubere Methode, Renditen zu vergleichen. Am Ende siehst du an einem durchgerechneten Beispiel, wie Kosten Jahrzehnte still an der Substanz zehren.",
+   "intro": "Der Zinseszins treibt langfristigen Vermögensaufbau und wird oft unterschätzt. Dieser Pfad zeigt dir die Mechanik, was ein früherer Start im Rechenbeispiel ausmacht, und gibt dir zwei Werkzeuge an die Hand: die 72er-Regel für Überschlagsrechnungen im Kopf und eine saubere Methode, Renditen zu vergleichen. Am Ende siehst du an einem durchgerechneten Beispiel, wie Kosten Jahrzehnte still an der Substanz zehren.",
    "level": "Praktiker",
    "zielgruppe": "Alle",
    "dauer": "ca. 2 Stunden",
@@ -25,7 +25,7 @@
     },
     {
      "slug": "/artikel/zeit-statt-timing/",
-     "warum": "Warum früh anfangen fast alles schlägt, was Markttiming verspricht."
+     "warum": "Was zehn Jahre früher anfangen im Rechenbeispiel ausmacht."
     },
     {
      "slug": "/artikel/regel-der-72/",
@@ -54,7 +54,7 @@
     "szenarien": [
      {
       "frage": "Zwei Sparer legen je 200 Euro im Monat an. A startet mit 25, B mit 35, beide sparen bis 65. Wer hat am Ende mehr - und was müsste B tun, um gleichzuziehen?",
-      "loesung": "A hat deutlich mehr: Bei 6 Prozent Jahresrendite kommt A auf rund 400.000 Euro, B nur auf rund 200.000 Euro, obwohl B nur zehn Jahre später startet. Die ersten zehn Jahre von A arbeiten am längsten im Zinseszins. Um gleichzuziehen, müsste B seine Rate von 200 Euro auf rund 397 Euro im Monat fast verdoppeln. Zeit ist der Hebel, nicht die Rate allein."
+      "loesung": "A hat deutlich mehr: Bei 6 Prozent Jahresrendite kommt A auf rund 400.000 Euro, B nur auf rund 200.000 Euro, obwohl B nur zehn Jahre später startet. Die ersten zehn Jahre von A arbeiten am längsten im Zinseszins. Um gleichzuziehen, müsste B seine Rate von 200 Euro auf rund 397 Euro im Monat fast verdoppeln. Im Beispiel ist die Zeit der Hebel, nicht die Rate allein."
      },
      {
       "frage": "Ein Produkt verspricht Verdopplung in 12 Jahren. Welche jährliche Rendite steckt ungefähr dahinter?",
@@ -116,7 +116,7 @@
     },
     {
      "slug": "/artikel/tracking-difference-und-error/",
-     "warum": "Die ehrlichste Kostenkennzahl: Was der ETF wirklich hinter dem Index zurücklässt."
+     "warum": "Was der ETF wirklich hinter dem Index zurücklässt - und wie stabil die Nachbildung ist."
     },
     {
      "slug": "/artikel/kostenvergleich-etf-vs-aktiver-fonds/",
@@ -152,7 +152,7 @@
     "quiz": [
      {
       "frage": "Was ist der Unterschied zwischen TER und Tracking Difference?",
-      "loesung": "Die TER ist die vom Anbieter ausgewiesene laufende Kostenquote. Die Tracking Difference misst die tatsächliche Renditedifferenz zum Index über eine Periode - sie enthält alle Kosten und auch Gegeneffekte wie Wertpapierleihe-Erträge."
+      "loesung": "Die TER ist die vom Anbieter ausgewiesene laufende Kostenquote. Die Tracking Difference misst die tatsächliche Renditedifferenz zum Index über eine Periode - darin spiegeln sich Kosten und Gegeneffekte wie Wertpapierleihe-Erträge wider."
      },
      {
       "frage": "Wo findest du die Kostenangaben eines Fonds verbindlich?",
