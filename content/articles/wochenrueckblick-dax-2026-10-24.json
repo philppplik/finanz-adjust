@@ -1,0 +1,37 @@
+{
+  "slug": "wochenrueckblick-dax-2026-10-24",
+  "title": "Wochenrückblick: Dax gibt 1,7 Prozent ab, Ölrally und schwache Zahlen bremsen",
+  "description": "Dax schloss Freitag bei 25.181,65 Punkten (-0,75 %), Wochenminus 1,72 %. Öl über 116 USD, Frankreich-Rating bestätigt. Stand: 24.10.2026.",
+  "section": "markt",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/wochenrueckblick-dax-2026-10-24.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Der deutsche Aktienmarkt hat die verkürzte Sicht auf die Woche mit Verlusten beendet. Der Dax schloss am Freitag, 23. Oktober 2026, bei 25.181,65 Punkten, ein Tagesminus von 0,75 Prozent (Xetra-Schluss, 17:50 Uhr). Auf Wochensicht steht ein Minus von 1,72 Prozent, seit Jahresbeginn bleibt ein Plus von 2,82 Prozent (Angaben: MarketScreener/Dow Jones, 23.10., 17:53 Uhr).</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Dax Xetra-Schluss Freitag: 25.181,65 Punkte (-0,75 Prozent).</li><li>Wochenbilanz: -1,72 Prozent; seit Jahresbeginn: +2,82 Prozent.</li><li>Brent stieg am Freitag über 116 US-Dollar je Barrel (Dow Jones, 23.10.).</li><li>Rating-Agentur Moody's bestätigte Frankreichs Note Aa3 - die Abstufungssorge vom Freitag ist vom Tisch.</li></ul></div><h2>Was die Woche geprägt hat</h2><p>Zwei Belastungsfaktoren dominierten den Freitag nach der Darstellung von Dow Jones: ein kräftiger Anstieg des Ölpreises - Brent kletterte über 116 US-Dollar je Barrel - und schwach aufgenommene Unternehmenszahlen. Kursgewinner in Europa waren dem Bericht zufolge fast nur Ölwerte, von denen der deutsche Leitindex keine enthält. Zu den nennenswerten Tagesbewegungen zählten Deutsche Telekom mit minus 3,17 Prozent und Safran mit minus 10 Prozent. Bereits am Donnerstag hatte der Index 1,07 Prozent verloren, als ein Ausverkauf bei US-Technologiewerten das Bild prägte.</p><h2>Frankreich-Sorge vorerst aufgelöst</h2><p>Unter Druck stand am Freitag auch der Anleihemarkt: Die Renditedifferenz zwischen zehnjährigen französischen und deutschen Staatsanleihen stieg nach Angaben von Dow Jones auf 172 Basispunkte, den höchsten Stand seit Zeiten der Schuldenkrise. Hintergrund war die Sorge vor einer möglichen Herabstufung der französischen Bonität durch Moody's am Abend. Diese ist nicht eingetreten: Moody's bestätigte die Note Aa3 (mit negativem Ausblick), wie das Wall Street Journal und der französische Sender franceinfo übereinstimmend berichteten. Details: <a href=\"/artikel/frankreich-rating-moodys/\">Rating-Einordnung</a>.</p><h2>Konjunkturdaten der Woche</h2><p>Am Freitag lieferte S&P Global die ersten Oktober-Daten zum Einkaufsmanagerindex: Der Gesamtindex für die deutsche Privatwirtschaft fiel auf 52,8 Punkte und damit schwächer aus als erwartet, blieb aber über der Wachstumsschwelle von 50. Die Details stehen im <a href=\"/artikel/pmi-oktober-2026-deutschland/\">PMI-Artikel</a>.</p><p>Einordnung: Rückblick mit Quellen und Uhrzeiten versehen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "MarketScreener/Dow Jones: XETRA-SCHLUSS - Ölpreis-Rally und schwache Zahlen belasten (23.10.2026, 17:53 Uhr)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/xetra-schluss-oelpreis-rally-und-schwache-zahlen-belasten-ce785cdfdd89f324"
+    },
+    {
+      "title": "WSJ: Moody's Holds France Credit Rating Steady (23.10.2026)",
+      "url": "https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d"
+    },
+    {
+      "title": "franceinfo: Moody's maintient la note souveraine de la France à Aa3 avec perspective négative (23.10.2026)",
+      "url": "https://www.franceinfo.fr/economie/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-avec-perspective-negative_8251510.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hat der Dax die Woche beendet?",
+      "a": "Mit einem Verlust: Freitagsschluss 25.181,65 Punkte (-0,75 Prozent, Xetra), Wochenbilanz minus 1,72 Prozent. Seit Jahresbeginn bleibt ein Plus von 2,82 Prozent (MarketScreener/Dow Jones, 23.10.)."
+    },
+    {
+      "q": "Warum fiel der Markt am Freitag?",
+      "a": "Laut Dow Jones belasteten ein starker Ölpreisanstieg (Brent über 116 US-Dollar) und schwach aufgenommene Unternehmenszahlen. Zusätzlich drückte die Sorge um den französischen Anleihemarkt, die sich am Abend mit der Rating-Bestätigung auflöste."
+    },
+    {
+      "q": "Was bedeutet die Moody's-Entscheidung zu Frankreich?",
+      "a": "Die Note Aa3 bleibt bestehen, der Ausblick ist negativ. Die am Freitag gehandelte Angst vor einer sofortigen Abstufung ist damit vorerst vom Tisch. Mehr im Artikel zur <a href=\"/artikel/frankreich-rating-moodys/\">Rating-Entscheidung</a>."
+    }
+  ]
+}

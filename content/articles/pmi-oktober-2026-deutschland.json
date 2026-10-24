@@ -1,0 +1,37 @@
+{
+  "slug": "pmi-oktober-2026-deutschland",
+  "title": "Einkaufsmanagerindex Oktober: Deutsche Wirtschaft verliert an Schwung",
+  "description": "Flash-PMI Oktober: Gesamtindex 52,8 nach 53,8, Industrie steigt auf 54,2, Dienstleister fallen auf 51,7. Alle Erwartungen verfehlt. Stand: 24.10.2026.",
+  "section": "markt",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/pmi-oktober-2026-deutschland.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Die deutsche Wirtschaft wächst weiter, aber langsamer: Der von S&P Global erhobene Einkaufsmanagerindex (Composite, erste Veröffentlichung für Oktober) sank von 53,8 auf 52,8 Punkte, wie der Finanzdienstleister am Freitag, 23. Oktober 2026, mitteilte. Die von Dow Jones Newswires befragten Ökonomen hatten einen geringeren Rückgang auf 53,5 erwartet.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Gesamtindex (Composite): 52,8 nach 53,8 im September - unter der Erwartung von 53,5.</li><li>Industrie: 54,2 nach 53,9 - über der Erwartung von 53,5.</li><li>Dienstleistungen: 51,7 nach 52,9 - unter der Erwartung von 52,5.</li><li>Über 50 Punkten signalisiert der Index Wachstum.</li></ul></div><h2>Industrie gegen Dienstleistungen</h2><p>Das Bild ist gespalten: Das verarbeitende Gewerbe legte zu (54,2 nach 53,9 Punkten), während der Dienstleistungssektor deutlich nachgab (51,7 nach 52,9). Aus den Detaildaten geht hervor, dass die Industrieproduktion zwar weiter wuchs (Indexstand 55,1 nach 56,0), die neuen Aufträge aber so schwach zulegten wie seit drei Monaten nicht mehr. Gleichzeitig stieg die Inflation der Inputkosten in der Industrie auf den höchsten Stand seit Mai, während die Gesamtsteigerung der Verkaufspreise auf ein Siebenmonatstief fiel (Angaben: Trading Economics auf Basis der S&P-Global-Daten).</p><h2>Die Einschätzung von S&P Global</h2><p>Phil Smith, Ökonom bei S&P Global Market Intelligence, nannte den Anstieg der Wirtschaftsleistung erfreulich, ordnete aber ein: Die Abschwächung des Wachstums zeige, dass die Erholung in der größten Volkswirtschaft der Eurozone nach wie vor fragil sei. Die Stagnation des Neugeschäfts im Dienstleistungssektor zeige, wie stark die hohe Inflation und die Unsicherheit die Nachfrage belasteten (Zitat sinngemäß übernommen von Reuters via onvista, 23.10.).</p><h2>Einordnung</h2><p>Es ist die erste Veröffentlichung für Oktober; die endgültigen Werte folgen Anfang November und können leicht abweichen. Der Index bleibt mit 52,8 Punkten deutlich im Wachstumsbereich, die Richtung aber ist rückläufig - nach 53,8 im September. Was der PMI ist und wie er entsteht, erklärt unser <a href=\"/artikel/glossar-einkaufsmanagerindex/\">Glossar-Eintrag</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Finanznachrichten.de/Dow Jones: S&P Global - Deutsche Wirtschaft verliert im Oktober an Schwung (23.10.2026)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69917406-s-p-global-deutsche-wirtschaft-verliert-im-oktober-an-schwung-015.htm"
+    },
+    {
+      "title": "onvista/Reuters: Umfrage - Deutsche Wirtschaft verliert Tempo (23.10.2026)",
+      "url": "https://www.onvista.de/news/2026/10-23-umfrage-deutsche-wirtschaft-verliert-tempo-frankreich-bremst-euroraum-0-20-26567663"
+    },
+    {
+      "title": "Trading Economics: Deutschland Composite PMI (abgerufen 24.10.2026)",
+      "url": "https://de.tradingeconomics.com/germany/composite-pmi"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sind die PMI-Werte für Oktober?",
+      "a": "Erste Veröffentlichung von S&P Global (23.10.): Gesamtindex 52,8 (Vormonat 53,8), Industrie 54,2 (53,9), Dienstleistungen 51,7 (52,9)."
+    },
+    {
+      "q": "Waren die Werte besser oder schlechter als erwartet?",
+      "a": "Gesamtindex und Dienstleistungen lagen unter den Prognosen (53,5 bzw. 52,5), die Industrie darüber (53,5 erwartet, 54,2 geliefert). Quelle: Dow-Jones-Ökonomenumfrage."
+    },
+    {
+      "q": "Bedeutet 52,8 eine Rezession?",
+      "a": "Nein. Werte über 50 Punkten signalisieren Wachstum. Der Index zeigt eine Abschwächung des Tempos, keine Schrumpfung."
+    }
+  ]
+}

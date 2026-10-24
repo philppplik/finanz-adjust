@@ -1,0 +1,37 @@
+{
+  "slug": "frankreich-rating-moodys",
+  "title": "Moody's bestätigt Frankreichs Rating bei Aa3, Ausblick negativ",
+  "description": "Rating-Check 23.10.: Moody's hält Frankreich bei Aa3 mit negativem Ausblick. Was die Note bedeutet und wie der Markt vorab reagiert hatte. Stand: 24.10.2026.",
+  "section": "markt",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/frankreich-rating-moodys.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Die Rating-Agentur Moody's hat die Kreditwürdigkeit Frankreichs in ihrer turnusmäßigen Überprüfung am Freitagabend, 23. Oktober 2026, unverändert bei Aa3 belassen, mit negativem Ausblick. Das berichten das Wall Street Journal und der französische Sender franceinfo übereinstimmend. Das Wall Street Journal führt als Begründung der Agentur die diversifizierte Wirtschaft und starke öffentliche Institutionen des Landes an.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Moody's bestätigt Frankreichs Rating: Aa3, Ausblick negativ (23.10.2026).</li><li>Aa3 ist die vierthöchste Stufe auf der Moody's-Skala.</li><li>Am Freitag war die Renditedifferenz zu deutschen Bundesanleihen auf 172 Basispunkte gestiegen (Dow Jones).</li><li>Eine Herabstufung wäre die nächste Stufe unterhalb von Aa3 gewesen.</li></ul></div><h2>Was die Note Aa3 bedeutet</h2><p>Bei Moody's rangiert Aa3 auf der vierthöchsten Stufe der Ratingskala (oberhalb: Aaa, Aa1, Aa2). Note Aa steht für eine sehr geringe Kreditausfallwahrscheinlichkeit. Ein negativer Ausblick signalisiert: Die Agentur sieht Abwärtsrisiken, eine Herabstufung ist innerhalb des Ausblickshorizonts möglich - aber eben keine Entscheidung für heute.</p><h2>Wie der Markt vorab reagiert hatte</h2><p>Die Überprüfung war am Markt erwartet worden und hatte am Freitag für Nervosität gesorgt: Die Renditedifferenz (Spread) zwischen zehnjährigen französischen Staatsanleihen und deutschen Bundesanleihen stieg nach Angaben von Dow Jones auf 172 Basispunkte - den höchsten Stand seit Zeiten der Schuldenkrise. Was ein solcher Spread mechanisch aussagt, erklärt unser <a href=\"/artikel/anleihe-spread-erklaert/\">Einordnungs-Artikel</a>.</p><h2>Einordnung</h2><p>Ein bestätigtes Rating ist zunächst ein Stabilitätssignal: Die am Freitag eingepreiste Angst vor einer sofortigen Abstufung entfällt. Der negative Ausblick bleibt bestehen - die nächste Überprüfung kann erneut zur Marktnachricht werden. Wir berichten die Marktfakten, keine politische Bewertung. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "WSJ: Moody's Holds France Credit Rating Steady (23.10.2026)",
+      "url": "https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d"
+    },
+    {
+      "title": "franceinfo: L'agence Moody's maintient la note souveraine de la France à Aa3 avec perspective négative (23.10.2026)",
+      "url": "https://www.franceinfo.fr/economie/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-avec-perspective-negative_8251510.html"
+    },
+    {
+      "title": "MarketScreener/Dow Jones: XETRA-SCHLUSS (23.10.2026, 17:53 Uhr)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/xetra-schluss-oelpreis-rally-und-schwache-zahlen-belasten-ce785cdfdd89f324"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was hat Moody's entschieden?",
+      "a": "Die Note Aa3 bleibt bestehen, der Ausblick bleibt negativ (Entscheidung vom 23.10.2026, gemeldet von WSJ und franceinfo)."
+    },
+    {
+      "q": "Wie hatte der Markt vorab reagiert?",
+      "a": "Der Spread französischer zu deutschen 10-jährigen Anleihen stieg am Freitag auf 172 Basispunkte, den höchsten Stand seit der Schuldenkrise (Dow Jones)."
+    },
+    {
+      "q": "Was heißt negativer Ausblick?",
+      "a": "Die Agentur sieht Abwärtsrisiken: Eine Herabstufung ist innerhalb des Horizonts möglich, aber nicht beschlossen."
+    }
+  ]
+}

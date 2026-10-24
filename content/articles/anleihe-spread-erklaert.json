@@ -1,0 +1,33 @@
+{
+  "slug": "anleihe-spread-erklaert",
+  "title": "Einordnung: Was der Rendite-Spread bei Staatsanleihen aussagt",
+  "description": "172 Basispunkte zwischen Frankreich und Bundesanleihen: Was ein Spread ist, wie er entsteht und warum Märkte ihn beobachten. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/anleihe-spread-erklaert.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Am Freitag, 23. Oktober 2026, stieg die Renditedifferenz zwischen zehnjährigen französischen Staatsanleihen und zehnjährigen deutschen Bundesanleihen auf 172 Basispunkte - laut Dow Jones der höchste Stand seit Zeiten der Schuldenkrise. Aber was heißt das eigentlich? Dieser Artikel erklärt die Mechanik, ohne Bewertung.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Spread = Renditedifferenz zweier Anleihen, hier Frankreich minus Deutschland.</li><li>100 Basispunkte entsprechen einem Prozentpunkt; 172 Basispunkte sind 1,72 Prozentpunkte.</li><li>Ein steigender Spread heißt: Anleger verlangen für das eine Land einen höheren Risikoaufschlag als für das andere.</li><li>Am Abend bestätigte Moody's Frankreichs Rating - der Auslöser der Freitags-Bewegung entfiel.</li></ul></div><h2>Die Mechanik dahinter</h2><p>Der Zins einer Staatsanleihe bildet sich am Markt: Je mehr Risiko Anleger in einem Papier sehen, desto mehr Rendite verlangen sie - und der Kurs des Papiers fällt. Deutsche Bundesanleihen gelten am europäischen Markt traditionell als Referenz mit dem geringsten Ausfallrisiko. Der Spread misst deshalb den Risikoaufschlag, den Anleger für ein anderes Land gegenüber Deutschland verlangen. 172 Basispunkte bedeuten: Frankreich musste am Freitag rund 1,72 Prozentpunkte mehr Rendite bieten als Deutschland für die gleiche Laufzeit.</p><h2>Warum bewegt sich der Spread?</h2><p>Typische Treiber sind Konjunkturdaten, Haushaltszahlen, politische Ereignisse und - wie am Freitag - anstehende Rating-Entscheidungen. Die Angst vor einer Herabstufung der französischen Bonität hatte den Spread am Freitag hochgetrieben; am Abend bestätigte Moody's die Note Aa3 (Details: <a href=\"/artikel/frankreich-rating-moodys/\">Rating-Artikel</a>). Zur Schuldenkrise als Vergleichsgröße: Damals waren Spreads von mehreren hundert Basispunkten zwischen Kern- und Peripherieländern üblich; 172 Basispunkte galten deshalb als ungewöhnlich hoher Wert für Frankreich.</p><h2>Was der Spread nicht ist</h2><p>Der Spread ist keine Prognose und kein Urteil über ein Land. Er ist ein Marktpreis: Er zeigt, wie viel Aufschlag Anleger in diesem Moment verlangen. Er kann sich schnell wieder einengen, wenn die Unsicherheit wegfällt - oder sich ausweiten, wenn sie wächst. Eine Anlageempfehlung leitet sich daraus nicht ab.</p>",
+  "sources": [
+    {
+      "title": "MarketScreener/Dow Jones: XETRA-SCHLUSS (23.10.2026, 17:53 Uhr)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/xetra-schluss-oelpreis-rally-und-schwache-zahlen-belasten-ce785cdfdd89f324"
+    },
+    {
+      "title": "WSJ: Moody's Holds France Credit Rating Steady (23.10.2026)",
+      "url": "https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist ein Anleihe-Spread?",
+      "a": "Die Renditedifferenz zwischen zwei Anleihen, meist eines Landes gegenüber der Referenz Bundesanleihe. Er misst den Risikoaufschlag, den Anleger verlangen."
+    },
+    {
+      "q": "Was sind Basispunkte?",
+      "a": "Ein Basispunkt ist ein Hundertstel Prozentpunkt. 172 Basispunkte entsprechen 1,72 Prozentpunkten Renditedifferenz."
+    },
+    {
+      "q": "Warum war der Freitags-Stand von 172 Basispunkten auffällig?",
+      "a": "Laut Dow Jones der höchste Stand seit Zeiten der Schuldenkrise - ausgelöst durch die Sorge vor einer Rating-Herabstufung, die am Abend nicht eintrat."
+    }
+  ]
+}

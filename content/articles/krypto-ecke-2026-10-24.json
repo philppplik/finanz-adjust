@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-24",
+  "title": "Krypto-Ecke: Bitcoin und Ethereum am Samstagmorgen",
+  "description": "Bitcoin bei rund 80.700 USD (-1,3 % in 24 h), Ethereum bei rund 2.375 USD. CoinGecko-Stand 24.10.2026, 07:50 Uhr MESZ.",
+  "section": "krypto",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/krypto-ecke-2026-10-24.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Der Kryptomarkt zeigt sich am Samstagmorgen schwächer. Die Werte unten sind eine Momentaufnahme der CoinGecko-API vom 24. Oktober 2026, 07:50 Uhr MESZ - Kryptokurse bewegen sich rund um die Uhr, die Zahlen sind deshalb nur mit diesem Zeitstempel zu lesen.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bitcoin: 80.683 US-Dollar beziehungsweise 72.027 Euro, minus 1,3 Prozent in 24 Stunden (CoinGecko, 24.10., 07:50 Uhr MESZ).</li><li>Ethereum: 2.375 US-Dollar beziehungsweise 2.121 Euro, minus 1,1 Prozent in 24 Stunden (gleiche Momentaufnahme).</li><li>Kryptomärkte handeln rund um die Uhr - Wochenendkurse sind keine Prognose für die Woche.</li></ul></div><h2>Bitcoin (BTC)</h2><p>Bitcoin notierte zum Zeitpunkt der Abfrage bei 80.683 US-Dollar (72.027 Euro). Die Veränderung auf 24-Stunden-Sicht betrug minus 1,3 Prozent. Zum Wochenverlauf: Unsere täglichen Krypto-Ecken dieser Woche zeigen die Kursentwicklung im Tagesvergleich.</p><h2>Ethereum (ETH)</h2><p>Ethereum stand bei 2.375 US-Dollar (2.121 Euro), ein 24-Stunden-Minus von 1,1 Prozent.</p><h2>Einordnung</h2><p>Ein Minus von gut einem Prozent liegt innerhalb der üblichen Tagesschwankungen beider Werte und ist für sich genommen keine Nachricht. Wichtig bleibt: Kryptoanlagen sind hochvolatil, Totalverlust ist möglich. Wir geben keine Anlageberatung. Grundlagen: <a href=\"/artikel/glossar-blockchain/\">Glossar Blockchain</a>.</p>",
+  "sources": [
+    {
+      "title": "CoinGecko API (Bitcoin, Ethereum), Momentaufnahme 24.10.2026, 07:50 Uhr MESZ",
+      "url": "https://www.coingecko.com/de/munze/bitcoin"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie steht Bitcoin heute?",
+      "a": "Zum Abfragezeitpunkt 24.10.2026, 07:50 Uhr MESZ: 80.683 US-Dollar beziehungsweise 72.027 Euro, minus 1,3 Prozent in 24 Stunden (CoinGecko)."
+    },
+    {
+      "q": "Wie steht Ethereum heute?",
+      "a": "Zur gleichen Momentaufnahme: 2.375 US-Dollar beziehungsweise 2.121 Euro, minus 1,1 Prozent in 24 Stunden (CoinGecko)."
+    },
+    {
+      "q": "Sind Wochenendkurse aussagekräftig?",
+      "a": "Kryptomärkte handeln rund um die Uhr, auch am Wochenende. Die Werte sind Momentaufnahmen und keine Prognose."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-rebalancing",
+  "title": "Glossar: Rebalancing - so bringst du dein Portfolio zurück ins Gleichgewicht",
+  "description": "Rebalancing bedeutet: Anlagegewichte auf die ursprüngliche Zielaufteilung zurücksetzen. Methoden, Beispiel und Kosten im Überblick. Stand: 24.10.2026.",
+  "section": "glossar",
+  "date": "2026-10-24T07:55:00+02:00",
+  "image": "/images/glossar-rebalancing.jpg",
+  "body": "<p><small>Stand: 24.10.2026, früher Morgen</small></p><p>Rebalancing heißt: Du bringst dein Depot zurück auf deine geplante Aufteilung. Beispiel: Dein Plan sind 70 Prozent Aktien und 30 Prozent Anleihen. Steigen die Aktienkurse stark, wachsen Aktien vielleicht auf 78 Prozent deines Depots. Beim Rebalancing verkaufst du Aktien und kaufst Anleihen, bis wieder 70 zu 30 steht.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Rebalancing = Rücksetzen auf die Zielaufteilung des Portfolios.</li><li>Ohne Rebalancing verändert Kursentwicklung dein Risikoprofil ungewollt.</li><li>Zwei gängige Methoden: nach Kalender (z. B. einmal pro Jahr) oder nach Schwelle (z. B. bei 5 Prozentpunkten Abweichung).</li><li>Umschichten kann Kosten und Steuern auslösen - Alternativen sind Einzahlungen auf die untergewichtete Anlageklasse.</li></ul></div><h2>Warum das Gewicht von allein verrutscht</h2><p>Verschiedene Anlageklassen entwickeln sich unterschiedlich schnell. Steigen Aktien über Jahre stärker als Anleihen, wächst der Aktienanteil - und damit auch das Risiko deines Depots. Dein Depot wird schwankungsanfälliger, als du es geplant hattest. Rebalancing ist das Werkzeug, das dieses Risiko wieder auf das geplante Niveau zurückführt.</p><h2>Die zwei üblichen Methoden</h2><p><b>Kalenderbasiert:</b> Du prüfst die Aufteilung zu festen Terminen, zum Beispiel einmal im Jahr, und gleichst bei Bedarf aus. Einfach, planbar, wenig Transaktionen. <b>Schwellenbasiert:</b> Du greifst erst ein, wenn eine Anlageklasse um einen festen Wert abweicht, zum Beispiel um 5 Prozentpunkte. Näher am Ziel, aber mehr Prüfaufwand. Beide Ansätze sind etabliert - welcher zu dir passt, hängt von Aufwand, Depotgröße und Kosten ab.</p><h2>Kosten und Alternativen</h2><p>Verkäufe können Transaktionskosten und Steuern auf realisierte Gewinne auslösen. Eine Alternative ohne Verkauf: Du steuerst frisches Geld - etwa deine monatliche Sparrate - gezielt in die untergewichtete Anlageklasse. Das nennt man Cashflow-Rebalancing. Das richtige Vorgehen hängt von deiner Situation ab; wir geben keine Anlageberatung. Grundlagen zu den Anlageklassen: <a href=\"/glossar/\">Glossar</a> und unsere <a href=\"/lernpfade/\">Lernpfade</a>.</p>",
+  "sources": [
+    {
+      "title": "eigene Darstellung, Stand 24.10.2026",
+      "url": "https://finanz-adjust.de/glossar/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist Rebalancing?",
+      "a": "Das Zurücksetzen der Depot-Aufteilung auf die ursprünglich geplanten Gewichte, zum Beispiel 70 Prozent Aktien und 30 Prozent Anleihen."
+    },
+    {
+      "q": "Wie oft sollte man rebalancieren?",
+      "a": "Üblich sind feste Termine (zum Beispiel jährlich) oder das Eingreifen ab einer festen Abweichung (zum Beispiel 5 Prozentpunkte). Eine allgemein richtige Frequenz gibt es nicht."
+    },
+    {
+      "q": "Kostet Rebalancing etwas?",
+      "a": "Verkäufe können Transaktionskosten und Steuern auf Gewinne auslösen. Eine Alternative ist das gezielte Nachkaufen der untergewichteten Anlageklasse mit frischem Geld."
+    }
+  ]
+}
