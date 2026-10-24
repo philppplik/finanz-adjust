@@ -1,0 +1,33 @@
+{
+  "slug": "dividenden-vs-thesaurierung",
+  "title": "Ausschüttend oder thesaurierend: Zwei Wege, ein Ziel",
+  "description": "Ausschüttung gegen Thesaurierung: Was die beiden Ertragsverwendungen unterscheidet und für wen welche Variante passt. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/dividenden-vs-thesaurierung.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Bei Fonds und ETF gibt es zwei Arten, mit Erträgen umzugehen: Ausschüttende Varianten zahlen Dividenden und Zinsen regelmäßig an dich aus. Thesaurierende Varianten legen die Erträge automatisch wieder im Fonds an. justETF bringt die Auswahlfrage so auf den Punkt: Möchtest du aus einem vorhandenen Vermögen regelmäßige Erträge erzielen, passt eine ausschüttende Strategie; möchtest du lieber sparen und mehr Geld für die Zukunft zurücklegen, sind thesaurierende ETF die erste Wahl (justETF, abgerufen 24.10.2026).</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ausschüttend: Erträge landen als Gutschrift auf deinem Konto.</li><li>Thesaurierend: Erträge werden automatisch wieder angelegt - der Zinseszins läuft ohne dein Zutun.</li><li>Beide Varianten sind steuerlich in Deutschland gleich gestellt (Details: Artikel Dividenden und Steuer).</li><li>Die Wahl ist eine Frage deines Ziels: laufender Ertrag oder bequemer Vermögensaufbau.</li></ul></div><h2>Was bei der Ausschüttung passiert</h2><p>Die ausgeschütteten Erträge fließen als Bareinnahme auf dein Verrechnungskonto - in der Regel einmal jährlich, manche ETF auch häufiger. Das ist praktisch, wenn du Einnahmen brauchst oder dein <a href=\"/artikel/glossar-rebalancing/\">Rebalancing</a> über Cashflows steuerst. Der Nachteil: Liegt das Geld auf dem Konto, arbeitet es nicht. Willst du es wieder anlegen, entstehen erneut Kaufkosten - und die <a href=\"/glossar/ausschuettung/\">Ausschüttung</a> unterliegt beim Zufluss der Abgeltungsteuer, soweit der Sparerpauschbetrag ausgeschöpft ist.</p><h2>Was bei der Thesaurierung passiert</h2><p>Die Erträge bleiben im Fonds und werden sofort wieder angelegt. Du siehst keine Gutschrift, aber dein Anteilswert steigt. Der Vorteil ist die Automatik: Der Zinseszinseffekt läuft lückenlos, ohne Wiederanlagekosten und ohne Disziplin. Wichtig zu wissen: Auch thesaurierende Fonds sind in Deutschland nicht steuerfrei zwischengelagert - über die sogenannte Vorabpauschale kann jährlich eine Steuer auf einen rechnerischen Wertzuwachs anfallen. Details dazu regelt das Investmentsteuergesetz; deine Bank weist die Pauschale aus.</p><h2>Die Entscheidung</h2><p>Rechnerisch führen beide Wege bei gleichem Fonds zum gleichen Ziel - es gibt keine Variante, die grundsätzlich mehr Rendite bringt. Der Unterschied liegt im Verhalten: Thesaurierung nimmt dir die Wiederanlage ab, Ausschüttung gibt dir laufende Einnahmen. Viele Anleger nutzen in der Ansparphase thesaurierende Varianten und denken im Entnahmealter über Ausschüttungen nach. Was zu deiner Situation passt, kann nur deine eigene Planung beantworten - wir geben keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF: Ausschüttende oder thesaurierende ETFs - richtig investieren (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/news/etf/ausschuettende-oder-thesaurierende-etfs-wie-investiere-ich-richtig.html"
+    },
+    {
+      "title": "justETF Academy: ETFs und Steuern (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/etf-und-steuern.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen ausschüttend und thesaurierend?",
+      "a": "Ausschüttende Fonds zahlen Erträge regelmäßig aus, thesaurierende legen sie automatisch wieder im Fonds an. justETF ordnet zu: Ausschüttung für laufende Erträge, Thesaurierung für den Vermögensaufbau."
+    },
+    {
+      "q": "Ist thesaurieren steuerlich besser?",
+      "a": "Nein, die Besteuerung ist in Deutschland grundsätzlich gleichgestellt. Thesaurierende Fonds können über die Vorabpauschale jährlich besteuert werden, Ausschüttungen beim Zufluss."
+    },
+    {
+      "q": "Bringt Thesaurierung mehr Rendite?",
+      "a": "Rechnerisch führen beide Wege zum gleichen Ergebnis, wenn Ausschüttungen wieder angelegt würden. Der Vorteil der Thesaurierung ist die lückenlose Automatik ohne Wiederanlagekosten."
+    }
+  ]
+}

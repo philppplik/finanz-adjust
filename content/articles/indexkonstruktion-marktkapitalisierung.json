@@ -1,0 +1,33 @@
+{
+  "slug": "indexkonstruktion-marktkapitalisierung",
+  "title": "Indexkonstruktion verstehen: Warum die Marktkapitalisierung das Gewicht bestimmt",
+  "description": "Wie Indizes Aktien gewichten: Marktkapitalisierung, Streubesitz und ein gerechnetes Strukturbeispiel mit drei Unternehmen. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/indexkonstruktion-marktkapitalisierung.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Ein Aktienindex ist kein Durchschnitt im Kopfrechen-Sinn, sondern ein Regelwerk. Die wichtigste Regel dahinter: Wie viel Gewicht bekommt jedes Unternehmen? Bei den großen Marktindizes lautet die Antwort: nach Marktkapitalisierung. justETF beschreibt das am Beispiel von MSCI World und MSCI ACWI so: Beide Indizes gewichten Unternehmen nach ihrer Marktkapitalisierung (justETF Academy, abgerufen 24.10.2026).</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Marktkapitalisierung = Aktienkurs mal Anzahl der Aktien.</li><li>Je größer der Börsenwert eines Unternehmens, desto größer sein Anteil am Index.</li><li>Viele Indizes gewichten nur den Streubesitz (free float), also die frei handelbaren Aktien.</li><li>Folge: Wenige große Unternehmen können einen großen Teil des Index ausmachen.</li></ul></div><h2>Das Grundprinzip</h2><p>Die Marktkapitalisierung eines Unternehmens ist sein Börsenwert: aktueller Aktienkurs multipliziert mit der Zahl der ausgegebenen Aktien. In einem marktkapitalisierungsgewichteten Index bekommt jedes Unternehmen den Anteil, den sein Börsenwert am Gesamtwert aller Indexunternehmen ausmacht. Steigt der Kurs eines Unternehmens, wächst sein Gewicht automatisch - der Index muss dafür nichts verkaufen oder kaufen.</p><h2>Strukturbeispiel: Drei Unternehmen, ein Mini-Index</h2><p>Stell dir einen Index mit drei Unternehmen vor: Unternehmen A hat einen Börsenwert von 60 Milliarden Euro, B von 30 Milliarden und C von 10 Milliarden. Gesamtwert: 100 Milliarden Euro. Die Gewichte: A 60 Prozent, B 30 Prozent, C 10 Prozent. Steigt A um 10 Prozent (neuer Börsenwert 66 Milliarden), während B und C gleich bleiben, steigt der Indexstand um 6 Prozent - obwohl zwei von drei Unternehmen sich nicht bewegt haben. Das große Unternehmen dominiert die Indexbewegung. (Strukturbeispiel mit fiktiven Werten zur Veranschaulichung der Mechanik.)</p><h2>Streubesitz und Kappungsregeln</h2><p>Die meisten großen Indizes gewichten nicht den vollen Börsenwert, sondern nur den Streubesitz: Aktien, die in festen Händen liegen (etwa bei Großaktionären), werden herausgerechnet. Zusätzlich haben manche Indizes Kappungsregeln, die das Höchstgewicht eines einzelnen Unternehmens begrenzen. Details stehen im Regelwerk des jeweiligen Indexanbieters.</p><h2>Was das für dich bedeutet</h2><p>Wenn du einen ETF auf einen marktbreiten Index kaufst, kaufst du automatisch die größten Unternehmen am schwersten. Das ist kein Fehler, sondern das Design: Der Index bildet den Markt ab, so wie er ist. Die Kehrseite ist die Klumpenbildung, die justETF am Beispiel der US-Schwergewichte im MSCI World diskutiert. Ob du diese Konzentration akzeptierst oder gegensteuerst, ist Teil deiner Anlageentscheidung - wir geben dazu keine Empfehlung. Grundlagen: <a href=\"/glossar/\">Glossar</a>.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: Kritik am MSCI World - was ist dran? (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/kritik-am-msci-world-was-ist-dran.html"
+    },
+    {
+      "title": "justETF Academy: Was sind ETFs? (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/was-sind-etfs.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird ein Aktienindex gewichtet?",
+      "a": "Bei den großen Marktindizes nach Marktkapitalisierung: Je höher der Börsenwert eines Unternehmens, desto größer sein Indexanteil. justETF bestätigt das für MSCI World und MSCI ACWI."
+    },
+    {
+      "q": "Was ist Streubesitz?",
+      "a": "Der Anteil der Aktien, der frei handelbar ist und nicht in festen Händen liegt. Viele Indizes gewichten nur den Streubesitz."
+    },
+    {
+      "q": "Warum dominieren wenige Konzerne viele Indizes?",
+      "a": "Weil die Gewichtung dem Börsenwert folgt: Die wertvollsten Unternehmen der Welt bekommen automatisch die größten Anteile."
+    }
+  ]
+}

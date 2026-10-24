@@ -1,0 +1,29 @@
+{
+  "slug": "fondsdomizil-und-steuern",
+  "title": "Fondsdomizil und Steuern: Was Irland und Luxemburg für deinen ETF bedeuten",
+  "description": "Fondsdomizil einfach erklärt: Wo ein ETF registriert ist, warum viele in Irland sitzen und was seit 2018 für die Steuer gilt. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/fondsdomizil-und-steuern.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Das Fondsdomizil ist das Land, in dem ein Fonds rechtlich registriert ist. Bei ETF, die du in Deutschland kaufen kannst, sind das häufig Irland oder Luxemburg - auch wenn der Index amerikanische oder japanische Aktien enthält. Das Domizil steht im Factsheet und im Basisinformationsblatt (KID) des ETF.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Fondsdomizil = Land der rechtlichen Registrierung des Fonds.</li><li>Viele UCITS-ETF sitzen in Irland oder Luxemburg.</li><li>Seit der Investmentsteuerreform 2018 ist die Steuerlast in Deutschland grundsätzlich unabhängig vom Fondsdomizil (justETF).</li><li>Das Domizil beeinflusst aber die Abwicklung von Quellensteuern auf Fondsebene.</li></ul></div><h2>Warum so viele ETF in Irland sitzen</h2><p>Irland und Luxemburg haben sich als Fondsstandorte etabliert: bekannte Regulierung (UCITS-Rahmen), auf Fonds spezialisierte Dienstleister und ein Netz von Doppelbesteuerungsabkommen. Für dich als Anlegerin oder Anleger ändert das Domizil nichts an der rechtlichen Grundform: Es bleibt ein börsengehandelter Sondervermögens-Fonds nach europäischem Recht.</p><h2>Was auf Fondsebene passiert</h2><p>Erhaltene Dividenden und Zinsen im Fonds können im Ausland mit Quellensteuer belegt werden. Wie viel davon das Fondsdomizil zurückholen oder verringern kann, hängt von den Abkommen zwischen dem Domizilland und den Quellenländern ab. Diese Effekte wirken im Hintergrund auf die Fondsrendite und sind ein Grund, warum zwei ETF auf denselben Index minimal unterschiedlich laufen können.</p><h2>Was für deine Steuer in Deutschland gilt</h2><p>Der zentrale Punkt für dich: justETF fasst die Lage so zusammen - die Steuerlast ist für alle ETF grundsätzlich gleich, unabhängig von Fondsdomizil, Replikationsmethode oder Ausschüttungsart; die einst komplizierte Unterscheidung zwischen steuereinfachen und steuerhässlichen ETF gehört seit der Investmentsteuerreform 2018 der Vergangenheit an (justETF Academy, abgerufen 24.10.2026). Du musst also kein Domizil mehr aus Steuersicht fürchten - du solltest es aber kennen, wenn du Factsheets vergleichst. Details zur deutschen Besteuerung: <a href=\"/artikel/dividenden-und-steuer/\">Dividenden und Steuer</a>. Keine Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: ETFs und Steuern (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/etf-und-steuern.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist ein Fondsdomizil?",
+      "a": "Das Land, in dem ein Fonds rechtlich registriert ist. Bei vielen in Deutschland erhältlichen ETF ist das Irland oder Luxemburg."
+    },
+    {
+      "q": "Ist ein ETF mit Domizil Irland steuerlich nachteilig?",
+      "a": "Nach der Investmentsteuerreform 2018 ist die Steuerlast für Anleger in Deutschland grundsätzlich unabhängig vom Fondsdomizil (justETF). Domizilunterschiede wirken vor allem auf Fondsebene bei der Quellensteuer-Abwicklung."
+    },
+    {
+      "q": "Wo finde ich das Fondsdomizil?",
+      "a": "Im Factsheet und im Basisinformationsblatt (KID) des ETF."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "etf-liquiditaet-und-handel",
+  "title": "ETF-Liquidität und Handel: Wann, wo und zu welchem Preis du kaufst",
+  "description": "ETF-Handel verstehen: Börsenhandel, Spread, Handelszeiten und warum die Liquidität des ETF mehr ist als sein Umsatz. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/etf-liquiditaet-und-handel.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>ETF werden wie Aktien an der Börse gehandelt - justETF beschreibt es so: ETFs bilden einen Marktindex eins zu eins nach und können wie eine Aktie jederzeit an der Börse gehandelt werden (justETF Academy, abgerufen 24.10.2026). Jederzeit klingt einfach, aber der Preis, zu dem du kaufst, hängt von mehr ab als vom Indexstand: vom Handelsplatz, von der Uhrzeit und vom Spread.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>ETF kannst du während der Börsenöffnungszeiten kaufen und verkaufen.</li><li>Der Spread (Geld-Brief-Spanne) ist ein versteckter Handelskostenfaktor.</li><li>Liquidität eines ETF hängt auch von der Handelbarkeit seiner Indexbestandteile ab.</li><li>Kaufen zu ruhigen Hauptzeiten ist in der Regel günstiger als zu Randzeiten - ein Praxishinweis, keine Regel.</li></ul></div><h2>Wo der Preis entsteht</h2><p>An der Börse treffen Kauf- und Verkaufsorders aufeinander. Zusätzlich stellen sogenannte Market Maker fortlaufend An- und Verkaufskurse, damit du fast immer handeln kannst. Zwischen dem Preis, zu dem du sofort verkaufen könntest (Geldkurs), und dem Preis, zu dem du sofort kaufen könntest (Briefkurs), liegt die Geld-Brief-Spanne - der <a href=\"/glossar/spread/\">Spread</a>. Bei großen, viel gehandelten ETF auf Standardindizes ist diese Spanne typischerweise klein, bei kleinen Spezial-ETF kann sie deutlich breiter sein.</p><h2>Warum der Umsatz nicht alles ist</h2><p>Ein ETF mit wenig Tagesumsatz ist nicht automatisch illiquide: Die Market Maker orientieren ihre Kurse am Wert der Indexbestandteile. Sind die Aktien im Index leicht handelbar, können sie auch für einen umsatzschwachen ETF enge Kurse stellen. Trotzdem bleiben als praktische Anhaltspunkte: eine gewisse Fondsgröße, ein etablierter Emittent und ein liquider zugrunde liegender Markt.</p><h2>Praktische Handelsregeln</h2><p>Zwei Dinge beeinflussen deinen tatsächlichen Kaufpreis am stärksten: die Orderart (Limit statt Bestens schützt vor Ausreißern) und die Uhrzeit. Zu Zeiten, in denen die Heimatbörsen der Indexwerte geöffnet sind, sind die Spreads in der Regel enger - etwa nachmittags für US-lastige Indizes. An Feiertagen im Ausland oder spät abends können die Spannen breiter werden. Das sind Faustregeln des Marktalltags, keine Garantien und keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: Was sind ETFs? (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/was-sind-etfs.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich einen ETF jederzeit verkaufen?",
+      "a": "Während der Börsenöffnungszeiten in der Regel ja. Market Maker stellen fortlaufend Kurse. Den Preis bestimmt das Orderbuch - mit Limitorder behältst du die Kontrolle über den Maximalpreis."
+    },
+    {
+      "q": "Was ist der Spread beim ETF?",
+      "a": "Die Differenz zwischen Geld- und Briefkurs. Sie ist eine einmalige Handelskostenposition beim Kauf und fällt beim Verkauf erneut an. Details im Glossar-Eintrag Spread."
+    },
+    {
+      "q": "Ist ein umsatzschwacher ETF riskant?",
+      "a": "Nicht automatisch. Entscheidend ist, wie gut die Indexbestandteile handelbar sind. Trotzdem sind Fondsgröße, Emittent und ein liquider Basiswert sinnvolle Prüfpunkte."
+    }
+  ]
+}

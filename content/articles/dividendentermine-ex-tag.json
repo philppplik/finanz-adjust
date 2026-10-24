@@ -1,0 +1,29 @@
+{
+  "slug": "dividendentermine-ex-tag",
+  "title": "Dividendentermine verstehen: Ex-Tag, Hauptversammlung und Auszahlung",
+  "description": "Ex-Tag einfach erklärt: Warum der Kurs am Ex-Tag um die Dividende fällt, wer anspruchsberechtigt ist und wie die Termine zusammenhängen. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/dividendentermine-ex-tag.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Wer eine Dividende bekommen will, muss die Aktie zum richtigen Zeitpunkt besitzen. Drei Termine bestimmen das Geschehen: die Hauptversammlung, der Ex-Tag und der Auszahlungstag. Der wichtigste für den Kurs ist der Ex-Tag.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ex-Tag: An diesem Tag notiert die Aktie ohne den Dividendenanspruch - die Dividende wird vom Kurs abgezogen.</li><li>Wer die Aktie vor dem Ex-Tag im Depot hat, bekommt die Dividende.</li><li>Der Kursabschlag am Ex-Tag ist ein Mechanik-Effekt, kein Verlust durch die Dividende.</li><li>In Deutschland ist der Ex-Tag üblicherweise der erste Handelstag nach der Hauptversammlung.</li></ul></div><h2>Was am Ex-Tag passiert</h2><p>Die Wiener Börse definiert den Begriff in ihrem Börsenlexikon so: Ex Dividende ist ein Zusatz zum Preis, der angibt, dass an diesem Tag (dem Ex-Dividenden-Tag oder Ex-Tag) die Höhe der Dividende vom Preis des Wertpapiers abgezogen wurde (Börsenlexikon der Wiener Börse, abgerufen 24.10.2026). Ein Strukturbeispiel: Notiert eine Aktie am Vortag bei 100 Euro und beträgt die Dividende 3 Euro, eröffnet sie am Ex-Tag rechnerisch bei etwa 97 Euro - vor allen weiteren Marktbewegungen des Tages.</p><h2>Wer bekommt die Dividende?</h2><p>Maßgeblich ist der Bestand am Tag vor dem Ex-Tag: Wer die Aktie dann im Depot hält, erhält die Ausschüttung - auch wenn er sie am Ex-Tag selbst wieder verkauft. Umgekehrt bekommt ein Käufer am Ex-Tag die laufende Dividende nicht mehr. In Deutschland beschließt üblicherweise die Hauptversammlung über die Dividende; der Ex-Tag ist der erste Handelstag danach, die Auszahlung folgt wenige Tage später.</p><h2>Warum der Abschlag kein Geschenk ist</h2><p>Ein verbreiteter Denkfehler: kurz vor dem Ex-Tag kaufen, Dividende kassieren, verkaufen. Der Kursabschlag neutralisiert diesen vermeintlichen Trick rechnerisch - du tauschst Kurswert gegen Ausschüttung, dazu kommen Steuern und Transaktionskosten. Die Dividende ist also kein Zubrot zum Kurs, sondern ein Umschichten von Unternehmenswert in dein Depot. Zur Kennzahl dahinter: <a href=\"/glossar/dividendenrendite/\">Dividendenrendite im Glossar</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Ex Dividende (abgerufen 24.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-e/ex-dividende/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Ex-Tag?",
+      "a": "Der erste Handelstag, an dem eine Aktie ohne den Anspruch auf die aktuelle Dividende notiert. Die Dividende wird rechnerisch vom Kurs abgezogen (Definition: Börsenlexikon der Wiener Börse)."
+    },
+    {
+      "q": "Bekomme ich die Dividende, wenn ich am Ex-Tag kaufe?",
+      "a": "Nein. Anspruch hat, wer die Aktie am Tag vor dem Ex-Tag im Depot hält."
+    },
+    {
+      "q": "Warum fällt der Kurs am Ex-Tag?",
+      "a": "Weil der Auszahlungsanspruch aus dem Aktienpreis herausgerechnet wird: Der Wert wandert vom Kurs in die Ausschüttung. Das ist Mechanik, keine Bewertung des Unternehmens."
+    }
+  ]
+}

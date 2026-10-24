@@ -1,0 +1,29 @@
+{
+  "slug": "dividendenfallen",
+  "title": "Dividendenfallen erkennen: Wenn eine hohe Rendite ein Warnsignal ist",
+  "description": "Dividendenfalle einfach erklärt: Warum eine sehr hohe Dividendenrendite oft aus dem gefallenen Kurs entsteht und wie du prüfst, ob die Dividende tragfähig ist. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/dividendenfallen.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Eine Dividendenrendite von 8, 10 oder 12 Prozent sieht verlockend aus. Genau hier sitzt die Dividendenfalle: Die Rendite ist ein Bruch, und ihr Wert steigt auch dann, wenn der Nenner - der Aktienkurs - zusammenbricht. Hinter einer sehr hohen Rendite steckt deshalb häufig kein großzügiges Unternehmen, sondern ein Unternehmen, dessen Kurs der Markt bereits abgestraft hat.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Dividendenrendite = Dividende geteilt durch Aktienkurs - sie steigt auch, wenn der Kurs fällt.</li><li>Eine sehr hohe Rendite ist oft der Vorlauf einer Dividendenkürzung, nicht deren Gegenteil.</li><li>Prüfpunkte: Ausschüttungsquote, Gewinnentwicklung, Verschuldung, Dividendenhistorie.</li><li>Der Markt preist erwartete Kürzungen oft ein, bevor sie beschlossen sind.</li></ul></div><h2>Die Mechanik der Falle</h2><p>Strukturbeispiel mit fiktiven Werten: Ein Unternehmen zahlt 4 Euro Dividende, die Aktie kostet 80 Euro - Dividendenrendite 5 Prozent. Das Unternehmen gerät in Schwierigkeiten, der Kurs halbiert sich auf 40 Euro. Rechnerisch zeigt die Aktie nun eine Rendite von 10 Prozent. Diese Zahl beschreibt aber die Vergangenheit: Sie setzt die alte Dividende ins Verhältnis zum neuen Kurs. Erwartet der Markt eine Halbierung der Dividende auf 2 Euro, liegt die erwartete Rendite wieder bei 5 Prozent - die vermeintliche Schnäppchenrendite war nur der Vorab-Abzug der Kürzung.</p><h2>Vier Prüfpunkte gegen die Falle</h2><p>Erstens die <a href=\"/artikel/ausschuettungsquote/\">Ausschüttungsquote</a>: Zahlt das Unternehmen mehr aus, als es verdient, ist die Dividende nicht gedeckt. Zweitens die Gewinnentwicklung: Sinken die Gewinne mehrere Jahre, ist die Dividende ein Anwärter auf die Kürzungsliste. Drittens die Verschuldung: Hohe Zinslasten konkurrieren mit der Ausschüttung. Viertens die Dividendenhistorie: Unternehmen mit langem, stabilem Zahlungsverlauf zeigen, dass die Ausschüttung Priorität hatte - eine Garantie ist auch das nicht.</p><h2>Einordnung</h2><p>Die Dividendenfalle ist kein Trick der Unternehmen, sondern ein Denkfehler der Betrachter: Eine Kennzahl aus Vergangenem wird als Zusage für die Zukunft gelesen. Wer die Rendite immer zusammen mit ihrer Deckung liest, erkennt die meisten Fälle, bevor sie zuschnappen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "eigene Darstellung mit Strukturbeispiel, Stand 24.10.2026",
+      "url": "https://finanz-adjust.de/glossar/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Dividendenfalle?",
+      "a": "Eine Aktie, deren hohe Dividendenrendite durch einen stark gefallenen Kurs entstanden ist - oft der Vorlauf einer Dividendenkürzung oder -streichung."
+    },
+    {
+      "q": "Woran erkenne ich eine gefährdete Dividende?",
+      "a": "An der Kombination: Ausschüttungsquote nahe oder über 100 Prozent, sinkende Gewinne, hohe Verschuldung und eine sehr hohe, vom Kursverfall getriebene Dividendenrendite."
+    },
+    {
+      "q": "Ist eine hohe Dividendenrendite immer ein Warnsignal?",
+      "a": "Nein. Entscheidend ist die Deckung: Verdient das Unternehmen die Ausschüttung stabil, kann eine hohe Rendite auch solide sein. Die Kennzahl allein reicht nicht - weder als Kauf- noch als Warnsignal."
+    }
+  ]
+}

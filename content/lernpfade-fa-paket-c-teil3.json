@@ -1,0 +1,163 @@
+{
+  "paket": "C Teil 3",
+  "welle": 2,
+  "stand": "2026-10-24",
+  "pfade": [
+    {
+      "id": "LP-FA-15",
+      "name": "ETF vertiefen: Replikation, Index, Ertragsverwendung",
+      "frage": "Warum laufen zwei ETF auf denselben Index unterschiedlich - und woran erkenne ich, welcher zu meinem Plan passt?",
+      "intro": "Du kennst die ETF-Grundlagen und willst tiefer: Dieser Pfad öffnet die Motorhaube. Du lernst, wie physisch und synthetisch replizierende ETF den Index abbilden, wie die Marktkapitalisierung das Gewicht jedes Unternehmens im Index bestimmt und was das Fondsdomizil im Hintergrund mit Steuern zu tun hat. Am Ende kannst du zwei Factsheets auf denselben Index nebeneinanderlegen und die Unterschiede benennen, statt nur auf die TER zu schauen.",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "ETF-Grundlagen (Lernpfad 04) und Fondskosten (Lernpfad 14).",
+      "lernziel": "Du unterscheidest Replikationsarten, Indexkonstruktion und Ausschüttung gegen Thesaurierung.",
+      "steps": [
+        {
+          "slug": "/glossar/volle-replikation/",
+          "warum": "Die physische Nachbildung: Der ETF hält die Indexwerte tatsächlich."
+        },
+        {
+          "slug": "/glossar/synthetische-replikation/",
+          "warum": "Die Swap-Variante: Der Index wird per Tauschgeschäft abgebildet."
+        },
+        {
+          "slug": "/artikel/indexkonstruktion-marktkapitalisierung/",
+          "warum": "Das Regelwerk dahinter: Warum die Börsenwert-Gewichtung den Index steuert."
+        },
+        {
+          "slug": "/glossar/ausschuettung/",
+          "warum": "Der erste Teil der Ertragsfrage: Was eine Ausschüttung ist."
+        },
+        {
+          "slug": "/artikel/fondsdomizil-und-steuern/",
+          "warum": "Irland oder Luxemburg: Was das Domizil im Hintergrund regelt."
+        },
+        {
+          "slug": "/artikel/etf-liquiditaet-und-handel/",
+          "warum": "Praxisschritt: Spread, Handelszeit und Orderart beim Kauf."
+        },
+        {
+          "slug": "/glossar/etc/",
+          "warum": "Abgrenzung: Warum ein ETC rechtlich kein ETF ist."
+        }
+      ],
+      "terms": [
+        "volle-replikation",
+        "synthetische-replikation",
+        "ausschuettung",
+        "etc"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Zwei ETF bilden denselben Weltindex ab, einer physisch, einer synthetisch. Beide kosten 0,15 Prozent TER. Dein Berater sagt, nur die Kosten zählen. Welche zwei Punkte prüfst du zusätzlich?",
+            "loesung": "Die Replikationsart (physisch hält die Werte, synthetisch bildet per Swap ab - mit jeweils eigenen Strukturunterschieden) und die gemessene Tracking Difference, also wie nah jeder ETF tatsächlich am Index lag. Dazu gehört ein Blick aufs Fondsdomizil, weil es die Quellensteuer-Abwicklung im Hintergrund beeinflusst."
+          },
+          {
+            "frage": "Ein ETF auf einen Weltindex zeigt im Factsheet: Domizil Irland, Ausschüttung thesaurierend, Replikation physisch-optimiert. Was sagt dir jede der drei Angaben?",
+            "loesung": "Domizil Irland: rechtliche Registrierung in Irland mit dessen Abkommensnetz für Quellensteuern - für deine deutsche Steuer seit 2018 grundsätzlich gleichgestellt. Thesaurierend: Erträge werden automatisch wieder angelegt. Physisch-optimiert: Der ETF hält eine Auswahl der Indexwerte (Sampling) statt aller."
+          },
+          {
+            "frage": "Du vergleichst die Gewichtung zweier Weltindizes und stellst fest: In beiden machen die zehn größten Unternehmen einen großen Anteil aus. Woran liegt das?",
+            "loesung": "An der Gewichtung nach Marktkapitalisierung: Beide Indizes gewichten Unternehmen nach ihrem Börsenwert, wie der Artikel zur Indexkonstruktion zeigt. Die wertvollsten Konzerte bekommen automatisch die größten Anteile."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was ist der Unterschied zwischen voller und synthetischer Replikation?",
+            "loesung": "Bei der vollen (physischen) Replikation hält der Fonds die Indexwerte direkt, bei der synthetischen bildet er die Indexrendite über ein Tauschgeschäft (Swap) mit einer Bank ab."
+          },
+          {
+            "frage": "Ändert das Fondsdomizil deine Steuerlast in Deutschland?",
+            "loesung": "Nach der Investmentsteuerreform 2018 ist die Steuerlast grundsätzlich unabhängig vom Domizil (justETF). Das Domizil wirkt vor allem auf Fondsebene bei der Quellensteuer-Abwicklung."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-16",
+          "warum": "Wenn du Erträge verstehst, ist der nächste Schritt ihre wichtigste Quelle: Dividenden."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-16",
+      "name": "Dividenden & Ausschüttungen verstehen",
+      "frage": "Was steckt hinter Dividendenrendite, Ausschüttungsquote und Steuerabzug - und wann wird aus einer hohen Rendite eine Falle?",
+      "intro": "Dividenden wirken wie ein Geschenk, sind aber Mechanik: Beim Ex-Tag wandert der Wert vom Kurs in die Ausschüttung. Dieser Pfad führt dich von der Dividendenrendite über die Termin-Mechanik und die Ausschüttungsquote bis zur Steuerwirkung in Deutschland. Am Ende liest du eine hohe Rendite nicht mehr als Versprechen, sondern als Frage: Ist sie durch den Gewinn gedeckt - oder durch den Kursverfall entstanden?",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "Aktien-Grundlagen (Lernpfad 05) und Renditebegriff (Lernpfad 02).",
+      "lernziel": "Du verstehst Dividendenrendite, Ausschüttungsquote und Steuerwirkung und kennst Dividendenfallen.",
+      "steps": [
+        {
+          "slug": "/glossar/dividendenrendite/",
+          "warum": "Die Ausgangskennzahl: Dividende im Verhältnis zum Kurs."
+        },
+        {
+          "slug": "/artikel/dividendentermine-ex-tag/",
+          "warum": "Die Termin-Mechanik: Ex-Tag, Anspruch und der rechnerische Kursabschlag."
+        },
+        {
+          "slug": "/artikel/ausschuettungsquote/",
+          "warum": "Die Deckungsfrage: Wie viel des Gewinns wird ausgeschüttet?"
+        },
+        {
+          "slug": "/artikel/dividendenfallen/",
+          "warum": "Das Warnsystem: Wann eine hohe Rendite ein Kursverfall-Signal ist."
+        },
+        {
+          "slug": "/rechner/dividenden/",
+          "warum": "Praxisschritt: Rechne Rendite und Ausschüttungen an eigenen Werten durch."
+        },
+        {
+          "slug": "/artikel/dividenden-und-steuer/",
+          "warum": "Was netto ankommt: Abgeltungsteuer, Soli und Sparerpauschbetrag."
+        },
+        {
+          "slug": "/artikel/dividenden-vs-thesaurierung/",
+          "warum": "Die Fonds-Variante: Ausschüttend oder thesaurierend - was sich wirklich unterscheidet."
+        }
+      ],
+      "terms": [
+        "dividendenrendite",
+        "ausschuettung"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Eine Aktie zeigt eine Dividendenrendite von 11 Prozent, nachdem der Kurs binnen eines Jahres um die Hälfte gefallen ist. Ein Forenbeitrag feiert das als Einstiegschance. Wie ordnest du das ein?",
+            "loesung": "Die Rendite rechnet mit der alten Dividende und dem neuen Kurs - sie ist ein Rückspiegel. Erwartet der Markt eine Kürzung, ist die hohe Zahl bereits der Abzug davon. Ohne Prüfung der Deckung (Ausschüttungsquote, Gewinnentwicklung) ist das ein Lehrbuch-Verdacht auf eine Dividendenfalle."
+          },
+          {
+            "frage": "Ein Unternehmen erzielt 3 Euro Gewinn je Aktie und zahlt 3,50 Euro Dividende. Was sagt die Ausschüttungsquote, und was folgt daraus?",
+            "loesung": "Die Quote liegt bei rund 117 Prozent: Das Unternehmen schüttet mehr aus, als es verdient. Das geht nur aus Rücklagen oder Fremdmitteln und ist dauerhaft nicht haltbar - die Dividende ist ein Kürzungskandidat, solange der Gewinn nicht deutlich steigt."
+          },
+          {
+            "frage": "Du erhältst 100 Euro Dividende, dein Sparerpauschbetrag ist aufgebraucht. Was kommt ungefähr auf deinem Konto an (ohne Kirchensteuer)?",
+            "loesung": "Rund 73,63 Euro: 25 Euro Abgeltungsteuer plus 1,375 Euro Solidaritätszuschlag (5,5 Prozent der Steuer), wie das Strukturbeispiel im Steuer-Artikel rechnet."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Warum fällt der Kurs einer Aktie am Ex-Tag rechnerisch um die Dividende?",
+            "loesung": "Weil der Auszahlungsanspruch aus dem Preis herausgerechnet wird: Der Wert wandert vom Kurs in die Ausschüttung. Das ist Mechanik, kein Wertverlust des Unternehmens (Definition: Börsenlexikon der Wiener Börse)."
+          },
+          {
+            "frage": "Was unterscheidet Dividendenrendite und Ausschüttungsquote?",
+            "loesung": "Die Rendite bezieht die Dividende auf den Aktienkurs (was bekomme ich relativ zum Preis), die Quote auf den Gewinn (kann sich das Unternehmen die Ausschüttung leisten)."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-17",
+          "warum": "Kennzahlen lesen kannst du jetzt - der nächste Pfad ordnet KGV, KBV und Co. ein."
+        }
+      ]
+    }
+  ]
+}

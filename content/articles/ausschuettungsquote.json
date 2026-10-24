@@ -1,0 +1,29 @@
+{
+  "slug": "ausschuettungsquote",
+  "title": "Ausschüttungsquote: Wie viel des Gewinns ein Unternehmen weitergibt",
+  "description": "Ausschüttungsquote einfach erklärt: Formel, gerechnetes Strukturbeispiel und wie du hohe und niedrige Werte einordnest. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/ausschuettungsquote.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Die Ausschüttungsquote zeigt, welchen Teil seines Gewinns ein Unternehmen als Dividende an die Aktionäre weitergibt. Sie beantwortet eine einfache Frage: Bleibt der Gewinn im Unternehmen oder fließt er an die Eigentümer zurück?</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ausschüttungsquote = Dividende je Aktie geteilt durch Gewinn je Aktie.</li><li>Das Ergebnis wird in Prozent angegeben.</li><li>Niedrige Quote: Mehr Gewinn bleibt für Investitionen und Rücklagen im Unternehmen.</li><li>Hohe Quote: Mehr Gewinn fließt an die Aktionäre - kann aber bei schwankenden Gewinnen an die Substanz gehen.</li></ul></div><h2>Formel und Strukturbeispiel</h2><p>Die Formel: Ausschüttungsquote gleich Dividende je Aktie geteilt durch Gewinn je Aktie mal 100. Strukturbeispiel mit fiktiven Werten: Ein Unternehmen erzielt 5 Euro Gewinn je Aktie und zahlt 2 Euro Dividende. Die Ausschüttungsquote beträgt 2 geteilt durch 5, also 40 Prozent. Der Rest - 60 Prozent - verbleibt als einbehaltener Gewinn im Unternehmen, etwa für Investitionen, Schuldenabbau oder Rücklagen.</p><h2>Wie du Werte einordnest</h2><p>Eine niedrige Quote ist nicht automatisch geizig, eine hohe nicht automatisch großzügig. Junge Wachstumsunternehmen schütten oft gar nichts aus, weil sie jeden Euro reinvestieren. Etablierte Unternehmen in ruhigen Branchen verteilen dagegen häufig einen großen Teil des Gewinns. Kritisch wird es, wenn die Quote dauerhaft über 100 Prozent liegt: Dann zahlt das Unternehmen mehr Dividende, als es verdient - das geht nur aus Rücklagen oder Fremdkapital und ist auf Dauer nicht haltbar. Ein Blick auf die Entwicklung über mehrere Jahre sagt mehr als ein Einzelwert.</p><h2>Abgrenzung zur Dividendenrendite</h2><p>Die Ausschüttungsquote misst den Gewinnanteil, die <a href=\"/glossar/dividendenrendite/\">Dividendenrendite</a> das Verhältnis der Dividende zum Aktienkurs. Beide zusammen ergeben das Bild: Die Rendite sagt, was du relativ zum Kurs bekommst, die Quote, ob sich das Unternehmen die Ausschüttung leistet. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "eigene Darstellung mit Strukturbeispiel, Stand 24.10.2026",
+      "url": "https://finanz-adjust.de/glossar/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie berechnet man die Ausschüttungsquote?",
+      "a": "Dividende je Aktie geteilt durch Gewinn je Aktie mal 100. Beispiel: 2 Euro Dividende bei 5 Euro Gewinn ergeben 40 Prozent."
+    },
+    {
+      "q": "Was ist eine gute Ausschüttungsquote?",
+      "a": "Eine allgemein gültige Zielzahl gibt es nicht. Wachstumsunternehmen schütten oft wenig oder nichts aus, etablierte Unternehmen mehr. Dauerhaft über 100 Prozent ist ein Warnsignal."
+    },
+    {
+      "q": "Was ist der Unterschied zur Dividendenrendite?",
+      "a": "Die Ausschüttungsquote bezieht die Dividende auf den Gewinn, die Dividendenrendite auf den Aktienkurs. Erstere zeigt die Finanzierbarkeit, letztere den Ertrag relativ zum Kaufpreis."
+    }
+  ]
+}

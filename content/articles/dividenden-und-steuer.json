@@ -1,0 +1,33 @@
+{
+  "slug": "dividenden-und-steuer",
+  "title": "Dividenden und Steuer: Was von der Ausschüttung bei dir ankommt",
+  "description": "So werden Dividenden in Deutschland besteuert: 25 Prozent Abgeltungsteuer, Solidaritätszuschlag, Sparerpauschbetrag und Freistellungsauftrag. Stand: 24.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-24T10:30:00+02:00",
+  "image": "/images/dividenden-und-steuer.jpg",
+  "body": "<p><small>Stand: 24.10.2026</small></p><p>Von der Dividende, die ein Unternehmen beschließt, kommt nicht alles auf deinem Konto an. In Deutschland greift der Fiskus direkt an der Quelle zu. Dieser Artikel zeigt die Mechanik - allgemein verständlich, ohne Steuerberatung.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Dividenden unterliegen einem Steuerabzug von 25 Prozent zuzüglich Solidaritätszuschlag (Bundeszentralamt für Steuern).</li><li>Der Solidaritätszuschlag beträgt 5,5 Prozent der Kapitalertragsteuer.</li><li>Bis zum Sparerpauschbetrag von 1.000 Euro pro Person bleiben Kapitalerträge steuerfrei (justETF).</li><li>Mit einem Freistellungsauftrag bei deiner Bank zahlst du Steuern erst oberhalb des Freibetrags.</li></ul></div><h2>Der Steuerabzug an der Quelle</h2><p>Das Bundeszentralamt für Steuern beschreibt die Regel so: Kapitalerträge unterliegen in Deutschland einem Steuerabzug in Höhe von 25 Prozent zuzüglich Solidaritätszuschlag in Höhe von 5,5 Prozent der Kapitalertragsteuer (BZSt, abgerufen 24.10.2026). Dazu kann Kirchensteuer kommen. Deine Bank führt die Abgeltungsteuer bei der Gutschrift automatisch ans Finanzamt ab - du musst dafür nichts erklären.</p><h2>Strukturbeispiel: 100 Euro Dividende</h2><p>Strukturbeispiel mit fiktiven Werten: Du erhältst eine Dividende von 100 Euro und hast deinen Sparerpauschbetrag bereits ausgeschöpft. Der Abzug: 25 Euro Abgeltungsteuer plus 5,5 Prozent davon als Solidaritätszuschlag, das sind 1,375 Euro - zusammen 26,375 Euro. Gutschrift auf dem Konto: rund 73,63 Euro. Mit Kirchensteuer liegt der Abzug noch etwas höher. (Strukturbeispiel ohne Kirchensteuer.)</p><h2>Der Sparerpauschbetrag</h2><p>justETF beschreibt den Freibetrag so: Zusammengerechnet weniger als 1.000 Euro Einkünfte aus Kapitalanlagen im Jahr - dann fällt keine Abgeltungsteuer an; möglich macht das der Sparerpauschbetrag, der jeder Privatperson zur Verfügung steht (justETF Academy, abgerufen 24.10.2026). Nutzen lässt er sich über einen Freistellungsauftrag bei der Bank: Die Bank rechnet Erträge dann direkt gegen den Freibetrag. Für Zusammenveranlagte gilt der doppelte Betrag.</p><h2>Ausländische Dividenden</h2><p>Bei Dividenden aus dem Ausland kann zusätzlich Quellensteuer des Ursprungslandes abgezogen werden; je nach Land und Abkommen ist sie ganz oder teilweise auf die deutsche Steuer anrechenbar. Die Abwicklung übernimmt in der Regel die depotführende Bank. Details hängen vom Einzelfall ab - dazu kann eine Steuerberatung sinnvoll sein. Dieser Artikel ersetzt sie nicht.</p>",
+  "sources": [
+    {
+      "title": "Bundeszentralamt für Steuern: Kapitalertragsteuerentlastung (abgerufen 24.10.2026)",
+      "url": "https://www.bzst.de/DE/Unternehmen/Kapitalertraege/Kapitalertragsteuerentlastung/kapitalertragsteuerentlastung_node.html"
+    },
+    {
+      "title": "justETF Academy: ETFs und Steuern (abgerufen 24.10.2026)",
+      "url": "https://www.justetf.com/de/academy/etf-und-steuern.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viel Steuer zahle ich auf Dividenden?",
+      "a": "25 Prozent Abgeltungsteuer plus 5,5 Prozent Solidaritätszuschlag auf die Steuer, gegebenenfalls Kirchensteuer (BZSt). Der Abzug erfolgt automatisch durch die Bank."
+    },
+    {
+      "q": "Was ist der Sparerpauschbetrag?",
+      "a": "Ein Jahresfreibetrag von 1.000 Euro pro Person für Kapitalerträge (justETF). Bis zu diesem Betrag fällt keine Abgeltungsteuer an, wenn ein Freistellungsauftrag eingerichtet ist."
+    },
+    {
+      "q": "Muss ich Dividenden in der Steuererklärung angeben?",
+      "a": "In der Regel nicht: Die Bank führt die Abgeltungsteuer automatisch ab. Ausnahmen und Sonderfälle klärst du am besten mit einer Steuerberatung."
+    }
+  ]
+}
