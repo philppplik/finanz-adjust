@@ -1,0 +1,33 @@
+{
+  "slug": "bilanzkennzahlen-zusammenspiel",
+  "title": "Bilanzkennzahlen im Zusammenspiel: Vom Einzelwert zum Bild",
+  "description": "Wie Eigenkapitalquote, Margen und Cashflow zusammen ein Bild ergeben: die drei Prüfebenen Struktur, Ertrag und Liquidität mit Strukturbeispiel. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/bilanzkennzahlen-zusammenspiel.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Einzelne Kennzahlen täuschen - erst das Zusammenspiel aus Struktur, Ertrag und Liquidität trägt ein Bild.</li><li>Eigenkapitalquote und Verschuldungsgrad sind zwei Sichten auf dieselbe Finanzierung.</li><li>Gewinn (GuV), Substanz (Bilanz) und Geldfluss (Kapitalflussrechnung) ergänzen einander.</li><li>Ein strukturiertes Vorgehen: erst die Finanzierung, dann der Ertrag, dann das Geld.</li></ul></div><h2>Drei Ebenen, drei Fragen</h2><p>Jede Abschlussgröße beantwortet nur eine Frage. Die <a href=\"/artikel/bilanz-lesen/\">Bilanz</a> und ihre Kennzahlen klären die Struktur: Wie ist das Unternehmen finanziert? Die <a href=\"/artikel/guv-lesen/\">GuV</a> und die <a href=\"/artikel/gewinnmarge-und-ebitda/\">Margen</a> klären den Ertrag: Arbeitet das Geschäft profitabel? Die <a href=\"/artikel/kapitalflussrechnung-lesen/\">Kapitalflussrechnung</a> und der <a href=\"/artikel/free-cashflow-erklaert/\">Free Cashflow</a> klären die Liquidität: Bleibt Geld übrig? Wer nur eine Ebene betrachtet, übersieht die halbe Wirklichkeit.</p><h2>Wie die Kennzahlen zusammenhängen</h2><p>Einige Paare gehören fest zusammen: Die <a href=\"/artikel/verschuldung-eigenkapitalquote/\">Eigenkapitalquote und der Verschuldungsgrad</a> lesen dieselbe Passivseite von zwei Seiten - sinkt die eine, steigt der andere. Die EBIT-Marge erklärt, warum zwei Unternehmen mit gleichem <a href=\"/artikel/kgv-erklaert/\">KGV</a> unterschiedlich einzuordnen sind: Eine hohe Marge macht den Gewinn robuster. Und der Vergleich von Jahresüberschuss und operativem Cashflow zeigt, ob der berichtete Gewinn in Geld übergeht oder in Bilanzposten stecken bleibt.</p><p>Strukturbeispiel: Zwei Unternehmen weisen beide 10 Euro Gewinn je Aktie aus. Unternehmen A hat 50 Prozent Eigenkapital und einen operativen Cashflow über dem Gewinn. Unternehmen B hat 15 Prozent Eigenkapital und einen Cashflow deutlich unter dem Gewinn. Derselbe Gewinn - zwei sehr verschiedene Risikobilder.</p><h2>Ein Vorgehen in fünf Minuten</h2><p>Ein einfacher Durchgang: Erst die Eigenkapitalquote und ihre Entwicklung über fünf Jahre prüfen. Dann die Marge im Branchenvergleich einordnen. Anschließend Gewinn und operativen Cashflow nebeneinanderlegen. Zum Schluss die Bewertungskennzahl (KGV oder <a href=\"/artikel/kbv-und-substanzwert/\">KBV</a>) vor diesem Hintergrund lesen. Das ersetzt keine Analyse, verhindert aber die häufigsten Schnellschlüsse. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wikipedia: Eigenkapitalquote (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Eigenkapitalquote"
+    },
+    {
+      "title": "Wikipedia: Rentabilität (Umsatzrendite) (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Umsatzrendite"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Mit welcher Kennzahl soll ich anfangen?",
+      "a": "Mit der Struktur: Die Eigenkapitalquote und ihr Verlauf über mehrere Jahre geben den schnellsten Eindruck von der Solidität der Finanzierung."
+    },
+    {
+      "q": "Was ist wichtiger: Gewinn oder Cashflow?",
+      "a": "Beide beantworten verschiedene Fragen. Der Gewinn misst den buchhalterischen Erfolg, der Cashflow die Zahlungsfähigkeit. Auffällig wird es, wenn beide dauerhaft auseinanderlaufen."
+    },
+    {
+      "q": "Gibt es eine Kennzahl, die alles zusammenfasst?",
+      "a": "Nein. Zusammengesetzte Scores und Ratings bündeln zwar mehrere Werte, verlagern das Problem aber nur auf deren Auswahl und Gewichtung. Das Einzelbild bleibt nötig."
+    }
+  ]
+}

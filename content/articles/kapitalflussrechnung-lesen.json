@@ -1,0 +1,29 @@
+{
+  "slug": "kapitalflussrechnung-lesen",
+  "title": "Kapitalflussrechnung lesen: Wohin das Geld wirklich fließt",
+  "description": "Die Cashflow-Rechnung verstehen: die drei Bereiche, Pflichtregeln nach HGB und IFRS und warum Gewinn und Geld auseinanderlaufen können. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/kapitalflussrechnung-lesen.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Kapitalflussrechnung zeigt die Zahlungsströme einer Periode - Einzahlungen und Auszahlungen.</li><li>Sie gliedert sich in laufende Geschäftstätigkeit, Investitionstätigkeit und Finanzierungstätigkeit.</li><li>Kapitalmarktorientierte Kapitalgesellschaften müssen sie nach Paragraf 264 HGB aufstellen, bei IFRS schreibt IAS 7 sie vor.</li><li>Sie beantwortet die Frage, die Bilanz und GuV offenlassen: Woher kam das Geld, wohin ging es?</li></ul></div><h2>Wofür die Rechnung da ist</h2><p>Die Kapitalflussrechnung ist eine Liquiditätsrechnung, die die Zahlungsströme eines Unternehmens innerhalb einer Rechnungsperiode wiedergibt (Wikipedia-Artikel Kapitalflussrechnung, abgerufen 25.10.2026). Bilanz und Gewinn- und Verlustrechnung arbeiten mit Abgrenzungen und Abschreibungen - die Kapitalflussrechnung zählt nur, was tatsächlich an Geld geflossen ist.</p><h2>Die drei Bereiche</h2><p>Nach IAS 7 sind Mittelzu- und -abflüsse gesondert nach laufender Geschäftstätigkeit, Investitionstätigkeit und Finanzierungstätigkeit auszuweisen (Wikipedia, abgerufen 25.10.2026). Der operative Cashflow zeigt, was das Kerngeschäft an Geld erwirtschaftet. Die Investitionstätigkeit bündelt An- und Verkäufe von Anlagen und Beteiligungen. Die Finanzierungstätigkeit zeigt Kreditaufnahmen und -tilgungen, Kapitalerhöhungen und Ausschüttungen. In Deutschland müssen kapitalmarktorientierte Kapitalgesellschaften ihren Jahresabschluss nach Paragraf 264 Absatz 1 HGB um eine Kapitalflussrechnung erweitern; im Konzernabschluss ist sie nach Paragraf 297 Absatz 1 HGB Pflichtbestandteil.</p><p>Strukturbeispiel: Operativer Cashflow 120, Investitionen minus 80, Tilgung von Krediten minus 25: Der Finanzmittelfonds wächst um 15 - egal, wie hoch der buchhalterische Gewinn ist.</p><h2>Was du daraus abliest</h2><p>Die spannendste Zeile ist der operative Cashflow im Zeitverlauf: Trägt das Kerngeschäft Investitionen und Tilgung aus eigener Kraft? Die Differenz aus operativem Cashflow und Investitionen führt direkt zum <a href=\"/artikel/free-cashflow-erklaert/\">Free Cashflow</a>. Und wenn Gewinn und Geldfluss dauerhaft auseinanderlaufen, lohnt der Blick auf die <a href=\"/artikel/bilanztricks-warnzeichen/\">Warnzeichen im Abschluss</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wikipedia: Kapitalflussrechnung (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Kapitalflussrechnung"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum weichen Gewinn und operativer Cashflow ab?",
+      "a": "Weil der Gewinn zahlungsunwirksame Posten enthält (etwa Abschreibungen) und Geldflüsse wie den Aufbau von Vorräten oder Forderungen nicht erfasst. Beide Größen zu vergleichen ist Kern der Abschlussanalyse."
+    },
+    {
+      "q": "Ist ein negativer Investitions-Cashflow schlecht?",
+      "a": "Nicht per se. Er zeigt, dass investiert wird. Unbequem wird es erst, wenn der operative Cashflow die Investitionen dauerhaft nicht deckt."
+    },
+    {
+      "q": "Wo finde ich die Kapitalflussrechnung?",
+      "a": "Im Jahres- oder Konzernabschluss, also im Geschäftsbericht beziehungsweise in den veröffentlichten Quartalsberichten des Unternehmens."
+    }
+  ]
+}

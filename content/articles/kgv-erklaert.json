@@ -1,0 +1,29 @@
+{
+  "slug": "kgv-erklaert",
+  "title": "KGV erklärt: Was das Kurs-Gewinn-Verhältnis aussagt - und was nicht",
+  "description": "Das Kurs-Gewinn-Verhältnis verstehen: Formel, Strukturbeispiel, erwartetes versus vergangenes KGV und die Grenzen der bekanntesten Aktienkennzahl. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/kgv-erklaert.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das KGV setzt den Aktienkurs ins Verhältnis zum Gewinn je Aktie.</li><li>Ein KGV von 20 bedeutet: Der Kurs enthält den Jahresgewinn zwanzigmal.</li><li>Die Wiener Börse weist darauf hin: Der Gewinn wird im Voraus annäherungsweise berechnet und ist keine Dividende.</li><li>Bei Verlust oder Einmaleffekten verliert das KGV seine Aussage.</li></ul></div><h2>Definition und Formel</h2><p>Die Wiener Börse beschreibt das KGV in ihrem Börsenlexikon so: Es zeigt an, wie oft der Gewinn pro Aktie im Preis der Aktie enthalten ist, beziehungsweise wie oft dieser errechnete Gewinn ausgeschüttet werden müsste, um den aktuellen Kaufpreis zu refinanzieren (Börsenlexikon der Wiener Börse, abgerufen 25.10.2026). Die Formel dazu: KGV = Aktienkurs geteilt durch Gewinn je Aktie.</p><p>Strukturbeispiel: Eine Aktie kostet 100 Euro, das Unternehmen erzielt 5 Euro Gewinn je Aktie. Das KGV liegt bei 100 geteilt durch 5, also 20. Liest man es als Refinanzierungsdauer, entspricht das zwanzig Jahresgewinnen bei unverändertem Gewinn.</p><h2>Vergangenes und erwartetes KGV</h2><p>Es gibt zwei gebräuchliche Varianten: Das vergangene KGV rechnet mit dem zuletzt berichteten Jahresgewinn, das erwartete KGV mit einer Schätzung für die Zukunft. Beide haben ihren Preis: Die vergangene Zahl ist verlässlich dokumentiert, aber ein Rückspiegel. Die Schätzung ist aktueller, kann aber danebenliegen. Welche Basis ein Portal verwendet, steht meist in der Fußnote der Kennzahl.</p><h2>Grenzen des KGV</h2><p>Vier Situationen machen das KGV unbrauchbar oder irreführend: Das Unternehmen schreibt Verluste, dann wird die Kennzahl negativ oder nicht definierbar. Einmaleffekte wie ein Firmenverkauf verzerren den Gewinn eines einzelnen Jahres. Zyklische Unternehmen zeigen am Gewinnhoch ein besonders niedriges KGV, weil der Gewinn vorübergehend hoch ist. Und ohne <a href=\"/artikel/branchenvergleich-kennzahlen/\">Vergleich innerhalb der Branche</a> sagt die absolute Höhe wenig aus. Mehr dazu im Artikel über die <a href=\"/artikel/grenzen-von-kennzahlen/\">Grenzen von Kennzahlen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Kurs-Gewinn-Verhältnis (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/kurs-gewinn-verhaeltnis/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein niedriges KGV automatisch ein Kaufsignal?",
+      "a": "Nein. Ein niedriges KGV kann auf einen fairen Preis hindeuten, aber auch auf erwartete Gewinnrückgänge oder strukturelle Probleme. Es ist ein Prüfpunkt, kein Urteil."
+    },
+    {
+      "q": "Warum unterscheiden sich KGV-Angaben für dieselbe Aktie?",
+      "a": "Weil die Basis variiert: vergangener Gewinn, laufende Schätzung oder bereinigter Gewinn ohne Einmaleffekte ergeben unterschiedliche Werte."
+    },
+    {
+      "q": "Was ist das KGVW?",
+      "a": "Das Kurs-Gewinn-Wachstums-Verhältnis setzt das KGV ins Verhältnis zum erwarteten Gewinnwachstum. Es ist eine Erweiterung der gleichen Idee mit denselben Schätzrisiken."
+    }
+  ]
+}

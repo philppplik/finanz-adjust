@@ -1,0 +1,37 @@
+{
+  "slug": "verschuldung-eigenkapitalquote",
+  "title": "Verschuldung und Eigenkapitalquote: Wie solide ist die Finanzierung?",
+  "description": "Eigenkapitalquote und Verschuldungsgrad verstehen: Formeln, Strukturbeispiel und warum beide Kennzahlen zwei Sichten auf dieselbe Bilanz sind. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/verschuldung-eigenkapitalquote.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Eigenkapital sind die Mittel der Eigentümer plus einbehaltene Gewinne.</li><li>Die Eigenkapitalquote setzt Eigenkapital ins Verhältnis zur Bilanzsumme.</li><li>Der Verschuldungsgrad setzt Fremdkapital ins Verhältnis zum Eigenkapital.</li><li>Mit steigendem Verschuldungsgrad wächst das Kreditrisiko für Gläubiger.</li></ul></div><h2>Eigenkapital und seine Quote</h2><p>Eigenkapital sind nach dem Börsenlexikon der Wiener Börse Mittel, die von den Eigentümern eines Unternehmens zu dessen Finanzierung aufgebracht oder als erwirtschafteter Gewinn im Unternehmen belassen werden - Grundkapital plus Rücklagen plus Bilanzgewinn beziehungsweise -verlust (abgerufen 25.10.2026). Die Eigenkapitalquote setzt dieses Polster ins Verhältnis zum Gesamtkapital, also zur Bilanzsumme. Wikipedia beschreibt sie als bedeutendste vertikale Bilanzkennzahl, die Auskunft über die Kapitalstruktur gibt (abgerufen 25.10.2026).</p><p>Strukturbeispiel: Ein Unternehmen bilanziert 40 Millionen Euro Eigenkapital bei einer Bilanzsumme von 100 Millionen Euro. Die Eigenkapitalquote liegt bei 40 Prozent, der Fremdkapitalanteil bei 60 Prozent.</p><h2>Der Verschuldungsgrad</h2><p>Der Verschuldungsgrad kehrt die Perspektive um: Er setzt das Fremdkapital ins Verhältnis zum Eigenkapital und gibt damit Auskunft über die Finanzierungsstruktur (Wikipedia-Artikel Verschuldungsgrad, abgerufen 25.10.2026). Im Strukturbeispiel oben: 60 geteilt durch 40 ergibt einen Verschuldungsgrad von 150 Prozent. Wikipedia weist auf den Zusammenhang hin: Mit steigendem Verschuldungsgrad geht eine Erhöhung des Kreditrisikos für Gläubiger einher.</p><h2>Wie du beides einordnest</h2><p>Beide Kennzahlen beschreiben dieselbe Bilanz aus zwei Richtungen und steigen beziehungsweise fallen spiegelbildlich. Was als angemessen gilt, hängt von der Branche ab: Stabile Erträge ertragen mehr Fremdfinanzierung als schwankende. Wichtig ist der Trend über mehrere Jahre und der Vergleich mit ähnlichen Unternehmen. Zur Bewertungsseite passt das <a href=\"/artikel/kbv-und-substanzwert/\">KBV</a>, zum nächsten Schritt die <a href=\"/artikel/bilanz-lesen/\">Bilanz im Detail</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Eigenkapital (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-e/eigenkapital/"
+    },
+    {
+      "title": "Wikipedia: Eigenkapitalquote (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Eigenkapitalquote"
+    },
+    {
+      "title": "Wikipedia: Verschuldungsgrad (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Verschuldungsgrad"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es eine ideale Eigenkapitalquote?",
+      "a": "Nein. Was angemessen ist, hängt von Branche, Geschäftsmodell und Ertragsstabilität ab. Pauschale Richtwerte helfen höchstens als grobe Orientierung."
+    },
+    {
+      "q": "Kann der Verschuldungsgrad negativ werden?",
+      "a": "Rechnerisch ja, wenn das Eigenkapital durch Verluste unter null gefallen ist. Dann ist das Unternehmen bilanziell überschuldet und die Kennzahl nicht mehr sinnvoll interpretierbar."
+    },
+    {
+      "q": "Warum interessiert die Quote auch Anleihekäufer?",
+      "a": "Weil das Eigenkapital die Haftungsmasse für Gläubiger ist. Je dicker das Polster, desto eher werden Schulden auch in schlechten Zeiten bedient - siehe <a href=\"/glossar/bonitaet/\">Bonität im Glossar</a>."
+    }
+  ]
+}

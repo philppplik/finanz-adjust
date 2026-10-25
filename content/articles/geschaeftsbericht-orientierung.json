@@ -1,0 +1,29 @@
+{
+  "slug": "geschaeftsbericht-orientierung",
+  "title": "Geschäftsbericht lesen: Wo du was findest",
+  "description": "Orientierung im Geschäftsbericht: Bestandteile, sinnvolle Lesereihenfolge und welche Teile geprüft sind - und welche Selbstdarstellung bleiben. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/geschaeftsbericht-orientierung.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Geschäftsbericht bündelt Jahresabschluss (Bilanz, GuV, Anhang) und Lagebericht.</li><li>Nach Paragraf 264 HGB bilden Bilanz, GuV und Anhang eine Einheit.</li><li>Der Bestätigungsvermerk des Wirtschaftsprüfers sagt, ob und wie geprüft wurde.</li><li>Vorwort und Magazinteil sind Selbstdarstellung - die belastbaren Zahlen stehen weiter hinten.</li></ul></div><h2>Die Bestandteile</h2><p>Ein Geschäftsbericht hat die Aufgabe, über den Geschäftsverlauf des vergangenen Geschäftsjahres zu informieren und insbesondere den Jahresabschluss - bestehend aus Bilanz, Gewinn- und Verlustrechnung und Anhang - sowie den Lagebericht zu erläutern und zu ergänzen (Wikipedia-Artikel Geschäftsbericht, abgerufen 25.10.2026). Nach Paragraf 264 Absatz 1 HGB bilden Bilanz, GuV und Anhang im Jahresabschluss eine Einheit, der der Lagebericht gegenübersteht. Im Regelfall kommen der Bestätigungsvermerk des Abschlussprüfers, der Bericht des Aufsichtsrats und die Entsprechenserklärung zum Corporate Governance Kodex hinzu.</p><h2>Eine sinnvolle Lesereihenfolge</h2><p>Fünf Schritte haben sich bewährt: Erst den Bestätigungsvermerk lesen - er verrät, ob der Abschluss uneingeschränkt bestätigt wurde. Dann den Lagebericht für den Zusammenhang von Geschäftsverlauf, Risiken und Ausblick. Anschließend die drei Rechnungen: <a href=\"/artikel/bilanz-lesen/\">Bilanz</a>, <a href=\"/artikel/guv-lesen/\">GuV</a> und <a href=\"/artikel/kapitalflussrechnung-lesen/\">Kapitalflussrechnung</a>. Danach der Anhang mit den Bewertungsregeln und Detailangaben - hier steht, wie die Zahlen zustande kamen. Zum Schluss erst das Vorwort des Vorstands: lesenswert, aber bewusst optimistisch formuliert.</p><h2>Unterjährig und digital</h2><p>Börsennotierte Unternehmen berichten auch zwischen den Jahren: Im Prime Standard der Deutschen Börse verlangt Paragraf 63 Absatz 8 der Börsenordnung Quartalsberichte, die mindestens Bilanz, GuV und Kapitalflussrechnung enthalten (Wikipedia, abgerufen 25.10.2026). Für Abschlüsse in der EU gilt zudem das einheitliche elektronische Berichtsformat ESEF, das die Vergleichbarkeit erleichtern soll. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wikipedia: Geschäftsbericht (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Gesch%C3%A4ftsbericht"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo bekomme ich den Geschäftsbericht her?",
+      "a": "Auf der Investor-Relations-Seite des Unternehmens als PDF, bei vielen Konzernen zusätzlich als Online-Version. Pflichtveröffentlichungen stehen außerdem im Unternehmensregister und im Bundesanzeiger."
+    },
+    {
+      "q": "Was bedeutet ein eingeschränkter Bestätigungsvermerk?",
+      "a": "Der Abschlussprüfer bestätigt den Abschluss nur mit Vorbehalten oder versagt den Vermerk. Das ist ein starkes Warnsignal und gehört an den Anfang jeder Analyse."
+    },
+    {
+      "q": "Sind die schönen Magazinseiten am Anfang geprüft?",
+      "a": "Nein. Text und Bilder der Selbstdarstellung sind keine Prüfungsgegenstände. Geprüft sind Jahresabschluss und Lagebericht - erkennbar am Bestätigungsvermerk."
+    }
+  ]
+}

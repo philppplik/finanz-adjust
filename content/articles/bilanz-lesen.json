@@ -1,0 +1,33 @@
+{
+  "slug": "bilanz-lesen",
+  "title": "Bilanz lesen: Aufbau, Posten und die erste Orientierung",
+  "description": "Die Bilanz verstehen: Aktiva und Passiva nach Paragraf 266 HGB, was Anlage- und Umlaufvermögen unterscheidet und wie du dich schnell orientierst. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/bilanz-lesen.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Bilanz stellt Vermögen und Kapital eines Unternehmens zu einem Stichtag gegenüber.</li><li>Links (Aktiva): wofür das Geld verwendet wird. Rechts (Passiva): woher es stammt.</li><li>Paragraf 266 HGB schreibt die Gliederung vor: Anlagevermögen, Umlaufvermögen gegenüber Eigenkapital, Rückstellungen und Verbindlichkeiten.</li><li>Beide Seiten sind immer gleich hoch - das ist Systemlogik, kein Qualitätsmerkmal.</li></ul></div><h2>Die Grundidee</h2><p>Die Wiener Börse definiert die Bilanz als Gegenüberstellung aller Vermögenswerte und Schulden eines Unternehmens zu einem Bilanzstichtag - sie dient der Erfolgsermittlung und als Vermögensübersicht (Börsenlexikon, abgerufen 25.10.2026). Die Aktivseite zeigt, wofür die Mittel verwendet werden, die Passivseite, wie sie finanziert sind. Weil jeder Euro einen Ursprung und eine Verwendung hat, sind beide Summen stets gleich hoch.</p><h2>Der Aufbau nach Paragraf 266 HGB</h2><p>Das Handelsgesetzbuch schreibt die Reihenfolge vor. Auf der Aktivseite stehen das Anlagevermögen (immaterielle Vermögensgegenstände, Sachanlagen, Finanzanlagen), das Umlaufvermögen (Vorräte, Forderungen, Wertpapiere, Kassenbestand und Bankguthaben) sowie die Rechnungsabgrenzungsposten (Paragraf 266 Absatz 2 HGB, abgerufen 25.10.2026). Die Passivseite führt das Eigenkapital (gezeichnetes Kapital, Rücklagen, Gewinn- oder Verlustvortrag, Jahresüberschuss oder -fehlbetrag), danach die Rückstellungen und die Verbindlichkeiten (Paragraf 266 Absatz 3 HGB).</p><p>Strukturbeispiel: Stehen links 70 Millionen Euro Anlagevermögen und 30 Millionen Euro Umlaufvermögen, muss rechts die Summe aus Eigenkapital, Rückstellungen und Verbindlichkeiten ebenfalls 100 Millionen Euro betragen.</p><h2>Die ersten drei Blicke</h2><p>Für die Orientierung reichen drei Fragen: Wie hoch ist der Eigenkapitalanteil auf der Passivseite (dazu passt die <a href=\"/artikel/verschuldung-eigenkapitalquote/\">Eigenkapitalquote</a>)? Wie verteilt sich die Aktivseite zwischen langfristig gebundenem Anlagevermögen und kurzfristig verfügbarem Umlaufvermögen? Und wie haben sich Vorräte und Forderungen gegenüber dem Vorjahr entwickelt? Die Antworten liefern das Bild, die Details stehen im Anhang des Abschlusses. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Bilanz (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-b/bilanz/"
+    },
+    {
+      "title": "Paragraf 266 HGB: Gliederung der Bilanz (abgerufen 25.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/hgb/__266.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum sind beide Bilanzseiten immer gleich hoch?",
+      "a": "Weil jede Mittelverwendung (links) eine Mittelherkunft (rechts) hat. Die Bilanz ist ein geschlossenes Rechensystem - die Übereinstimmung der Summen ist eingebaute Logik."
+    },
+    {
+      "q": "Was sind stille Reserven?",
+      "a": "Werte, die in der Bilanz nicht oder nur teilweise sichtbar sind, etwa weil Grundstücke zu historischen Anschaffungskosten bilanziert werden. Sie machen den Buchwert vorsichtig, aber unvollständig."
+    },
+    {
+      "q": "Gilt die HGB-Gliederung für alle Unternehmen?",
+      "a": "Sie gilt für Kapitalgesellschaften nach HGB. Konzerne, die nach IFRS bilanzieren, nutzen eine andere Postenstruktur nach IAS 1 - die Grundlogik Aktiva gegen Passiva bleibt."
+    }
+  ]
+}

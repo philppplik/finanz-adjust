@@ -1,0 +1,33 @@
+{
+  "slug": "guv-lesen",
+  "title": "GuV lesen: Vom Umsatz zum Jahresüberschuss",
+  "description": "Die Gewinn- und Verlustrechnung verstehen: Aufbau nach Paragraf 275 HGB, Gesamtkosten- und Umsatzkostenverfahren und die wichtigsten Zeilen. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/guv-lesen.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die GuV stellt Erträge und Aufwendungen einer Periode gegenüber und ermittelt Gewinn oder Verlust.</li><li>Sie ist in Staffelform aufgebaut: Von den Umsatzerlösen bis zum Jahresüberschuss.</li><li>Paragraf 275 HGB erlaubt zwei Verfahren: Gesamtkosten- und Umsatzkostenverfahren.</li><li>Anders als die Bilanz zeigt die GuV einen Zeitraum, keinen Stichtag.</li></ul></div><h2>Was die GuV misst</h2><p>Die Wiener Börse beschreibt es so: In der Gewinn- und Verlustrechnung werden die Erträge und Aufwendungen eines Unternehmens für eine Rechnungsperiode gegenübergestellt und der unternehmerische Erfolg - Gewinn oder Verlust - ermittelt (Börsenlexikon, abgerufen 25.10.2026). Sie beantwortet damit die Frage, ob das Unternehmen in einem Jahr mehr eingenommen als aufgewendet hat.</p><h2>Der Aufbau nach Paragraf 275 HGB</h2><p>Die GuV ist in Staffelform aufzustellen, wahlweise nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren (Paragraf 275 Absatz 1 HGB, abgerufen 25.10.2026). Beim Gesamtkostenverfahren folgen auf die Umsatzerlöse und Bestandsveränderungen die Aufwandsarten: Materialaufwand, Personalaufwand, Abschreibungen und sonstige betriebliche Aufwendungen. Danach kommen das Finanzergebnis (Beteiligungs- und Zinserträge gegenüber Zinsaufwendungen), die Steuern vom Einkommen und vom Ertrag und schließlich der Jahresüberschuss oder Jahresfehlbetrag (Paragraf 275 Absatz 2 HGB).</p><p>Strukturbeispiel: Umsatzerlöse 100, Materialaufwand 40, Personalaufwand 30, Abschreibungen 10, sonstige betriebliche Aufwendungen 10 - bleibt ein Betriebsergebnis von 10. Nach Zinsen von 2 und Steuern von 2,4 steht ein Jahresüberschuss von 5,6.</p><h2>Die Zeilen, die zählen</h2><p>Drei Stellen genügen für den Einstieg: die Umsatzerlöse ganz oben (wächst das Geschäft?), die Abschreibungen in der Mitte (hier setzt <a href=\"/artikel/gewinnmarge-und-ebitda/\">EBITDA</a> an, das sie herausrechnet) und der Jahresüberschuss ganz unten, der in die Bilanz übergeht. Was mit dem Gewinn geschieht, regelt die Ausschüttungspolitik - dazu passt der Artikel über <a href=\"/artikel/dividendentermine-ex-tag/\">Dividendentermine</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Gewinn- und Verlustrechnung (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-g/gewinn-und-verlustrechnung/"
+    },
+    {
+      "title": "Paragraf 275 HGB: Gliederung der Gewinn- und Verlustrechnung (abgerufen 25.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/hgb/__275.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Gesamtkosten- und Umsatzkostenverfahren?",
+      "a": "Das Gesamtkostenverfahren sortiert die Aufwendungen nach Kostenarten (Material, Personal, Abschreibungen). Das Umsatzkostenverfahren ordnet sie den Funktionsbereichen zu (Herstellung, Vertrieb, Verwaltung) und zeigt das Bruttoergebnis vom Umsatz."
+    },
+    {
+      "q": "Ist der Jahresüberschuss das Geld auf dem Konto?",
+      "a": "Nein. Der Gewinn ist eine Rechengröße mit Abschreibungen und Abgrenzungen. Welche Zahlungsströme dahinterstehen, zeigt die <a href=\"/artikel/kapitalflussrechnung-lesen/\">Kapitalflussrechnung</a>."
+    },
+    {
+      "q": "Warum unterscheiden sich GuV-Strukturen zwischen Unternehmen?",
+      "a": "Weil Unternehmen das Verfahren wählen dürfen und IFRS-Bilanzierer eigene Vorgaben haben. Für den Vergleich hilft ein Blick auf die Zwischensummen statt auf die Zeilenbeschriftungen."
+    }
+  ]
+}

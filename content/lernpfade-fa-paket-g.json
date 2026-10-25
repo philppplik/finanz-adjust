@@ -1,0 +1,163 @@
+{
+  "paket": "G",
+  "welle": 3,
+  "stand": "2026-10-25",
+  "pfade": [
+    {
+      "id": "LP-FA-17",
+      "name": "Aktien analysieren: Kennzahlen im Überblick",
+      "frage": "KGV 12, KBV 0,9, Marge 18 Prozent - was sagen mir diese Zahlen wirklich über eine Aktie?",
+      "intro": "Kennzahlen versprechen schnelle Antworten und liefern oft falsche, wenn man sie isoliert liest. Dieser Pfad führt dich durch die fünf wichtigsten Aktienkennzahlen: KGV, KBV, Gewinnmarge, Eigenkapitalquote und Free Cashflow. Du lernst jede Formel an einem einfachen Strukturbeispiel, siehst, warum der Branchenvergleich den Maßstab setzt, und lernst die typischen Fallen kennen, in die Kennzahlen lese allein führen. Am Ende nutzt du Kennzahlen als Fragenkatalog statt als Urteil.",
+      "level": "Fortgeschritten",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2,5 Stunden",
+      "voraussetzungen": "Aktien-Grundlagen (Lernpfad 03); der Praktiker-Pfad zu Dividenden (Lernpfad 16) ist hilfreich, aber keine Pflicht.",
+      "lernziel": "Du liest KGV, KBV, Marge und Verschuldung und kennst die Grenzen jeder Kennzahl.",
+      "steps": [
+        {
+          "slug": "/artikel/kgv-erklaert/",
+          "warum": "Die bekannteste Bewertungskennzahl: Was das KGV aussagt - und was nicht."
+        },
+        {
+          "slug": "/artikel/kbv-und-substanzwert/",
+          "warum": "Der Blick auf die Substanz: Kurs im Verhältnis zum bilanziellen Eigenkapital."
+        },
+        {
+          "slug": "/artikel/gewinnmarge-und-ebitda/",
+          "warum": "Die Ertragskraft: Wie viel vom Umsatz als Gewinn und operatives Ergebnis bleibt."
+        },
+        {
+          "slug": "/artikel/verschuldung-eigenkapitalquote/",
+          "warum": "Die Finanzierungsseite: Wie solide das Unternehmen aufgestellt ist."
+        },
+        {
+          "slug": "/artikel/free-cashflow-erklaert/",
+          "warum": "Die Geldflussgröße: Was nach allen Investitionen wirklich frei wird."
+        },
+        {
+          "slug": "/artikel/branchenvergleich-kennzahlen/",
+          "warum": "Der Maßstab: Warum Kennzahlen nur innerhalb der Branche sprechen."
+        },
+        {
+          "slug": "/artikel/grenzen-von-kennzahlen/",
+          "warum": "Der Realitätscheck: Rückblick, Einmaleffekte und Wahlrechte."
+        },
+        {
+          "slug": "/artikel/aktien-profile-lesen/",
+          "warum": "Praxisschritt: Ein echtes Unternehmensprofil mit deinem neuen Blick lesen."
+        }
+      ],
+      "terms": [
+        "rendite",
+        "dividendenrendite",
+        "liquiditaet"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Zwei Unternehmen derselben Branche notieren bei einem KGV von 10 und 25. Ein Bekannter sagt: Die mit 10 ist doppelt so günstig. Was prüfst du, bevor du zustimmst?",
+            "loesung": "Ob die Basis vergleichbar ist: vergangener oder erwarteter Gewinn, Einmaleffekte im berichteten Gewinn und die Gewinnqualität (Cashflow-Deckung). Erst wenn beide KGVs auf derselben Basis stehen und kein Einmaleffekt verzerrt, ist der Unterschied eine echte Aussage - und selbst dann kann das Marktumfeld die höhere Bewertung erklären."
+          },
+          {
+            "frage": "Ein Softwareunternehmen zeigt ein KBV von 12, ein Immobilienkonzern eines von 0,8. Was sagt dir der direkte Vergleich?",
+            "loesung": "Fast nichts: Die Wiener Börse weist darauf hin, dass das KBV stark nach Branche und Geschäftsmodell variiert. Ein Softwarehaus hat wenig Bilanzsubstanz, ein Immobilienkonzern fast nur Substanz. Sinnvoll ist nur der Vergleich innerhalb derselben Branche - und selbst dort in Relation zur Profitabilität."
+          },
+          {
+            "frage": "Ein Konzern weist 2 Milliarden Euro Gewinn aus, aber nur 0,5 Milliarden operativen Cashflow - im dritten Jahr in Folge. Welche Frage stellt sich, und wo suchst du die Antwort?",
+            "loesung": "Die Frage: Warum wird der berichtete Gewinn nicht in Geld übersetzt? Die Antwort steckt in der Kapitalflussrechnung (was bindet Geld: Vorräte, Forderungen?) und im Anhang des Abschlusses (welche Bewertungsannahmen stecken im Gewinn?). Der anhaltende Abstand ist ein klassisches Prüfsignal."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was bedeutet ein KGV von 20?",
+            "loesung": "Der Aktienkurs enthält den Gewinn je Aktie zwanzigmal - anders gesagt: Bei unverändertem Gewinn bräuchte es zwanzig Jahresgewinne, um den Kaufpreis zu refinanzieren (Definition Börsenlexikon der Wiener Börse)."
+          },
+          {
+            "frage": "Warum ist der Free Cashflow eine härtere Größe als der Gewinn?",
+            "loesung": "Weil er auf tatsächlichen Zahlungsströmen beruht und die laufenden Investitionen bereits abgezogen sind. Er zeigt, was für Dividenden, Tilgung oder Rücklagen wirklich verfügbar ist (Wikipedia-Artikel Cashflow)."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-18",
+          "warum": "Die Kennzahlen kannst du jetzt lesen - als Nächstes lernst du die Dokumente, aus denen sie stammen."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-18",
+      "name": "Geschäftsbericht, Bilanz und GuV lesen",
+      "frage": "Dreihundert Seiten Geschäftsbericht - wo fange ich an, und woran erkenne ich Warnzeichen?",
+      "intro": "Der Geschäftsbericht ist die Primärquelle, aus der alle Kennzahlen und Schlagzeilen gespeist werden. Dieser Pfad macht dich mit seinen drei Rechenwerken vertraut: der Bilanz als Stichtagsfoto, der Gewinn- und Verlustrechnung als Periodenrechnung und der Kapitalflussrechnung als Geldfluss-Protokoll. Du bekommst eine Lesereihenfolge an die Hand, lernst die Kennzahlen im Zusammenspiel zu nutzen und trainierst den Blick für Auffälligkeiten, die eine zweite Frage verdienen.",
+      "level": "Fortgeschritten",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2,5 Stunden",
+      "voraussetzungen": "Lernpfad 17 (Kennzahlen) oder ein grundlegendes Verständnis von Gewinn und Eigenkapital.",
+      "lernziel": "Du liest Bilanz, GuV und Cashflow-Rechnung eines Unternehmens und erkennst Warnzeichen.",
+      "steps": [
+        {
+          "slug": "/artikel/bilanz-lesen/",
+          "warum": "Das Stichtagsfoto: Aufbau nach Paragraf 266 HGB und die ersten drei Blicke."
+        },
+        {
+          "slug": "/artikel/guv-lesen/",
+          "warum": "Die Periodenrechnung: Von den Umsatzerlösen bis zum Jahresüberschuss."
+        },
+        {
+          "slug": "/artikel/kapitalflussrechnung-lesen/",
+          "warum": "Das Geldfluss-Protokoll: drei Bereiche und ihre Aussagen."
+        },
+        {
+          "slug": "/artikel/geschaeftsbericht-orientierung/",
+          "warum": "Die Landkarte: Bestandteile, Lesereihenfolge und was geprüft ist."
+        },
+        {
+          "slug": "/artikel/bilanzkennzahlen-zusammenspiel/",
+          "warum": "Die Synthese: Struktur, Ertrag und Liquidität zu einem Bild verbinden."
+        },
+        {
+          "slug": "/artikel/bilanztricks-warnzeichen/",
+          "warum": "Der kritische Blick: Auffälligkeiten erkennen und richtig einordnen."
+        }
+      ],
+      "terms": [
+        "bonitaet",
+        "anleihe",
+        "rendite"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Du öffnest einen Geschäftsbericht mit 280 Seiten. In welcher Reihenfolge gehst du vor, wenn du nur eine Stunde hast?",
+            "loesung": "Erst der Bestätigungsvermerk: Er sagt, ob der Abschluss uneingeschränkt geprüft wurde. Dann der Lagebericht für Geschäftsverlauf und Risiken. Anschließend die drei Rechnungen (Bilanz, GuV, Kapitalflussrechnung) mit Fokus auf die Entwicklung gegenüber dem Vorjahr. Das Vorwort des Vorstands kommt zuletzt - es ist Selbstdarstellung, nicht Prüfungsgegenstand."
+          },
+          {
+            "frage": "Ein Unternehmen meldet Rekordgewinn, doch der operative Cashflow ist negativ und die Forderungen aus Lieferungen und Leistungen haben sich verdoppelt. Wie ordnest du das ein?",
+            "loesung": "Das ist eine klassische Prüfsituation: Der Gewinn wird buchhalterisch erzielt, aber nicht in Geld übersetzt, und unbezahlte Kundenrechnungen wachsen schnell. Das muss keine Manipulation sein - etwa bei einer Gesetzesänderung oder einem großen Projektgeschäft -, aber Lagebericht und Anhang müssen die Abweichung erklären. Bleibt die Erklärung aus, ist das ein deutliches Warnzeichen."
+          },
+          {
+            "frage": "In der Bilanz stehen 60 Prozent Fremdkapital, und der Vorstand lobt im Vorwort die 'stabile Finanzierung'. Wo prüfst du die Aussage nach?",
+            "loesung": "Auf der Passivseite der Bilanz selbst: Eigenkapitalquote und Verschuldungsgrad lesen (40 Prozent Eigenkapital, Verschuldungsgrad 150 Prozent), dann den Trend über fünf Jahre und den Branchenvergleich heranziehen. Erst danach zeigt sich, ob 'stabil' für diese Branche und Ertragslage zutrifft."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was ist der Unterschied zwischen Bilanz und GuV?",
+            "loesung": "Die Bilanz ist ein Stichtagsfoto: Sie stellt Vermögen und Kapital zu einem Termin gegenüber (Börsenlexikon der Wiener Börse). Die GuV ist eine Periodenrechnung: Sie stellt Erträge und Aufwendungen eines Zeitraums gegenüber und ermittelt Gewinn oder Verlust."
+          },
+          {
+            "frage": "In welche drei Bereiche ist die Kapitalflussrechnung gegliedert?",
+            "loesung": "Laufende Geschäftstätigkeit, Investitionstätigkeit und Finanzierungstätigkeit - so schreibt es IAS 7 vor; in Deutschland müssen kapitalmarktorientierte Kapitalgesellschaften die Rechnung nach Paragraf 264 Absatz 1 HGB aufstellen."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-19",
+          "warum": "Wenn du Abschlüsse lesen kannst, ist der nächste Schritt ihre praktische Bühne: die Berichtssaison."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "kbv-und-substanzwert",
+  "title": "KBV und Substanzwert: Der Blick auf das Eigenkapital je Aktie",
+  "description": "Kurs-Buchwert-Verhältnis verstehen: Buchwert je Aktie, Strukturbeispiel, warum das KBV je nach Branche stark variiert und was es über den Substanzwert aussagt. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/kbv-und-substanzwert.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das KBV setzt den Kurs ins Verhältnis zum Buchwert je Aktie.</li><li>Der Buchwert je Aktie ist das Eigenkapital geteilt durch die Zahl der Aktien.</li><li>Die Wiener Börse betont: Das KBV variiert stark nach Branche und Geschäftsmodell.</li><li>Ein KBV unter 1 heißt nur, dass der Kurs unter dem bilanziellen Eigenkapital liegt - nicht automatisch, dass die Aktie günstig ist.</li></ul></div><h2>Was der Buchwert ist</h2><p>Der Buchwert je Aktie entspricht laut Börsenlexikon der Wiener Börse dem Eigenkapital dividiert durch die Anzahl der Aktien (abgerufen 25.10.2026). Er ist eine Bilanzgröße: Was nach Abzug aller Schulden rechnerisch den Eigentümern gehört, verteilt auf jede einzelne Aktie.</p><p>Strukturbeispiel: Ein Unternehmen weist 500 Millionen Euro Eigenkapital aus und hat 10 Millionen Aktien im Umlauf. Der Buchwert je Aktie liegt bei 50 Euro. Notiert die Aktie bei 40 Euro, beträgt das KBV 0,8.</p><h2>Was das KBV zeigt</h2><p>Die Wiener Börse beschreibt das Kurs-Buchwert-Verhältnis so: Es zeigt an, wie oft der Buchwert je Aktie im Preis der Aktie enthalten ist, und sie ordnet es als typische Kennzahl für wertorientierte Investoren ein (abgerufen 25.10.2026). Ein KBV von 1 bedeutet, Kurs und Buchwert decken sich. Liegt der Kurs darunter, zahlt der Käufer rechnerisch weniger als das bilanzielle Nettovermögen je Anteil.</p><h2>Warum Vorsicht geboten ist</h2><p>Drei Gründe sprechen gegen eine vorschnelle Lesart: Erstens variiert das KBV nach Angabe der Wiener Börse stark nach Branchen und Geschäftsmodell - ein Softwarehaus hat kaum Sachanlagen in der Bilanz, ein Immobilienkonzern sehr viele. Zweitens kann die Bilanz stille Reserven oder stille Lasten enthalten, die der Buchwert nicht zeigt. Drittens sollte das KBV nach Empfehlung der Wiener Börse in Relation zur Profitabilität des Unternehmens betrachtet werden. Ergänzend lesen: <a href=\"/artikel/gewinnmarge-und-ebitda/\">Gewinnmarge und EBITDA</a> sowie die <a href=\"/artikel/grenzen-von-kennzahlen/\">Grenzen von Kennzahlen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Kurs-Buchwert-Verhältnis (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/kurs-buchwert-verhaeltnis/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Buchwert je Aktie (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-b/buchwert-je-aktie/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein KBV unter 1 ein Schnäppchen?",
+      "a": "Nicht zwingend. Der Markt kann eintragen, dass Vermögenswerte überbewertet oder künftige Verluste zu erwarten sind. Der Buchwert ist eine Bilanzgröße, kein Marktpreis der Substanz."
+    },
+    {
+      "q": "Für welche Branchen eignet sich das KBV besonders?",
+      "a": "Für substanzreiche Geschäftsmodelle wie Banken, Versicherungen oder Immobilien, bei denen die Bilanz das Geschäft gut abbildet. Bei Konzernen mit vielen immateriellen Werten sagt es weniger aus."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Buchwert und Substanzwert?",
+      "a": "Der Buchwert stammt direkt aus der Bilanz. Der Substanzwert versucht, Vermögenswerte zu Marktwerten neu zu bewerten, und ist damit eine eigene Schätzung."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "free-cashflow-erklaert",
+  "title": "Free Cashflow erklärt: Das Geld, das wirklich frei ist",
+  "description": "Free Cashflow verstehen: Unterschied zwischen Gewinn und Geldfluss, Strukturbeispiel und warum der freie Geldstrom Dividenden und Tilgung trägt. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/free-cashflow-erklaert.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Cashflow ist der Nettozufluss an Geld in einem Zeitraum.</li><li>Der Free Cashflow ist der frei verfügbare Teil nach den laufenden Investitionen.</li><li>Aus ihm werden rechnerisch Dividenden und Schuldentilgung bezahlt.</li><li>Gewinn ist eine Rechengröße - Cashflow zeigt, welches Geld tatsächlich bewegt wurde.</li></ul></div><h2>Vom Gewinn zum Geldfluss</h2><p>Die Wiener Börse definiert den Cashflow als Nettozufluss an Geld, der einem Unternehmen in einem bestimmten Zeitraum zur Verfügung steht (Börsenlexikon, abgerufen 25.10.2026). Der Gewinn allein sagt das nicht: Er enthält Abschreibungen, die kein Geld kosten, und lässt Geldabflüsse wie den Aufbau von Vorräten oder wachsende Kundenforderungen außen vor.</p><h2>Was der Free Cashflow abzieht</h2><p>Der Free Cashflow geht einen Schritt weiter: Vom Netto-Cashflow werden die Investitionen in die laufende Geschäftstätigkeit abgezogen, Desinvestitionen kommen hinzu. Wikipedia beschreibt ihn als frei verfügbaren Cashflow, der verdeutlicht, wie viel Geld für Dividenden der Anteilseigner oder für die Tilgung der Fremdfinanzierung verbleibt (Artikel Cashflow, abgerufen 25.10.2026).</p><p>Strukturbeispiel: Ein Unternehmen erwirtschaftet einen operativen Geldzufluss von 120 Millionen Euro und investiert 80 Millionen Euro in Maschinen und Anlagen. Der Free Cashflow liegt bei 40 Millionen Euro. Nur dieser Betrag steht rechnerisch für Ausschüttungen, Tilgung oder Rücklagenbildung zur Verfügung.</p><h2>Wie du die Zahl einordnest</h2><p>Ein dauerhaft positiver Free Cashflow zeigt, dass das Geschäft mehr Geld erwirtschaftet, als es bindet. Ein negativer Wert ist nicht automatisch schlecht: Wer gerade eine Fabrik baut, investiert bewusst mehr. Entscheidend sind die Entwicklung über mehrere Jahre und die Frage, ob die Investitionen später Erträge bringen. Die Herkunft der Zahlen erklärt der Artikel zur <a href=\"/artikel/kapitalflussrechnung-lesen/\">Kapitalflussrechnung</a>, die Ausschüttungsseite behandelt der Lernpfad zu <a href=\"/lernpfade/lp-fa-16-dividenden-ausschuettungen-verstehen/\">Dividenden und Ausschüttungen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Cashflow (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/cashflow/"
+    },
+    {
+      "title": "Wikipedia: Cashflow (Free Cashflow) (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Cashflow"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein profitables Unternehmen einen negativen Free Cashflow haben?",
+      "a": "Ja. Hohe Investitionen, wachsende Vorräte oder ausstehende Kundenzahlungen binden Geld, das im Gewinn nicht als Abfluss sichtbar ist."
+    },
+    {
+      "q": "Warum gilt der Free Cashflow als schwerer zu schönen?",
+      "a": "Weil er auf tatsächlichen Zahlungsströmen beruht und nicht auf bilanzpolitischen Wahlrechten. Auch er ist aber nicht fälschungssicher - er ist ein Baustein, kein Alarmsystem."
+    },
+    {
+      "q": "Wo finde ich den Free Cashflow?",
+      "a": "Viele Unternehmen weisen ihn im Geschäftsbericht direkt aus. Sonst lässt er sich aus der Kapitalflussrechnung ableiten: operativer Cashflow minus Investitionsauszahlungen."
+    }
+  ]
+}

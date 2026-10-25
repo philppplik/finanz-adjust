@@ -1,0 +1,33 @@
+{
+  "slug": "gewinnmarge-und-ebitda",
+  "title": "Gewinnmarge und EBITDA: Wie viel bleibt vom Umsatz?",
+  "description": "Gewinnmarge, Umsatzrendite und EBITDA verstehen: Formeln, Strukturbeispiel und warum Margen nur innerhalb einer Branche vergleichbar sind. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/gewinnmarge-und-ebitda.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Netto-Umsatzrendite setzt den Gewinn ins Verhältnis zum Umsatz.</li><li>Die EBIT-Marge misst die operative Rentabilität vor Zinsen und Steuern.</li><li>EBITDA ist das Ergebnis vor Zinsen, Steuern und Abschreibungen.</li><li>Margen sind nur innerhalb derselben Branche sinnvoll vergleichbar.</li></ul></div><h2>Die Gewinnmarge</h2><p>Die Gewinnmarge - fachlich Umsatzrendite - beantwortet eine einfache Frage: Wie viel Gewinn bleibt von jedem Euro Umsatz? Die Netto-Umsatzrendite rechnet Gewinn geteilt durch Umsatz, die Brutto- oder Vorsteuermarge setzt den Gewinn vor Steuern an, und die EBIT-Marge nutzt das Ergebnis vor Zinsen und Steuern als Maß für die operative Rentabilität (Wikipedia-Artikel Rentabilität, abgerufen 25.10.2026).</p><p>Strukturbeispiel: Ein Händler erzielt 1.000.000 Euro Umsatz und 60.000 Euro Gewinn nach Steuern. Die Nettomarge liegt bei 6 Prozent. Erzielt ein Softwareanbieter mit demselben Umsatz 250.000 Euro Gewinn, liegt seine Marge bei 25 Prozent - ein struktureller Unterschied der Geschäftsmodelle, kein Qualitätsurteil über den Händler.</p><h2>Was EBITDA ist</h2><p>Die Wiener Börse definiert EBITDA als Ergebnis vor Zinsen, Steuern und Abschreibungen von Sachanlagen und immateriellen Vermögensgegenständen (Börsenlexikon, abgerufen 25.10.2026). Die Kennzahl blendet Finanzierung, Steuerumfeld und Abschreibungspolitik aus und rückt das operative Ergebnis in den Mittelpunkt.</p><h2>Einordnung und Grenzen</h2><p>EBITDA ist keine Geldflussgröße: Investitionen, der Aufbau von Vorräten und Forderungen bleiben unberücksichtigt. Wer wissen will, welches Geld tatsächlich frei wird, schaut auf den <a href=\"/artikel/free-cashflow-erklaert/\">Free Cashflow</a>. Und auch hier gilt: Ohne <a href=\"/artikel/branchenvergleich-kennzahlen/\">Branchenvergleich</a> ist eine Marge schwer zu beurteilen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wikipedia: Rentabilität (Umsatzrendite, EBIT-Marge) (abgerufen 25.10.2026)",
+      "url": "https://de.wikipedia.org/wiki/Umsatzrendite"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: EBITDA (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-e/earnings-before-interest-taxes-depreciation-and-amortization/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum nutzen Analysten EBITDA so gern?",
+      "a": "Weil die Kennzahl Unternehmen mit unterschiedlicher Finanzierung, Steuersituation und Abschreibungspolitik vergleichbarer macht. Der Preis dafür: Investitionsbedarf und Kapitalstruktur fallen aus dem Blick."
+    },
+    {
+      "q": "Kann eine Marge negativ sein?",
+      "a": "Ja, wenn das Unternehmen Verlust schreibt. Dann zeigt die negative Marge, wie viel von jedem Umsatz-Euro verloren geht."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen EBIT und EBITDA?",
+      "a": "EBIT ist das Ergebnis vor Zinsen und Steuern. EBITDA zieht zusätzlich die Abschreibungen heraus und liegt daher immer mindestens so hoch wie das EBIT."
+    }
+  ]
+}

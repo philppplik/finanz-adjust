@@ -1,0 +1,29 @@
+{
+  "slug": "branchenvergleich-kennzahlen",
+  "title": "Kennzahlen im Branchenvergleich: Nur Gleiches mit Gleichem vergleichen",
+  "description": "Warum KGV, KBV und Margen nur innerhalb einer Branche aussagekräftig sind: Vergleichsregeln, Strukturbeispiel und typische Fehler. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/branchenvergleich-kennzahlen.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kennzahlen sind relatives Maß: Sie brauchen immer eine Vergleichsgruppe.</li><li>Die Wiener Börse weist darauf hin, dass das KBV stark nach Branche und Geschäftsmodell variiert.</li><li>Vergleiche nur Unternehmen mit ähnlichem Geschäftsmodell, gleicher Rechnungslegung und gleicher Periode.</li><li>Eine Kennzahl ohne Kontext erzeugt schnell falsche Schlüsse.</li></ul></div><h2>Warum die Branche den Maßstab setzt</h2><p>Ein Supermarkt arbeitet mit wenigen Prozent Marge und hohem Warenumsatz, ein Softwareanbieter mit hohen Margen und wenig Anlagevermögen. Wer beide an derselben Kennzahl misst, vergleicht Strukturen, keine Qualität. Die Wiener Börse formuliert es für das KBV so: Die Kennzahl variiert stark nach Branchen und Geschäftsmodell und sollte in Relation zur Profitabilität eines Unternehmens betrachtet werden (Börsenlexikon, abgerufen 25.10.2026). Der gleiche Hinweis gilt für <a href=\"/artikel/kgv-erklaert/\">KGV</a> und <a href=\"/artikel/gewinnmarge-und-ebitda/\">Gewinnmarge</a>.</p><h2>Drei Vergleichsregeln</h2><p>Erstens: gleiche Branche und ähnliches Geschäftsmodell. Ein regionaler Versorger ist kein Maßstab für einen Zulieferer. Zweitens: gleiche Rechnungslegung. Deutsche Unternehmen berichten teils nach HGB, teils nach IFRS - Bewertungsregeln und Posten unterscheiden sich. Drittens: gleiche Periode. Konjunktur, Zinsniveau und Sondereffekte verändern Kennzahlen von Jahr zu Jahr.</p><p>Strukturbeispiel: Zwei Unternehmen zeigen ein KGV von 15. Das eine ist ein Versorger mit stabilen Erträgen, das andere ein Zulieferer am Konjunkturhoch. Dieselbe Zahl, zwei völlig verschiedene Ausgangslagen - genau deshalb reicht die Kennzahl allein nicht.</p><h2>Praktisches Vorgehen</h2><p>Lege eine kleine Vergleichsgruppe aus drei bis fünf ähnlichen Unternehmen fest und ziehe für jede Kennzahl die Spanne der Gruppe heran. Liegt dein Prüfwert weit daneben, ist das kein Urteil, sondern eine Frage: Was erklärt die Abweichung? Oft steckt die Antwort im Geschäftsmodell - und manchmal in einer <a href=\"/artikel/grenzen-von-kennzahlen/\">Grenze der Kennzahl</a> selbst. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Kurs-Buchwert-Verhältnis (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/kurs-buchwert-verhaeltnis/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher bekomme ich Kennzahlen für eine Vergleichsgruppe?",
+      "a": "Aus den Geschäftsberichten der Unternehmen, aus Finanzportalen mit Kennzahlenübersichten oder aus den Halbjahres- und Quartalsberichten. Wichtig ist, dass alle Werte auf derselben Berechnungsbasis stehen."
+    },
+    {
+      "q": "Kann ich einen DAX-Konzern mit einem US-Unternehmen vergleichen?",
+      "a": "Grundsätzlich ja, aber mit Vorsicht: Rechnungslegung (HGB/IFRS gegenüber US-GAAP), Währung und Marktbedingungen unterscheiden sich. Die Unterschiede gehören in die Einordnung."
+    },
+    {
+      "q": "Was mache ich, wenn es keine vergleichbaren Unternehmen gibt?",
+      "a": "Dann hilft der Blick auf die eigene Vergangenheit des Unternehmens: Wie haben sich die Kennzahlen über fünf bis zehn Jahre entwickelt? Der Zeitreihenvergleich ersetzt den Branchenvergleich teilweise."
+    }
+  ]
+}

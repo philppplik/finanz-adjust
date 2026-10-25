@@ -1,0 +1,29 @@
+{
+  "slug": "grenzen-von-kennzahlen",
+  "title": "Die Grenzen von Kennzahlen: Was KGV und Co. nicht leisten",
+  "description": "Warum Aktienkennzahlen keine Antworten liefern, sondern Fragen: Rückblick-Problem, Einmaleffekte, Wahlrechte und der richtige Umgang. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T11:00:00+01:00",
+  "image": "/images/grenzen-von-kennzahlen.jpg",
+  "body": "<p><small>Stand: 25.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kennzahlen blicken zurück: Sie rechnen mit berichteten oder geschätzten Daten.</li><li>Einmaleffekte und Bilanzierungswahlrechte verzerren einzelne Jahre.</li><li>Negative oder winzige Basiswerte machen Verhältniszahlen unbrauchbar.</li><li>Kennzahlen liefern Prüffragen - die Antworten stecken im Geschäftsmodell und im Bericht.</li></ul></div><h2>Das Rückblick-Problem</h2><p>Fast jede Kennzahl teilt eine Vergangenheitsgröße durch eine andere. Das KGV nutzt den letzten oder einen geschätzten Gewinn, die Eigenkapitalquote den letzten Bilanzstichtag. Ob die Zukunft so weitergeht, sagt keine davon. Die Wiener Börse weist beim KGV ausdrücklich darauf hin, dass der Gewinn im Voraus lediglich annäherungsweise berechnet wird (Börsenlexikon, abgerufen 25.10.2026) - Schätzungen können sich als falsch erweisen.</p><h2>Verzerrungen in der Basis</h2><p>Drei typische Störungen: Einmaleffekte wie der Verkauf einer Sparte blähen den Gewinn eines Jahres auf und drücken das KGV künstlich. Bilanzierungswahlrechte - etwa bei Abschreibungen oder Rückstellungen - machen Unternehmen schwerer vergleichbar, selbst innerhalb einer Branche. Und bei sehr kleinen oder negativen Nennern explodieren Verhältniszahlen oder werden sinnlos: Bei einem Gewinn nahe null schießt das KGV gegen unendlich.</p><p>Strukturbeispiel: Ein Konzern verkauft eine Beteiligung und weist deshalb 8 statt 4 Euro Gewinn je Aktie aus. Bei einem Kurs von 100 Euro fällt das KGV scheinbar von 25 auf 12,5 - ohne dass sich am operativen Geschäft irgendetwas verbessert hätte.</p><h2>Der richtige Umgang</h2><p>Nutze Kennzahlen als Filter und Fragenkatalog, nicht als Urteil: Erst der Blick in <a href=\"/artikel/bilanz-lesen/\">Bilanz</a>, <a href=\"/artikel/guv-lesen/\">GuV</a> und <a href=\"/artikel/kapitalflussrechnung-lesen/\">Kapitalflussrechnung</a> zeigt, ob eine auffällige Zahl Substanz hat. Der Lernpfad zu den <a href=\"/lernpfade/lp-fa-18-geschaeftsbericht-bilanz-und-guv-lesen/\">Abschlüssen</a> führt genau dorthin. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Kurs-Gewinn-Verhältnis (abgerufen 25.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/kurs-gewinn-verhaeltnis/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Kennzahlen brauche ich mindestens?",
+      "a": "Es gibt keine Pflichtzahl. Praxisnah ist ein kleines Set: eine Bewertungskennzahl (KGV oder KBV), eine Ertragskennzahl (Marge), eine Strukturkennzahl (Eigenkapitalquote) und der Free Cashflow als Geldflussgröße."
+    },
+    {
+      "q": "Sind bereinigte Kennzahlen verlässlicher?",
+      "a": "Sie blenden Einmaleffekte aus und sind damit oft aussagekräftiger. Aber das Unternehmen entscheidet selbst, was es als einmalig ausweist - die Bereinigung ist ebenfalls ein Ermessensspielraum."
+    },
+    {
+      "q": "Ersetzen Kennzahlen das Lesen des Geschäftsberichts?",
+      "a": "Nein. Sie zeigen, wo sich das Nachschauen lohnt. Die Begründungen und Details stehen im Lagebericht und im Anhang."
+    }
+  ]
+}
