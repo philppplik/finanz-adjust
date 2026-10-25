@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-25",
+  "title": "Krypto-Ecke: Bitcoin und Ethereum am Sonntagmorgen",
+  "description": "Bitcoin bei rund 80.480 USD (-0,3 % in 24 h), Ethereum bei rund 2.343 USD (-1,4 %). CoinGecko-Stand 25.10.2026, 07:50 Uhr MEZ.",
+  "section": "krypto",
+  "date": "2026-10-25T08:00:00+01:00",
+  "image": "/images/krypto-ecke-2026-10-25.jpg",
+  "body": "<p><small>Stand: 25.10.2026, früher Morgen</small></p><p>Ruhiger Sonntagmorgen am Kryptomarkt: Die Werte unten sind eine Momentaufnahme der CoinGecko-API vom 25. Oktober 2026, 07:50 Uhr MEZ. Kryptokurse handeln rund um die Uhr - die Zahlen sind nur mit diesem Zeitstempel zu lesen.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bitcoin: 80.478 US-Dollar beziehungsweise 71.829 Euro, minus 0,3 Prozent in 24 Stunden (CoinGecko, 25.10., 07:50 Uhr MEZ).</li><li>Ethereum: 2.343 US-Dollar beziehungsweise 2.091 Euro, minus 1,4 Prozent in 24 Stunden (gleiche Momentaufnahme).</li><li>Die Woche bringt Fed- und EZB-Entscheidungen - Termine im Wochenausblick.</li></ul></div><h2>Bitcoin (BTC)</h2><p>Bitcoin notierte zum Abfragezeitpunkt bei 80.478 US-Dollar (71.829 Euro), ein 24-Stunden-Minus von 0,3 Prozent. Gegenüber dem gestrigen Snapshot (80.683 US-Dollar) ist das nahezu unverändert - ein ruhiges Wochenende nach einer Woche mit leichtem Minus an den Aktienmärkten.</p><h2>Ethereum (ETH)</h2><p>Ethereum stand bei 2.343 US-Dollar (2.091 Euro), minus 1,4 Prozent auf 24-Stunden-Sicht.</p><h2>Einordnung</h2><p>Beide Werte bewegen sich am Wochenende in engen Bandbreiten. In der kommenden Woche könnten die Zinsentscheidungen von Fed und EZB auch den Kryptomarkt indirekt berühren - Termine und Hintergrund im <a href=\"/artikel/ezb-fed-zinswoche/\">Artikel zur Zinswoche</a>. Wichtig bleibt: Kryptoanlagen sind hochvolatil, Totalverlust ist möglich. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "CoinGecko API (Bitcoin, Ethereum), Momentaufnahme 25.10.2026, 07:50 Uhr MEZ",
+      "url": "https://www.coingecko.com/de/munze/bitcoin"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie steht Bitcoin heute?",
+      "a": "Zum Abfragezeitpunkt 25.10.2026, 07:50 Uhr MEZ: 80.478 US-Dollar beziehungsweise 71.829 Euro, minus 0,3 Prozent in 24 Stunden (CoinGecko)."
+    },
+    {
+      "q": "Wie steht Ethereum heute?",
+      "a": "Zur gleichen Momentaufnahme: 2.343 US-Dollar beziehungsweise 2.091 Euro, minus 1,4 Prozent in 24 Stunden (CoinGecko)."
+    },
+    {
+      "q": "Was könnte diese Woche den Kryptomarkt bewegen?",
+      "a": "Die Zinsentscheidungen von Fed (27./28.10.) und EZB (28./29.10.) gelten als die makroöknomischen Termine der Woche. Eine Prognose geben wir nicht."
+    }
+  ]
+}

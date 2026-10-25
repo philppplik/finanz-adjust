@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-streubesitz",
+  "title": "Glossar: Streubesitz - welche Aktien wirklich am Markt sind",
+  "description": "Streubesitz (Free Float) einfach erklärt: Definition, warum Indizes danach gewichten und ein gerechnetes Beispiel. Stand: 25.10.2026.",
+  "section": "glossar",
+  "date": "2026-10-25T08:00:00+01:00",
+  "image": "/images/glossar-streubesitz.jpg",
+  "body": "<p><small>Stand: 25.10.2026, früher Morgen</small></p><p>Streubesitz - englisch Free Float - ist der Anteil der Aktien eines Unternehmens, der frei am Markt handelbar ist. Nicht dazu zählen Pakete in festen Händen: etwa Anteile von Gründern, Großaktionären, dem Staat oder anderer Unternehmen mit strategischer Beteiligung. Diese Aktien stehen dem normalen Börsenhandel praktisch nicht zur Verfügung.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Streubesitz = frei handelbare Aktien eines Unternehmens, in Prozent der Gesamtzahl.</li><li>Festbesitz (Gründer, Großaktionäre, Staat) zählt nicht dazu.</li><li>Die meisten großen Indizes gewichten Unternehmen nach dem Streubesitz, nicht nach der vollen Marktkapitalisierung.</li><li>Wenig Streubesitz kann zu stärkeren Kursschwankungen führen, weil weniger Angebot auf die Nachfrage trifft.</li></ul></div><h2>Ein Beispiel</h2><p>Strukturbeispiel mit fiktiven Werten: Ein Unternehmen hat 100 Millionen Aktien ausgegeben. Eine Gründerfamilie hält 45 Millionen, ein Staatsfonds 15 Millionen. Der Streubesitz beträgt dann 40 Millionen Aktien - also 40 Prozent. Obwohl die volle Marktkapitalisierung auf alle 100 Millionen Aktien gerechnet wird, ist nur der 40-Prozent-Anteil tatsächlich täglich am Markt verfügbar.</p><h2>Warum Indizes auf den Streubesitz schauen</h2><p>Ein Index soll den handelbaren Markt abbilden. Würde er nach voller Marktkapitalisierung gewichten, bekämen Unternehmen mit großem Festbesitz ein Übergewicht, das Anleger gar nicht kaufen können. Deshalb gewichten die großen Indexanbieter nach der Streubesitz-Marktkapitalisierung: Kurs mal frei handelbarer Aktienzahl. Wie diese Gewichtung den Index steuert, erklärt unser Artikel zur <a href=\"/artikel/indexkonstruktion-marktkapitalisierung/\">Indexkonstruktion nach Marktkapitalisierung</a>.</p><h2>Was der Streubesitz für dich bedeutet</h2><p>Bei Aktien mit wenig Streubesitz können schon moderate Orders den Kurs bewegen - die Schwankungsbreite steigt. Außerdem beeinflusst der Streubesitz, ob ein Unternehmen für Indizes und damit für ETF interessant ist: Viele Indizes verlangen einen Mindest-Streubesitz für die Aufnahme. Keine Anlageberatung. Mehr Grundlagen im <a href=\"/glossar/\">Glossar</a>.</p>",
+  "sources": [
+    {
+      "title": "eigene Darstellung mit Strukturbeispiel, Stand 25.10.2026",
+      "url": "https://finanz-adjust.de/glossar/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist Streubesitz?",
+      "a": "Der Anteil der Aktien eines Unternehmens, der frei an der Börse handelbar ist - ohne Pakete in festen Händen wie Gründer, Großaktionäre oder Staatsbeteiligungen."
+    },
+    {
+      "q": "Warum gewichten Indizes nach Streubesitz?",
+      "a": "Weil ein Index den tatsächlich handelbaren Markt abbilden soll. Aktien in Festbesitz können Anleger nicht kaufen und würden das Indexgewicht verzerren."
+    },
+    {
+      "q": "Ist hoher Streubesitz besser?",
+      "a": "Hoher Streubesitz bedeutet in der Regel liquideren Handel und engere Spreads. Ob ein Unternehmen mit wenig Streubesitz trotzdem attraktiv ist, hängt von vielen anderen Faktoren ab."
+    }
+  ]
+}

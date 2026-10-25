@@ -1,0 +1,49 @@
+{
+  "slug": "wochenausblick-2026-10-26",
+  "title": "Wochenausblick: Zinsentscheidungen von Fed und EZB, Berichtssaison",
+  "description": "KW 44: Fed am 27./28.10., EZB am 28./29.10., dazu Quartalsberichte unter anderem von BASF und MTU sowie der Ifo-Index. Die Termine der Woche im Überblick. Stand: 25.10.2026.",
+  "section": "markt",
+  "date": "2026-10-25T08:00:00+01:00",
+  "image": "/images/wochenausblick-2026-10-26.jpg",
+  "body": "<p><small>Stand: 25.10.2026, früher Morgen</small></p><p>Die neue Börsenwoche (Kalenderwoche 44, Start Montag 26. Oktober 2026) wird von zwei Zentralbanken und der Berichtssaison bestimmt. Nach dem schwachen Wochenschluss - der Dax hatte am Freitag bei 25.181,65 Punkten geschlossen, ein Wochenminus von 1,7 Prozent (broker-test.de, 24.10.) - richtet sich der Blick auf die Zinsentscheidungen in Washington und Frankfurt.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Fed: FOMC-Sitzung am 27. und 28. Oktober (Kalender der US-Notenbank).</li><li>EZB: geldpolitische Sitzung am 28. und 29. Oktober, Pressekonferenz am 29. Oktober (EZB-Kalender).</li><li>Berichtssaison: Zahlreiche Dax-Konzerne legen Quartalszahlen vor, nach den offiziellen Investorkalendern darunter BASF am 28. Oktober und MTU am 29. Oktober.</li><li>Konjunkturdaten: deutsches Ifo-Geschäftsklima und US-Wachstumsdaten (FinanzNachrichten.de).</li></ul></div><h2>Die Zinswoche</h2><p>Am Dienstag und Mittwoch tagt das Offenmarktkomitee der US-Notenbank, am Mittwoch und Donnerstag der EZB-Rat - beide Termine stehen in den offiziellen Kalendern der Notenbanken. Details und Einordnung im <a href=\"/artikel/ezb-fed-zinswoche/\">Artikel zur Zinswoche</a>. Was eine Zinsentscheidung grundsätzlich für Anleger bedeutet, erklärt unser <a href=\"/glossar/zins/\">Glossar</a>.</p><h2>Die Berichtssaison</h2><p>Dazu kommt der Höhepunkt der Quartalsberichtssaison: In dieser Woche legen mehrere Dax-Konzerne Zahlen vor - nach den offiziellen Investorkalendern berichtet BASF am Mittwoch (28. Oktober) und MTU am Donnerstag (29. Oktober). In den USA berichten die großen Technologiekonzerne (FinanzNachrichten.de). Warum gerade Erwartungen und Ausblicke die Kurse bewegen, erklärt unsere <a href=\"/artikel/quartalsberichtssaison-einordnung/\">Einordnung zur Berichtssaison</a>.</p><h2>Die Konjunkturdaten</h2><p>Als weitere Indikatoren nennt der Wochenausblick von FinanzNachrichten.de das deutsche Ifo-Geschäftsklima und die US-Wachstumsdaten. Hinzu kommt ein praktischer Effekt: Wegen der unterschiedlichen Zeitumstellung startet die Wall Street diese Woche für europäische Beobachter eine Stunde früher - Details im <a href=\"/artikel/zeitumstellung-handelszeiten/\">Artikel zu den Handelszeiten</a>. Einordnung ohne Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "FinanzNachrichten.de: WOCHENAUSBLICK - Dax von vielen Sorgen belastet, Fokus auf Zinsentscheidungen (abgerufen 25.10.2026)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69921468-wochenausblick-dax-von-vielen-sorgen-belastet-fokus-auf-zinsentscheidungen-016.htm"
+    },
+    {
+      "title": "broker-test.de: Wochenausblick - was den DAX bewegt (abgerufen 25.10.2026)",
+      "url": "https://broker-test.de/trading-news/wochenausblick-was-den-dax-bewegt-basf-mtu-und-telekom-unter-der-lupe-plus-ein-us-ipo/"
+    },
+    {
+      "title": "Federal Reserve: FOMC-Kalender (abgerufen 25.10.2026)",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "title": "EZB: Kalender der Ratssitzungen (abgerufen 25.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+    },
+    {
+      "title": "BASF: Investorkalender - Quartalsmitteilung Q3 2026 am 28.10.2026 (abgerufen 25.10.2026)",
+      "url": "https://www.basf.com/global/de/investors/calendar-and-publications/investor-releases"
+    },
+    {
+      "title": "MTU Aero Engines: Termine Finanzberichterstattung - Q3 2026 am 29.10.2026 (abgerufen 25.10.2026)",
+      "url": "https://www.mtu.de/de/investoren/publikationen-events/finanzkalender/finanzberichterstattung/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Termine sind diese Woche wichtig?",
+      "a": "Fed-Sitzung 27./28.10., EZB-Sitzung 28./29.10. mit Pressekonferenz am 29.10., Quartalsberichte unter anderem von BASF (28.10.) und MTU (29.10.) sowie Ifo-Geschäftsklima (26.10.) und US-Konjunkturdaten."
+    },
+    {
+      "q": "Wie hat der Dax die letzte Woche beendet?",
+      "a": "Mit einem Wochenminus von 1,7 Prozent; Freitagsschluss 25.181,65 Punkte (broker-test.de)."
+    },
+    {
+      "q": "Woher stammen die Termine?",
+      "a": "Aus den offiziellen Kalendern der Federal Reserve und der EZB - beide Seiten sind im Artikel verlinkt."
+    }
+  ]
+}

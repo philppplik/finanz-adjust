@@ -1,0 +1,33 @@
+{
+  "slug": "quartalsberichtssaison-einordnung",
+  "title": "Berichtssaison: Warum Erwartungen die Kurse bewegen, nicht die Zahlen",
+  "description": "Einordnung zur Quartalsberichtssaison: Wie Erwartungen entstehen, warum der Ausblick oft mehr zählt als das Ergebnis. Stand: 25.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-25T08:00:00+01:00",
+  "image": "/images/quartalsberichtssaison-einordnung.jpg",
+  "body": "<p><small>Stand: 25.10.2026, früher Morgen</small></p><p>Diese Woche legen zahlreiche Dax-Konzerne Quartalszahlen vor - nach den offiziellen Investorkalendern darunter BASF am 28. und MTU am 29. Oktober; in den USA berichten die großen Technologiekonzerne. In solchen Wochen scheint die Börse nach einem eigenen Rhythmus zu ticken: Ein Unternehmen meldet Rekordgewinne und die Aktie fällt trotzdem. Der Grund liegt in einer einfachen Mechanik - gehandelt wird nicht die Zahl, sondern die Abweichung von der Erwartung.</p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Vor jeder Berichtssaison bilden Analystenschätzungen die Erwartung, an der die Zahl gemessen wird.</li><li>Entscheidend ist die Überraschung: besser oder schlechter als erwartet - nicht gut oder schlecht an sich.</li><li>Der Ausblick (Guidance) auf die kommenden Quartale bewegt die Kurse oft stärker als das vergangene Quartal.</li><li>Reaktionen am Berichtstag sind hochvolatil - Einordnung statt Hektik.</li></ul></div><h2>Die Erwartungsmaschine</h2><p>Vor jeder Veröffentlichung schätzen Analysten Umsatz und Gewinn; Datenbanken mitteln diese Schätzungen zum Konsens. Der Aktienkurs vor der Meldung enthält diese Erwartung bereits - sie ist eingepreist. Strukturbeispiel mit fiktiven Werten: Der Konsens erwartet 2 Euro Gewinn je Aktie. Meldet das Unternehmen 2,20 Euro, liegt es über der Erwartung; meldet es 1,80 Euro, darunter. Ein Rekordgewinn kann also enttäuschen, wenn der Markt noch mehr erwartet hatte - und ein Verlust kann gefeiert werden, wenn er kleiner ausfällt als befürchtet.</p><h2>Warum der Ausblick mehr zählt</h2><p>Das vergangene Quartal ist Geschichte; der Kurs richtet sich nach vorn. Deshalb reagieren Märkte häufig stärker auf die Guidance - die Prognose des Managements für Umsatz, Gewinn oder Margen der kommenden Perioden. Ein gesenkter Ausblick kann eine gute Quartalszahl überlagern, ein angehobener eine schwache aufwerten.</p><h2>Wie du die Saison liest</h2><p>Drei Fragen bringen Ordnung in jeden Berichtstag: Erstens, wie lag die Zahl im Verhältnis zum Konsens? Zweitens, was sagt der Ausblick? Drittens, wie reagiert der Markt - und passt das zusammen? Wer so liest, versteht auch scheinbar paradoxe Reaktionen. Keine Anlageberatung. Passend dazu: unser Artikel zum <a href=\"/artikel/wochenausblick-2026-10-26/\">Wochenausblick</a>.</p>",
+  "sources": [
+    {
+      "title": "FinanzNachrichten.de: WOCHENAUSBLICK (abgerufen 25.10.2026)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69921468-wochenausblick-dax-von-vielen-sorgen-belastet-fokus-auf-zinsentscheidungen-016.htm"
+    },
+    {
+      "title": "broker-test.de: Wochenausblick - was den DAX bewegt (abgerufen 25.10.2026)",
+      "url": "https://broker-test.de/trading-news/wochenausblick-was-den-dax-bewegt-basf-mtu-und-telekom-unter-der-lupe-plus-ein-us-ipo/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum fällt eine Aktie trotz guter Quartalszahlen?",
+      "a": "Weil der Kurs die Erwartung bereits enthält: Lag die Zahl unter den (hohen) Erwartungen oder wurde der Ausblick gesenkt, reicht selbst ein Rekordgewinn nicht für Kursgewinne."
+    },
+    {
+      "q": "Was ist die Guidance?",
+      "a": "Die offizielle Prognose des Unternehmens für kommende Perioden. Sie bewegt Kurse oft stärker als das abgelaufene Quartal."
+    },
+    {
+      "q": "Was ist der Konsens?",
+      "a": "Der Mittelwert der Analystenschätzungen zu Kennzahlen wie Umsatz und Gewinn je Aktie - die Messlatte für die Überraschung."
+    }
+  ]
+}
