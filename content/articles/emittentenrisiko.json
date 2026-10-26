@@ -1,0 +1,37 @@
+{
+  "slug": "emittentenrisiko",
+  "title": "Emittentenrisiko: Wer hinter einem Zertifikat steht",
+  "description": "Warum ein Zertifikat eine Schuldverschreibung des Emittenten ist, was bei dessen Zahlungsunfähigkeit droht und warum die gesetzliche Einlagensicherung nicht greift.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/emittentenrisiko.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Zertifikat ist ein Wertpapier, hinter dem ein Emittent steht, meist eine Bank.</li><li>Wird der Emittent zahlungsunfähig, droht laut BaFin ein Totalverlust, auch wenn der Basiswert sich gut entwickelt hat.</li><li>Die gesetzliche Einlagensicherung für Bankeinlagen gilt nicht für Zertifikate.</li><li>Das Risiko ist unabhängig vom Kurs des Basiswerts und kommt zu den Marktrisiken hinzu.</li></ul></div><h2>Zwei Risiken in einem Produkt</h2><p>Wer ein Zertifikat kauft, trägt zwei Risiken zugleich: das Marktrisiko des Basiswerts, etwa eines Index, und das Risiko, dass der Emittent seine Zahlungsverpflichtung nicht erfüllen kann. Die BaFin schreibt dazu in ihren Verbraucherinformationen zu Zertifikaten: Die Bonität des Emittenten kann sich während der Laufzeit ändern. Wird der Emittent zahlungsunfähig, droht ein Totalverlust (BaFin, abgerufen 26.10.2026). Das gilt für Optionsscheine, Turbo-Zertifikate und weitere Zertifikate-Typen.</p><h2>Was der Unterschied zum Festgeld ist</h2><p>Die BaFin stellt Zins-Zertifikate und Festgeld in einer Tabelle gegenüber. Bei Einlagen auf Festgeldkonten sind Beträge bis 100.000 Euro pro Kunde und Bank durch die gesetzliche Einlagensicherung geschützt. Bei Zertifikaten greift die gesetzliche Einlagensicherung bei einer Insolvenz des Herausgebers nicht. Eine freiwillige Institutssicherung kann es je nach Anbieter geben und muss im Einzelfall geprüft werden (BaFin, abgerufen 26.10.2026). Die Anlegerentschädigung in Deutschland deckt nach der BaFin-Beschreibung Fälle ab, in denen ein Wertpapierhandelsunternehmen seine Verbindlichkeiten aus Wertpapiergeschäften nicht erfüllen kann.</p><h2>Wie du den Emittenten prüfst</h2><p>Drei Fragen helfen: Wer ist der Emittent, steht der Name in den Produktunterlagen? Was sagen die Produktunterlagen und das Basisinformationsblatt zu Emittent und Risiken? Und wie viel deines Gesamtvermögens hängt an einem einzigen Emittenten? Streuung auf mehrere Schuldner kann das Klumpenrisiko senken, ist aber kein Garant. Den Begriff erklärt auch das Glossar zum <a href=\"/glossar/emittent/\">Emittenten</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Gehebelte Zertifikate - Optionsscheine, Turbo-Zertifikate, Faktor-Optionsscheine (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/zertifikate/gehebelte-zertifikate/gehebelte-zertifikate.html"
+    },
+    {
+      "title": "BaFin: Zins-Anleihen - Unterschiede zu Einlageprodukten und Emittentenrisiko (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/zertifikate/zins-anleihen/zins-anleihen.html"
+    },
+    {
+      "title": "BaFin: Einlagensicherung und Anlegerentschädigung (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/einlagensicherung-anlegerentschaedigung/einlagensicherung-anlegerentschaedigung.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Zertifikat durch die Einlagensicherung geschützt?",
+      "a": "Nein. Laut BaFin greift die gesetzliche Einlagensicherung bei Insolvenz des Zertifikate-Herausgebers nicht. Eine freiwillige Institutssicherung kann je nach Anbieter bestehen und ist im Einzelfall zu prüfen."
+    },
+    {
+      "q": "Kann ich verlieren, obwohl der Basiswert steigt?",
+      "a": "Ja. Das Emittentenrisiko ist unabhängig vom Basiswert. Zahlt der Emittent nicht, kann das Zertifikat auch bei gutem Kursverlauf des Basiswerts ausfallen."
+    },
+    {
+      "q": "Betrifft das Emittentenrisiko nur Hebelprodukte?",
+      "a": "Nein. Die BaFin weist es für Optionsscheine, Turbo-Zertifikate, Faktor-Optionsscheine und Zins-Zertifikate aus."
+    }
+  ]
+}

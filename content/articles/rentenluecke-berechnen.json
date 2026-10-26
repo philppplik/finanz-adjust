@@ -1,0 +1,37 @@
+{
+  "slug": "rentenluecke-berechnen",
+  "title": "Rentenlücke berechnen: vom Wunscheinkommen zur Differenz",
+  "description": "So ordnest du die Rentenlücke ein: Renteninformation lesen, Brutto und Netto trennen, Inflation berücksichtigen und die Differenz zum Wunscheinkommen bestimmen. Mit Strukturbeispiel.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/rentenluecke-berechnen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Rentenlücke ist die Differenz zwischen dem gewünschten Einkommen im Ruhestand und den erwarteten Einkünften.</li><li>Die Renteninformation nennt Bruttobeträge; Abzüge und Steuer kommen hinzu.</li><li>Inflation mindert die Kaufkraft: Die DRV rechnet vor, dass 1.000 Euro bei 1,5 Prozent Inflation in 20 Jahren nur noch rund 740 Euro Kaufkraft haben.</li><li>Alle Zahlen im Beispiel sind frei gewählt und keine Prognose.</li></ul></div><h2>Schritt 1: Wunscheinkommen festlegen</h2><p>Überlege, wie viel du monatlich im Ruhestand brauchst. Am besten orientierst du dich an deinen heutigen Ausgaben und streichst, was entfällt, etwa Sparraten oder Berufsausgaben. Das ist deine eigene Annahme, keine Vorgabe.</p><h2>Schritt 2: Renteninformation lesen</h2><p>Die Renteninformation soll Versicherten einen Überblick über erworbene Anwartschaften und die künftig zu erwartende Altersrente geben; sie wird jährlich an rund 31 Millionen Versicherte versandt (DRV, abgerufen 26.10.2026). Die Beträge sind brutto. Auf sie werden Beiträge zur Kranken- und Pflegeversicherung fällig, und ab einer bestimmten Höhe muss die Rente versteuert werden (VdK). Wie die Rente entsteht, steht im Artikel <a href=\"/artikel/gesetzliche-rente-erklaert/\">gesetzliche Rente erklärt</a>.</p><h2>Schritt 3: Weitere Quellen addieren</h2><p>Hinzu kommen Betriebsrente, private Verträge und andere Einkünfte. Der Überblick über die Säulen steht im Artikel <a href=\"/artikel/drei-saeulen-altersvorsorge/\">drei Säulen der Altersvorsorge</a>.</p><h2>Schritt 4: Inflation beachten</h2><p>Die DRV-Broschüre zur Renteninformation rechnet vor: Ein heutiges Einkommen von 1.000 Euro hat in 20 Jahren bei einer unterstellten Inflationsrate von 1,5 Prozent pro Jahr nur noch eine Kaufkraft von rund 740 Euro. Mehr zum Begriff: <a href=\"/glossar/inflation/\">Inflation</a>.</p><h2>Strukturbeispiel (frei gewählte Zahlen)</h2><p>Angenommen, du planst mit 2.400 Euro netto im Monat. Die gesetzliche Rente laut Renteninformation sei 1.500 Euro brutto, nach Abzügen und Steuer bleiben in diesem Beispiel 1.300 Euro netto. Dazu kommt eine Betriebsrente von netto 400 Euro. Die Summe beträgt 1.700 Euro, die Lücke 700 Euro im Monat. Das ist eine Rechenhilfe, kein Hinweis auf deine eigene Situation. Mit der Lücke kannst du dann prüfen, welche geförderten Wege es gibt: <a href=\"/artikel/foerderung-und-zulagen/\">Förderung und Zulagen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Rentenversicherung: Fragen und Antworten zur Renteninformation (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/renteninformation/faq_renteninfo"
+    },
+    {
+      "title": "Deutsche Rentenversicherung: Die Renteninformation - mehr wissen (Broschüre) (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Broschueren/national/die_renteninformation_mehr_wissen.pdf?__blob=publicationFile&v=1"
+    },
+    {
+      "title": "VdK: Renteninformation - das steht zwischen den Zeilen (abgerufen 26.10.2026)",
+      "url": "https://www.vdk.de/aktuelles/aktuelle-meldungen/artikel/renteninformation-das-steht-zwischen-den-zeilen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist die Rentenlücke?",
+      "a": "Die Differenz zwischen dem Einkommen, das du im Ruhestand brauchen willst, und dem, was du aus gesetzlicher Rente, Betriebsrente und privaten Quellen erwartest."
+    },
+    {
+      "q": "Warum ist der Betrag in der Renteninformation nicht mein Auszahlungsbetrag?",
+      "a": "Er ist ein Bruttobetrag. Beiträge zur Kranken- und Pflegeversicherung und gegebenenfalls Steuer kommen hinzu."
+    },
+    {
+      "q": "Warum sollte ich die Inflation einbeziehen?",
+      "a": "Weil sie die Kaufkraft künftiger Beträge mindert. Die DRV rechnet vor, dass 1.000 Euro bei 1,5 Prozent Inflation in 20 Jahren nur noch rund 740 Euro Kaufkraft haben."
+    }
+  ]
+}

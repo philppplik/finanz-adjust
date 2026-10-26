@@ -1,0 +1,41 @@
+{
+  "slug": "optionspreis-treiber",
+  "title": "Was den Optionspreis treibt: innerer Wert, Zeitwert und Volatilität",
+  "description": "Der Preis einer Option besteht aus innerem Wert und Zeitwert. Welche Faktoren den Zeitwert bestimmen und warum Seitwärtsphasen Geld kosten können.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/optionspreis-treiber.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Optionspreis (Prämie) setzt sich aus innerem Wert und Zeitwert zusammen.</li><li>Den Zeitwert bestimmen nach der Deutschen Börse Restlaufzeit, Marktzins, Dividenden und besonders die Volatilität des Basiswerts.</li><li>Am Verfallstag ist der Zeitwert null; es bleibt der innere Wert.</li><li>Auch eine längere Seitwärtsbewegung des Basiswerts kann einen Optionsschein im Wert mindern.</li></ul></div><h2>Innerer Wert</h2><p>Der innere Wert zeigt, was das Recht aus der Option aktuell wert wäre. Die BaFin gibt ein Beispiel für einen Call: Er berechtigt zum Kauf einer Aktie der X AG für 50 Euro (Basispreis). Steht die Aktie bei 100 Euro, hat der Optionsschein einen inneren Wert von 50 Euro. Steht sie bei 40 Euro, ist das Recht, sie für 50 Euro zu kaufen, nicht nutzbar - der innere Wert ist null. Das Beispiel ist vereinfacht und lässt das Bezugsverhältnis außen vor (BaFin, abgerufen 26.10.2026).</p><h2>Zeitwert</h2><p>Die Deutsche Börse definiert den Zeitwert als Differenz zwischen dem Optionsscheinkurs und dem inneren Wert. Er berücksichtigt die Wahrscheinlichkeit von Kursschwankungen des Basiswerts bis zur Fälligkeit, also eine Art Unsicherheitsaufschlag. Bestimmt wird er von der Restlaufzeit, dem Marktzinsniveau, Dividendenzahlungen des Basiswerts und besonders von der Volatilität: Je kürzer die Restlaufzeit und je niedriger die Volatilität, desto niedriger der Zeitwert. Am Verfallstag ist er null (Deutsche Börse, abgerufen 26.10.2026). Mehr zur Schwankung findest du im Glossar zur <a href=\"/glossar/was-bedeutet-volatilitaet/\">Volatilität</a>.</p><h2>Preismodelle und ihre Grenzen</h2><p>Zur rechnerischen Bestimmung eines fairen Optionspreises nutzen Marktteilnehmer in der Regel Bewertungsmodelle wie das Black-Scholes-Modell (Deutsche Börse, Optionspreis). Ein Modell liefert Annahmen, keine Gewissheit: Die tatsächliche Volatilität in der Zukunft kennt niemand, und der Marktpreis kann vom Modellwert abweichen.</p><h2>Was das praktisch bedeutet</h2><p>Die BaFin weist darauf hin, dass bei Optionsscheinen auch eine längere Seitwärtsbewegung des Basiswerts zu Verlusten führt, weil der Zeitwert sinkt. Bei Faktor-Optionsscheinen kommt eine tägliche Verkettung hinzu, die bei schwankendem, aber seitwärts laufendem Basiswert den Wert deutlich mindern kann. Wer Optionspreise liest, sollte deshalb immer fragen: Wie viel des Preises ist innerer Wert, wie viel ist Zeitwert, der bis zum Verfall abschmilzt? Grundbegriffe: <a href=\"/glossar/option/\">Option</a>, <a href=\"/glossar/call/\">Call</a>, <a href=\"/glossar/put/\">Put</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Börse Börsenlexikon: Optionspreis (abgerufen 26.10.2026)",
+      "url": "https://sim-new.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/Optionspreis-248334"
+    },
+    {
+      "title": "Deutsche Börse Börsenlexikon: Zeitwert (Optionsscheine) (abgerufen 26.10.2026)",
+      "url": "https://sim-new.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/Zeitwert-Optionsscheine--244490"
+    },
+    {
+      "title": "BaFin: Gehebelte Zertifikate - Optionsscheine, Turbo-Zertifikate, Faktor-Optionsscheine (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/zertifikate/gehebelte-zertifikate/gehebelte-zertifikate.html"
+    },
+    {
+      "title": "Börse Stuttgart: Optionsscheine erklärt (abgerufen 26.10.2026)",
+      "url": "https://www.boerse-stuttgart.de/de-de/produkte/hebelprodukte/optionsscheine/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woraus besteht der Preis einer Option?",
+      "a": "Nach der Deutschen Börse aus innerem Wert und Zeitwert. Der Optionspreis heißt auch Optionsprämie."
+    },
+    {
+      "q": "Warum kann eine Option bei unverändertem Kurs des Basiswerts an Wert verlieren?",
+      "a": "Weil der Zeitwert mit der Restlaufzeit abnimmt. Am Verfallstag bleibt nur der innere Wert."
+    },
+    {
+      "q": "Welche Rolle spielt die Volatilität?",
+      "a": "Eine höhere erwartete Schwankung des Basiswerts erhöht den Zeitwert, eine niedrigere senkt ihn. Sie ist nach der Deutschen Börse einer der wichtigsten Einflussfaktoren."
+    }
+  ]
+}

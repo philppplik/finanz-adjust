@@ -1,0 +1,41 @@
+{
+  "slug": "derivate-verlustrisiko-und-regeln",
+  "title": "Derivate: Verlustrisiko, Regeln und steuerliche Behandlung von Verlusten",
+  "description": "Welche Verlustrisiken Optionen, Zertifikate und Hebelprodukte haben, welche Regeln der Anlegerschutz setzt und was sich bei der Verlustverrechnung von Termingeschäften geändert hat.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/derivate-verlustrisiko-und-regeln.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bei Optionsscheinen und Turbo-Zertifikaten nennt die BaFin ein sehr hohes Risiko eines Totalverlusts.</li><li>Zum Produktrisiko kommen Emittentenrisiko und teils eingeschränkte Handelbarkeit.</li><li>Die steuerliche Verlustverrechnungsbeschränkung für Termingeschäfte wurde mit dem Jahressteuergesetz 2024 aufgehoben.</li><li>Bei Steuerfragen zu Derivaten ist eine fachkundige Beratung sinnvoll.</li></ul></div><h2>Die Verlustrisiken im Überblick</h2><p>Die BaFin beschreibt für gehebelte Zertifikate: Hohe Renditechancen gehen mit hohen Verlustrisiken einher. Bei Optionsscheinen ist das Risiko eines Totalverlusts sehr hoch, bei Turbo-Zertifikaten kommt die Knock-out-Barriere hinzu. Bei Faktor-Optionsscheinen kann die tägliche Verkettung den Wert stark mindern, selbst wenn der Basiswert am Ende zum Ausgangswert zurückkehrt. Die empfohlene Haltedauer von Turbo-Zertifikaten und Faktor-Optionsscheinen nennt die BaFin mit nur einem Tag (BaFin, abgerufen 26.10.2026). Details zur Mechanik: <a href=\"/artikel/knock-out-produkte/\">Knock-out-Produkte</a> und <a href=\"/artikel/optionspreis-treiber/\">Optionspreis-Treiber</a>.</p><h2>Weitere Risiken neben dem Kurs</h2><p>Emittenten oder mit ihnen verbundene Unternehmen stellen häufig selbst An- und Verkaufskurse. Eine Pflicht zur Kursstellung besteht laut BaFin grundsätzlich nicht, sodass ein Kauf oder Verkauf auch zu Börsenzeiten nicht immer möglich ist. Hinzu kommt das <a href=\"/artikel/emittentenrisiko/\">Emittentenrisiko</a>.</p><h2>Regeln für Kleinanleger</h2><p>Seit dem 16. Juni 2026 gilt für Turbo-Zertifikate eine Produktintervention der BaFin: standardisierte Risikowarnung, Wissensabfrage vor dem Erwerb (mindestens alle sechs Monate zu wiederholen) und kein Anreiz durch Boni oder reduzierte Gebühren (BaFin, 15.10.2025). Weitere Regeln, etwa zur Eignungsprüfung der Anbieter, sind den Informationen deines Brokers zu entnehmen.</p><h2>Steuerlicher Hinweis: Verluste aus Termingeschäften</h2><p>Der aktuelle Gesetzestext von § 20 Abs. 6 EStG enthält die frühere besondere Verlustverrechnungsbeschränkung für Termingeschäfte nicht mehr (Gesetze im Internet, abgerufen 26.10.2026). Als Hintergrund beschreibt die Kanzlei Forvis Mazars (Sekundärquelle), dass das Jahressteuergesetz 2024 die Sätze 5 und 6 aufgehoben hat und dass Banken die Änderung im Kapitalertragsteuerabzug erst ab dem 1. Januar 2026 umsetzen müssen; bis dahin ging es für Privatanleger über die Verlustbescheinigung in der Veranlagung. Wie sich das im Einzelfall auswirkt, hängt vom Steuerverfahren und der Bank ab - ein Fall für die Steuererklärung und gegebenenfalls fachkundige Beratung. Dies ist keine Steuerberatung.</p><p>Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Gehebelte Zertifikate - Optionsscheine, Turbo-Zertifikate, Faktor-Optionsscheine (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/zertifikate/gehebelte-zertifikate/gehebelte-zertifikate.html"
+    },
+    {
+      "title": "BaFin: BaFin interveniert bei Turbo-Zertifikaten, 15.10.2025 (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2025/2025_10_15_Turbo_Zertifikat_Knock_Out.html"
+    },
+    {
+      "title": "Gesetze im Internet: § 20 EStG, Absatz 6 (Verluste aus Kapitalvermögen) (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__20.html"
+    },
+    {
+      "title": "Forvis Mazars: Aus für die beschränkte Verlustverrechnung bei Termingeschäften (Jahressteuergesetz 2024) (abgerufen 26.10.2026)",
+      "url": "https://www.forvismazars.com/de/de/ueber-uns/aktuelles/presse-medien/newsletter/newsletter-steuern/newsletter-steuern-1-2025/verlustverrechnung-bei-termingeschaeften"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hoch kann der Verlust bei Optionsscheinen sein?",
+      "a": "Die BaFin nennt das Risiko eines Totalverlusts bei Optionsscheinen sehr hoch. Der Einsatz kann vollständig verloren gehen."
+    },
+    {
+      "q": "Können Verluste aus Termingeschäften steuerlich verrechnet werden?",
+      "a": "Die besondere Verrechnungsbeschränkung wurde mit dem Jahressteuergesetz 2024 aufgehoben. Die praktische Umsetzung bei den Banken war laut Quelle ab 1. Januar 2026 vorgesehen. Im Einzelfall gibt die Steuererklärung oder eine fachkundige Beratung Klarheit."
+    },
+    {
+      "q": "Warum ist die empfohlene Haltedauer so kurz?",
+      "a": "Laut BaFin schwanken die Kurse wegen des Hebels stark, und bei Turbo-Zertifikaten kann die Barriere jederzeit erreicht werden. Faktor-Optionsscheine unterliegen zudem der täglichen Verkettung."
+    }
+  ]
+}

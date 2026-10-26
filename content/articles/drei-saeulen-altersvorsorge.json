@@ -1,0 +1,37 @@
+{
+  "slug": "drei-saeulen-altersvorsorge",
+  "title": "Die drei Säulen der Altersvorsorge: gesetzlich, betrieblich, privat",
+  "description": "Gesetzliche Rente, Betriebsrente und private Vorsorge im Überblick: Wie die drei Säulen zusammenspielen, wer sie trägt und wo die Unterschiede liegen. Ohne Empfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/drei-saeulen-altersvorsorge.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Altersvorsorge in Deutschland ruht auf drei Säulen: gesetzliche Rente, betriebliche und private Vorsorge.</li><li>Die betriebliche Altersversorgung ist nicht gesetzlich verpflichtend, sondern wird arbeits- oder tarifvertraglich vereinbart.</li><li>Die private Säule wird ab 1. Januar 2027 neu geordnet, bestehende Riester-Verträge haben Bestandsschutz.</li><li>Dieser Artikel ordnet ein. Er empfiehlt kein Produkt.</li></ul></div><h2>Die Idee der drei Säulen</h2><p>Das Bundesarbeitsministerium beschreibt die betriebliche Altersversorgung als eine der drei Säulen, auf denen die Altersvorsorge in Deutschland aufgebaut ist; daneben gibt es die gesetzliche und die private Vorsorge (BMAS, abgerufen 26.10.2026). Die Säulen unterscheiden sich darin, wer sie organisiert, wer einzahlt und wie sie staatlich behandelt werden.</p><h2>Säule 1: gesetzliche Rente</h2><p>Die gesetzliche Rentenversicherung ist die Grundlage für die meisten Beschäftigten. Beiträge werden vom Einkommen abgeführt, die Rente richtet sich nach den erworbenen Entgeltpunkten. Mehr dazu im Artikel <a href=\"/artikel/gesetzliche-rente-erklaert/\">gesetzliche Rente erklärt</a>.</p><h2>Säule 2: betriebliche Altersversorgung</h2><p>Hier sagt der Arbeitgeber Leistungen zu oder wandelt Entgelt um. Sie ist nicht gesetzlich verpflichtend und muss arbeits- oder tarifvertraglich vereinbart werden (BMAS). Einzelheiten: <a href=\"/artikel/betriebliche-altersvorsorge/\">betriebliche Altersvorsorge</a>.</p><h2>Säule 3: private Vorsorge</h2><p>Dazu gehören staatlich geförderte Verträge wie Riester und Basisrente sowie freie Anlagen, etwa in Fonds. Der Überblick steht im Artikel <a href=\"/artikel/riester-ruerup-ueberblick/\">Riester und Rürup</a>. Nach dem Altersvorsorgereformgesetz (BGBl. 2026 I Nr. 156) starten ab 1. Januar 2027 neue geförderte Produkte, die die Riester-Rente ablösen; dazu der Artikel <a href=\"/artikel/altersvorsorgedepot-reform-2026/\">Altersvorsorgedepot und Reform</a>.</p><h2>Wie du sie zusammen betrachtest</h2><p>Sinnvoll ist ein Blick auf alle drei Quellen in einer Summe: Was kommt aus der gesetzlichen Rente, was aus Betriebsrente, was aus privaten Verträgen? Die Differenz zum gewünschten Einkommen im Ruhestand ist die <a href=\"/artikel/rentenluecke-berechnen/\">Rentenlücke</a>. Welche Förderung auf welcher Säule möglich ist, zeigt der Artikel zu <a href=\"/artikel/foerderung-und-zulagen/\">Förderung und Zulagen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BMAS: Betriebliche Altersvorsorge (abgerufen 26.10.2026)",
+      "url": "https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Betriebliche-Altersversorgung/betriebliche-altersvorsorge.html"
+    },
+    {
+      "title": "Bundesgesetzblatt 2026 I Nr. 156: Altersvorsorgereformgesetz vom 26. Mai 2026, ausgegeben am 29. Mai 2026 (abgerufen 26.10.2026)",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/156/regelungstext.pdf?__blob=publicationFile&v=1"
+    },
+    {
+      "title": "BMF: Fragen und Antworten zur Reform der geförderten privaten Altersvorsorge, Stand 05.05.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/FAQ/reform-der-privaten-altersvorsorge.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche drei Säulen gibt es?",
+      "a": "Gesetzliche Rente, betriebliche Altersversorgung und private Vorsorge. Das Bundesarbeitsministerium beschreibt die Betriebsrente als eine der drei Säulen."
+    },
+    {
+      "q": "Ist die betriebliche Altersversorgung Pflicht?",
+      "a": "Nein. Laut BMAS ist sie nicht gesetzlich verpflichtend, sondern wird arbeits- oder tarifvertraglich vereinbart."
+    },
+    {
+      "q": "Ändert sich bei der privaten Vorsorge etwas?",
+      "a": "Ja. Nach dem Altersvorsorgereformgesetz (BGBl. 2026 I Nr. 156) starten ab 1. Januar 2027 neue geförderte Produkte; bestehende Riester-Verträge haben laut BMF Bestandsschutz."
+    }
+  ]
+}

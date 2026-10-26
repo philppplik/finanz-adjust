@@ -1,0 +1,167 @@
+{
+ "paket": "L",
+ "welle": 3,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-27",
+   "name": "Derivate: Optionen, Zertifikate, Hebelprodukte",
+   "frage": "Was steckt hinter Optionsscheinen, Zertifikaten und Turbo-Produkten - und warum warnen Aufsicht und Börsen so deutlich vor ihren Risiken?",
+   "intro": "Derivate sind Verträge, deren Wert von einem anderen Wert abhängt, etwa von einer Aktie oder einem Index. Dieser Pfad erklärt die Bausteine: Optionen als Recht ohne Pflicht, Call und Put, Zertifikate als Schuldverschreibung eines Emittenten, Knock-out-Produkte mit Barriere und die Faktoren hinter dem Optionspreis. Am Ende kennst du die Verlustrisiken und die Regeln, die für Kleinanleger gelten. Der Pfad erklärt und empfiehlt nichts.",
+   "level": "Fortgeschritten",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "Lernpfad 11 (Risiko und Rendite) ist die direkte Vorbereitung; Lernpfad 10 (Finanzfallen erkennen) hilft beim Einordnen.",
+   "lernziel": "Du verstehst Funktionsweise und Risiken von Optionen, Zertifikaten und Knock-outs.",
+   "steps": [
+    {
+     "slug": "/glossar/option/",
+     "warum": "Der Baustein: Das Recht, aber nicht die Pflicht, einen Basiswert zu einem festen Preis zu kaufen oder zu verkaufen."
+    },
+    {
+     "slug": "/glossar/call/",
+     "warum": "Die Kaufoption: Das Recht zum Kauf und wie sein Wert entsteht."
+    },
+    {
+     "slug": "/glossar/put/",
+     "warum": "Die Verkaufsoption: Das Gegenstück zum Call und sein Zweck."
+    },
+    {
+     "slug": "/glossar/zertifikat/",
+     "warum": "Das Wertpapier: Was ein Zertifikat ist und wer dahinter steht."
+    },
+    {
+     "slug": "/artikel/knock-out-produkte/",
+     "warum": "Der Hebel: Wie Barrieren funktionieren und was ein Knock-out bedeutet."
+    },
+    {
+     "slug": "/artikel/emittentenrisiko/",
+     "warum": "Der Schuldner: Warum der Emittent zum Risiko wird und die Einlagensicherung nicht greift."
+    },
+    {
+     "slug": "/artikel/optionspreis-treiber/",
+     "warum": "Die Preisbildung: Innerer Wert, Zeitwert und Volatilität."
+    },
+    {
+     "slug": "/artikel/derivate-verlustrisiko-und-regeln/",
+     "warum": "Die Regeln: Verlustrisiken, Anlegerschutz und steuerliche Behandlung von Verlusten."
+    }
+   ],
+   "terms": [
+    "option",
+    "emittent",
+    "was-bedeutet-volatilitaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Produkt wirbt mit hohen Chancen bei kleinem Einsatz. Welche drei Dinge prüfst du, bevor du es einordnest?",
+      "loesung": "Erstens die Produktart: Optionsschein, Turbo oder Faktor-Produkt haben unterschiedliche Risiken, bei Turbos kommt die Knock-out-Barriere hinzu. Zweitens den Emittenten, denn bei dessen Zahlungsunfähigkeit droht laut BaFin ein Totalverlust und die gesetzliche Einlagensicherung greift nicht. Drittens die Kosten und die empfohlene Haltedauer in den Produktunterlagen."
+     },
+     {
+      "frage": "Der Basiswert bleibt über Wochen fast unverändert, dein Optionsschein verliert trotzdem an Wert. Woran kann das liegen?",
+      "loesung": "Am Zeitwert. Er hängt von Restlaufzeit, Marktzins, Dividenden und vor allem der Volatilität ab und sinkt, je näher der Verfall rückt. Am Verfallstag bleibt nur der innere Wert."
+     },
+     {
+      "frage": "Du erzielst Verluste aus Termingeschäften. Wohin wendest du dich für die steuerliche Einordnung?",
+      "loesung": "Die besondere Verlustverrechnungsbeschränkung wurde mit dem Jahressteuergesetz 2024 aufgehoben. Wie das in deiner Steuererklärung und bei deiner Bank umgesetzt wird, prüfst du mit der Verlustbescheinigung und, wenn nötig, mit fachkundiger Steuerberatung."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was passiert mit einem Turbo-Zertifikat, wenn der Basiswert die Knock-out-Barriere berührt?",
+      "loesung": "Es verfällt sofort wertlos. Eine spätere Erholung des Basiswerts hilft nicht mehr."
+     },
+     {
+      "frage": "Woraus besteht der Optionspreis?",
+      "loesung": "Aus innerem Wert und Zeitwert."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-28",
+     "warum": "Du kennst jetzt riskante Produkte - als Nächstes geht es um das langfristige Fundament: die Altersvorsorge."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-28",
+   "name": "Altersvorsorge verstehen: gesetzlich, betrieblich, privat",
+   "frage": "Wie hängen gesetzliche Rente, Betriebsrente und private Vorsorge zusammen - und was ändert sich mit der Reform ab 2027?",
+   "intro": "Die Altersvorsorge in Deutschland ruht auf drei Säulen. Dieser Pfad ordnet sie ein: die Mechanik der gesetzlichen Rente, die Betriebsrente mit Entgeltumwandlung und Zuschuss, Riester und Basisrente, das neue Altersvorsorgedepot ab 2027, die Berechnung der Rentenlücke und die staatliche Förderung. Du lernst, was beschlossen ist und was noch offen ist. Der Pfad empfiehlt kein Produkt.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "Lernpfad 12 (Inflation und Realzins) und Lernpfad 13 (Zinseszins) sind die direkte Vorbereitung.",
+   "lernziel": "Du ordnest die drei Säulen und die Reform der privaten Altersvorsorge ein.",
+   "steps": [
+    {
+     "slug": "/artikel/drei-saeulen-altersvorsorge/",
+     "warum": "Der Rahmen: Gesetzliche, betriebliche und private Säule im Überblick."
+    },
+    {
+     "slug": "/artikel/gesetzliche-rente-erklaert/",
+     "warum": "Die Basis: Entgeltpunkte, Rentenwert, Regelaltersgrenze und Brutto-Netto."
+    },
+    {
+     "slug": "/artikel/betriebliche-altersvorsorge/",
+     "warum": "Die zweite Säule: Durchführungswege, Entgeltumwandlung und Zuschuss."
+    },
+    {
+     "slug": "/artikel/riester-ruerup-ueberblick/",
+     "warum": "Die bisherigen geförderten Verträge: Riester und Basisrente im Vergleich."
+    },
+    {
+     "slug": "/artikel/altersvorsorgedepot-reform-2026/",
+     "warum": "Der Wandel: Was die Reform ab 2027 bringt und was noch offen ist."
+    },
+    {
+     "slug": "/artikel/rentenluecke-berechnen/",
+     "warum": "Die Rechnung: Vom Wunscheinkommen zur Differenz, mit Inflation."
+    },
+    {
+     "slug": "/artikel/foerderung-und-zulagen/",
+     "warum": "Die Förderung: Zulagen, Sonderausgabenabzug und Steuergrenzen im Überblick."
+    }
+   ],
+   "terms": [
+    "inflation",
+    "rendite",
+    "investmentfonds"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Deine Renteninformation nennt 1.500 Euro. Warum ist das nicht dein Auszahlungsbetrag?",
+      "loesung": "Der Betrag ist brutto. Beiträge zur Kranken- und Pflegeversicherung und gegebenenfalls Einkommensteuer kommen hinzu. Zusätzlich mindert Inflation die Kaufkraft künftiger Beträge."
+     },
+     {
+      "frage": "Du hast einen Riester-Vertrag und hörst von der Reform. Was prüfst du?",
+      "loesung": "Für Verträge, die vor dem 1. Januar 2027 abgeschlossen wurden, gilt laut Bundesfinanzministerium Bestandsschutz. Ein Wechsel nur in die neue Förderung ist per Erklärung beim Anbieter möglich; wer zusätzlich einen neuen Vertrag abschließt, bei dem gelten die neuen Regeln automatisch auch für den bestehenden Vertrag. Vorab Kosten und Auszahlform abwägen und neutral beraten lassen."
+     },
+     {
+      "frage": "Dein Arbeitgeber bietet eine Entgeltumwandlung an. Welche Fragen stellst du?",
+      "loesung": "Welcher Durchführungsweg? Gibt es den Arbeitgeberzuschuss von 15 Prozent bei Pensionsfonds, Pensionskasse oder Direktversicherung? Welche Kosten fallen an, und was passiert bei einem Jobwechsel? Zur Einordnung: Der Anspruch auf Entgeltumwandlung reicht bis 4 Prozent der Beitragsbemessungsgrenze."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wie berechnet sich die gesetzliche Rente vereinfacht?",
+      "loesung": "Entgeltpunkte mal aktuellem Rentenwert, der zum 1. Juli angepasst wird."
+     },
+     {
+      "frage": "Ab wann gilt das Altersvorsorge-Reformgesetz?",
+      "loesung": "Das Gesetz wurde am 29. Mai 2026 verkündet; die neue Zulagenförderung und die neuen Produkte starten zum 1. Januar 2027."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-29",
+     "warum": "Du kennst den Aufbau - als Nächstes geht es um die Entnahmephase: wie Vermögen im Ruhestand genutzt wird."
+    }
+   ]
+  }
+ ]
+}

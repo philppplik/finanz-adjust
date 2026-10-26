@@ -1,0 +1,49 @@
+{
+  "slug": "gesetzliche-rente-erklaert",
+  "title": "Gesetzliche Rente erklärt: Entgeltpunkte, Rentenwert und Regelaltersgrenze",
+  "description": "Wie die gesetzliche Rente berechnet wird: Entgeltpunkte mal aktuellem Rentenwert, Anpassung zum 1. Juli, Regelaltersgrenze und Besteuerung. Mit Strukturbeispiel.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/gesetzliche-rente-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Rente ergibt sich aus Entgeltpunkten mal aktuellem Rentenwert.</li><li>Seit 1. Juli 2026 beträgt der aktuelle Rentenwert 42,52 Euro; die Rentenanpassung lag bei 4,24 Prozent.</li><li>Für ab 1964 Geborene liegt die Regelaltersgrenze bei 67 Jahren.</li><li>Die Renteninformation nennt Bruttobeträge; hinzu kommen Abzüge und gegebenenfalls Steuer.</li></ul></div><h2>Die Grundformel</h2><p>Die Deutsche Rentenversicherung beschreibt es so: Die im Erwerbsleben erworbenen Rentenanwartschaften, die Entgeltpunkte, werden mit dem aktuellen Rentenwert multipliziert. Der aktuelle Rentenwert ist der Euro-Betrag, den man für einen Entgeltpunkt als monatliche Rente erhält. Er wird jeweils zum 1. Juli neu bestimmt (DRV, abgerufen 26.10.2026).</p><h2>Die aktuellen Werte</h2><p>Der aktuelle Rentenwert beträgt ab dem 1. Juli 2026 42,52 Euro (§ 1 Rentenwertbestimmungsverordnung 2026); die Deutsche Rentenversicherung nennt eine Anpassung um 4,24 Prozent gegenüber 40,79 Euro. Der Beitragssatz zur Rentenversicherung beträgt 18,6 Prozent; die Beitragsbemessungsgrenze liegt 2026 bei 8.450 Euro im Monat (DRV, Stand 01.07.2026).</p><h2>Strukturbeispiel</h2><p>Vereinfachtes Beispiel, keine Prognose: 30 Entgeltpunkte mal 42,52 Euro ergeben 1.275,60 Euro Bruttorente im Monat. Die Rechnung zeigt nur die Mechanik. Die tatsächliche Zahl für dich steht in deiner Renteninformation und hängt von deiner Versicherungsbiografie ab.</p><h2>Regelaltersgrenze</h2><p>Versicherte der Geburtsjahrgänge 1964 und jünger erreichen die Regelaltersgrenze mit Vollendung des 67. Lebensjahres; für Jahrgänge 1947 bis 1963 liegt sie zwischen 65 und 67 Jahren. Voraussetzung ist die allgemeine Wartezeit von fünf Jahren (DRV, Lexikon Regelaltersgrenze). Wer früher geht, muss je nach Rentenart mit Abschlägen rechnen.</p><h2>Brutto, netto und Steuer</h2><p>Die Renteninformation nennt Bruttobeträge. Auf sie werden Beiträge zur Kranken- und Pflegeversicherung fällig, und ab einer bestimmten Höhe fällt Einkommensteuer an (VdK, abgerufen 26.10.2026). Wer 2026 in Rente geht, versteuert 84 Prozent der ersten vollen Bruttojahresrente; der steuerfreie Anteil sinkt mit jedem neuen Rentnerjahrgang um 0,5 Prozentpunkte (DRV, 16.02.2026). Ob und wie viel Steuer tatsächlich anfällt, hängt vom Gesamteinkommen und dem Grundfreibetrag ab. Wie du die Lücke zum Wunscheinkommen einordnest, zeigt der Artikel <a href=\"/artikel/rentenluecke-berechnen/\">Rentenlücke berechnen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Rentenversicherung: Rentenanpassung 2026 (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/Gesetzesaenderungen/Rentenanpassung/FAQ-Rentenanpassung-2026/Rentenanpassung-2026"
+    },
+    {
+      "title": "Gesetze im Internet: Rentenwertbestimmungsverordnung 2026, § 1 Aktueller Rentenwert (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/rwbestv_2026/BJNR0B20A0026.html"
+    },
+    {
+      "title": "Deutsche Rentenversicherung: Werte der Rentenversicherung, Stand 01.07.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Werte-der-Rentenversicherung/werte-der-rentenversicherung"
+    },
+    {
+      "title": "Deutsche Rentenversicherung: Lexikon Regelaltersgrenze (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/R/regelaltersgrenze"
+    },
+    {
+      "title": "Deutsche Rentenversicherung: Steueranteil für Neu-Rentner liegt 2026 bei 84 Prozent, 16.02.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/20260216-steueranteil-neurentner"
+    },
+    {
+      "title": "VdK: Renteninformation - das steht zwischen den Zeilen (abgerufen 26.10.2026)",
+      "url": "https://www.vdk.de/aktuelles/aktuelle-meldungen/artikel/renteninformation-das-steht-zwischen-den-zeilen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird die gesetzliche Rente berechnet?",
+      "a": "Vereinfacht: Entgeltpunkte mal aktuellem Rentenwert. Zusätzlich fließen Zu- und Abschläge ein, etwa bei vorzeitigem Rentenbeginn."
+    },
+    {
+      "q": "Wie hoch ist der aktuelle Rentenwert?",
+      "a": "Seit 1. Juli 2026 beträgt er 42,52 Euro pro Entgeltpunkt (Anpassung um 4,24 Prozent)."
+    },
+    {
+      "q": "Ab wann gilt die Regelaltersgrenze von 67?",
+      "a": "Für alle ab 1964 Geborenen. Für frühere Jahrgänge liegt sie nach der Deutschen Rentenversicherung zwischen 65 und 67 Jahren."
+    }
+  ]
+}

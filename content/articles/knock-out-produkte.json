@@ -1,0 +1,33 @@
+{
+  "slug": "knock-out-produkte",
+  "title": "Knock-out-Produkte: Hebel, Barriere und Totalverlust",
+  "description": "Wie Knock-out- und Turbo-Zertifikate funktionieren, warum die Barriere sie wertlos machen kann und was die BaFin seit Juni 2026 für Kleinanleger regelt. Ohne Empfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:55:00+01:00",
+  "image": "/images/knock-out-produkte.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Knock-out-Produkte (Turbo-Zertifikate) bilden Kursbewegungen eines Basiswerts gehebelt ab.</li><li>Berührt der Basiswert die Knock-out-Barriere, verfällt das Produkt sofort wertlos.</li><li>Die BaFin hat Vermarktung und Vertrieb an Kleinanleger in Deutschland beschränkt; die Vorgaben gelten seit dem 16. Juni 2026.</li><li>Dieser Artikel erklärt die Mechanik. Er ist keine Empfehlung, solche Produkte zu nutzen.</li></ul></div><h2>Was ein Knock-out-Produkt ist</h2><p>Knock-out-Produkte ähneln Optionsscheinen: Mit wenig Kapitaleinsatz entsteht eine überproportionale Beteiligung an den Kursbewegungen eines Basiswerts, etwa einer Aktie oder eines Index. Die BaFin beschreibt dazu ein zusätzliches Merkmal: eine festgelegte Kursschwelle, die Knock-out-Barriere. Erreicht der Basiswert diese Schwelle während der Laufzeit, verfällt das Produkt sofort wertlos (BaFin, abgerufen 26.10.2026). Im Markt laufen die Produkte unter vielen Namen, zum Beispiel Turbo-Optionsschein, Mini-Future oder Turbo-Knock-Out.</p><h2>Strukturbeispiel nach BaFin</h2><p>Die BaFin rechnet ein Beispiel vor: Ein Index steht bei 20.000 Punkten. Ein Turbo-Long-Zertifikat hat eine Finanzierungsschwelle von 19.800 Punkten, die zugleich die Knock-out-Schwelle ist, und ein Bezugsverhältnis von 0,01. Preis: (20.000 - 19.800) x 0,01 = 2 Euro. Steigt der Index auf 20.200 Punkte, liegt der Preis bei 4 Euro, ein Plus von 100 Prozent bei einer Indexbewegung von 1 Prozent. Fällt der Index auf 19.800 Punkte oder darunter, erlischt das Produkt, der Einsatz ist verloren. Das ist ein vereinfachtes Beispiel mit runden Zahlen, keine Marktdaten.</p><h2>Der Hebel wirkt in beide Richtungen</h2><p>Zum Hebel nennt die BaFin an anderer Stelle ein einfaches Rechenbild: Bei einem Hebel von fünf verändert eine Kursbewegung des Basiswerts um 10 Prozent den Wert des Produkts um 50 Prozent. Nach unten gilt dasselbe. Nach einem Knock-out nützt eine spätere Erholung des Basiswerts nicht mehr, denn das Produkt existiert nicht mehr.</p><h2>Was die BaFin für Kleinanleger geregelt hat</h2><p>Nach einer Marktuntersuchung stellte die BaFin erhebliche Bedenken fest: 74,2 Prozent der untersuchten Kleinanleger hatten über fünf Jahre beim Handel mit Turbo-Zertifikaten Verluste, im Durchschnitt 6.358 Euro je Anleger. Die Aufsicht erließ daraufhin eine Allgemeinverfügung. Seit dem 16. Juni 2026 gilt: standardisierte Risikowarnung, eine Wissensabfrage vor dem Erwerb, die mindestens alle sechs Monate wiederholt wird, und keine Vorteile wie reduzierte Ordergebühren oder Neukundenboni (BaFin, 15.10.2025).</p><p>Mehr zu den Risiken im Überblick findest du im Artikel zu <a href=\"/artikel/derivate-verlustrisiko-und-regeln/\">Verlustrisiko und Regeln bei Derivaten</a>, zum Schuldner hinter dem Produkt im Artikel zum <a href=\"/artikel/emittentenrisiko/\">Emittentenrisiko</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Gehebelte Zertifikate - Optionsscheine, Turbo-Zertifikate, Faktor-Optionsscheine (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/zertifikate/gehebelte-zertifikate/gehebelte-zertifikate.html"
+    },
+    {
+      "title": "BaFin: BaFin interveniert bei Turbo-Zertifikaten, 15.10.2025 (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2025/2025_10_15_Turbo_Zertifikat_Knock_Out.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was passiert, wenn die Knock-out-Barriere erreicht wird?",
+      "a": "Nach der BaFin verfällt das Produkt sofort wertlos, sobald der Basiswert die Barriere während der Laufzeit erreicht. Eine spätere Erholung des Basiswerts ändert daran nichts mehr."
+    },
+    {
+      "q": "Warum schwankt ein Knock-out-Produkt stärker als der Basiswert?",
+      "a": "Wegen des Hebels: Das eingesetzte Kapital ist klein im Verhältnis zur abgebildeten Position, deshalb wirken prozentuale Kursbewegungen des Basiswerts mehrfach auf den Produktpreis."
+    },
+    {
+      "q": "Was hat sich für Kleinanleger in Deutschland geändert?",
+      "a": "Seit dem 16. Juni 2026 gelten laut BaFin eine standardisierte Risikowarnung, eine Wissensabfrage vor dem Kauf und ein Verbot von Boni und Gebührenvorteilen im Zusammenhang mit dem Erwerb."
+    }
+  ]
+}
