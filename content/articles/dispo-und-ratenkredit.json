@@ -1,0 +1,33 @@
+{
+  "slug": "dispo-und-ratenkredit",
+  "title": "Dispo und Ratenkredit: zwei Kredite, zwei Logiken",
+  "description": "Der Dispo ist rechtlich ein Verbraucherdarlehen mit flexibler Linie, der Ratenkredit ein Vertrag mit fester Rate und Laufzeit. Was das für Kosten und Überblick bedeutet.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/dispo-und-ratenkredit.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Dispositionskredit ist rechtlich ein Verbraucherdarlehen - eine eingeräumte Überziehungsmöglichkeit des Girokontos.</li><li>Die BaFin warnt: Für bequeme Kredite wie den Dispo verlangen Banken oft hohe Zinsen; geduldete Überziehungen können noch teurer sein.</li><li>Banken müssen warnen, wenn das Konto länger als drei Monate durchschnittlich um mehr als 50 Prozent des monatlichen Geldeingangs überzogen ist.</li><li>Der Ratenkredit kehrt die Logik um: fester Betrag, feste Rate, feste Laufzeit - vergleichbar über den effektiven Jahreszins.</li></ul></div><h2>Der Dispo: flexibel und teuer</h2><p>Rechtlich ist der Dispo ein Verbraucherdarlehen: Das Kreditinstitut räumt eine Überziehungsmöglichkeit ein und ist zur Prüfung der Kreditwürdigkeit verpflichtet - Voraussetzung sind grundsätzlich regelmäßige Geldeingänge (BaFin, abgerufen 26.10.2026). Die Höhe der Linie setzt die Bank meist automatisiert anhand der Zahlungseingänge. Einen Wunsch nach Reduzierung der Linie muss das Institut erfüllen, einen Wunsch nach Erhöhung nicht. Die Flexibilität hat ihren Preis: Die BaFin weist darauf hin, dass Banken für bequeme Kredite wie Dispositionskredite oft hohe Zinsen verlangen und geduldete Überziehungen des Girokontos noch teurer werden können. Kurzfristig kann so ein Kredit einen Engpass überbrücken; darüber hinaus sollten Überziehungen nach Einschätzung der Aufsicht möglichst vermieden werden.</p><h2>Das Warnsignal bei Dauerüberziehung</h2><p>Es gibt einen gesetzlich verankerten Warnhinweis: Die Bank muss dich informieren, wenn du dein Konto bei einer geduldeten Überziehung mehr als drei Monate lang durchschnittlich um über 50 Prozent des monatlichen Geldeingangs überziehst (BaFin, abgerufen 26.10.2026). Der Hinweis ist als Bremse gedacht: Eine Dauerüberziehung in dieser Größenordnung ist kein Versehen mehr, sondern ein strukturelles Loch im Budget.</p><h2>Der Ratenkredit: Planbarkeit als Prinzip</h2><p>Der klassische Ratenkredit (Konsumentenkredit) funktioniert umgekehrt: Du leihst einen festen Betrag und zahlst ihn in gleichbleibenden Raten über eine vereinbarte Laufzeit zurück. Die BaFin fasst den Vorteil so zusammen: Feste Laufzeiten und gleichbleibende Raten erleichtern es, den Überblick zu behalten; bei flexiblen Raten und wechselnden Fälligkeiten steigt die Gefahr, den Überblick zu verlieren. Vergleichbar sind Angebote über den <a href=\"/artikel/effektiver-jahreszins-erklaert/\">effektiven Jahreszins</a> - für bonitätsabhängige Zinsen erst nach der persönlichen Konditionenanfrage. Rate und Tilgungsverlauf eines Modellkredits zeigt der <a href=\"/rechner/kredit/\">Kreditrechner</a>.</p><h2>Wenn der Dispo zur Dauerschuld wird</h2><p>Dauerhaft im Dispo zu stehen bedeutet, dauerhaft den teuersten üblichen Kredit zu zahlen. Der Ausstieg folgt einer einfachen Logik: Rückführung einplanen oder - wenn der Betrag groß ist - prüfen, ob eine Ablösung durch einen günstigeren Ratenkredit die Gesamtkosten senkt. Den rechtlichen Rahmen dafür (Kündigung, Vorfälligkeitsentschädigung) erklärt der Artikel zur <a href=\"/artikel/umschuldung-erklaert/\">Umschuldung</a>. Bleibt die Rückführung aus eigener Kraft aus, ist das ein Punkt für die <a href=\"/artikel/schuldnerberatung-wo-hilfe/\">Schuldnerberatung</a>. Keine Kreditberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Girokonto - Wie wird ein Dispositionskredit vereinbart? (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/FAQs/DE/Verbraucher/Bank/Produkte/Girokonto/DispoUeberziehungskredit/01_dispokredit_vereinbarung.html?id=19628992"
+    },
+    {
+      "title": "BaFin: Konsumentenkredite vergleichen - so geht's (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/kredite-immobilienfinanzierung/kredite/konsumentenkredite-vergleichen/konsumentenkredite-vergleichen.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der Dispo ein richtiger Kredit?",
+      "a": "Ja. Rechtlich ist der Dispositionskredit ein Verbraucherdarlehen. Die Bank räumt die Überziehungsmöglichkeit als Darlehensgeber ein und muss dafür deine Kreditwürdigkeit prüfen."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Dispo und geduldeter Überziehung?",
+      "a": "Der Dispo ist die vereinbarte Überziehungslinie mit einem vereinbarten Zinssatz. Die geduldete Überziehung ist das Überziehen ohne oder über die Linie hinaus - sie wird nach Angaben der BaFin in der Regel noch teurer."
+    },
+    {
+      "q": "Kann ich meine Dispo-Linie senken lassen?",
+      "a": "Ja. Dem ausdrücklichen Wunsch nach einer Reduzierung der Kreditlinie muss das Kreditinstitut entsprechen - nur einer Erhöhung muss es nicht zustimmen."
+    }
+  ]
+}

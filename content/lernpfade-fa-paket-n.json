@@ -1,0 +1,163 @@
+{
+ "paket": "N",
+ "welle": 4,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-31",
+   "name": "Kredite & Schulden im Griff",
+   "frage": "Dispo, Ratenkredit, SCHUFA - was kostet mich ein Kredit wirklich, und wie komme ich aus Schulden wieder raus?",
+   "intro": "Kredite sind Alltag - und ihre Kosten verstecken sich hinter Fachbegriffen. Dieser Pfad führt dich durch die Mechanik: den effektiven Jahreszins als einzige vergleichbare Preisangabe, den Dispo als teuren Dauergast und den Ratenkredit als planbaren Gegenentwurf, die Umschuldung als rechtlich verbrieften Wechsel, die SCHUFA als statistische Prognose statt Urteil - und zum Schluss die Wege aus bestehenden Schulden, inklusive der Frage, wo kostenlose Beratung wartet. Am Ende liest du ein Kreditangebot wie ein Datenblatt statt wie ein Versprechen.",
+   "level": "Einsteiger-nah",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 02 (Zinsen & Tagesgeld verstehen) hilft; kein weiteres Vorwissen nötig.",
+   "lernziel": "Du verstehst effektiven Jahreszins, Dispo, Ratenkredit und Wege aus Schulden.",
+   "steps": [
+    {
+     "slug": "/artikel/effektiver-jahreszins-erklaert/",
+     "warum": "Der Maßstab: Warum nur der effektive Jahreszins den wahren Kreditpreis zeigt."
+    },
+    {
+     "slug": "/artikel/dispo-und-ratenkredit/",
+     "warum": "Die zwei Logiken: flexible Linie gegen feste Rate - und was die Flexibilität kostet."
+    },
+    {
+     "slug": "/rechner/kredit/",
+     "warum": "Selbst rechnen: Rate, Zinsanteil und Tilgungsverlauf eines Modellkredits durchspielen."
+    },
+    {
+     "slug": "/artikel/umschuldung-erklaert/",
+     "warum": "Der Wechsel: Kündigungsrecht und Vorfälligkeitsentschädigung beim Ablösen teurer Kredite."
+    },
+    {
+     "slug": "/artikel/schufa-und-bonitaet/",
+     "warum": "Die Prognose: Was der SCHUFA-Score misst - und was er nicht über dich aussagt."
+    },
+    {
+     "slug": "/artikel/schuldenabbau-methoden/",
+     "warum": "Der Plan: Bestandsaufnahme, Abbaureihenfolgen und das richtige Tempo."
+    },
+    {
+     "slug": "/artikel/schuldnerberatung-wo-hilfe/",
+     "warum": "Die Ausfallgrenze: drei offizielle Wege zur kostenlosen Schuldnerberatung."
+    }
+   ],
+   "terms": [
+    "bonitaet",
+    "zins",
+    "liquiditaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Zwei Banken werben mit demselben Sollzins von 4,9 Prozent. Woran erkennst du, welches Angebot insgesamt günstiger ist?",
+      "loesung": "Am effektiven Jahreszins - er enthält neben dem Sollzins Kosten wie Vermittlungs- oder Bearbeitungsgebühren und muss nach einheitlicher Formel gerechnet werden. Zusatzcheck: das repräsentative Beispiel mit dem 2/3-Zins im Kleingedruckten und die persönliche Konditionenanfrage."
+     },
+     {
+      "frage": "Dein Konto steht seit vier Monaten dauerhaft im Dispo, die Rückführung gelingt nicht. Welche zwei Wege prüfst du zuerst?",
+      "loesung": "Erst die Haushaltsrechnung: Woher kommt monatlich freies Geld für die Rückführung? Dann die Ablöserechnung: Würde ein Ratenkredit mit niedrigerem effektivem Jahreszins die Gesamtkosten senken - vorzeitige Rückzahlung ist nach § 500 BGB jederzeit möglich. Gelingt beides nicht, ist die Schuldnerberatung der nächste Schritt."
+     },
+     {
+      "frage": "Ein Bekannter sagt: Mit einem schlechten SCHUFA-Score bekommst du nie wieder einen Kredit. Was antwortest du mit diesem Pfad?",
+      "loesung": "Der Score ist eine statistische Zahlungsprognose, kein Urteil und keine Sperrdatei - die Kreditentscheidung trifft immer das Unternehmen selbst. Gespeicherte Daten lassen sich über den SCHUFA-Account, bonify oder die Datenkopie nach Art. 15 DSGVO einsehen und Fehler korrigieren. Pünktliche Bedienung bestehender Verpflichtungen ist die sachliche Hygiene."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was muss Kreditwerbung nach § 17 PAngV mindestens so hervorheben wie jeden anderen Zinssatz?",
+      "loesung": "Den effektiven Jahreszins - zusammen mit Nettodarlehensbetrag, Sollzinssatz samt Fest-/Variabel-Auskunft und den in die Gesamtkosten einbezogenen Kosten."
+     },
+     {
+      "frage": "Wie hoch darf die Vorfälligkeitsentschädigung bei einem Allgemein-Verbraucherdarlehen maximal sein?",
+      "loesung": "Höchstens 1 Prozent des vorzeitig zurückgezahlten Betrags - bei einer Restlaufzeit von höchstens einem Jahr 0,5 Prozent - und nie mehr als die Sollzinsen, die bis zur vereinbarten Rückzahlung angefallen wären (§ 502 BGB)."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-32",
+     "warum": "Kredite kosten Geld, Kapitalerträge bringen Geld - als Nächstes vertiefst du, wie der Staat bei Fonds, Verlusten und Pauschalen mitrechnet."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-32",
+   "name": "Steuern vertiefend: Teilfreistellung, Vorabpauschale, Verlusttöpfe",
+   "frage": "Warum wird mein Fonds besteuert, obwohl nichts ausgeschüttet wurde - und was darf ich mit was verrechnen?",
+   "intro": "Die Abgeltungsteuer wirkt simpel - bis der erste Fonds eine Vorabpauschale abrechnet, ein Verlust sich nicht verrechnen lässt und die ausländische Dividende doppelt besteuert erscheint. Dieser Pfad öffnet die Maschine hinter dem Tarif: die Teilfreistellung als fester Freistellungssatz je Fondskategorie, die Vorabpauschale als jährliche Vorauszahlung, die Verlusttöpfe als gesetzliche Trennwände, die Quellensteuer als anrechenbare, aber begrenzte Vorauszahlung im Ausland - und die Anlage KAP als das Formular, das alles zusammenführt. Am Ende verstehst du deine Steuerbescheinigung Zeile für Zeile.",
+   "level": "Fortgeschritten",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 08 (Steuern auf Kapitalerträge) ist die direkte Vorbereitung.",
+   "lernziel": "Du verstehst, wie Fonds, Verluste und Pauschalen besteuert werden und wo Beratung nötig ist.",
+   "steps": [
+    {
+     "slug": "/artikel/teilfreistellung-erklaert/",
+     "warum": "Der Freistellungssatz: 30, 15, 60 oder 80 Prozent - je nach Fondskategorie."
+    },
+    {
+     "slug": "/artikel/vorabpauschale-erklaert/",
+     "warum": "Der Vorschuss: Wie die jährliche Vorabpauschale berechnet und später angerechnet wird."
+    },
+    {
+     "slug": "/artikel/verlustverrechnung-toepfe/",
+     "warum": "Die Trennwände: Warum Aktienverluste nur Aktiengewinne ausgleichen dürfen."
+    },
+    {
+     "slug": "/artikel/steuerliche-behandlung-aktien-vs-etf/",
+     "warum": "Der Vergleich: ein Tarif, zwei Rechenwege - Aktien und Fonds nebeneinander."
+    },
+    {
+     "slug": "/artikel/ausland-quellensteuer/",
+     "warum": "Die Grenze: Anrechnung ausländischer Quellensteuer und die Rolle der Abkommen."
+    },
+    {
+     "slug": "/artikel/steuererklaerung-anlage-kap/",
+     "warum": "Das Formular: Wann die Anlage KAP Pflicht ist und wann sie sich lohnt."
+    },
+    {
+     "slug": "/artikel/wo-steuerberater-noetig-ist/",
+     "warum": "Die Beratungsgrenze: Ab welcher Komplexität Profi-Hilfe der richtige Schritt ist."
+    }
+   ],
+   "terms": [
+    "thesaurierung",
+    "investmentfonds",
+    "rendite"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Im Januar bucht deine Depotbank Steuern für deinen thesaurierenden Aktien-ETF ab, obwohl nichts ausgeschüttet wurde. Was rechnest du nach, um die Abbuchung einzuordnen?",
+      "loesung": "Die Vorabpauschale: Basisertrag = Rücknahmepreis zum Jahresbeginn mal 70 Prozent des Basiszinses, gedeckelt auf die tatsächliche Wertsteigerung des Jahres, abzüglich der Ausschüttungen. Davon sind bei einem Aktienfonds 30 Prozent teilfreigestellt; die Pauschale wird beim späteren Verkauf angerechnet."
+     },
+     {
+      "frage": "Du hast im selben Jahr mit einer Aktie 2.000 Euro verloren und mit einem Aktienfonds 1.500 Euro Gewinn gemacht. Deine Bank verrechnet nichts. Warum nicht - und was bleibt dir?",
+      "loesung": "Verluste aus der Veräußerung von Aktien dürfen nach § 20 Absatz 6 Satz 4 EStG nur mit Gewinnen aus der Veräußerung von Aktien ausgeglichen werden - der Fondsgewinn gehört zum allgemeinen Topf. Der Aktienverlust wandert als Verlustvortrag ins Folgejahr und wartet auf künftige Aktiengewinne."
+     },
+     {
+      "frage": "Auf deiner Abrechnung einer US-Dividende stehen: einbehaltene Quellensteuer, davon angerechnet, davon nicht angerechnet. Welche Grenzen erklären die Zeilen?",
+      "loesung": "Deutschland rechnet ausländische Steuer auf Kapitalerträge an, höchstens 25 Prozent auf den einzelnen Kapitalertrag und nur bis zur Höhe der deutschen Steuer auf diese Erträge (§ 32d Absatz 5 EStG). Was darüber liegt, ist grundsätzlich im Quellenstaat zurückzufordern; das DBA regelt die Aufteilung der Besteuerungsrechte."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wie hoch ist die Teilfreistellung bei Aktienfonds, Mischfonds und Immobilienfonds?",
+      "loesung": "30 Prozent der Erträge bei Aktienfonds, die Hälfte davon (15 Prozent) bei Mischfonds, 60 Prozent bei Immobilienfonds und 80 Prozent bei Auslands-Immobilienfonds (§ 20 InvStG)."
+     },
+     {
+      "frage": "Wann gilt die Vorabpauschale als zugeflossen, und was passiert beim späteren Verkauf?",
+      "loesung": "Am ersten Werktag des folgenden Kalenderjahres. Beim Verkauf werden die bereits versteuerten Vorabpauschalen auf den Veräußerungsgewinn angerechnet - es ist eine Vorauszahlung, keine Zusatzsteuer."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-33",
+     "warum": "Steuern verstehst du jetzt - der nächste Pfad ordnet ein, was nachhaltiges Anlegen mit ESG-Kriterien und Greenwashing-Regeln konkret bedeutet."
+    }
+   ]
+  }
+ ]
+}

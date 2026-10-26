@@ -1,0 +1,37 @@
+{
+  "slug": "ausland-quellensteuer",
+  "title": "Quellensteuer im Ausland: anrechnen, aber nur bis zur Grenze",
+  "description": "Ausländische Dividenden werden oft zweimal besteuert - einmal im Quellenstaat, einmal in Deutschland. Was anrechenbar ist und was Doppelbesteuerungsabkommen regeln.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/ausland-quellensteuer.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ausländische Staaten erheben auf Kapitalerträge wie Dividenden häufig eine Quellensteuer an der Zahlstelle.</li><li>Deutschland rechnet ausländische Steuer auf Kapitalerträge an - höchstens 25 Prozent auf den einzelnen Kapitalertrag (§ 32d Absatz 5 EStG).</li><li>Die Anrechnung ist auf die deutsche Steuer begrenzt, die auf diese Erträge entfällt.</li><li>Doppelbesteuerungsabkommen regeln, welcher Staat welches Besteuerungsrecht hat; das BMF führt die Länderliste.</li></ul></div><h2>Warum zwei Staaten zugreifen</h2><p>Bei einer ausländischen Dividende erhebt der Quellenstaat - der Staat, aus dem der Ertrag stammt - an der Zahlstelle eine Steuer, bevor das Geld dein Depot erreicht. In Deutschland unterliegt derselbe Ertrag dem gesonderten Steuertarif. Ohne Korrektur wäre der Ertrag doppelt besteuert; genau das soll das System verhindern. Das Bundesfinanzministerium beschreibt den Zweck der Doppelbesteuerungsabkommen (DBA) so: Sie verteilen Besteuerungsrechte zwischen den Staaten und weisen bei konkurrierenden Steueransprüchen das Besteuerungsrecht einem der beteiligten Staaten zu, um eine Doppelbesteuerung zu vermeiden (BMF, abgerufen 26.10.2026).</p><h2>Die Anrechnung und ihre Grenze</h2><p>§ 32d Absatz 5 EStG regelt die deutsche Seite: Die im Quellenstaat festgesetzte und gezahlte - und um einen entstandenen Ermäßigungsanspruch gekürzte - ausländische Steuer wird auf die deutsche Steuer angerechnet, jedoch höchstens 25 Prozent ausländische Steuer auf den einzelnen Kapitalertrag. Zusätzlich deckelt Satz 3 die Anrechnung auf die deutsche Steuer, die auf diese Erträge entfällt. Übersteigt die einbehaltene Quellensteuer das Abkommensmaß oder die Anrechnungsgrenze, bleibt ein Rest, der grundsätzlich im Quellenstaat zurückzufordern ist - die Verfahren dafür sind je nach Staat verschieden. § 34c EStG enthält das allgemeine Anrechnungssystem und stellt klar, dass die Abkommen vorgehen.</p><h2>Wo du den Abkommensstand findest</h2><p>Das BMF veröffentlicht die von Deutschland abgeschlossenen Doppelbesteuerungsabkommen samt Länderliste von A bis Z und weist darauf hin, dass maßgeblich stets die amtliche, im Bundesgesetzblatt veröffentlichte Fassung ist (abgerufen 26.10.2026). Für Aufgaben mit internationalem Bezug - etwa Entlastungsverfahren - ist das Bundeszentralamt für Steuern zuständig. In der Depotabrechnung siehst du die Mechanik als Zeilen: Bruttodividende, einbehaltene Quellensteuer, angerechneter Anteil.</p><h2>Einordnung für die Praxis</h2><p>Die Anrechnung läuft bei deutschen Depotbanken weitgehend automatisch; der Fall wird komplex, wenn die einbehaltene Quellensteuer über dem anrechenbaren Satz liegt oder kein Abkommen greift. Wie du anrechenbare ausländische Steuern über die Steuererklärung prüfen lässt, steht im Artikel zur <a href=\"/artikel/steuererklaerung-anlage-kap/\">Anlage KAP</a> - § 32d Absatz 4 EStG nennt ausdrücklich den Antrag wegen noch nicht berücksichtigter ausländischer Steuern. Den deutschen Tarifrahmen erklärt der Artikel zur <a href=\"/artikel/steuerliche-behandlung-aktien-vs-etf/\">steuerlichen Behandlung von Aktien und ETF</a>. Keine Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "§ 32d EStG: Gesonderter Steuertarif, Anrechnung ausländischer Steuern (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    },
+    {
+      "title": "§ 34c EStG: Anrechnung ausländischer Steuern (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__34c.html"
+    },
+    {
+      "title": "Bundesfinanzministerium: Doppelbesteuerungsabkommen und andere Abkommen im Steuerbereich (abgerufen 26.10.2026)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/doppelbesteuerungsabkommen.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Quellensteuer?",
+      "a": "Eine Steuer, die der Staat, aus dem ein Kapitalertrag stammt, direkt an der Zahlstelle einbehält - etwa auf Dividenden ausländischer Unternehmen, bevor die Ausschüttung dein Depot erreicht."
+    },
+    {
+      "q": "Wie viel ausländische Steuer wird in Deutschland angerechnet?",
+      "a": "Höchstens 25 Prozent auf den einzelnen Kapitalertrag und nur bis zur Höhe der deutschen Steuer, die auf diese Erträge entfällt. Was darüber liegt, ist grundsätzlich im Quellenstaat zurückzufordern."
+    },
+    {
+      "q": "Wo sehe ich, ob Deutschland mit einem Staat ein Abkommen hat?",
+      "a": "Auf der Seite des Bundesfinanzministeriums zu den Doppelbesteuerungsabkommen - dort steht die Länderliste mit den Vertragstexten. Maßgeblich ist die Fassung im Bundesgesetzblatt."
+    }
+  ]
+}

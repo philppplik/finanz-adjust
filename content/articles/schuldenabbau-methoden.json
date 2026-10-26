@@ -1,0 +1,33 @@
+{
+  "slug": "schuldenabbau-methoden",
+  "title": "Schulden abbauen: Ordnung, Tempo und der richtige Zeitpunkt für Hilfe",
+  "description": "Bestandsaufnahme mit Haushaltsplan, zwei verbreitete Abbaureihenfolgen im Strukturbeispiel - und die Grenze, ab der Beratung der richtige nächste Schritt ist.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/schuldenabbau-methoden.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Schuldenabbau beginnt mit der Bestandsaufnahme: Einnahmen und Ausgaben gegenüberstellen, alle Verbindlichkeiten mit Zinssatz und Rate erfassen.</li><li>Die BaFin empfiehlt eine Haushaltsrechnung; kostenlose Vorlagen gibt es etwa bei Verbraucherzentralen und Schuldnerberatungs-Portalen.</li><li>Zwei verbreitete Reihenfolgen: zuerst die kleinste Schuld (schnelle Erfolge) oder zuerst der höchste Zinssatz (rechnerisch günstiger).</li><li>Reicht die eigene Kraft nicht aus, ist die Schuldnerberatung der richtige nächste Schritt - keine Niederlage, sondern Verfahren.</li></ul></div><h2>Schritt eins: die Bestandsaufnahme</h2><p>Ohne Lagebild kein Abbauplan. Die BaFin rät zu einer Haushaltsrechnung: regelmäßige Einnahmen sowie feste und flexible Ausgaben auflisten; kostenlose Vorlagen finden sich online, etwa bei Verbraucherzentralen (BaFin, abgerufen 26.10.2026). Das Portal meine-schulden.de bietet ebenfalls einen kostenlosen Haushaltsplan zum Download und betont dessen Rolle in der Beratung: Im Gespräch mit einer Beratungskraft hilft der Plan, über finanzielle und persönliche Planungen zu sprechen - entscheiden tust du dabei immer selbst (meine-schulden.de, abgerufen 26.10.2026). Dazu gehört eine vollständige Liste der Verbindlichkeiten: Gläubiger, Restschuld, <a href=\"/artikel/effektiver-jahreszins-erklaert/\">effektiver Jahreszins</a>, monatliche Rate.</p><h2>Zwei verbreitete Reihenfolgen</h2><p>Für die Reihenfolge des Abbaus haben sich zwei Ordnungen verbreitet - als Strukturbeispiel, nicht als Empfehlung: Die erste tilgt zuerst die kleinste Restschuld, weil frühe Erfolge das Durchhalten erleichtern. Die zweite tilgt zuerst die Schuld mit dem höchsten Zinssatz, weil das rechnerisch die Gesamtkosten senkt. Beide setzen dasselbe voraus: Alle anderen Verpflichtungen werden weiterhin vertragsgemäß bedient, nur das frei werdende Geld fließt konzentriert in eine Schuld. Beim Blick auf die Zinssätze fällt die Wahl oft auf den <a href=\"/artikel/dispo-und-ratenkredit/\">Dispo</a> - nach Angaben der BaFin verlangen Banken dafür oft hohe Zinsen. Wo ein Kreditwechsel die Rechnung verbessert, erklärt der Artikel zur <a href=\"/artikel/umschuldung-erklaert/\">Umschuldung</a>.</p><h2>Tempo kommt aus dem Haushalt, nicht aus der Hoffnung</h2><p>Die Abbaugeschwindigkeit ergibt sich aus der Differenz zwischen Einnahmen und Ausgaben - deshalb steht die Haushaltsrechnung am Anfang. Realistisch geplant heißt: Fixkosten und notwendige flexible Ausgaben bleiben gedeckt, der freie Rest bekommt einen festen Verwendungszweck. Strukturbeispiel: Bleiben nach allen Ausgaben 150 Euro im Monat, gehen diese 150 Euro zusätzlich in genau eine Zielschuld, bis sie geschlossen ist - danach rollt der frei gewordene Betrag auf die nächste.</p><h2>Die Grenze: wann Ordnung allein nicht reicht</h2><p>Eine klare Grenze ist erreicht, wenn die vereinbarten Raten dauerhaft nicht mehr aus dem laufenden Budget bedient werden können oder neue Kredite alte Raten finanzieren. Dann ist der richtige Schritt kein weiterer Plan, sondern Beratung: anerkannte Schuldner- und Insolvenzberatungsstellen arbeiten nach dem Portal meine-schulden.de unabhängig und helfen auch bei Verhandlungen mit Gläubigern. Wo du sie findest, steht im Artikel zur <a href=\"/artikel/schuldnerberatung-wo-hilfe/\">Schuldnerberatung</a>. Keine Rechts- oder Kreditberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Konsumentenkredite vergleichen - so geht's (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/kredite-immobilienfinanzierung/kredite/konsumentenkredite-vergleichen/konsumentenkredite-vergleichen.html"
+    },
+    {
+      "title": "meine-schulden.de: Kostenloser Haushaltsplan zum Download (abgerufen 26.10.2026)",
+      "url": "https://www.meine-schulden.de/haushaltsplan"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Schuld zuerst abbezahlen?",
+      "a": "Verbreitet sind zwei Ordnungen: zuerst die kleinste Restschuld für schnelle Erfolge oder zuerst der höchste Zinssatz für die geringsten Gesamtkosten. Beide setzen voraus, dass alle anderen Raten weiterhin pünktlich laufen."
+    },
+    {
+      "q": "Wozu brauche ich einen Haushaltsplan?",
+      "a": "Er zeigt, wie viel Geld monatlich tatsächlich frei ist - die einzige belastbare Grundlage für eine Abbaurate. In der Schuldnerberatung ist er zudem das zentrale Arbeitsdokument."
+    },
+    {
+      "q": "Wann ist der Punkt für professionelle Hilfe erreicht?",
+      "a": "Wenn vereinbarte Raten dauerhaft nicht mehr aus dem laufenden Budget bedient werden können oder neue Kredite alte Raten finanzieren. Dann ist eine anerkannte Schuldnerberatungsstelle der richtige nächste Schritt."
+    }
+  ]
+}

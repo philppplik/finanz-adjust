@@ -1,0 +1,33 @@
+{
+  "slug": "schufa-und-bonitaet",
+  "title": "SCHUFA und Bonität: Was der Score ist - und was nicht",
+  "description": "Der SCHUFA-Score ist eine statistische Zahlungsprognose, kein Urteil über dich. Wie er entsteht, welche Skala er hat und wo du deine gespeicherten Daten einsehen kannst.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/schufa-und-bonitaet.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bonitäts-Scores geben eine statistische Zahlungsprognose wieder: Wie wahrscheinlich ist es, dass Geschäfte vertragsgemäß erfüllt werden?</li><li>Je höher der Score, desto höher die eingeschätzte Zahlungswahrscheinlichkeit.</li><li>Der neue SCHUFA-Score hat eine Skala von 100 bis 999 Punkten und setzt sich aus zwölf Kriterien zusammen.</li><li>Die bei der SCHUFA gespeicherten Informationen kannst du im SCHUFA-Account, bei bonify oder in der Datenkopie nach Art. 15 DSGVO einsehen.</li></ul></div><h2>Was der Score misst</h2><p>Ein Bonitäts-Score ist keine Bewertung deiner Person, sondern eine statistische Prognose: Die SCHUFA beschreibt ihn als Schätzung, wie wahrscheinlich es ist, dass Geschäfte vertragsgemäß erfüllt werden - etwa dass ein Kredit pünktlich zurückgezahlt oder eine Rechnung nach erhaltener Bestellung bezahlt wird (SCHUFA, abgerufen 26.10.2026). Je höher der Score, desto höher die Zahlungswahrscheinlichkeit. Banken, Versandhändler oder Mobilfunkanbieter nutzen solche Prognosen als eine von mehreren Entscheidungsgrößen; die eigentliche Entscheidung - etwa über einen Kredit und seine Konditionen - trifft immer das Unternehmen selbst.</p><h2>Wie der neue Score aufgebaut ist</h2><p>Nach Angaben der SCHUFA hat der neue SCHUFA-Score eine Skala von 100 bis 999 Punkten und gilt übergreifend für Branchen wie Banken und Sparkassen - früher gab es separate Branchenscores (SCHUFA, abgerufen 26.10.2026). Berechnet wird er aus den bei der SCHUFA gespeicherten Informationen; der neue Score setzt sich aus zwölf Kriterien zusammen, deren einzelne Punkte nachvollziehbar ausgewiesen werden sollen. Was genau gespeichert ist, kannst du selbst prüfen: im SCHUFA-Account, bei bonify oder über die Datenkopie nach Artikel 15 DSGVO.</p><h2>Warum der Score für Kredite zählt</h2><p>Bei bonitätsabhängigen Krediten beeinflusst die eingeschätzte Zahlungswahrscheinlichkeit, welchen Zinssatz du persönlich angeboten bekommst - erst die Konditionenanfrage zeigt ihn, wie im Artikel zum <a href=\"/artikel/effektiver-jahreszins-erklaert/\">effektiven Jahreszins</a> beschrieben. Bei der Vergabe selbst ist die Bank zur Kreditwürdigkeitsprüfung verpflichtet, etwa beim <a href=\"/artikel/dispo-und-ratenkredit/\">Dispositionskredit</a>. Den Begriff <a href=\"/artikel/glossar-bonitaet/\">Bonität</a> erklärt das Glossar.</p><h2>Einordnung statt Aktionismus</h2><p>Der Score folgt gespeicherten Daten, keine Daten folgen dem Score. Sinnvoll ist deshalb nüchterne Hygiene: gespeicherte Informationen regelmäßig einsehen, fehlerhafte Einträge korrigieren lassen und Zahlungsverpflichtungen pünktlich bedienen. Wer wegen bestehender Schulden Sorge vor Einträgen hat, findet im Artikel zu <a href=\"/artikel/schuldenabbau-methoden/\">Schuldenabbau-Methoden</a> die sachliche Reihenfolge. Keine Rechts- oder Kreditberatung.</p>",
+  "sources": [
+    {
+      "title": "SCHUFA: Wie die SCHUFA Scores zur Bewertung der Bonität berechnet (abgerufen 26.10.2026)",
+      "url": "https://www.schufa.de/scoring-daten/scoring-schufa/"
+    },
+    {
+      "title": "SCHUFA: Wie funktioniert die SCHUFA-Scoreberechnung? (abgerufen 26.10.2026)",
+      "url": "https://www.schufa.de/faq/privatpersonen/scoring/wie-funktioniert-die-schufa-scoreberechnung.jsp"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Entscheidet die SCHUFA über meinen Kredit?",
+      "a": "Nein. Die SCHUFA liefert eine statistische Zahlungsprognose. Ob ein Kredit vergeben wird und zu welchen Konditionen, entscheidet allein das Unternehmen, bei dem du anfragst."
+    },
+    {
+      "q": "Wo sehe ich, was über mich gespeichert ist?",
+      "a": "Nach Angaben der SCHUFA im SCHUFA-Account, bei bonify oder in der Datenkopie nach Artikel 15 DSGVO."
+    },
+    {
+      "q": "Was bedeutet die Skala von 100 bis 999?",
+      "a": "Das ist die Punkteskala des neuen SCHUFA-Scores. Grundsätzlich gilt: Je höher der Wert, desto höher die eingeschätzte Zahlungswahrscheinlichkeit. Der Score setzt sich aus zwölf Kriterien zusammen."
+    }
+  ]
+}

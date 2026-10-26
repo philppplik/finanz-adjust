@@ -1,0 +1,33 @@
+{
+  "slug": "verlustverrechnung-toepfe",
+  "title": "Verlustverrechnung: die Töpfe, die das Gesetz trennt",
+  "description": "Kapitalverluste dürfen nicht mit anderen Einkünften verrechnet werden, Aktienverluste nur mit Aktiengewinnen. Was § 20 Absatz 6 EStG trennt und was der Verlustvortrag rettet.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/verlustverrechnung-toepfe.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Verluste aus Kapitalvermögen dürfen nicht mit Einkünften aus anderen Einkunftsarten ausgeglichen werden.</li><li>Sie mindern aber die Kapitaleinkünfte der folgenden Jahre - der Verlustvortrag.</li><li>Verluste aus der Veräußerung von Aktien dürfen nur mit Gewinnen aus der Veräußerung von Aktien ausgeglichen werden.</li><li>Über Depots hinweg verrechnet das Finanzamt - dafür brauchst du eine Verlustbescheinigung der Bank.</li></ul></div><h2>Die erste Mauer: keine Querverrechnung</h2><p>§ 20 Absatz 6 Satz 1 EStG ist eindeutig: Verluste aus Kapitalvermögen dürfen nicht mit Einkünften aus anderen Einkunftsarten ausgeglichen werden und auch nicht nach § 10d abgezogen werden. Ein Depotverlust senkt also weder deine Lohnsteuer noch deine Steuer auf Mieteinnahmen. Was bleibt, ist Satz 2: Die Verluste mindern die Kapitaleinkünfte, die du in den folgenden Veranlagungszeiträumen erzielst. Das ist der Verlustvortrag - der Verlust ist nicht weg, sondern wartet auf künftige Gewinne derselben Einkunftsart.</p><h2>Die zweite Mauer: der Aktientopf</h2><p>Innerhalb der Kapitaleinkünfte gibt es eine weitere Trennung. Nach § 20 Absatz 6 Satz 4 EStG dürfen Verluste aus der Veräußerung von Aktien nur mit Gewinnen aus der Veräußerung von Aktien ausgeglichen werden. Ein Aktienverlust lässt sich also nicht mit Zinsen, Dividenden oder Fondsgewinnen verrechnen - nur mit Aktiengewinnen, jetzt oder künftig. Verluste aus anderen Kapitalanlagen - etwa aus Fonds oder Anleihen - bilden den allgemeinen Topf, der breiter verrechenbar ist. Das Bild der \"Töpfe\" ist dabei nur ein Erklärmodell für das, was der Gesetzestext getrennt hält.</p><h2>Verrechnung im Depot und darüber hinaus</h2><p>Die erste Verrechnungsebene ist deine Bank: Sie verrechnet Gewinne und Verluste innerhalb desselben Depots automatisch und führt Verlusttöpfe weiter. Die zweite Ebene ist das Finanzamt: Sollen Verluste über mehrere Depots hinweg oder ins Folgejahr verrechnet werden, braucht es nach § 20 Absatz 6 Satz 5 EStG eine Bescheinigung der Bank im Sinne des § 43a Absatz 3 Satz 4 - die sogenannte Verlustbescheinigung. Mit ihr prüft das Finanzamt den Steuereinbehalt neu; den Antrag auf diese Überprüfung beschreibt § 32d Absatz 4 EStG, der neben nicht berücksichtigten Verlusten auch Verlustvorträge und noch nicht berücksichtigte ausländische Steuern nennt. Wie der Antrag über die <a href=\"/artikel/steuererklaerung-anlage-kap/\">Anlage KAP</a> läuft, steht im nächsten Schritt dieses Pfads.</p><h2>Einordnung für die Praxis</h2><p>Die Trennung hat eine planbare Konsequenz: Welche Anlage im Verlust verkauft wird, entscheidet darüber, wogegen der Verlust überhaupt verrechenbar ist - ein Faktor bei der Reihenfolge von Verkäufen, keine Anleitung zum Handeln. Den Rahmen der Besteuerung erklärt der Artikel zur <a href=\"/artikel/steuerliche-behandlung-aktien-vs-etf/\">steuerlichen Behandlung von Aktien und ETF</a>. Keine Steuerberatung; komplexe Fälle gehören zum <a href=\"/artikel/wo-steuerberater-noetig-ist/\">Steuerberater</a>.</p>",
+  "sources": [
+    {
+      "title": "§ 20 Einkommensteuergesetz: Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__20.html"
+    },
+    {
+      "title": "§ 32d EStG: Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich Depotverluste mit meinem Gehalt verrechnen?",
+      "a": "Nein. Verluste aus Kapitalvermögen dürfen nicht mit Einkünften aus anderen Einkunftsarten ausgeglichen werden. Sie mindern nur künftige Kapitaleinkünfte - der Verlustvortrag."
+    },
+    {
+      "q": "Warum lässt sich mein Aktienverlust nicht mit Zinsen verrechnen?",
+      "a": "Weil § 20 Absatz 6 Satz 4 EStG Verluste aus der Veräußerung von Aktien auf den Ausgleich mit Gewinnen aus der Veräußerung von Aktien beschränkt. Der Aktientopf ist vom allgemeinen Verlusttopf getrennt."
+    },
+    {
+      "q": "Wie verrechne ich Verluste zwischen zwei Depots?",
+      "a": "Über das Finanzamt: Du brauchst eine Verlustbescheinigung der Bank nach § 43a Absatz 3 Satz 4 EStG und stellst mit der Steuererklärung den Antrag auf Überprüfung des Steuerbehalts nach § 32d Absatz 4."
+    }
+  ]
+}

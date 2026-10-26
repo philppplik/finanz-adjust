@@ -1,0 +1,37 @@
+{
+  "slug": "teilfreistellung-erklaert",
+  "title": "Teilfreistellung: Warum Fondserträge nur zum Teil besteuert werden",
+  "description": "Bei Aktienfonds sind 30 Prozent der Erträge steuerfrei, bei Mischfonds 15, bei Immobilienfonds 60 oder 80. Was § 20 InvStG regelt und wo die Freistellung wirkt.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/teilfreistellung-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bei Aktienfonds sind 30 Prozent der Erträge steuerfrei (Aktienteilfreistellung).</li><li>Bei Mischfonds gilt die Hälfte der Aktienteilfreistellung, also 15 Prozent.</li><li>Bei Immobilienfonds sind 60 Prozent steuerfrei, bei Auslands-Immobilienfonds 80 Prozent.</li><li>Die Freistellung wirkt auf alle Investmenterträge: Ausschüttungen, Vorabpauschale und Veräußerungsgewinne.</li></ul></div><h2>Was das Gesetz freistellt</h2><p>§ 20 Absatz 1 InvStG legt den Kern fest: Steuerfrei sind bei Aktienfonds 30 Prozent der Erträge. Für Mischfonds schreibt Absatz 2 die halbe Aktienteilfreistellung vor - also 15 Prozent. Bei Immobilienfonds sind nach Absatz 3 60 Prozent der Erträge steuerfrei, bei Auslands-Immobilienfonds 80 Prozent; beide Freistellungen schließen die Aktienteilfreistellung aus. Die Sätze gelten für private Anleger; für Betriebsvermögen und Körperschaften sieht das Gesetz eigene Sätze vor. Erträge aus Investmentfonds sind nach § 16 InvStG drei Dinge: Ausschüttungen des Fonds, die <a href=\"/artikel/vorabpauschale-erklaert/\">Vorabpauschale</a> und Gewinne aus der Veräußerung von Anteilen - auf alle drei wirkt die Teilfreistellung.</p><h2>Warum es die Freistellung gibt</h2><p>Die Teilfreistellung ist der Ausgleich dafür, dass auf Fondsebene bereits Besteuerungs- und Belastungseffekte wirken, die beim direkten Aktienbesitz anders aussehen. Der Mechanismus bleibt für dich unsichtbar: Die depotführende Stelle berücksichtigt den Freistellungssatz automatisch, wenn sie Erträge abrechnet - du siehst das Ergebnis in der Steuerbescheinigung, nicht den Rechenschritt. Praktisch heißt das: Von einer Ausschüttung eines Aktienfonds sind nur 70 Prozent steuerpflichtig, von der eines Mischfonds 85 Prozent.</p><h2>Woran du die Fondsart erkennst</h2><p>Der Freistellungssatz hängt an der Fondskategorie - Aktienfonds, Mischfonds oder Immobilienfonds - und damit an der im Fondsrecht festgelegten Mindestquote an Aktien beziehungsweise Immobilien. Für die Einordnung reicht ein Blick in die Fondsdokumente: Die Kategorie steht im Namen oder in den Anlagebedingungen. Den allgemeinen Rahmen der Besteuerung von Kapitalerträgen - 25 Prozent gesonderter Steuertarif nach § 32d EStG plus Solidaritätszuschlag - erklärt der Artikel zur <a href=\"/artikel/steuerliche-behandlung-aktien-vs-etf/\">steuerlichen Behandlung von Aktien und ETF</a>, die Vorgeschichte in Lernpfad 08 zu <a href=\"/lernpfade/lp-fa-08-steuern-auf-kapitalertraege/\">Steuern auf Kapitalerträge</a>.</p><h2>Einordnung statt Rechenspiel</h2><p>Die Teilfreistellung ist ein fester Parameter des Gesetzes, keine Gestaltungsoption: Sie fällt an, wenn der Fonds die Kategorie erfüllt, und entfällt, wenn nicht. Relevant wird sie beim Vergleich von Ertragsangaben - ein thesaurierender Aktienfonds und ein Anleihenfonds unterscheiden sich steuerlich nicht nur im Risiko, sondern auch im Freistellungssatz. Keine Steuerberatung; bei Fragen zur eigenen Veranlagung hilft der Artikel <a href=\"/artikel/wo-steuerberater-noetig-ist/\">Wann ein Steuerberater nötig ist</a>.</p>",
+  "sources": [
+    {
+      "title": "§ 20 Investmentsteuergesetz: Teilfreistellung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__20.html"
+    },
+    {
+      "title": "§ 16 Investmentsteuergesetz: Investmenterträge (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__16.html"
+    },
+    {
+      "title": "§ 32d EStG: Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich die Teilfreistellung selbst beantragen?",
+      "a": "Nein. Die depotführende Stelle berücksichtigt den Freistellungssatz automatisch bei der Abrechnung. Du siehst das Ergebnis in der jährlichen Steuerbescheinigung."
+    },
+    {
+      "q": "Gilt die Teilfreistellung auch für Veräußerungsgewinne?",
+      "a": "Ja. Investmenterträge im Sinne des Gesetzes sind Ausschüttungen, die Vorabpauschale und Gewinne aus der Veräußerung von Anteilen - die Teilfreistellung wirkt auf alle drei."
+    },
+    {
+      "q": "Wie hoch ist der Freistellungssatz bei meinem ETF?",
+      "a": "Das hängt von der Fondskategorie ab: 30 Prozent bei Aktienfonds, 15 bei Mischfonds, 60 bei Immobilienfonds und 80 bei Auslands-Immobilienfonds. Die Kategorie steht in den Fondsdokumenten."
+    }
+  ]
+}

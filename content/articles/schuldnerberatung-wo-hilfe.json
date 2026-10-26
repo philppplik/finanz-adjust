@@ -1,0 +1,37 @@
+{
+  "slug": "schuldnerberatung-wo-hilfe",
+  "title": "Schuldnerberatung: Wo du kostenlose Hilfe findest",
+  "description": "Über 1.400 anerkannte Beratungsstellen, das Bundesportal und der Atlas des Statistischen Bundesamts: drei offizielle Wege zur Schuldnerberatung in deiner Nähe.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/schuldnerberatung-wo-hilfe.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Datenbank von meine-schulden.de enthält über 1.400 Schuldner- und Insolvenzberatungsstellen in ganz Deutschland.</li><li>Das Bundesportal verwaltung.bund.de führt zur zuständigen Stelle - die Leistung heißt \"Schuldnerberatung wahrnehmen\".</li><li>Der Schuldnerberatungsatlas des Statistischen Bundesamts zeigt die Fahrzeit zur nächsten Beratungsstelle von jedem Standort.</li><li>Zur Kostenübernahme gibt es bundesweit keine einheitliche Regelung - anerkannte Stellen beraten in der Regel kostenlos.</li></ul></div><h2>Wofür die Beratung da ist</h2><p>Das Bundesportal formuliert es nüchtern: Wer finanzielle Schwierigkeiten hat oder dem eine Überschuldung droht, kann die Leistung \"Schuldnerberatung wahrnehmen\" in Anspruch nehmen (verwaltung.bund.de, abgerufen 26.10.2026). Die Zuständigkeit hängt vom Wohnort ab; das Portal führt nach Auswahl der Region zur richtigen Stelle. Die Beratung arbeitet mit deinem <a href=\"/artikel/schuldenabbau-methoden/\">Haushaltsplan</a>, hilft bei der Einschätzung der Lage aus unabhängiger Sicht und kann bei Verhandlungen mit Gläubigern argumentieren - entscheiden tust du selbst (meine-schulden.de, abgerufen 26.10.2026).</p><h2>Weg eins: die Stellensuche</h2><p>Die Datenbank auf meine-schulden.de enthält nach eigenen Angaben über 1.400 Schuldner- und Insolvenzberatungsstellen in ganz Deutschland und führt dich über die Stellensuche zur passenden Beratungsstelle in der Nähe (abgerufen 26.10.2026). Dahinter stehen die anerkannten Träger - kommunale Stellen und freie Wohlfahrtspflege.</p><h2>Weg zwei: der Schuldnerberatungsatlas</h2><p>Das Statistische Bundesamt stellt einen interaktiven Schuldnerberatungsatlas bereit: Er zeigt die Erreichbarkeit der nächsten Beratungsstelle von Standorten in ganz Deutschland, angegeben in Minuten Fahrzeit mit dem Pkw bei ungestörter Verkehrslage (destatis, abgerufen 26.10.2026). Das Bundesamt weist zugleich auf eine wichtige Einschränkung hin: Über die Kostenübernahme kann keine bundeseinheitliche Auskunft gegeben werden, weil es dazu keine einheitliche Regelung gibt. Anerkannte öffentliche und freigemeinnützige Stellen beraten erfahrungsgemäß kostenlos; bei gewerblichen Angeboten lohnt ein Blick auf die Kosten vor der Beauftragung.</p><h2>Der erste Schritt ist der härteste</h2><p>Beratungsstellen sehen täglich Lagen, die sich für die Betroffenen einmalig anfühlen. Sinnvoll ist, den Termin nicht vom perfekten Unterlagenordner abhängig zu machen: Die Bestandsaufnahme aus dem Artikel zu <a href=\"/artikel/schuldenabbau-methoden/\">Schuldenabbau-Methoden</a> reicht als Start; alles Weitere erarbeitet die Beratung mit dir. Steht eine Kreditseite im Vordergrund - etwa ein dauerhaft überzogener <a href=\"/artikel/dispo-und-ratenkredit/\">Dispo</a> -, nimm die Kontoauszüge gleich mit. Keine Rechtsberatung.</p>",
+  "sources": [
+    {
+      "title": "meine-schulden.de: Kostenlose Schuldnerberatung in der Nähe finden (abgerufen 26.10.2026)",
+      "url": "https://www.meine-schulden.de/hilfe-finden/stellensuche"
+    },
+    {
+      "title": "Bundesportal verwaltung.bund.de: Schuldnerberatung wahrnehmen (abgerufen 26.10.2026)",
+      "url": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99107060058000"
+    },
+    {
+      "title": "Statistisches Bundesamt: Schuldnerberatungsatlas (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Service/Statistik-Visualisiert/schuldnerberatungsatlas.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kostet die Schuldnerberatung etwas?",
+      "a": "Anerkannte öffentliche und freigemeinnützige Beratungsstellen beraten in der Regel kostenlos. Es gibt bundesweit keine einheitliche Regelung zur Kostenübernahme - das Statistische Bundesamt weist ausdrücklich darauf hin. Bei gewerblichen Anbietern vorher nach den Kosten fragen."
+    },
+    {
+      "q": "Wie finde ich die nächste Stelle?",
+      "a": "Über die Stellensuche auf meine-schulden.de mit über 1.400 Stellen, über das Bundesportal verwaltung.bund.de oder über den interaktiven Schuldnerberatungsatlas des Statistischen Bundesamts."
+    },
+    {
+      "q": "Was muss ich zum ersten Termin mitbringen?",
+      "a": "Eine erste Übersicht reicht: Einnahmen, Ausgaben, Verbindlichkeiten mit Gläubiger und Rate, dazu aktuelle Kontoauszüge und Mahnschreiben. Der Rest wird gemeinsam erarbeitet."
+    }
+  ]
+}

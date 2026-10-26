@@ -1,0 +1,37 @@
+{
+  "slug": "effektiver-jahreszins-erklaert",
+  "title": "Effektiver Jahreszins: Warum nur diese Zahl den Kreditpreis zeigt",
+  "description": "Sollzins, effektiver Jahreszins, 2/3-Zins: Was die Pflichtangaben nach der Preisangabenverordnung bedeuten und wie du Kreditangebote vergleichbar machst. Ohne Kreditberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/effektiver-jahreszins-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der effektive Jahreszins bündelt Sollzins und die übrigen Kosten des Kredits zu einer Jahreszahl.</li><li>Die Berechnung folgt einer einheitlichen Formel, die die Anlage zu § 16 PAngV vorschreibt.</li><li>In der Kreditwerbung muss der effektive Jahreszins mindestens so hervorgehoben sein wie jeder andere Zinssatz (§ 17 PAngV).</li><li>Das repräsentative Beispiel zeigt den Zinssatz, den mindestens zwei Drittel der Verträge erreichen oder unterschreiten.</li></ul></div><h2>Sollzins ist nicht der Preis</h2><p>Der Sollzins (früher Nominalzins) beschreibt nur die Verzinsung des Darlehensbetrags. Was der Kredit insgesamt kostet, zeigt er nicht: Vermittlungsgebühren oder Bearbeitungskosten kommen hinzu. Die BaFin rät deshalb, vor allem auf den effektiven Jahreszins zu achten. Er berücksichtigt neben dem Sollzins zusätzliche Kosten wie Vermittlungs- oder Bearbeitungsgebühren, und alle Anbieter müssen ihn nach einer einheitlichen Formel berechnen (BaFin, abgerufen 26.10.2026). Genau diese Einheitlichkeit macht den Wert vergleichbar: Zwei Angebote mit demselben Sollzins können sich im effektiven Jahreszins deutlich unterscheiden.</p><h2>So schreibt es die Verordnung vor</h2><p>Wer mit Zinssätzen oder sonstigen Kostenangaben für ein Verbraucherdarlehen wirbt, muss nach § 17 Absatz 2 PAngV klar, eindeutig und auffallend angeben: Identität und Anschrift des Darlehensgebers, den Nettodarlehensbetrag, den Sollzinssatz samt Auskunft, ob er fest oder variabel ist, die in die Gesamtkosten einbezogenen Kosten - und den effektiven Jahreszins. Der effektive Jahreszins muss dabei mindestens genauso hervorgehoben werden wie jeder andere Zinssatz. Wie er zu rechnen ist, legt die Anlage zu § 16 PAngV fest: eine Grundgleichung, die auf jährlicher Basis die rechnerische Gleichheit zwischen den Gegenwartswerten der Auszahlungsbeträge und den Gegenwartswerten aller Rückzahlungen - Tilgung, Zinsen und Kosten - herstellt. Der effektive Jahreszins ist die Zahl, bei der beide Seiten aufgehen.</p><h2>Der 2/3-Zins und das repräsentative Beispiel</h2><p>Viele Zinsen sind bonitätsabhängig: Welchen Satz du persönlich bekommst, erfährst du erst nach einer Konditionenanfrage. Damit Werbung trotzdem vergleichbar bleibt, schreibt § 17 Absatz 4 PAngV das repräsentative Beispiel vor: Der Werbende muss von einem effektiven Jahreszins ausgehen, von dem er erwarten darf, dass mindestens zwei Drittel der aufgrund der Werbung zustande kommenden Verträge zu diesem oder einem niedrigeren Zinssatz abgeschlossen werden. Die BaFin weist darauf hin, dass dieser 2/3-Zins meist im Kleingedruckten steht, etwa als \"Repräsentatives Beispiel nach § 17 der Preisangabenverordnung\", und zusammen mit der Zinsspanne mehr Orientierung bietet als die Beispielrechnung mit dem günstigsten Satz (BaFin, abgerufen 26.10.2026).</p><h2>Wie du Angebote vergleichst</h2><p>Drei Schritte machen den Vergleich sauber: erst den effektiven Jahreszins und das repräsentative Beispiel gegenüberstellen, dann für bonitätsabhängige Angebote die persönliche Konditionenanfrage einholen, dann Gesamtbetrag, Laufzeit und Rate prüfen - § 17 Absatz 3 PAngV verlangt auch diese Angaben in der Werbung. Wie sich Dispo und Ratenkredit grundsätzlich unterscheiden, liest du im Artikel zu <a href=\"/artikel/dispo-und-ratenkredit/\">Dispo und Ratenkredit</a>, den Ablauf beim Ablösen teurer Kredite im Artikel zur <a href=\"/artikel/umschuldung-erklaert/\">Umschuldung</a>. Raten und Tilgungsverlauf eines Modellkredits kannst du im <a href=\"/rechner/kredit/\">Kreditrechner</a> durchrechnen - er arbeitet bewusst nur mit dem Sollzins und ersetzt kein Kreditangebot. Keine Kreditberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Konsumentenkredite vergleichen - so geht's (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/kredite-immobilienfinanzierung/kredite/konsumentenkredite-vergleichen/konsumentenkredite-vergleichen.html"
+    },
+    {
+      "title": "§ 17 Preisangabenverordnung: Werbung für Verbraucherdarlehen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/pangv_2022/__17.html"
+    },
+    {
+      "title": "Anlage zu § 16 PAngV: Berechnung des effektiven Jahreszinses (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/pangv_2022/anlage.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum reicht der Sollzins für den Vergleich nicht aus?",
+      "a": "Weil er nur die Verzinsung des Darlehens beschreibt. Der effektive Jahreszins berücksichtigt zusätzlich Kosten wie Vermittlungs- oder Bearbeitungsgebühren und folgt einer für alle Anbieter einheitlichen Formel - erst das macht Angebote vergleichbar."
+    },
+    {
+      "q": "Was ist der 2/3-Zins?",
+      "a": "Der Zinssatz im repräsentativen Beispiel der Werbung: Mindestens zwei Drittel der daraufhin zustande kommenden Verträge müssen zu diesem oder einem niedrigeren effektiven Jahreszins abgeschlossen werden. Er zeigt realistischere Konditionen als der günstigste Werbezins."
+    },
+    {
+      "q": "Warum bekomme ich einen höheren Zins als in der Werbung?",
+      "a": "Viele Kreditzinsen sind bonitätsabhängig. Das Werbeangebot zeigt den bestmöglichen oder den 2/3-Zins; dein persönlicher Satz steht erst nach der Konditionenanfrage fest."
+    }
+  ]
+}

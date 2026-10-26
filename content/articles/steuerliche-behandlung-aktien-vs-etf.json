@@ -1,0 +1,41 @@
+{
+  "slug": "steuerliche-behandlung-aktien-vs-etf",
+  "title": "Aktien oder ETF: zwei Wege durch dieselbe Steuer",
+  "description": "Der Steuertarif ist derselbe - 25 Prozent plus Solidaritätszuschlag. Unterschiede stecken in Teilfreistellung, Vorabpauschale und Verlustverrechnung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/steuerliche-behandlung-aktien-vs-etf.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Für Einkünfte aus Kapitalvermögen gilt ein gesonderter Steuertarif von 25 Prozent (§ 32d EStG).</li><li>Dazu kommt der Solidaritätszuschlag von 5,5 Prozent der Steuer (§ 4 SolzG).</li><li>Der Sparer-Pauschbetrag beträgt 1.000 Euro, bei Zusammenveranlagung 2.000 Euro (§ 20 Absatz 9 EStG).</li><li>Aktien und Fonds teilen den Tarif, unterscheiden sich aber bei Teilfreistellung, Ertragsmechanik und Verlustverrechnung.</li></ul></div><h2>Der gemeinsame Rahmen</h2><p>Ausgangspunkt ist § 32d Absatz 1 EStG: Die Einkommensteuer für Einkünfte aus Kapitalvermögen beträgt 25 Prozent - der gesonderte Steuertarif, umgangssprachlich Abgeltungsteuer. Auf die Steuer kommt nach § 4 SolzG der Solidaritätszuschlag von 5,5 Prozent; bei Kirchensteuerpflicht kommt die Kirchensteuer hinzu, deren Effekt das Gesetz rechnerisch ausgleicht. Frei bleibt der Sparer-Pauschbetrag: § 20 Absatz 9 EStG zieht bei der Ermittlung der Einkünfte 1.000 Euro als Werbungskostenpauschale ab - zusammenveranlagte Ehegatten erhalten gemeinsam 2.000 Euro; der Abzug der tatsächlichen Werbungskosten ist ausgeschlossen. Dieser Rahmen gilt für Aktiengewinne wie für Fondserträge gleichermaßen.</p><h2>Was bei Fonds anders läuft</h2><p>Drei Unterschiede zählen. Erstens die Ertragsmechanik: Bei Aktien fallen Steuern auf Dividenden und realisierte Veräußerungsgewinne an; bei Fonds kommt mit der <a href=\"/artikel/vorabpauschale-erklaert/\">Vorabpauschale</a> ein jährlicher rechnerischer Ertrag hinzu, der beim Verkauf angerechnet wird. Zweitens die <a href=\"/artikel/teilfreistellung-erklaert/\">Teilfreistellung</a>: Bei Aktienfonds sind 30 Prozent der Erträge steuerfrei, bei Mischfonds 15, bei Immobilienfonds 60 oder 80 - ein Freistellungssatz, den die einzelne Aktie nicht kennt. Drittens die <a href=\"/artikel/verlustverrechnung-toepfe/\">Verlustverrechnung</a>: Verluste aus der Veräußerung von Aktien dürfen nur mit Gewinnen aus der Veräußerung von Aktien ausgeglichen werden, während Fondsverluste dem allgemeinen Topf zuzurechnen sind.</p><h2>Strukturbeispiel zur Einordnung</h2><p>Als Strukturbeispiel, nicht als Empfehlung: Ein Aktienfonds und eine Einzelaktie erzielen im Jahr denselben Kursgewinn. Beim Verkauf greift bei beiden der 25-prozentige Tarif plus Solidaritätszuschlag - aber beim Fonds sind 30 Prozent des Gewinns bereits steuerfrei gestellt, und unterjährig wurde möglicherweise eine Vorabpauschale versteuert, die nun angerechnet wird. Bei der Aktie entfällt die Teilfreistellung, dafür ist ein etwaiger Verlust an den Aktientopf gebunden. Dieselbe Tarifzahl, zwei verschiedene Rechenwege dahin.</p><h2>Was der Vergleich nicht leistet</h2><p>Die steuerliche Behandlung ist ein Rahmenparameter, keine Entscheidungsgrundlage: Risiko, Kosten und Anlageziel wiegen schwerer als der Freistellungssatz. Grundlagen liefert Lernpfad 08 zu <a href=\"/lernpfade/lp-fa-08-steuern-auf-kapitalertraege/\">Steuern auf Kapitalerträge</a>. Keine Steuer- oder Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "§ 32d EStG: Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    },
+    {
+      "title": "§ 20 EStG: Einkünfte aus Kapitalvermögen, Sparer-Pauschbetrag (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__20.html"
+    },
+    {
+      "title": "§ 4 Solidaritätszuschlaggesetz 1995: Zuschlagsatz (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/solzg_1995/__4.html"
+    },
+    {
+      "title": "§ 20 Investmentsteuergesetz: Teilfreistellung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__20.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hoch ist die Steuer auf Aktiengewinne?",
+      "a": "Der gesonderte Steuertarif beträgt 25 Prozent, dazu kommen 5,5 Prozent Solidaritätszuschlag auf die Steuer und gegebenenfalls Kirchensteuer. Frei bleiben 1.000 Euro Sparer-Pauschbetrag pro Person."
+    },
+    {
+      "q": "Sind ETF steuerlich im Vorteil?",
+      "a": "Nicht pauschal. Aktienfonds profitieren von der 30-prozentigen Teilfreistellung, unterliegen aber der jährlichen Vorabpauschale; Einzelaktien kennen keine Teilfreistellung, dafür eine engere Verlustverrechnung. Welche Behandlung günstiger ist, hängt vom Einzelfall ab."
+    },
+    {
+      "q": "Gilt der Sparer-Pauschbetrag für Aktien und ETF gemeinsam?",
+      "a": "Ja. Der Pauschbetrag von 1.000 Euro (2.000 Euro bei Zusammenveranlagung) deckelt die steuerfreien Kapitaleinkünfte insgesamt - unabhängig davon, aus welcher Anlage sie stammen."
+    }
+  ]
+}

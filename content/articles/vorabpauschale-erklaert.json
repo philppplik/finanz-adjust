@@ -1,0 +1,33 @@
+{
+  "slug": "vorabpauschale-erklaert",
+  "title": "Vorabpauschale: die jährliche Vorauszahlung auf Fondsgewinne",
+  "description": "Thesaurierende Fonds schütten nichts aus - trotzdem will das Finanzamt jedes Jahr einen Vorschuss. Wie die Vorabpauschale nach § 18 InvStG berechnet wird.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/vorabpauschale-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Vorabpauschale ist der Betrag, um den die Ausschüttungen eines Fonds im Kalenderjahr hinter dem Basisertrag zurückbleiben.</li><li>Der Basisertrag ist der Rücknahmepreis zum Jahresbeginn, multipliziert mit 70 Prozent des Basiszinses.</li><li>Die Pauschale ist auf die tatsächliche Wertsteigerung begrenzt - gab es keine, gibt es keine Vorabpauschale.</li><li>Sie gilt am ersten Werktag des Folgejahres als zugeflossen und wird beim späteren Verkauf angerechnet.</li></ul></div><h2>Der Mechanismus in einem Satz</h2><p>§ 18 Absatz 1 InvStG definiert die Vorabpauschale als den Betrag, um den die Ausschüttungen eines Investmentfonds innerhalb eines Kalenderjahres den Basisertrag unterschreiten. Bei einem voll thesaurierenden Fonds ist die Ausschüttung null - die Vorabpauschale entspricht dann dem Basisertrag. Der Basisertrag wiederum ist der Rücknahmepreis zu Beginn des Kalenderjahres, multipliziert mit 70 Prozent des Basiszinses. Entscheidend ist die Deckelung: Der Basisertrag ist auf den Mehrbetrag begrenzt, der sich zwischen dem ersten und dem letzten Rücknahmepreis des Jahres zuzüglich der Ausschüttungen ergibt. Hat der Fonds im Jahr nicht an Wert gewonnen, gibt es nichts, was vorausbesteuert werden könnte.</p><h2>Woher der Basiszins kommt</h2><p>Der Basiszins ist keine Erfindung der Bank: § 18 Absatz 4 InvStG schreibt vor, dass er aus der langfristig erzielbaren Rendite öffentlicher Anleihen abzuleiten ist. Maßgeblich ist der Zinssatz, den die Deutsche Bundesbank anhand der Zinsstrukturdaten jeweils auf den ersten Börsentag des Jahres errechnet; das Bundesfinanzministerium veröffentlicht ihn im Bundessteuerblatt. Für das Jahr 2026 hat das BMF den Basiszins zum 2. Januar 2026 mit Schreiben vom 13. Januar 2026 bekannt gegeben (BMF, abgerufen 26.10.2026). Der Zinssatz wechselt also jedes Jahr - die Mechanik bleibt dieselbe.</p><h2>Zwei Sonderfälle: Kaufjahr und Zufluss</h2><p>Kaufst du Anteile unterjährig, vermindert sich die Vorabpauschale um ein Zwölftel für jeden vollen Monat, der dem Erwerbsmonat vorangeht (§ 18 Absatz 2 InvStG) - ein Kauf im Juni halbiert die Jahrespauschale also nicht, aber ein Kauf im Dezember reduziert sie auf ein Zwölftel. Und der Zeitpunkt der Besteuerung: Die Vorabpauschale gilt am ersten Werktag des folgenden Kalenderjahres als zugeflossen (§ 18 Absatz 3) - die Abbuchung durch die depotführende Stelle erfolgt daher jeweils im Januar. Als Investmentertrag nach <a href=\"/artikel/teilfreistellung-erklaert/\">§ 16 InvStG</a> profitiert auch die Vorabpauschale von der Teilfreistellung.</p><h2>Warum sie keine Doppelbesteuerung ist</h2><p>Die Vorabpauschale ist eine Vorauszahlung, keine Zusatzsteuer: Beim späteren Verkauf der Anteile werden die bereits versteuerten Pauschalen auf den Veräußerungsgewinn angerechnet. Der Gesamtsteuerbetrag über die Haltedauer ändert sich dadurch nicht grundsätzlich - verschoben wird nur der Zeitpunkt. Wer die jährliche Abrechnung nachvollziehen will, findet den Rahmen im Artikel zur <a href=\"/artikel/steuererklaerung-anlage-kap/\">Anlage KAP</a>; den Steuersatz drumherum erklärt der Artikel zur <a href=\"/artikel/steuerliche-behandlung-aktien-vs-etf/\">steuerlichen Behandlung von Aktien und ETF</a>. Keine Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "§ 18 Investmentsteuergesetz: Vorabpauschale (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__18.html"
+    },
+    {
+      "title": "Bundesfinanzministerium: Basiszins zur Berechnung der Vorabpauschale; Basiszins zum 2. Januar 2026 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2026-01-13-basiszins-berechnung-vorabpauschale.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum zahle ich Steuern, obwohl mein Fonds nichts ausschüttet?",
+      "a": "Weil das Gesetz thesaurierte Gewinne nicht komplett bis zum Verkauf aufschieben will. Die Vorabpauschale besteuert jedes Jahr einen kleinen rechnerischen Ertrag vorab - beim späteren Verkauf wird er angerechnet."
+    },
+    {
+      "q": "Mein Fonds hat im Jahr verloren - gibt es trotzdem eine Vorabpauschale?",
+      "a": "Nein. Der Basisertrag ist auf den tatsächlichen Mehrbetrag zwischen erstem und letztem Rücknahmepreis des Jahres begrenzt. Ohne Wertsteigerung gibt es keine Vorabpauschale."
+    },
+    {
+      "q": "Wann wird die Vorabpauschale abgebucht?",
+      "a": "Sie gilt am ersten Werktag des folgenden Kalenderjahres als zugeflossen - die depotführende Stelle rechnet daher jeweils im Januar ab."
+    }
+  ]
+}

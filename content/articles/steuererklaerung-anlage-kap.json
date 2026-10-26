@@ -1,0 +1,33 @@
+{
+  "slug": "steuererklaerung-anlage-kap",
+  "title": "Anlage KAP: Wann Kapitalerträge in die Steuererklärung gehören",
+  "description": "Die Abgeltungsteuer erledigt vieles automatisch - aber nicht alles. Wann die Anlage KAP Pflicht ist, wann sie sich lohnen kann und was die Günstigerprüfung prüft.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:01:00+01:00",
+  "image": "/images/steuererklaerung-anlage-kap.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kapitalerträge, die nicht dem Steuerabzug unterlegen haben, musst du in der Steuererklärung angeben (§ 32d Absatz 3 EStG).</li><li>Mit der Anlage KAP beantragst du die Überprüfung des Steuerbehalts - etwa bei nicht ausgeschöpftem Sparer-Pauschbetrag oder nicht berücksichtigten Verlusten.</li><li>Die Günstigerprüfung wendet den persönlichen Tarif an, wenn er niedriger ist - einheitlich für sämtliche Kapitalerträge.</li><li>Investmentfonds-Erträge gehören in die Anlage KAP-INV.</li></ul></div><h2>Wofür die Anlage da ist</h2><p>Die ELSTER-Anleitung beschreibt die Anlage KAP als das Formular für Angaben zu Einkünften aus Kapitalvermögen und zur Anrechnung von Steuern: Antrag auf Günstigerprüfung bei Steuerabzug, Antrag auf Überprüfung des Steuerbehalts, Erklärung von Kapitalerträgen, Steuerabzugsbeträge und anzurechnende Steuern (ELSTER, abgerufen 26.10.2026). Für Erträge aus Investmentfonds gibt es die Anlage KAP-INV; die Angaben zum Sparer-Pauschbetrag gehören stets in die Anlage KAP. Pflicht wird die Erklärung, wenn Kapitalerträge nicht dem Steuerabzug unterlegen haben - § 32d Absatz 3 EStG ordnet dann eine Veranlagung ausdrücklich an, auch wenn sonst keine Erklärungspflicht bestünde.</p><h2>Der Antrag auf Überprüfung</h2><p>Häufiger ist die freiwillige Prüfung: § 32d Absatz 4 EStG erlaubt den Antrag auf Steuerfestsetzung zur Überprüfung des Steuerbehalts - insbesondere bei einem nicht vollständig ausgeschöpften Sparer-Pauschbetrag, eines noch nicht berücksichtigten <a href=\"/artikel/verlustverrechnung-toepfe/\">Verlusts oder Verlustvortrags</a> und noch nicht berücksichtigter <a href=\"/artikel/ausland-quellensteuer/\">ausländischer Steuern</a>. Das Finanzamt rechnet dann nach, ob zu viel einbehalten wurde, und erstattet die Differenz. Fälle sind typischerweise: Freistellungsaufträge ungünstig verteilt, Verluste in einem zweiten Depot, ausländische Quellensteuer über dem Anrechnungssatz.</p><h2>Die Günstigerprüfung</h2><p>Der zweite Hebel ist § 32d Absatz 6 EStG: Auf Antrag werden die Kapitaleinkünfte statt mit dem gesonderten Tarif mit dem persönlichen Steuersatz besteuert, wenn das insgesamt günstiger ist - die Günstigerprüfung. Zwei Einschränkungen stehen im Gesetz: Der Antrag kann nur einheitlich für sämtliche Kapitalerträge des Jahres gestellt werden, und bei zusammenveranlagten Ehegatten nur für die Kapitalerträge beider. Relevant ist die Prüfung vor allem bei niedrigem Gesamteinkommen; das Finanzamt rechnet beide Varianten und wendet automatisch die günstigere an.</p><h2>Einordnung statt Formularstress</h2><p>Für die meisten Anleger mit einem Depot und erteiltem Freistellungsauftrag ist die Kapitalertragsteuer mit dem Abzug an der Bank abgegolten - die Anlage KAP ist dann optional, nicht Pflicht. Sie wird relevant, sobald etwas aus dem Automatismus fällt: Erträge ohne Steuerabzug, verteilte Pauschbeträge, Verluste, Ausland. Die Zahlen dazu liefert die jährliche Steuerbescheinigung der Bank. Bei komplexeren Konstellationen - etwa mehreren Depots mit Verlusten - grenzt der Artikel <a href=\"/artikel/wo-steuerberater-noetig-ist/\">Wann ein Steuerberater nötig ist</a> die Do-it-yourself-Zone von der Beratungszone ab. Keine Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "ELSTER: Anleitung zur Einkommensteuererklärung 2025 - Anlage KAP (abgerufen 26.10.2026)",
+      "url": "https://www.elster.de/eportal/helpGlobal?themaGlobal=help_est_ufa_10_2025"
+    },
+    {
+      "title": "§ 32d EStG: Gesonderter Steuertarif, Veranlagung und Günstigerprüfung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich die Anlage KAP abgeben?",
+      "a": "Pflicht ist sie, wenn du Kapitalerträge hattest, die nicht dem Steuerabzug unterlegen haben. Freiwillig ist sie sinnvoll, wenn eine Überprüfung des Steuerbehalts oder die Günstigerprüfung eine Erstattung erwarten lässt."
+    },
+    {
+      "q": "Was prüft die Günstigerprüfung?",
+      "a": "Ob der persönliche Steuersatz auf die Kapitaleinkünfte günstiger ist als der gesonderte Tarif von 25 Prozent. Der Antrag gilt einheitlich für sämtliche Kapitalerträge des Jahres - das Finanzamt wendet automatisch die günstigere Variante an."
+    },
+    {
+      "q": "Wo trage ich meine ETF-Erträge ein?",
+      "a": "Erträge aus Investmentfonds - Ausschüttungen, Vorabpauschalen, Veräußerungsgewinne - gehören in die Anlage KAP-INV. Die Angaben zum Sparer-Pauschbetrag bleiben in der Anlage KAP."
+    }
+  ]
+}
