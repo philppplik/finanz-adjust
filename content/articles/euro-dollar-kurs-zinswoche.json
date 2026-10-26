@@ -1,0 +1,29 @@
+{
+  "slug": "euro-dollar-kurs-zinswoche",
+  "title": "Euro vor der Zinswoche: Wo der EUR/USD-Kurs steht",
+  "description": "EUR/USD mit Stand 26.10.2026: aktueller Kurs, Wochenverlauf, 52-Wochen-Spanne und warum Zinsentscheide auf Währungen wirken - ohne Prognose.",
+  "section": "markt",
+  "date": "2026-10-26T08:00:00+01:00",
+  "image": "/images/euro-dollar-kurs-zinswoche.jpg",
+  "body": "<p><small>Stand: 26.10.2026, früher Morgen</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Euro notierte am Montagmorgen bei 1,1219 US-Dollar, plus 0,09 Prozent (finanzen.net, Kurszeit 26.10.2026, 07:36 Uhr).</li><li>Die 52-Wochen-Spanne reicht von 1,1111 (14.10.2026) bis 1,2084 (27.01.2026).</li><li>Mittwoch und Donnerstag entscheiden Fed und EZB über ihre Leitzinsen - Zinsdifferenzen sind ein klassischer Wechselkurs-Treiber.</li><li>Wohin der Kurs läuft, sagt niemand verlässlich voraus - wir zeigen Stand und Mechanik, keine Prognose.</li></ul></div><h2>Der Stand am Morgen</h2><p>Ein Euro kostete am Montagmorgen 1,1219 US-Dollar, ein leichtes Plus von 0,09 Prozent gegenüber dem Vortagesschluss von 1,1209 (finanzen.net, Kurszeit 26.10.2026, 07:36 Uhr). Das Tagestief lag bis dahin bei 1,1202, das Tageshoch bei 1,1230. Über die vergangene Woche bewegte sich der Kurs in engem Rahmen: Der Schlussstand vom 19.10. lag bei 1,1214, der vom 25.10. bei 1,1209 (Historische Kurse auf finanzen.net, abgerufen 26.10.2026).</p><p>Die Spanne der vergangenen zwölf Monate zeigt die Größenordnung möglicher Schwankungen: Das 52-Wochen-Tief markierte der Kurs am 14.10.2026 bei 1,1111, das 52-Wochen-Hoch am 27.01.2026 bei 1,2084 (finanzen.net, abgerufen 26.10.2026).</p><h2>Warum die Zinswoche für Währungen zählt</h2><p>Ein Wechselkurs ist der Preis einer Währung in einer anderen - die Grundlage erklärt unser <a href=\"/glossar/was-ist-ein-wechselkurs/\">Glossareintrag zum Wechselkurs</a>. Zu den klassischen Treibern gehört die Zinsdifferenz: Verzinst eine Währung Geldanlagen höher als eine andere, wird sie für Anleger attraktiver, was die Nachfrage beeinflussen kann. Diese Woche entscheiden beide Seiten innerhalb von zwei Tagen: die Fed am Mittwoch, die EZB am Donnerstag (<a href=\"/artikel/ezb-fed-zinswoche/\">die Termine und die Mechanik im Überblick</a>).</p><h2>Einordnung</h2><p>Ob und wie stark die Entscheide den Kurs bewegen, hängt davon ab, was sie an Neuem bringen - eingepreiste Erwartungen lösen oft weniger aus als Überraschungen. Festhalten lässt sich nur der verlässliche Stand: 1,1219 US-Dollar am Morgen des 26.10.2026. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "finanzen.net: Euro-Dollar-Kurs mit Kurszeit und historischen Kursen (abgerufen 26.10.2026, 07:52 Uhr)",
+      "url": "https://www.finanzen.net/devisen/euro-dollar-kurs"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet EUR/USD 1,1219 genau?",
+      "a": "Du bekommst für einen Euro 1,1219 US-Dollar. Steigt die Zahl, wird der Euro gegenüber dem Dollar stärker; fällt sie, schwächer."
+    },
+    {
+      "q": "Warum schwankt der Kurs auch am Wochenende?",
+      "a": "Der Devisenhandel läuft werktags rund um die Uhr über die Zeitzonen hinweg. Am Wochenende pausiert der Großteil des Handels - die Kurse von Samstag und Sonntag sind meist Stillstandsstände."
+    },
+    {
+      "q": "Ist ein starker Euro gut oder schlecht?",
+      "a": "Das kommt auf die Perspektive an: Für Urlauber und Importe in die Eurozone ist er günstig, für exportierende Unternehmen eher nicht. Es gibt keine allgemeingültig bessere Richtung."
+    }
+  ]
+}

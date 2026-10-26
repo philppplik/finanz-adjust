@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-marktkapitalisierung",
+  "title": "Marktkapitalisierung: Der Börsenwert eines Unternehmens",
+  "description": "Glossar: Was die Marktkapitalisierung ist, wie sie berechnet wird, warum sie täglich schwankt und welche Rolle sie für Indizes spielt. Mit Strukturbeispiel. Stand: 26.10.2026.",
+  "section": "glossar",
+  "date": "2026-10-26T08:00:00+01:00",
+  "image": "/images/glossar-marktkapitalisierung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, früher Morgen</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Marktkapitalisierung = Anzahl der gehandelten Aktien mal aktuellem Aktienkurs.</li><li>Sie verändert sich mit jedem Kurstick - sie ist ein Marktpreis, kein Buchwert.</li><li>Indexanbieter nutzen sie für die Gewichtung, oft auf Basis des Streubesitzes.</li><li>Die Einteilung in Large, Mid und Small Caps ist nicht einheitlich festgelegt.</li></ul></div><h2>Definition</h2><p>Die Wiener Börse definiert die Marktkapitalisierung in ihrem Börsenlexikon als börsenmäßigen Wert eines Unternehmens: Die Berechnung erfolgt durch Multiplikation der Anzahl der an der Börse gehandelten Aktien des Unternehmens mit dem aktuellen Aktienkurs der jeweiligen Gesellschaft (abgerufen 26.10.2026).</p><p>Strukturbeispiel: Ein Unternehmen hat 50 Millionen Aktien im Umlauf, die Aktie notiert bei 80 Euro. Die Marktkapitalisierung beträgt 50 Millionen mal 80, also 4 Milliarden Euro. Steigt der Kurs am nächsten Tag auf 82 Euro, wächst der Börsenwert rechnerisch auf 4,1 Milliarden Euro - ohne dass sich am Unternehmen selbst etwas geändert hätte.</p><h2>Einordnung</h2><p>Drei Punkte helfen beim Lesen der Kennzahl: Erstens ist sie ein Marktpreis und keine Bilanzgröße - was das Unternehmen bilanziell besitzt, steht im <a href=\"/artikel/kbv-und-substanzwert/\">Buchwert und KBV</a>. Zweitens ist sie die Basis für die Gewichtung in Aktienindizes; wie die Gewichtung nach Börsenwert funktioniert, zeigt der Artikel zur <a href=\"/artikel/indexkonstruktion-marktkapitalisierung/\">Indexkonstruktion</a>. Drittens zählen viele Indexanbieter nur den <a href=\"/artikel/glossar-streubesitz/\">Streubesitz</a>, also die frei handelbaren Aktien - die sogenannte Streubesitz-Marktkapitalisierung.</p><p>Die gängige Einteilung in Large Caps, Mid Caps und Small Caps ordnet Unternehmen nach ihrer Marktkapitalisierung. Feste, weltweit einheitliche Schwellen gibt es nicht - jeder Indexanbieter setzt eigene Grenzen.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Marktkapitalisierung (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-m/marktkapitalisierung/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Unternehmen mit hoher Marktkapitalisierung automatisch profitabler?",
+      "a": "Nein. Die Marktkapitalisierung zeigt nur, was die Börse dem Unternehmen insgesamt beimisst. Profitabilität ist eine andere Frage - sie steht in GuV und Margenkennzahlen."
+    },
+    {
+      "q": "Warum ändert sich die Marktkapitalisierung täglich?",
+      "a": "Weil sie am aktuellen Kurs hängt und der sich im fortlaufenden Handel bewegt. Jede Kursänderung skaliert auf die gesamte Aktienzahl hoch."
+    },
+    {
+      "q": "Was ist der Unterschied zum Unternehmenswert?",
+      "a": "Die Marktkapitalisierung zählt nur das Eigenkapital zum Börsenpreis. Der Unternehmenswert (Enterprise Value) rechnet Schulden hinzu und zieht liquide Mittel ab - er bildet den Preis ab, den ein Käufer für das ganze Unternehmen aufbringen müsste."
+    }
+  ]
+}

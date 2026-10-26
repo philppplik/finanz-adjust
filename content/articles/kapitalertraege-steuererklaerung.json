@@ -1,0 +1,33 @@
+{
+  "slug": "kapitalertraege-steuererklaerung",
+  "title": "Kapitalerträge und Steuer: Was automatisch läuft - und wann du eine Erklärung brauchst",
+  "description": "Abgeltungsteuer verstehen: 25 Prozent plus Solidaritätszuschlag, Sparer-Pauschbetrag, Freistellungsauftrag und die Fälle, in denen eine Steuererklärung Pflicht wird. Stand: 26.10.2026.",
+  "section": "einordnung",
+  "date": "2026-10-26T08:00:00+01:00",
+  "image": "/images/kapitalertraege-steuererklaerung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, früher Morgen</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kapitalerträge unterliegen einem Steuerabzug von 25 Prozent plus 5,5 Prozent Solidaritätszuschlag auf die Steuer (BZSt).</li><li>Banken und Versicherungen ziehen die Steuer automatisch an der Quelle ab und führen sie ab.</li><li>Mit dem Freistellungsauftrag bleiben 1.000 Euro (Alleinstehende) beziehungsweise 2.000 Euro (Ehegatten) steuerfrei.</li><li>Pflicht zur Steuererklärung besteht etwa bei einem Sperrvermerk gegen den Kirchensteuer-Datenabruf.</li></ul></div><h2>Was automatisch abläuft</h2><p>Kapitalerträge unterliegen in Deutschland einem Steuerabzug in Höhe von 25 Prozent zuzüglich Solidaritätszuschlag in Höhe von 5,5 Prozent der Kapitalertragsteuer - so formuliert es das Bundeszentralamt für Steuern auf seiner Seite zur Kapitalertragsteuerentlastung (abgerufen 26.10.2026). Den Abzug erledigen die Schuldner der Kapitalerträge, also etwa deine Bank, automatisiert an der Quelle und führen die Steuer direkt an die Finanzverwaltung ab (BZSt, Seite zur Kirchensteuer auf Kapitalertragsteuer, abgerufen 26.10.2026). Du musst dafür nichts veranlassen - in den meisten Fällen ist die Steuer mit dem Abzug erledigt.</p><p>Strukturbeispiel ohne Kirchensteuer: Von 100 Euro Kapitalertrag gehen 25 Euro Abgeltungsteuer plus 1,375 Euro Solidaritätszuschlag ab (5,5 Prozent der Steuer). Auf deinem Konto kommen rund 73,63 Euro an.</p><h2>Der Freistellungsauftrag</h2><p>Alleinstehende können bis zu 1.000 Euro, Ehegatten und Lebenspartner bis zu 2.000 Euro von der Steuer freistellen lassen (Sparer-Pauschbetrag, BZSt, abgerufen 26.10.2026). Der Freistellungsauftrag wirkt auch für die auf die Abgeltungsteuer entfallende Kirchensteuer. Ohne Auftrag zieht die Bank vom ersten Euro an ab - das lässt sich über die Steuererklärung korrigieren, ist aber umständlicher als der Auftrag selbst. Die Details stehen in den Artikeln zur <a href=\"/artikel/abgeltungsteuer-erklaert/\">Abgeltungsteuer</a> und zum <a href=\"/artikel/sparer-pauschbetrag-freistellungsauftrag/\">Sparer-Pauschbetrag und Freistellungsauftrag</a>.</p><h2>Wann eine Steuererklärung Pflicht wird</h2><p>Drei Fälle aus den BZSt-Seiten: Erstens der Sperrvermerk - widersprichst du beim BZSt dem automatisierten Abruf deiner Religionszugehörigkeit, entfällt zwar der Kirchensteuerabzug an der Quelle, du bist dann aber zur Abgabe einer Steuererklärung wegen der Kirchensteuer verpflichtet (Paragraf 51a Absatz 2d EStG, zitiert nach BZSt). Zweitens Kapitalerträge, bei denen kein deutscher Quellenabzug stattfand - sie gehören grundsätzlich in die Anlage KAP. Drittens kannst du freiwillig erklären, etwa um einen nicht ausgeschöpften Sparer-Pauschbetrag nachträglich zu nutzen; die <a href=\"/artikel/steuerbescheinigung-lesen/\">Steuerbescheinigung deiner Bank</a> liefert die Zahlen dafür. Keine Steuerberatung - im Zweifel lohnt der Blick zum Finanzamt oder zur Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "BZSt: Kapitalertragsteuerentlastung (abgerufen 26.10.2026)",
+      "url": "https://www.bzst.de/DE/Unternehmen/Kapitalertraege/Kapitalertragsteuerentlastung/kapitalertragsteuerentlastung_node.html"
+    },
+    {
+      "title": "BZSt: Kirchensteuer auf Kapitalertragsteuer (abgerufen 26.10.2026)",
+      "url": "https://www.bzst.de/DE/Privatpersonen/Kapitalertraege/KirchensteuerAbgeltungssteuer/kirchensteuerabgeltungssteuer.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich Kapitalerträge immer in der Steuererklärung angeben?",
+      "a": "In der Regel nicht: Der Quellenabzug durch die Bank erledigt die Steuer für die meisten Anleger endgültig. Pflicht besteht unter anderem bei einem Sperrvermerk zur Kirchensteuer oder bei Erträgen ohne deutschen Steuerabzug."
+    },
+    {
+      "q": "Gilt der Sparer-Pauschbetrag pro Bank?",
+      "a": "Nein, er steht dir insgesamt einmal pro Jahr zu. Mit mehreren Freistellungsaufträgen verteilst du ihn auf deine Banken - die Summe aller Aufträge darf den Höchstbetrag nicht überschreiten."
+    },
+    {
+      "q": "Was passiert, wenn mein Freistellungsauftrag zu hoch verteilt ist?",
+      "a": "Dann wurden möglicherweise zu viele Erträge unversteuert ausgezahlt. Über die Steuererklärung wird das korrigiert - die Banken melden die freigestellten Beträge an das BZSt."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "anleihekurse-und-zinsen",
+  "title": "Anleihekurse und Zinsen: Warum steigende Zinsen Kurse drücken",
+  "description": "Der Zusammenhang zwischen Marktzins und Anleihekurs einfach erklärt: die Zinswippe, ein durchgerechnetes Strukturbeispiel und die aktuelle Umlaufrendite mit Stand. ",
+  "section": "einordnung",
+  "date": "2026-10-26T08:00:00+01:00",
+  "image": "/images/anleihekurse-und-zinsen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, früher Morgen</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Steigt das Zinsniveau, fallen die Kurse bestehender Anleihen - und umgekehrt: die Zinswippe.</li><li>Grund: Der feste Kupon einer alten Anleihe muss sich über den Preis an das neue Zinsniveau anpassen.</li><li>Je länger die Restlaufzeit, desto stärker reagiert der Kurs auf Zinsänderungen.</li><li>Die Umlaufrendite öffentlicher Anleihen in Deutschland lag zuletzt bei 3,31 Prozent (tagesschau.de, 23.10.2026).</li></ul></div><h2>Die Zinswippe</h2><p>Eine <a href=\"/glossar/anleihe/\">Anleihe</a> zahlt einen festen <a href=\"/glossar/kupon/\">Kupon</a> auf den Nennwert und liefert diesen am <a href=\"/glossar/faelligkeit/\">Fälligkeitstag</a> zurück. Diese Zahlungen stehen von Anfang an fest - veränderlich ist nur der Preis, zu dem die Anleihe an der Börse den Besitzer wechselt. Steigt das allgemeine Zinsniveau, bekommen Käufer für neue Anleihen mehr Zinsen als für alte. Die alte Anleihe kann nur mithalten, wenn ihr Kurs so weit fällt, dass ihre Rendite wieder passt. Sinkt das Zinsniveau, dreht sich die Wippe um: Alte Anleihen mit ihren höheren Kupons werden begehrt und teurer.</p><h2>Strukturbeispiel</h2><p>Ein einfaches Rechenbeispiel mit einer Anleihe über 100 Euro Nennwert, 2 Prozent Kupon und genau einem Jahr Restlaufzeit: Sie zahlt am Ende 102 Euro. Liegt das Marktzinsniveau bei 3 Prozent, ist ein fairer Kurs ungefähr 102 geteilt durch 1,03, also rund 99,03 Euro - nur dann entspricht die Rendite dem Markt. Fällt das Zinsniveau auf 1 Prozent, steigt der rechnerische Kurs auf rund 102 geteilt durch 1,01, also etwa 100,99 Euro. Dieselbe Anleihe, dieselben Zahlungen - nur der Kurs hat sich angepasst.</p><h2>Warum die Laufzeit den Ausschlag verstärkt</h2><p>Bei zehn statt einem Jahr Restlaufzeit legen sich die Zinsdifferenzen über zehn Kuponzahlungen - der Kurs muss deutlich weiter wandern, um die Rendite anzugleichen. Deshalb reagieren lang laufende Anleihen stärker auf Zinsänderungen als kurze. Das Risiko von Kursverlusten bezeichnet das Börsenlexikon der Wiener Börse schlicht als Kursrisiko (abgerufen 26.10.2026); der Vertiefungsartikel dazu ist <a href=\"/artikel/kursrisiko-bei-anleihen/\">Kursrisiko bei Anleihen</a>.</p><h2>Die aktuelle Einordnung</h2><p>Als Referenzpunkt: Die Umlaufrendite öffentlicher Anleihen in Deutschland lag zuletzt bei 3,31 Prozent (tagesschau.de, Stand 23.10.2026, 06:56 Uhr). Sie ist der Maßstab, an dem sich Kupons und Kurse am deutschen Markt orientieren. In dieser Woche entscheiden Fed und EZB über ihre Leitzinsen - die Termine stehen im Artikel zur <a href=\"/artikel/ezb-fed-zinswoche/\">Zinswoche</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Kursrisiko (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/kursrisiko/"
+    },
+    {
+      "title": "tagesschau.de: Börsenkurse, Umlaufrendite öffentlicher Anleihen (abgerufen 26.10.2026, früher Morgen)",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Verliere ich bei fallenden Anleihekursen automatisch Geld?",
+      "a": "Nur wenn du vor Fälligkeit verkaufst. Hältst du bis zum Ende, bekommst du Nennwert und Kupons wie vereinbart - Bonität des Emittenten vorausgesetzt. Der Zwischenkurs ist dann nur eine Zwischenbilanz."
+    },
+    {
+      "q": "Warum steigen Anleihekurse, wenn die Zinsen fallen?",
+      "a": "Weil die festen Kupons älterer Anleihen im Vergleich zu neuen Emissionen attraktiver werden. Käufer zahlen einen Aufschlag, bis die Rendite wieder zum Marktniveau passt."
+    },
+    {
+      "q": "Was ist die Umlaufrendite?",
+      "a": "Eine Durchschnittsrendite börsennotierter Anleihen des Bundes. Sie gilt als Referenzzinssatz für den deutschen Rentenmarkt und wird börsentäglich ermittelt."
+    }
+  ]
+}
