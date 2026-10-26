@@ -1,0 +1,33 @@
+{
+  "slug": "portfolio-fehler-beispiele",
+  "title": "Portfolio-Fehler: fünf Muster, die Depots ruinieren - und ihre Warnsignale",
+  "description": "Die fünf häufigsten Portfolio-Fehler im Überblick: Klumpenrisiko, Themen-Sammeldepot, hektisches Umschichten, Panikverkauf und Kostenblindheit - mit Erkennungszeichen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/portfolio-fehler-beispiele.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die teuersten Fehler sind keine Exoten, sondern Muster: Klumpen, Sammelleidenschaft, Hektik, Panik und Kostenblindheit.</li><li>Themen-ETFs bieten laut Verbraucherzentrale keine solide breit gestreute Anlagestrategie.</li><li>Häufiges Umschichten ist das Gegenteil der Buy-and-Hold-Logik, auf der die meisten Konzepte aufbauen.</li><li>Fast alle Muster haben ein gemeinsames Warnsignal: Das Depot folgt keinem schriftlichen Plan.</li></ul></div><h2>Fehler 1: Das Klumpenrisiko</h2><p>Die klassische Klumpenbildung: die Aktie des eigenen Arbeitgebers, die Lieblingsmarke, der Heimatmarkt. Wer ein Drittel seines Vermögens in einem Titel oder einer Branche hält, trägt ein Einzelrisiko, das der Markt nicht vergütet. Die Verbraucherzentrale rät deshalb, nicht alles auf eine oder wenige Aktien zu setzen, sondern das Aktienportfolio breit zu streuen (abgerufen 26.10.2026). Das Erkennungszeichen: Eine einzige Nachricht kann dein Depot spürbar bewegen. Mehr im Artikel zum <a href=\"/artikel/klumpenrisiko-erkennen/\">Klumpenrisiko</a>.</p><h2>Fehler 2: Das Sammeldepot aus Themen</h2><p>KI, Defence, Krypto, Wasserstoff - ständig legen Fondsgesellschaften neue ETFs auf die Themen auf, die gerade in aller Munde sind. Die Verbraucherzentrale ist deutlich: Diese ETFs bieten keine solide, breit gestreute Anlagestrategie, sondern dienen allenfalls der Spekulation (abgerufen 26.10.2026). Ein Depot aus zwölf Trendthemen ist kein diversifiziertes Portfolio, sondern zwölfmal dieselbe Wette auf das jeweilige Momentum. Ordnung schafft das <a href=\"/artikel/kern-satelliten-konzept/\">Kern-Satelliten-Konzept</a>: Ideen sind erlaubt, aber begrenzt.</p><h2>Fehler 3: Hektik statt Plan</h2><p>justETF beschreibt den Grundgedanken des Buy-and-Hold-Ansatzes so: häufige Umschichtungen vermeiden, eine strategische Asset Allocation festlegen und über Jahre verfolgen - im starken Kontrast zu Stock-Picking und Markt-Timing (abgerufen 26.10.2026). Wer ständig kauft und verkauft, zahlt zweimal: Spesen und Steuern bei jedem Umschichten, plus die erwiesenermaßen schwierige Kunst, zweimal richtig zu liegen - beim Raus und beim Rein. Das Gegenmittel ist eine Regel wie das <a href=\"/artikel/rebalancing-erklaert/\">Rebalancing</a> mit festem Termin oder Band.</p><h2>Fehler 4 und 5: Panikverkauf und Kostenblindheit</h2><p>Der Panikverkauf realisiert den Verlust, den der Plan eigentlich ausgesessen hätte; nach Angaben der Verbraucherzentrale sind die Kurse nach jedem Crash auch wieder gestiegen, nur eben nicht nach Kalender. Die Kostenblindheit ist leiser: Laufende Gebühren und Transaktionskosten summieren sich über Jahrzehnte zu einem Renditemalus, wie die <a href=\"/artikel/kosten-fressen-rendite-beispiel/\">Kosten-Beispielrechnung</a> zeigt. Beide Fehler teilen ein Warnsignal: Es gibt keinen schriftlichen Plan, an dem sich die Entscheidung messen ließe - genau dafür ist die <a href=\"/artikel/portfolio-dokumentieren/\">Portfolio-Dokumentation</a> da. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Welche Vorteile und Nachteile haben ETFs? (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/welche-vorteile-und-nachteile-haben-etfs-16603"
+    },
+    {
+      "title": "justETF Academy: Was ist Portfolio-Rebalancing? (abgerufen 26.10.2026)",
+      "url": "https://www.justetf.com/de/academy/was-ist-portfolio-rebalancing.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woran erkenne ich, dass mein Depot ein Klumpenrisiko hat?",
+      "a": "An zwei Fragen: Macht ein einzelner Titel oder eine einzelne Branche einen zweistelligen Prozentanteil aus? Und würde eine einzige schlechte Nachricht deinen Gesamtplan treffen? Zwei Ja bedeuten Klumpen."
+    },
+    {
+      "q": "Sind Themen-ETFs generell verboten?",
+      "a": "Nein. Die Verbraucherzentrale ordnet sie als Spekulation ein, nicht als Basis. Im Kern-Satelliten-Denken gehören sie mit begrenztem Gewicht in den Satelliten-Bereich - nicht in den Kern."
+    },
+    {
+      "q": "Ist ein Panikverkauf je richtig?",
+      "a": "Wenn sich deine Rahmenbedingungen geändert haben - etwa weil du das Geld nun doch brauchst - kann ein Verkauf sachlich richtig sein. Als Reaktion auf Schlagzeilen und fallende Kurse ist er das Muster, das Anleger am zuverlässigsten Rendite kostet."
+    }
+  ]
+}

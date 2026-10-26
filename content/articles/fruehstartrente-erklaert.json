@@ -1,0 +1,33 @@
+{
+  "slug": "fruehstartrente-erklaert",
+  "title": "Frühstart-Rente erklärt: 10 Euro vom Staat, ein Depot fürs Kind",
+  "description": "Der Stand der Frühstart-Rente: Bundestagsbeschluss vom 16.10.2026, 10 Euro pro Monat für 6- bis 18-Jährige, Konditionen des Standarddepots - und was noch offen ist.",
+  "section": "wissen",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/fruehstartrente-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Bundestag hat die Frühstart-Rente am 16.10.2026 beschlossen; das Gesetzgebungsverfahren ist noch nicht abgeschlossen, der Start ist für den 1.1.2027 geplant.</li><li>Vorgesehen sind 10 Euro pro Monat vom Staat für Kinder vom 6. bis zum 18. Lebensjahr, gezahlt in ein zertifiziertes Standarddepot.</li><li>Eltern können mit eigenen Einzahlungen bis zu 6.840 Euro pro Jahr aufstocken; Erträge bleiben bis zur Auszahlungsphase steuerfrei.</li><li>Ausgezahlt wird grundsätzlich nicht vor 65 - die Frühstart-Rente ist Altersvorsorge, kein Sparkonto.</li></ul></div><h2>Der Stand am 26.10.2026</h2><p>Der Deutsche Bundestag hat den Gesetzentwurf der Bundesregierung zur Einführung einer Frühstart-Rente am 16. Oktober 2026 in der vom Finanzausschuss geänderten Fassung angenommen (abgerufen 26.10.2026). Die Deutsche Rentenversicherung weist gleichzeitig darauf hin, dass das parlamentarische Gesetzgebungsverfahren aktuell noch nicht abgeschlossen ist - Details können sich also noch ändern. Geplant ist der Start zum 1. Januar 2027 mit den Geburtsjahrgängen 2020 und 2021; für den Jahrgang 2020 soll die Förderung rückwirkend zum 1. Januar 2026 ausgezahlt werden. Ab 2028 kommt jährlich der Jahrgang hinzu, der in dem Jahr sechs Jahre alt wird.</p><h2>Wie die Förderung funktionieren soll</h2><p>Nach dem Gesetzentwurf zahlt der Bund zehn Euro pro Monat in einen individuellen, kapitalgedeckten Standarddepot-Vertrag auf den Namen des Kindes, den die Eltern bei einem Anbieter ihrer Wahl abschließen. Gefördert werden zertifizierte Verträge mit einem Effektivkostendeckel von einem Prozent und ohne Abschluss- und Vertriebskosten bis zur Volljährigkeit; eine Beratung ist nicht erforderlich. Private Zuzahlungen, etwa von Eltern oder Großeltern, sind bis zu 6.840 Euro pro Jahr möglich. Schließen Eltern keinen Vertrag ab, legt der Bund die zehn Euro kollektiv am Kapitalmarkt an - dafür wird zum 1. Januar 2028 ein Sondervermögen bei der Bundesbank errichtet; ein individualisierter Anspruch kann bis zum 35. Lebensjahr in einen eigenen Vertrag übertragen werden.</p><h2>Was daraus werden kann - und was nicht</h2><p>Das Bundesfinanzministerium rechnet es an der eigenen Förderung vor: Aus den insgesamt 1.440 Euro staatlicher Einzahlungen kann unter der Annahme von nominal sieben Prozent Wertsteigerung pro Jahr bis zur Volljährigkeit ein Depotwert von rund 2.200 Euro entstehen - und ohne einen weiteren Euro bis zum Renteneintritt rund 53.000 Euro (abgerufen 26.10.2026). Das ist eine Annahmen-Rechnung der Regierung, keine Zusage. Zwei harte Rahmenbedingungen gehören dazu: Die Erträge bleiben bis zur Auszahlungsphase steuerfrei, und das Frühstartrentenvermögen ist grundsätzlich nicht vor Vollendung des 65. Lebensjahres verfügbar. Für flexible Ziele wie Ausbildung oder Führerschein ist es das falsche Gefäß - dafür steht das <a href=\"/artikel/kinderdepot-und-rechtliches/\">Kinderdepot</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bundesfinanzministerium: Fragen und Antworten zur Frühstartrente (abgerufen 26.10.2026)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/FAQ/fruehstart-rente.html"
+    },
+    {
+      "title": "Deutscher Bundestag: Bundestag beschließt die Frühstartrente (16.10.2026) (abgerufen 26.10.2026)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist die Frühstart-Rente schon geltendes Recht?",
+      "a": "Noch nicht. Der Bundestag hat am 16.10.2026 beschlossen, aber das Gesetzgebungsverfahren ist Stand 26.10.2026 noch nicht abgeschlossen. Geplant ist das Inkrafttreten zum 1.1.2027 mit ersten Auszahlungen 2027."
+    },
+    {
+      "q": "Bekommen ältere Kinder auch etwas?",
+      "a": "Nach dem Gesetzentwurf startet die Förderung mit den Geburtsjahrgängen 2020 und 2021. Für ältere Kinder können Verträge abgeschlossen werden, eine staatliche Förderung ist dafür aber nicht vorgesehen."
+    },
+    {
+      "q": "Kommt man vor dem 65. Geburtstag an das Geld?",
+      "a": "Grundsätzlich nein. Das Frühstartrentenvermögen soll der Altersvorsorge dienen; eine Auszahlung ist laut Bundesfinanzministerium grundsätzlich nicht vor Vollendung des 65. Lebensjahres möglich. Ab Volljährigkeit ist ein Übergang in die steuerlich geförderte private Altersvorsorge vorgesehen."
+    }
+  ]
+}

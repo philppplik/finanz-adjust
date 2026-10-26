@@ -1,0 +1,33 @@
+{
+  "slug": "rebalancing-erklaert",
+  "title": "Rebalancing erklärt: Das Depot zurück auf Kurs bringen",
+  "description": "Was Rebalancing ist, warum Depots von allein driften, welche Auslöser es gibt - und warum Umschichten Kosten und Steuern auslösen kann.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/rebalancing-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Rebalancing stellt die ursprünglich gewählte Aufteilung des Depots wieder her, nachdem Kursbewegungen sie verschoben haben.</li><li>Positionen mit zu hohem Gewicht werden anteilig verkauft, Positionen mit zu niedrigem Gewicht zugekauft.</li><li>Auslöser sind ein festes Toleranzband oder ein fester Termin - beides ist besser als der Impuls des Tages.</li><li>Jedes Umschichten kann Kosten und Steuern auslösen; Rebalancing durch Einzahlung vermeidet Verkäufe.</li></ul></div><h2>Warum Depots von allein driften</h2><p>Du legst einmal eine Aufteilung fest - und der Markt macht danach einfach weiter. Steigen die Aktien im Depot stärker als die Anleihen, wächst der Aktienanteil über das geplante Maß. justETF nennt drei Gründe für die Verschiebung der Anlagestruktur: die Entwicklung an den Märkten, Einzahlungen und Entnahmen (abgerufen 26.10.2026). In allen drei Fällen verändert sich das Risiko-Rendite-Profil deines Portfolios, ohne dass du eine einzige Order abgesetzt hast. Dein 70-Prozent-Aktien-Depot kann so still zu einem 80-Prozent-Aktien-Depot werden - mit einem Risiko, das du nie gewählt hast.</p><h2>Was beim Rebalancing passiert</h2><p>Beim Rebalancing wird der Soll-Zustand wiederhergestellt: Zu schwere Positionen werden anteilig verkauft, zu leichte zugekauft. justETF rechnet es an einem 50:50-Beispiel vor: Ist der Aktien-ETF durch Kursgewinne auf mehr als die Hälfte angewachsen, werden so viele Anteile verkauft und in den Anleihe-ETF umgeschichtet, bis wieder 50:50 steht. justETF verweist auf ein Phänomen namens Mean Reversion: Wer diszipliniert zurücksetzt, verkauft tendenziell nach starken Phasen und kauft nach schwachen - das Gegenteil des typischen Bauchgefühls.</p><h2>Wann ausgelöst wird: Band oder Termin</h2><p>Zwei Auslöser haben sich etabliert. Beim Toleranzband legst du fest, wie weit eine Position vom Soll-Gewicht abweichen darf, etwa fünf Prozentpunkte; erst beim Verlassen des Bands wird umgeschichtet. Beim Termin-Rebalancing wird zu einem festen Zeitpunkt geprüft, etwa einmal im Jahr. Beide Varianten ersetzen die Tageslaune durch eine Regel - das ist ihr eigentlicher Wert.</p><h2>Was Rebalancing kostet</h2><p>Zur Ehrlichkeit gehört die Kehrseite: Die Wiener Börse weist bei der Erfolgskontrolle der Asset Allocation ausdrücklich darauf hin, dass Umschichten meist mit Kosten verbunden ist, etwa Ankaufs- und Verkaufsspesen sowie Steuern (abgerufen 26.10.2026). Verkäufe realisieren Gewinne, die grundsätzlich der Abgeltungsteuer unterliegen - mehr dazu im Artikel zur <a href=\"/artikel/abgeltungsteuer-erklaert/\">Abgeltungsteuer</a>. justETF nennt die steuerschonende Alternative: das Rebalancing über eine Einzahlung, bei der nur zugekauft und nichts verkauft wird. Wie die Zielaufteilung entsteht, steht im Artikel zur <a href=\"/artikel/assetallokation-erklaert/\">Assetallokation</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF Academy: Was ist Portfolio-Rebalancing? (abgerufen 26.10.2026)",
+      "url": "https://www.justetf.com/de/academy/was-ist-portfolio-rebalancing.html"
+    },
+    {
+      "title": "justETF Tutorial: Wie funktioniert Portfolio-Rebalancing (abgerufen 26.10.2026)",
+      "url": "https://www.justetf.com/de/tutorial/rebalancing/wie-funktioniert-portfolio-rebalancing.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie oft sollte man rebalancen?",
+      "a": "Es gibt kein Naturgesetz. Verbreitet sind ein fester Termin pro Jahr oder ein Toleranzband von etwa fünf Prozentpunkten. Häufigeres Umschichten erhöht vor allem Kosten und Steuerabzüge, ohne die Treue zur Strategie zu verbessern."
+    },
+    {
+      "q": "Ist Rebalancing nicht ein Verkauf der Gewinner?",
+      "a": "Genau das ist der Mechanismus: Es verkauft anteilig, was übergewichtet ist, und kauft, was untergewichtet ist. Der Sinn ist nicht Renditemaximierung im Einzeljahr, sondern die Wiederherstellung des gewählten Risiko-Rendite-Profils."
+    },
+    {
+      "q": "Geht Rebalancing auch ohne Verkauf?",
+      "a": "Ja. Wer regelmäßig einzahlt, kann neue Beiträge gezielt in die untergewichteten Positionen lenken. justETF nennt dieses Rebalancing durch Einzahlung: keine Verkäufe, keine realisierten Gewinne, keine Steuerwirkung."
+    }
+  ]
+}

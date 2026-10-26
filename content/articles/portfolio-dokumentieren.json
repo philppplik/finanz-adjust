@@ -1,0 +1,33 @@
+{
+  "slug": "portfolio-dokumentieren",
+  "title": "Portfolio dokumentieren: Der schriftliche Plan hinter dem Depot",
+  "description": "Warum eine schriftliche Anlagestrategie und regelmäßige Erfolgskontrolle das Depot zusammenhalten: Plan-Ist-Vergleich, Review-Rhythmus und dokumentierte Entscheidungen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/portfolio-dokumentieren.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Eine schriftliche Anlagestrategie hält Ziel, Ziel-Allokation und Regeln fest - sie ist der Maßstab für jede spätere Entscheidung.</li><li>Der Vergleich von Plan- und Ist-Anlagestruktur zeigt, wann das Depot von der Strategie abdriftet.</li><li>Die Wiener Börse nennt die regelmäßige Erfolgskontrolle den dritten Schritt jeder Asset Allocation.</li><li>Dokumentierte Entscheidungen schützen vor dem schlimmsten Feind des Plans: dem Impuls des Tages.</li></ul></div><h2>Was in die schriftliche Anlagestrategie gehört</h2><p>Vier Zeilen reichen für den Anfang: das Anlageziel mit Zeitraum, die geplante Aufteilung auf Anlageklassen, die Regeln für Käufe und Verkäufe, und die Auslöser für Anpassungen. justETF nennt diese Zielverteilung die Plan-Anlagestruktur: Sie gibt an, wie viel Gewicht jede Position im Portfolio haben soll, und wird bei der Erstellung des Portfolios festgelegt (abgerufen 26.10.2026). Der Wert des Aufschreibens liegt in der Verbindlichkeit: Wer seinen Plan nur im Kopf hat, ändert ihn laufend, ohne es zu merken.</p><h2>Plan gegen Ist: der Vergleich</h2><p>Ein Plan ohne Kontrolle ist Deko. Deshalb gehört zur Dokumentation der regelmäßige Vergleich: Wie sieht die tatsächliche Aufteilung heute aus, gegenüber der Plan-Anlagestruktur? Abweichungen entstehen durch Kursbewegungen, Einzahlungen und Entnahmen; ihre Korrektur ist die Aufgabe des <a href=\"/artikel/rebalancing-erklaert/\">Rebalancing</a>. Wer Abweichungen ampelartig markiert - kleine Toleranzen grün, größere rot - sieht auf einen Blick, wann Handlungsbedarf besteht und wann nicht.</p><h2>Der Rhythmus der Erfolgskontrolle</h2><p>Die Wiener Börse beschreibt als dritten Schritt der Asset Allocation die Erfolgskontrolle: In regelmäßigen Abschnitten sollte überprüft werden, ob Veranlagungen umgeschichtet werden sollen - weil Anlageziele nicht erreicht wurden oder sich die persönliche Situation verändert hat (abgerufen 26.10.2026). Zwei Termine haben sich bewährt: ein fester Jahrestermin für den Vollcheck und ein kurzer Blick je Einzahlung. Wichtig ist der Hinweis der Wiener Börse gleich dazu: Umschichten ist meist mit Kosten und Steuern verbunden - Kontrolle heißt nicht automatisch Aktion.</p><h2>Entscheidungen mit Begründung festhalten</h2><p>Der unterschätzte Teil der Dokumentation ist das Protokoll der eigenen Entscheidungen: Was habe ich wann gekauft, und warum genau? Wer diese Begründungen festhält, kann Monate später prüfen, ob die These noch trägt - und lernt aus den eigenen Mustern. Wer nichts festhält, erinnert sich selektiv und wiederholt die <a href=\"/artikel/portfolio-fehler-beispiele/\">klassischen Portfolio-Fehler</a> mit neuen Namen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "justETF Tutorial: Wie funktioniert Portfolio-Rebalancing (Plan-Anlagestruktur) (abgerufen 26.10.2026)",
+      "url": "https://www.justetf.com/de/tutorial/rebalancing/wie-funktioniert-portfolio-rebalancing.html"
+    },
+    {
+      "title": "Wiener Börse: Asset Allocation - Schritt für Schritt-Erklärung (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/analyse-strategie/asset-allocation/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie aufwendig ist eine schriftliche Anlagestrategie?",
+      "a": "Für ein Privatdepot reicht eine Seite: Ziel, Zeitraum, Ziel-Allokation, Regeln, Review-Termine. Der Aufwand liegt nicht im Schreiben, sondern im Einhalten - und genau dabei hilft das Dokument."
+    },
+    {
+      "q": "Wie oft sollte ich den Plan-Ist-Vergleich machen?",
+      "a": "Ein gründlicher Termin pro Jahr ist eine verbreitete Größenordnung, ergänzt um einen kurzen Blick bei größeren Marktbewegungen oder Einzahlungen. Entscheidend ist ein fester Rhythmus statt tagesaktueller Reaktionen."
+    },
+    {
+      "q": "Was tue ich, wenn sich meine Lebenssituation ändert?",
+      "a": "Dann ist der Plan anzupassen - das ist der legitime Grund. Die Wiener Börse nennt genau zwei Gründe für die Überprüfung: verfehlte Anlageziele oder eine veränderte persönliche Situation. Schlagzeilen gehören nicht dazu."
+    }
+  ]
+}

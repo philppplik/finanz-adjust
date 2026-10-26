@@ -1,0 +1,33 @@
+{
+  "slug": "portfolio-rendite-und-risiko",
+  "title": "Rendite und Risiko im Portfolio: zwei Seiten derselben Medaille",
+  "description": "Warum Rendite von Risiko kommt, wie Schwankung gemessen wird und was von der Bruttorendite nach Kosten, Steuern und Inflation übrig bleibt.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/portfolio-rendite-und-risiko.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Rendite kommt von Risiko: Wer höhere Erträge erwartet, muss höhere Schwankungen und Verlustrisiken tragen.</li><li>Volatilität misst, wie stark ein Wert um seinen Durchschnitt schwankt - die übliche Risikozahl am Aktienmarkt.</li><li>Entscheidend ist die Nettorendite nach Kosten und Steuern - und real, also nach Inflation.</li><li>Auch breit gestreute Aktienanlagen hatten historisch Verlustphasen von bis zu 15 Jahren.</li></ul></div><h2>Die Grundregel: Rendite kommt von Risiko</h2><p>Die Verbraucherzentrale formuliert die wichtigste Portfolio-Regel in einem Satz: Rendite kommt von Risiko. Je mehr Risiko du trägst, desto höhere Renditen kannst du erzielen - und umgekehrt gibt es keine hohe Rendite ohne hohes Risiko (abgerufen 26.10.2026). Das klingt banal, ist aber der Filter für jedes Versprechen: Ein Angebot mit hoher Rendite und angeblich keinem Risiko widerspricht der Marktlogik. Die Grundlagen stehen im Artikel <a href=\"/artikel/risiko-und-rendite-grundlagen/\">Risiko und Rendite</a>.</p><h2>Wie Risiko gemessen wird</h2><p>Am Aktienmarkt wird Risiko meist als Volatilität gemessen: die Schwankung der Renditen um ihren Durchschnitt. Ein Portfolio mit hoher Volatilität liefert Jahre stark nebeneinander - in beide Richtungen. Risiko hat aber mehr Gesichter als die Schwankungszahl: das Risiko dauerhafter Verluste, das Risiko, zum falschen Zeitpunkt verkaufen zu müssen, und bei Einzelpositionen das <a href=\"/artikel/klumpenrisiko-erkennen/\">Klumpenrisiko</a>. Streuung beseitigt die Einzelrisiken, nicht das Marktrisiko.</p><h2>Brutto, netto, real: drei Renditen für ein Depot</h2><p>Die Zahl im Depotauszug ist die Bruttorendite. Davon gehen laufende Kosten und gegebenenfalls Steuern ab - die Wiener Börse unterscheidet deshalb Brutto- und Nettorendite und weist auf die Wirkung von Kosten, Steuern und Inflation hin (abgerufen 26.10.2026). Erst die reale Nettorendite sagt, ob dein Geld an Kaufkraft gewonnen hat; die <a href=\"/artikel/realzins-berechnen/\">Realzins-Rechnung</a> zeigt das Prinzip. Und der Zeitraum zählt: Nach Angaben der Verbraucherzentrale gab es selbst bei weltweiter Streuung Kursrückgänge von bis zu 50 Prozent und Verlustphasen, die in der Vergangenheit bis zu 15 Jahre andauern konnten. Wer das Geld früher braucht, trägt dieses Risiko auf dem falschen Horizont - dazu passt der Artikel zu <a href=\"/artikel/anlagehorizont-und-ziel/\">Anlagehorizont und Ziel</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Augenmaß bei Geldanlagen - So können Sie Risiken streuen (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/augenmass-bei-geldanlagen-so-koennen-sie-risiken-streuen-12435"
+    },
+    {
+      "title": "Wiener Börse: Vermögen planen und aufbauen - Brutto- vs. Nettorendite (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/bildung-beruf/seminare-lehrgaenge/seminare/vermoegensaufbau-und-planung/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Heißt mehr Risiko automatisch mehr Rendite?",
+      "a": "Nein. Mehr Risiko erkauft nur die Chance auf mehr Rendite - und die Möglichkeit größerer Verluste. Risiken, die nicht vergütet werden, etwa das Klumpenrisiko einer Einzelaktie, lassen sich durch Streuung vermeiden, ohne auf Marktrendite zu verzichten."
+    },
+    {
+      "q": "Welche Rendite ist realistisch für ein Aktienportfolio?",
+      "a": "Die Verbraucherzentrale verweist auf eine reale Aktienmarktrendite von rund fünf Prozent jährlich im langfristigen Durchschnitt - mit dem ausdrücklichen Vorbehalt, dass niemand die Zukunft sicher kennt. Das ist eine historische Größenordnung, keine Prognose."
+    },
+    {
+      "q": "Senkt Diversifikation das Risiko auf null?",
+      "a": "Nein. Streuung beseitigt Einzelrisiken einzelner Titel, Branchen oder Länder. Das allgemeine Marktrisiko bleibt: In einem breiten Crash fällt auch das breiteste Aktienportfolio."
+    }
+  ]
+}

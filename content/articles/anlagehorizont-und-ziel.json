@@ -1,0 +1,33 @@
+{
+  "slug": "anlagehorizont-und-ziel",
+  "title": "Anlagehorizont und Anlageziel: erst der Zweck, dann das Produkt",
+  "description": "Warum Anlageziel und Anlagehorizont vor jeder Produktfrage kommen: Zeiträume einordnen, Risikotragfähigkeit von Risikolaune trennen, Geld mit Termin schützen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/anlagehorizont-und-ziel.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Reihenfolge lautet: Ziel, Horizont, dann erst Anlageform - nie umgekehrt.</li><li>Die Zielmarktbestimmung der Fondsbranche unterscheidet kurze (unter 3 Jahre), mittlere (3 bis 5 Jahre) und lange Horizonte (über 5 Jahre).</li><li>Risikobereitschaft ist Laune, Risikotragfähigkeit ist Rechnung - entscheidend ist beides.</li><li>Geld mit festem Termin gehört nicht in stark schwankende Anlagen.</li></ul></div><h2>Warum das Ziel vor dem Produkt kommt</h2><p>Die Produktfrage ist die bequemste und die falscheste erste Frage. Die Wiener Börse stellt an den Anfang der Asset Allocation die individuellen Rahmenbedingungen: Wie viel Kapital steht zur Verfügung, wie lange darf es gebunden sein, werden laufende Erträge benötigt oder zählt der Wertzuwachs über einen längeren Zeitraum, welches Risiko will der Anleger eingehen (abgerufen 26.10.2026). Erst wenn Zweck und Zeitraum stehen, lässt sich beurteilen, welche Anlageklasse dazu passt. Ein Depot ohne Ziel ist ein Haufen Positionen; ein Depot mit Ziel hat einen Maßstab, an dem sich jede Entscheidung prüfen lässt.</p><h2>Horizonte einordnen: kurz, mittel, lang</h2><p>Wie die Branche Zeiträume sortiert, zeigt der gemeinsame Mindeststandard zur Zielmarktbestimmung von Deutscher Kreditwirtschaft, BVI und Bundesverband der Sparkassen: kurzfristig heißt kürzer als drei Jahre, mittelfristig drei bis fünf Jahre, langfristig länger als fünf Jahre (abgerufen 26.10.2026). Dieselbe Einteilung nutzen Anbieter, wenn sie Produkte mit einem empfohlenen Horizont versehen - etwa \"nicht geeignet für Anleger mit kurzfristigem Anlagehorizont\". Die Logik dahinter: Schwankende Anlagen brauchen Zeit, um Verlustphasen auszusitzen.</p><h2>Wollen und Können auseinanderhalten</h2><p>Der Mindeststandard trennt zwei Dinge, die im Alltag gern verschwimmen: die Risikobereitschaft - wie viel Schwankung du aushältst - und die finanzielle Verlusttragfähigkeit - wie viel Verlust du dir leisten kannst, etwa ob du Verluste bis zum vollständigen Verlust des eingesetzten Kapitals tragen kannst. Wer verlieren will, aber nicht kann, hat kein Risikoprofil, sondern ein Problem. Die Selbsteinschätzung hilft der Artikel zum <a href=\"/artikel/risikoprofil-selbsteinschaetzung/\">Risikoprofil</a>.</p><h2>Geld mit Termin ist kein Anlagegeld</h2><p>Die Verbraucherzentrale warnt konkret: Auch bei weltweiter Streuung gab es Kursrückgänge von bis zu 50 Prozent, und eine Verlustphase konnte in der Vergangenheit bis zu 15 Jahre andauern - ETFs seien daher ungeeignet für alle, die in naher Zukunft das Geld in voller Höhe für größere Anschaffungen oder einen Immobilienkauf brauchen (abgerufen 26.10.2026). Die Konsequenz: Erst der <a href=\"/artikel/notgroschen-wie-viel/\">Notgroschen</a> und das Geld mit Datum, dann die Anlage mit Horizont. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "DK, BVI & BdS: Gemeinsamer Mindeststandard zur Zielmarktbestimmung (MiFID II/PRIIPs) (abgerufen 26.10.2026)",
+      "url": "https://www.bvi.de/fileadmin/user_upload/Regulierung/Branchenstandards/Zielmarktbestimmung/210521_DK_BV_BSW_Zielmarkt_aktualisiert_final_Clean.pdf"
+    },
+    {
+      "title": "Verbraucherzentrale: Welche Vorteile und Nachteile haben ETFs? (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/welche-vorteile-und-nachteile-haben-etfs-16603"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ab welchem Horizont sind Aktien sinnvoll?",
+      "a": "Es gibt keine harte Grenze. Als Daumenregel der Branche gilt ein langer Horizont ab etwa fünf Jahren; die Verbraucherzentrale weist darauf hin, dass Verlustphasen historisch auch deutlich länger dauern konnten. Je kürzer der Zeitraum, desto ungeeigneter schwankende Anlagen."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Risikobereitschaft und Risikotragfähigkeit?",
+      "a": "Risikobereitschaft fragt, was du emotional aushältst. Risikotragfähigkeit fragt, was du dir leisten kannst: Einkommen, Rücklagen, Verpflichtungen, Zeit. Eine Anlage passt nur, wenn beides zusammenkommt."
+    },
+    {
+      "q": "Kann ich mehrere Ziele gleichzeitig haben?",
+      "a": "Ja, und sie sollten getrennt gedacht werden: unterschiedliche Ziele haben unterschiedliche Horizonte. Das Geld für die Anschaffung in zwei Jahren folgt anderen Regeln als das Geld für die Altersvorsorge in dreißig."
+    }
+  ]
+}

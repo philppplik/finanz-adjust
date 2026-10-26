@@ -1,0 +1,159 @@
+{
+ "paket": "P",
+ "welle": 4,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-35",
+   "name": "Portfolio-Konzepte: Aufbau und Rebalancing",
+   "frage": "Aus einzelnen ETF wird noch kein Portfolio - wie baue ich eins, das wirklich zu mir passt?",
+   "intro": "Ein Depot ist mehr als eine Sammlung guter Käufe: Es braucht eine Aufteilung, einen Rahmen und eine Regel für den Ernstfall. Dieser Pfad führt dich durch die Konzepte hinter einem tragfähigen Portfolio: die Assetallokation als zentrale Entscheidung, das Kern-Satelliten-Konzept als Ordnung für eigene Ideen, das Rebalancing als Regel gegen den Stillstand, das Rendite-Risiko-Verhältnis als ehrliche Rechnung, den Anlagehorizont als Schutz für Geld mit Termin, die klassischen Fehlermuster - und zum Schluss die Dokumentation, die alles zusammenhält. Am Ende hast du kein Produkt, sondern ein Konzept. Keine Produktempfehlung, keine Anlageberatung.",
+   "level": "Fortgeschritten",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "Lernpfad 11 (Risiko & Rendite: Streuung verstehen) ist die direkte Vorbereitung; Lernpfad 04 (ETF-Einstieg) reicht als Minimum.",
+   "lernziel": "Du verstehst Kern-Satelliten, Assetallokation und Rebalancing als Konzepte, ohne Produktempfehlung.",
+   "steps": [
+    {
+     "slug": "/artikel/assetallokation-erklaert/",
+     "warum": "Die Grundlage: Warum die Aufteilung auf Anlageklassen dein Depot mehr prägt als jeder Einzeltitel."
+    },
+    {
+     "slug": "/artikel/kern-satelliten-konzept/",
+     "warum": "Die Ordnung: Ein breiter Kern trägt den Aufbau, begrenzte Satelliten geben deinen Ideen Raum."
+    },
+    {
+     "slug": "/artikel/rebalancing-erklaert/",
+     "warum": "Die Regel: Wie du die einmal gewählte Aufteilung gegen den Drift der Märkte verteidigst."
+    },
+    {
+     "slug": "/artikel/portfolio-rendite-und-risiko/",
+     "warum": "Die Rechnung: Warum Rendite von Risiko kommt und was nach Kosten, Steuern und Inflation bleibt."
+    },
+    {
+     "slug": "/artikel/anlagehorizont-und-ziel/",
+     "warum": "Der Rahmen: Warum Geld mit festem Termin anders behandelt wird als Geld mit Zeit."
+    },
+    {
+     "slug": "/artikel/portfolio-fehler-beispiele/",
+     "warum": "Die Warnsignale: Fünf Muster, an denen du ein krankendes Depot früh erkennst."
+    },
+    {
+     "slug": "/artikel/portfolio-dokumentieren/",
+     "warum": "Das Gedächtnis: Ein schriftlicher Plan hält die Strategie zusammen, wenn der Markt laut wird."
+    }
+   ],
+   "terms": [
+    "diversifikation",
+    "rendite",
+    "was-bedeutet-volatilitaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Depot mit einmal festgelegten 70 Prozent Aktien steht nach zwei starken Börsenjahren bei 82 Prozent Aktienanteil. Der Besitzer sagt: Läuft doch gut, warum eingreifen? Was antwortest du mit diesem Pfad?",
+      "loesung": "Die 82 Prozent sind kein Erfolg der Strategie, sondern ihre Aufweichung: Das Depot trägt jetzt ein Risiko, das nie gewählt wurde. Genau dafür ist das Rebalancing da - es stellt die gewählte Struktur wieder her, egal ob die Abweichung durch Gewinne oder Verluste entstand. Wer nur bei Gewinnen dranbleibt, folgt der Laune, nicht dem Plan."
+     },
+     {
+      "frage": "Eine Freundin sammelt Themen-ETFs: KI, Defence, Krypto, Wasserstoff - zwölf Positionen, alle klein. Sie fragt, ob ihr Depot jetzt breit gestreut ist. Wie ordnest du das ein?",
+      "loesung": "Viele Positionen sind noch keine Streuung: Zwölf Trendthemen sind zwölfmal dieselbe Momentum-Wette. Die Verbraucherzentrale ordnet Themen-ETFs als Spekulation ein, nicht als solide Basis. Das Kern-Satelliten-Konzept gibt dem Sammeltrieb einen Rahmen: ein breit gestreuter Kern, der den Aufbau trägt, und begrenzte Satelliten für die Ideen."
+     },
+     {
+      "frage": "Jemand will in zwei Jahren eine Immobilie kaufen und fragt, ob das dafür vorgesehene Geld bis dahin noch in einem Welt-Aktien-ETF arbeiten soll. Wie bewertest du das?",
+      "loesung": "Geld mit festem Termin ist kein Anlagegeld. Die Verbraucherzentrale weist darauf hin, dass Verlustphasen historisch bis zu 15 Jahre andauern konnten - zwei Jahre sind ein kurzer Horizont, in dem schwankende Anlagen ungeeignet sind. Anlagehorizont und Anlageziel entscheiden vor der Produktfrage; dieses Geld gehört in eine Anlage mit passendem Termin, nicht in den Aktienmarkt."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was ist der Unterschied zwischen strategischer und taktischer Assetallokation?",
+      "loesung": "Die strategische Allokation ist der langfristige Soll-Zustand, abgeleitet aus Ziel, Horizont und Risikotragfähigkeit. Die taktische Allokation weicht kurzfristig davon ab und baut auf Prognosen - genau der Punkt, an dem es regelmäßig schiefgeht."
+     },
+     {
+      "frage": "Welche zwei Auslöser für Rebalancing nennt der Pfad - und was kosten Verkäufe dabei?",
+      "loesung": "Ein festes Toleranzband um das Soll-Gewicht oder ein fester Termin, etwa jährlich. Verkäufe beim Rebalancing lösen Orderkosten aus und realisieren Gewinne, die grundsätzlich der Abgeltungsteuer unterliegen; einzahlungsbasiertes Rebalancing vermeidet Verkäufe."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-36",
+     "warum": "Vom eigenen Depot zum Familienvermögen: Der nächste Pfad zeigt, wie Sparen und Gelderziehung für Kinder funktionieren - rechtlich sauber und alltagstauglich."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-36",
+   "name": "Finanzen mit Kindern: Kinderdepot, Taschengeld, Frühstartrente",
+   "frage": "Depot, Taschengeld, Staatszuschuss - wie lege ich für mein Kind an, ohne rechtlich oder steuerlich etwas falsch zu machen?",
+   "intro": "Geld und Kinder ist zwei Themen in einem: für das Kind sparen und dem Kind Geld erklären. Dieser Pfad deckt beides ab: Wie Gelderziehung im Alltag gelingt, wem das Kinderdepot rechtlich gehört und was Eltern damit dürfen, welche Taschengeld-Höhen das Deutsche Jugendinstitut empfiehlt, was die beschlossene Frühstart-Rente vorsieht, wie Ausbildung und Studium finanziert werden und welche Schenkungsfreibeträge in der Familie gelten. Am Ende kennst du Optionen, Rechtsrahmen und Fallstricke - ohne Produktverkauf.",
+   "level": "Einsteiger-nah",
+   "zielgruppe": "Eltern/Familie",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Keine. Der Pfad richtet sich an Eltern, Großeltern und Paten ohne Vorkenntnisse.",
+   "lernziel": "Du kennst Optionen zum Sparen für Kinder, Rechtsrahmen und die Frühstartrente.",
+   "steps": [
+    {
+     "slug": "/artikel/kindern-finanzen-erklaeren/",
+     "warum": "Die Haltung: Warum Gelderziehung früh beginnt und am echten Geld am besten funktioniert."
+    },
+    {
+     "slug": "/artikel/kinderdepot-und-rechtliches/",
+     "warum": "Der Rechtsrahmen: Wem das Depot gehört, was § 1642 BGB von Eltern verlangt und was mit 18 passiert."
+    },
+    {
+     "slug": "/artikel/taschengeld-und-sparziele/",
+     "warum": "Die Praxis: Die aktuellen DJI-Empfehlungen, der richtige Auszahlungstakt und das Budgetgeld."
+    },
+    {
+     "slug": "/artikel/fruehstartrente-erklaert/",
+     "warum": "Der Staatszuschuss: Was der Bundestag am 16.10.2026 beschlossen hat und was noch offen ist."
+    },
+    {
+     "slug": "/artikel/ausbildung-und-studium-finanzieren/",
+     "warum": "Der Ausblick: BAföG, Kindergeld und Nebenjob als Bausteine der ersten eigenen Finanzierung."
+    },
+    {
+     "slug": "/artikel/schenkung-und-steuern-familie/",
+     "warum": "Die Steuerseite: Freibeträge, die Zehn-Jahres-Takt und die Meldepflicht beim Finanzamt."
+    }
+   ],
+   "terms": [
+    "sparplan",
+    "was-ist-ein-etf",
+    "zins"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Vater hat jahrelang 100 Euro monatlich aufs Kinderdepot seiner Tochter eingezahlt. Jetzt ist die Familienkasse knapp - darf er sich aus dem Depot bedienen und später zurückzahlen?",
+      "loesung": "Nein. Das Depot gehört rechtlich dem Kind; die Eltern verwalten es nur als gesetzliche Vertreter. Nach § 1642 BGB ist das Geld des Kindes wirtschaftlich für das Kind anzulegen - eine Verwendung für die Familienkasse oder eigene Zwecke ist unzulässig, auch als vermeintliches Darlehen."
+     },
+     {
+      "frage": "Die Großeltern wollen ihrer Enkelin 250.000 Euro für später schenken und fragen, ob davon Steuern anfallen. Wie lautet die Einordnung?",
+      "loesung": "Der Freibetrag für Enkel beträgt 200.000 Euro je Schenkendem (§ 16 ErbStG). Bei einem Großelternteil wären 50.000 Euro über dem Freibetrag; schenken beide Großeltern je zur Hälfte, bleibt alles steuerfrei. Die Schenkung ist dem Finanzamt anzuzeigen - Steuer fällt erst auf den Teil über dem Freibetrag an."
+     },
+     {
+      "frage": "Eine Mutter liest von der Frühstart-Rente und will das Geld ihrer Tochter mit 18 für den Führerschein nutzen. Passt das Produkt zu diesem Ziel?",
+      "loesung": "Nein. Die Frühstart-Rente ist Altersvorsorge: Das Vermögen ist grundsätzlich nicht vor Vollendung des 65. Lebensjahres verfügbar. Für flexible Ziele wie Führerschein oder Ausbildung ist das Kinderdepot das passende Gefäß - dort verfügt das Kind ab 18 frei. Übrigens: Stand 26.10.2026 ist das Gesetzgebungsverfahren noch nicht abgeschlossen, der Start ist für 2027 geplant."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Ab wann darf das Kind allein über das Kinderdepot verfügen - und was bedeutet das für Eltern, die die Kontrolle behalten wollen?",
+      "loesung": "Mit der Volljährigkeit endet die gesetzliche Vertretung automatisch; das Kind verfügt ab 18 allein und ohne Zustimmung. Wer die Auszahlung kontrollieren will, kann das im Kinderdepot nicht vereinbaren - die Alternative ist das Sparen im eigenen Depot, mit den eigenen Freibeträgen."
+     },
+     {
+      "frage": "Wie hoch ist der staatliche Zuschuss der Frühstart-Rente, für welches Alter - und was ist der rechtliche Stand am 26.10.2026?",
+      "loesung": "Zehn Euro pro Monat für Kinder vom 6. bis zum 18. Lebensjahr, gezahlt in einen zertifizierten Standarddepot-Vertrag. Der Bundestag hat das Gesetz am 16.10.2026 beschlossen; das Gesetzgebungsverfahren ist noch nicht abgeschlossen, der Start ist für den 1.1.2027 geplant - für den Jahrgang 2020 rückwirkend ab 1.1.2026."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-37",
+     "warum": "Nach dem Blick auf die Kinder geht es um den eigenen Start: Der nächste Pfad begleitet Azubis, Studierende und Berufseinsteiger ins erste eigene Geldleben."
+    }
+   ]
+  }
+ ]
+}

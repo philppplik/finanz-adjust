@@ -1,0 +1,33 @@
+{
+  "slug": "schenkung-und-steuern-familie",
+  "title": "Schenkung und Steuern in der Familie: Freibeträge, Zehn-Jahres-Takt, Meldepflicht",
+  "description": "Schenkungsteuer in der Familie verstehen: die Freibeträge nach § 16 ErbStG, die Zehn-Jahres-Frist nach § 14 und warum jede größere Schenkung dem Finanzamt gemeldet wird.",
+  "section": "wissen",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/schenkung-und-steuern-familie.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Zwischen Eltern und Kindern bleiben Schenkungen bis 400.000 Euro je Elternteil und Kind steuerfrei; bei Enkeln sind es 200.000 Euro, beim Ehepartner 500.000 Euro.</li><li>Die Freibeträge gelten pro Zehn-Jahres-Zeitraum - wer früh anfängt, kann sie mehrfach nutzen.</li><li>Schenkungen sind dem Finanzamt anzuzeigen; Steuer fällt erst auf den Teil über dem Freibetrag an.</li><li>Auch die Einzahlung aufs Kinderdepot ist rechtlich eine Schenkung und zählt auf den Freibetrag.</li></ul></div><h2>Die Freibeträge nach § 16 ErbStG</h2><p>Das Erbschaftsteuer- und Schenkungsteuergesetz lässt Familien viel Raum, bevor überhaupt Steuer anfällt. Steuerfrei bleiben nach § 16 ErbStG (abgerufen 26.10.2026): 500.000 Euro für Ehegatten und Lebenspartner, 400.000 Euro für Kinder und Stiefkinder, 200.000 Euro für Enkel, 100.000 Euro für übrige Personen der Steuerklasse I und 20.000 Euro für alle anderen - etwa Geschwister, Nichten, Neffen oder Lebensgefährten ohne Trauschein. Wichtig: Der Kinder-Freibetrag gilt je Elternteil; zwei Eltern können einem Kind also zusammen 800.000 Euro steuerfrei zukommen lassen.</p><h2>Die Zehn-Jahres-Taktung nach § 14 ErbStG</h2><p>Der Freibetrag ist kein Einmalkontingent, sondern ein Periodenkontingent: Er kann nach zehn Jahren erneut in Anspruch genommen werden. Wer 2026 einem Kind 400.000 Euro schenkt, kann 2036 erneut 400.000 Euro steuerfrei übertragen. Für die Berechnung werden alle Erwerbe von derselben Person innerhalb von zehn Jahren zusammengerechnet. Genau daraus entsteht die klassische Familienstrategie: große Vermögensübertragungen früh beginnen und in Zehn-Jahres-Scheiben verteilen, statt alles dem Erbfall zu überlassen.</p><h2>Meldepflicht und Steuerklassen</h2><p>Auch steuerfreie Schenkungen sind dem Finanzamt anzuzeigen; die Finanzämter weisen darauf hin, dass Freibeträge erst überschritten werden müssen, bevor Steuer anfällt - und dass die Höhe vom Verwandtschaftsgrad abhängt (abgerufen 26.10.2026). Für den übersteigenden Teil gelten die Steuerklassen I bis III mit Sätzen, die in der engsten Familie am niedrigsten sind. Praktisch heißt das: Quittungen und Vereinbarungen aufbewahren, die Anzeige nicht vergessen, bei Immobilien oder Unternehmensanteilen professionelle Bewertung einholen.</p><h2>Der Alltagsfall: das Kinderdepot</h2><p>Die häufigste Familienschenkung ist keine Übertragung mit Notar, sondern der Dauerauftrag: Jede Einzahlung auf ein <a href=\"/artikel/kinderdepot-und-rechtliches/\">Kinderdepot</a> ist rechtlich eine Schenkung an das Kind und summiert sich auf dessen 400.000-Euro-Freibetrag je Elternteil. Bei normalen Sparraten bleibt das irrelevant - relevant wird es bei größeren Einmalbeträgen, etwa aus einer Erbschaft der Großeltern, die weitergereicht werden. Ab wann sich Begleitung lohnt, steht im Artikel <a href=\"/artikel/wo-steuerberater-noetig-ist/\">Wo ein Steuerberater nötig ist</a>. Keine Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "Gesetze im Internet: § 16 ErbStG - Freibeträge (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/erbstg_1974/__16.html"
+    },
+    {
+      "title": "Finanzverwaltung NRW: Steuerpflicht bei Erbe oder Schenkung (abgerufen 26.10.2026)",
+      "url": "https://www.finanzamt.nrw.de/steuerinfos/weitere-themen/erbschaft-und-schenkungsteuer/steuerpflicht-bei-erbe-oder-schenkung"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich eine Schenkung ans Finanzamt melden, auch wenn sie steuerfrei ist?",
+      "a": "Ja. Schenkungen unterliegen grundsätzlich der Anzeigepflicht gegenüber dem Finanzamt, auch wenn durch die Freibeträge letztlich keine Steuer anfällt. Das Finanzamt prüft anhand der Anzeige, ob der Freibetrag reicht."
+    },
+    {
+      "q": "Zählen Oma und Opa beim Enkel-Freibetrag extra?",
+      "a": "Der Freibetrag von 200.000 Euro gilt je Schenkendem und Beschenktem. Zwei Großelternteile können einem Enkel also zusammen 400.000 Euro steuerfrei schenken - jeweils pro Zehn-Jahres-Zeitraum."
+    },
+    {
+      "q": "Was passiert, wenn eine Schenkung den Freibetrag übersteigt?",
+      "a": "Dann wird nur der übersteigende Teil versteuert. Der Steuersatz hängt von der Steuerklasse und der Höhe ab; in Steuerklasse I (Eltern, Kinder, Ehepartner) beginnt er niedrig und steigt mit dem Betrag."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "assetallokation-erklaert",
+  "title": "Assetallokation erklärt: Die eine Entscheidung, die dein Depot trägt",
+  "description": "Warum die Aufteilung auf Anlageklassen mehr zählt als die Auswahl einzelner Titel: Assetallokation in drei Schritten, strategisch gegen taktisch - ohne Produktempfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/assetallokation-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Assetallokation ist die Aufteilung deines Geldes auf Anlageklassen wie Aktien, Anleihen, Immobilien oder Geldmarkt.</li><li>Die Wiener Börse beschreibt drei Schritte: Rahmenbedingungen festlegen, Anlageformen auswählen, Erfolg regelmäßig kontrollieren.</li><li>Die strategische Allokation ist der langfristige Plan; taktische Abweichungen sind kurzfristige Wetten darauf.</li><li>Die Aufteilung bestimmt, wie stark dein Depot schwankt - nicht die einzelne Aktie.</li></ul></div><h2>Was Assetallokation bedeutet</h2><p>Assetallokation - deutsch Vermögensstrukturierung - ist die Antwort auf eine einfache Frage: Wie viel deines Geldes liegt in welcher Anlageklasse? Die Wiener Börse definiert sie als die Aufteilung eines angelegten Vermögens auf die verschiedenen Anlageklassen, etwa Anleihen, Aktien oder Immobilien (abgerufen 26.10.2026). Das klingt nach Verwaltung, ist aber die zentrale Designentscheidung deines Depots: Sie legt fest, wie viel Schwankung du grundsätzlich mitnimmst und welche Renditequellen du überhaupt zapfst.</p><h2>Drei Schritte nach Lehrbuch</h2><p>Die Wiener Börse beschreibt die Asset Allocation in drei Schritten. Erstens die individuellen Rahmenbedingungen: Wie viel Kapital steht zur Verfügung, kommt es auf einmal oder in Raten, wie lange darf es gebunden sein, welches Risiko willst du tragen, wie ist deine steuerliche Situation? Zweitens die Auswahl der passenden Anlageformen: Wie viel Kapital fließt in welche Anlage? Drittens die Erfolgskontrolle: In regelmäßigen Abschnitten prüfen, ob umgeschichtet werden sollte - mit dem Hinweis, dass Umschichten meist Kosten und Steuern auslöst. Der Ablauf zeigt: Die Allokation ist kein einmaliger Kaufentscheid, sondern ein laufender Rahmen, an den sich alles Weitere hält - vom <a href=\"/artikel/kern-satelliten-konzept/\">Kern-Satelliten-Aufbau</a> bis zum <a href=\"/artikel/rebalancing-erklaert/\">Rebalancing</a>.</p><h2>Strategisch gegen taktisch</h2><p>Die strategische Allokation ist dein langfristiger Soll-Zustand, etwa 70 Prozent Aktien und 30 Prozent Anleihen, abgeleitet aus Ziel, Horizont und Risikotragfähigkeit. Taktische Allokation heißt, davon kurzfristig abzuweichen, weil man eine Marktlage kommen sieht. Der Unterschied ist Haltung: Die Strategie baut auf Dauer und Streuung, die Taktik baut auf Prognosen. Prognosen sind der Punkt, an dem es regelmäßig schiefgeht.</p><h2>Warum die Aufteilung mehr zählt als der Einzeltitel</h2><p>Die Verbraucherzentrale bringt es auf den Punkt: Risiko und Rendite sind zwei Seiten derselben Medaille - und hohe Risiken einzelner Aktien lassen sich vermeiden, indem man breit gestreut investiert (abgerufen 26.10.2026). Genau das leistet die Allokation auf Ebene der Anlageklassen und die <a href=\"/artikel/klumpenrisiko-erkennen/\">Streuung</a> innerhalb der Klassen. Ob dein Depot in einem Crash um zehn oder um vierzig Prozent fällt, entscheidet die Aufteilung, nicht die Frage, welche Einzelaktie du gekauft hast. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse: Asset Allocation - Schritt für Schritt-Erklärung (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/analyse-strategie/asset-allocation/"
+    },
+    {
+      "title": "Verbraucherzentrale: Augenmaß bei Geldanlagen - So können Sie Risiken streuen (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/augenmass-bei-geldanlagen-so-koennen-sie-risiken-streuen-12435"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Assetallokation dasselbe wie Diversifikation?",
+      "a": "Die Begriffe greifen ineinander. Assetallokation ist die Aufteilung auf Anlageklassen, also die grobe Struktur. Diversifikation oder Streuung meint zusätzlich die Verteilung innerhalb einer Klasse, etwa auf viele Aktien statt auf wenige."
+    },
+    {
+      "q": "Wie oft sollte ich meine Assetallokation ändern?",
+      "a": "Die strategische Allokation folgt deinen Rahmenbedingungen, nicht den Schlagzeilen. Anpassen solltest du sie, wenn sich Ziel, Horizont oder Risikotragfähigkeit ändern. Laufende Abweichungen durch Kursbewegungen sind ein Fall für das Rebalancing, nicht für eine neue Strategie."
+    },
+    {
+      "q": "Gibt es die eine richtige Aufteilung?",
+      "a": "Nein. Die Allokation ist individuell, weil Anlagebetrag, Anlagedauer, Risikoeinstellung und steuerliche Situation individuell sind. Faustregeln aus dem Netz ignorieren genau diese Rahmenbedingungen."
+    }
+  ]
+}

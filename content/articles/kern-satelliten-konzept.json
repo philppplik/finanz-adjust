@@ -1,0 +1,33 @@
+{
+  "slug": "kern-satelliten-konzept",
+  "title": "Kern-Satelliten-Konzept: Ordnung für Depots mit Ideen",
+  "description": "Wie das Kern-Satelliten-Konzept ein Depot strukturiert: breiter Kern für den langfristigen Aufbau, begrenzte Satelliten für eigene Ideen - und warum Themen-ETFs kein Kern sind.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:05:00+01:00",
+  "image": "/images/kern-satelliten-konzept.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kern-Satelliten teilt ein Depot in einen breit gestreuten Kern und kleinere Satelliten für eigene Ideen.</li><li>Der Kern soll den langfristigen Vermögensaufbau tragen; Satelliten sind bewusst begrenzte Beimischungen.</li><li>Die Verbraucherzentrale warnt, dass Themen-ETFs keine solide breite Anlagestrategie bieten - sie taugen allenfalls als Satellit.</li><li>Das Konzept funktioniert nur mit festen Gewichten: Wer Satelliten wachsen lässt, hat bald kein Konzept mehr.</li></ul></div><h2>Die Idee hinter Kern und Satelliten</h2><p>Viele Depots wachsen ohne Plan: ein ETF hier, eine Aktie dort, dazu der Fonds aus der Werbung. Das Kern-Satelliten-Konzept bringt eine einfache Ordnung in dieses Durcheinander. Der Kern ist das Basisinvestment: breit gestreut, langfristig gehalten, darauf ausgelegt, den Vermögensaufbau zu tragen. Die Satelliten sind Beimengungen - die Wiener Börse verwendet genau diese Begriffspaarung - also kleinere Positionen für eigene Ideen, Regionen, Branchen oder Einzeltitel. Der Kern macht den Großteil des Geldes aus, die Satelliten einen bewusst begrenzten Rest.</p><h2>Was in den Kern gehört - und was nicht</h2><p>Als Kern eignen sich nach Auffassung der Verbraucherzentrale breit gestreute Aktien-ETFs auf große, marktbreite Indizes mit tausenden Titeln aus vielen Ländern und Branchen. Ausdrücklich nicht als Basis geeignet sind laut Verbraucherzentrale ETFs auf bestimmte Branchen oder Themen: Diese Produkte böten keine solide, breit gestreute Anlagestrategie und dienten allenfalls der Spekulation (abgerufen 26.10.2026). Genau solche Positionen sind der klassische Satelliten-Kandidat: erlaubt, aber begrenzt. Mehr zur Risikostreuung im Kern steht im Artikel zur <a href=\"/artikel/assetallokation-erklaert/\">Assetallokation</a>, die typischen Auswahlfehler im Artikel zu <a href=\"/artikel/portfolio-fehler-beispiele/\">Portfolio-Fehlern</a>.</p><h2>Warum das Konzept der eigenen Neugier hilft</h2><p>Der praktische Nutzen ist psychologisch wie rechnerisch: Wer eine Idee unbedingt ausprobieren will, muss sie nicht unterdrücken, sondern bekommt mit dem Satelliten einen Rahmen dafür. Der Kern bleibt unangetastet, der Spieltrieb findet in einem begrenzten Budget statt. Gleichzeitig wird sichtbar, was die Ideen tatsächlich bringen, weil Kern und Satelliten getrennt betrachtet werden können.</p><h2>Die Regeln, die das Konzept am Leben halten</h2><p>Drei Regeln reichen: Erstens die Gewichtung vorab festlegen, etwa 80 Prozent Kern und 20 Prozent Satelliten, statt sie dem Zufall zu überlassen. Zweitens Satelliten bei Erfolg nicht unbegrenzt wachsen lassen - ein Gewinn-Satellit, der den halben Depotwert ausmacht, ist kein Satellit mehr. Drittens die Struktur regelmäßig prüfen und mit dem <a href=\"/artikel/rebalancing-erklaert/\">Rebalancing</a> wiederherstellen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse: Vermögen planen und aufbauen - Basisinvestment vs. Beimengung (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/bildung-beruf/seminare-lehrgaenge/seminare/vermoegensaufbau-und-planung/"
+    },
+    {
+      "title": "Verbraucherzentrale: Welche Vorteile und Nachteile haben ETFs? (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/welche-vorteile-und-nachteile-haben-etfs-16603"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie groß sollte der Satelliten-Anteil sein?",
+      "a": "Das Konzept schreibt keine Zahl vor, aber der Sinn liegt in der Begrenzung: Satelliten sollen das Depot nicht tragen. Üblich sind kleine zweistellige Prozentbereiche. Entscheidend ist, dass die Grenze vorher festgelegt und eingehalten wird."
+    },
+    {
+      "q": "Gehört eine einzelne Aktie in Kern oder Satellit?",
+      "a": "Einzelaktien tragen das volle Einzeltitelrisiko und erfüllen damit nicht die Anforderung an einen breit gestreuten Kern. Nach der Logik des Konzepts sind sie Satelliten."
+    },
+    {
+      "q": "Brauche ich überhaupt Satelliten?",
+      "a": "Nein. Ein reines Kern-Depot ist ein vollständig legitimes Ergebnis des Konzepts. Satelliten sind die Antwort auf eigene Ideen - wer keine hat oder keine will, lässt sie weg."
+    }
+  ]
+}
