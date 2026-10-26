@@ -1,0 +1,41 @@
+{
+  "slug": "stablecoins-erklaert",
+  "title": "Stablecoins erklärt: Wie stabil sind sie wirklich?",
+  "description": "Was Stablecoins sind, wie E-Geld-Token nach MiCA geregelt sind und warum der Name keine Garantie ist. Mit dem Beispiel USDC im März 2023. Sachlich, ohne Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/stablecoins-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Stablecoin soll seinen Wert stabil halten, meist durch Bezug auf eine Währung wie Euro oder Dollar.</li><li>Die EU-Aufseher warnen: Stablecoins sind nicht zwingend stabil, besonders in Stressphasen.</li><li>Nach MiCA gibt es E-Geld-Token (ein Währungsbezug) und vermögenswertreferenzierte Token (andere Bezüge).</li><li>Bei E-Geld-Token besteht ein Rückgabeanspruch zum Nennwert gegen den Emittenten.</li></ul></div><h2>Was ein Stablecoin ist</h2><p>Die EU-Aufseher definieren einen Stablecoin als Kryptowert, der seinen Wert stabil halten soll, indem er sich auf einen Wert oder mehrere Werte bezieht, etwa eine staatliche Währung. Der Name beschreibt die Absicht, nicht ein Ergebnis. Die Aufseher schreiben ausdrücklich, dass Stablecoins in Stressphasen am Markt nicht stabil bleiben müssen.</p><h2>Zwei Arten nach MiCA</h2><p>E-Geld-Token (EMT) beziehen sich auf genau eine offizielle Währung wie Euro oder Dollar. Nach den Aufsehern dürfen sie in der EU nur von Kreditinstituten oder E-Geld-Instituten öffentlich angeboten werden und bringen keine Zinsen. Halter haben das Recht, ihr Geld vom Emittenten zum Nennwert in der Bezugswährung zurückzubekommen. Vermögenswertreferenzierte Token (ART) beziehen sich auf anderes oder eine Kombination, etwa Rohstoffe oder andere Kryptowerte, und dürfen nur von Kreditinstituten oder nach MiCA zugelassenen Emittenten angeboten werden. Die Einordnung findest du auch im <a href=\"/artikel/mica-regulierung-ueberblick/\">MiCA-Überblick</a>.</p><h2>Ein Beispiel: USDC im März 2023</h2><p>Im März 2023 verlor der Stablecoin USDC kurz seine Anbindung an den Dollar, nachdem der Herausgeber Circle ein Engagement von 3,3 Milliarden US-Dollar bei der Silicon Valley Bank offengelegt hatte. Nach Reuters fiel USDC auf ein Rekordtief, erholte sich aber größtenteils wieder, nachdem Circle zugesichert hatte, die Anbindung zu halten. Laut Circle wurde das Reserverisiko nach Ankündigung von US-Behörden beseitigt. Das Beispiel zeigt: Auch gut besicherte Stablecoins hängen an der Reserve, an Banken und am Vertrauen.</p><h2>Worauf du achten kannst</h2><p>Wer ist der Emittent und ist er zugelassen? Wo liegen die Reserven? Gibt es einen klaren Rückgabeanspruch? Die ESMA hat zudem eine Stellungnahme zu Diensten rund um Stablecoins veröffentlicht, die nicht MiCA-konform sind. Ob ein bestimmter Coin MiCA-konform ist, kannst du über das ESMA-Register prüfen. Stablecoins sind kein Bankkonto und kein Festgeld. Weitere Risiken im <a href=\"/artikel/krypto-risiken-ueberblick/\">Risiko-Überblick</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Joint ESAs Factsheet on crypto-assets (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2025-10/Joint_ESAs_Factsheet_on_crypto-assets.pdf"
+    },
+    {
+      "title": "Reuters: Circle reveals $3.3 bln exposure to Silicon Valley Bank, 11.3.2023 (abgerufen 26.10.2026)",
+      "url": "https://www.reuters.com/business/crypto-firm-circle-reveals-33-bln-exposure-silicon-valley-bank-2023-03-11/"
+    },
+    {
+      "title": "Circle: $3.3 Billion of USDC Reserve Risk Removed, Dollar De-peg Closes, 13.3.2023 (abgerufen 26.10.2026)",
+      "url": "https://www.circle.com/pressroom/3-3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes"
+    },
+    {
+      "title": "ESMA: Supervisory expectations for services related to non-MiCA-compliant ARTs and EMTs (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind Stablecoins wie Euro auf dem Konto?",
+      "a": "Nein. Bei E-Geld-Token gibt es einen Rückgabeanspruch gegen den Emittenten, aber kein Bankkonto mit Einlagensicherung. Lies die Bedingungen."
+    },
+    {
+      "q": "Bringen Stablecoins Zinsen?",
+      "a": "E-Geld-Token und vermögenswertreferenzierte Token gewähren nach den Aufsehern keine Zinsen an Halter."
+    },
+    {
+      "q": "Kann ein Stablecoin seinen Wert verlieren?",
+      "a": "Ja. Die EU-Aufseher weisen darauf hin, dass Stablecoins in Stressphasen nicht stabil sein müssen."
+    }
+  ]
+}

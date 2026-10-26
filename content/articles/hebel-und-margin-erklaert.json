@@ -1,0 +1,33 @@
+{
+  "slug": "hebel-und-margin-erklaert",
+  "title": "Hebel und Margin erklärt: Warum Verluste schneller wachsen",
+  "description": "Was Hebel und Margin bei Krypto-Handel bedeuten, ein Rechenbeispiel zur Liquidation und welche EU-Grenzen für Privatanleger bei Krypto-CFDs gelten. Sachlich und ohne Panik.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/hebel-und-margin-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Hebel vergrößert die Position über das eingesetzte Geld (Margin) hinaus. Gewinne und Verluste wachsen im gleichen Verhältnis.</li><li>Fällt der Wert der Position stark genug, löst die Plattform sie automatisch auf (Liquidation). Das eingesetzte Geld kann dann weg sein.</li><li>Für Privatkunden gilt bei Krypto-CFDs in der EU ein Hebellimit von 2:1, dazu Nachschuss-Schutz.</li></ul></div><h2>Die Idee</h2><p>Mit Hebel handelst du eine größere Position, als dein Geld hergeben würde. Dein eigenes Geld heißt Margin, der Rest wird vom Anbieter geliehen oder über ein Derivat dargestellt. Bei einem Hebel von 5 setzt du mit 1.000 Euro Margin eine Position von 5.000 Euro. Bewegt sich der Kurs um 1 Prozent, verändert sich die Position um 50 Euro, bezogen auf deine Margin sind das 5 Prozent.</p><h2>Ein vereinfachtes Rechenbeispiel</h2><p>Hebel 5, Margin 1.000 Euro, Position 5.000 Euro. Fällt der Kurs um 10 Prozent, verliert die Position 500 Euro, die Hälfte der Margin. Fällt er um 20 Prozent, wäre die Margin rechnerisch aufgebraucht. In der Praxis löst die Plattform die Position oft schon früher auf, weil sie eine Mindestmarge verlangt, und Gebühren kommen dazu. Das Beispiel ist vereinfacht und enthält keine Preise einer echten Plattform. Es zeigt nur die Richtung: Je höher der Hebel, desto kleiner die Bewegung, die ausreicht.</p><h2>Liquidation</h2><p>Wenn die Margin nicht mehr ausreicht, schließt die Plattform die Position automatisch, damit sie selbst keinen Verlust erleidet. Das heißt Liquidation. Wenn viele Positionen gleichzeitig aufgelöst werden, kann das den Kurs zusätzlich bewegen. Wie das in einer Woche aussah, steht in <a href=\"/artikel/krypto-liquidationen-erklaert-2026-10-19/\">Liquidationen erklärt</a>.</p><h2>Was die EU für Privatanleger vorschreibt</h2><p>Die ESMA hat für CFDs Schutzregeln eingeführt: ein Hebellimit bei der Eröffnung einer Position für Privatkunden, bei Kryptowährungen 2:1, dazu eine Close-out-Regel je Konto und Schutz vor negativem Saldo, sodass man nicht mehr verlieren kann als eingesetzt. Im Februar 2026 stellte die ESMA klar, dass auch Derivate, die als Perpetual Futures vermarktet werden und gehebelt auf Krypto-Werte wie Bitcoin oder Ethereum laufen, wahrscheinlich unter diese Maßnahmen fallen können, wenn sie die Definition eines CFD erfüllen. Das gilt für Angebote an Privatkunden in der EU. Plattformen außerhalb der EU unterliegen diesen Regeln womöglich nicht.</p><h2>Wie du es einordnest</h2><p>Hebel ist ein Werkzeug mit eingebautem Verlustrisiko. Er ist keine Strategie für alle und keine Empfehlung. Wie sich Kosten bei Perpetuals zusammensetzen, steht in <a href=\"/artikel/funding-rates-und-futures/\">Funding Rates und Futures</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "ESMA: Final product intervention measures on CFDs and binary options (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-adopts-final-product-intervention-measures-cfds-and-binary-options"
+    },
+    {
+      "title": "ESMA: Public Statement on derivatives in scope of the CFD product intervention measures, 24.02.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2026-02/ESMA35-243228190-8024_-_Public_statement_on_derivatives_in_scope_of_the_CFD_product_intervention_measures.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich mit Hebel mehr als meinen Einsatz verlieren?",
+      "a": "Bei CFDs für Privatkunden in der EU gibt es einen Schutz vor negativem Saldo laut ESMA-Maßnahmen. Bei Angeboten außerhalb der EU oder anderen Konstruktionen kann das anders sein. Lies immer die Bedingungen."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Margin und Hebel?",
+      "a": "Margin ist dein eingesetztes Geld, Hebel das Verhältnis zwischen Positionsgröße und Margin."
+    },
+    {
+      "q": "Gilt das 2:1-Limit für jede Krypto-Handelsplattform?",
+      "a": "Nein. Es gilt für CFDs, die an Privatkunden in der EU vermarktet werden. Maßgeblich ist, ob das Produkt unter die Maßnahmen fällt."
+    }
+  ]
+}

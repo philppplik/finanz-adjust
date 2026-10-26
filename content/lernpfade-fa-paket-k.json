@@ -1,0 +1,164 @@
+{
+ "paket": "K",
+ "welle": 3,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-25",
+   "name": "Krypto-Einstieg: Bitcoin, Ethereum, Börsen",
+   "frage": "Was steckt hinter Bitcoin und Co., wo liegen meine Coins und was sagen Aufsicht und Finanzamt?",
+   "intro": "Krypto begegnet dir in Schlagzeilen, Chats und Werbung. Dieser Pfad erklärt ruhig, was dahintersteckt: die Grundidee von Bitcoin, die Blockchain als gemeinsames Kontobuch, Ethereum und Smart Contracts, den Unterschied zwischen Börse und eigener Verwahrung, den Rahmen der EU-Regeln (MiCA), die Steuerregeln in Deutschland und die wichtigsten Risiken. Ohne Kursprognose und ohne Empfehlung.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Keine. Lernpfad 03 (Aktien-Basics) hilft beim Einordnen von Kursschwankungen, ist aber keine Pflicht.",
+   "lernziel": "Du verstehst Funktionsweise, Verwahrung, Regulierung (MiCA) und Steuern bei Krypto in Grundzügen.",
+   "steps": [
+    {
+     "slug": "/artikel/was-ist-bitcoin/",
+     "warum": "Die Grundidee: Zahlungssystem ohne zentrale Stelle, Wallet und privater Schlüssel."
+    },
+    {
+     "slug": "/artikel/blockchain-einfach-erklaert/",
+     "warum": "Die Technik dahinter: das gemeinsame Kontobuch und seine Grenzen."
+    },
+    {
+     "slug": "/artikel/ethereum-und-smart-contracts/",
+     "warum": "Mehr als Überweisungen: Programme auf der Blockchain und was Proof of Stake heißt."
+    },
+    {
+     "slug": "/artikel/krypto-boersen-und-verwahrung/",
+     "warum": "Die Praxis: Wo deine Coins liegen und wie du Anbieter prüfst."
+    },
+    {
+     "slug": "/artikel/mica-regulierung-ueberblick/",
+     "warum": "Der Rahmen: Was die EU-Verordnung regelt, was nicht und wo der Stand heute ist."
+    },
+    {
+     "slug": "/artikel/krypto-steuern-deutschland/",
+     "warum": "Das Finanzamt: Haltefrist, Freigrenze, Tausch und Meldepflichten."
+    },
+    {
+     "slug": "/artikel/krypto-risiken-ueberblick/",
+     "warum": "Der Abschluss: Die Risiken nach Gruppen sortiert, mit Warnungen der Aufsichtsbehörden."
+    }
+   ],
+   "terms": [
+    "etc",
+    "liquiditaet",
+    "was-bedeutet-volatilitaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Bekannter sagt: Bitcoin ist knapp, also muss der Kurs steigen. Wie ordnest du das ein?",
+      "loesung": "Das Angebot ist auf 21 Millionen Coins begrenzt. Das ist eine Eigenschaft des Systems, aber keine Kursgarantie: Der Kurs entsteht aus Angebot und Nachfrage und schwankt teils stark. Die Begrenzung sagt nichts über die künftige Entwicklung."
+     },
+     {
+      "frage": "Du hast Coins auf einer Börse. Welche Dinge prüfst du zum Anbieter?",
+      "loesung": "Ob er in der EU zugelassen ist (ESMA-Register, BaFin), wer die Zugangsmittel (private Schlüssel) kontrolliert und was bei Ausfall oder Sperre mit deinen Coins geschieht. Dazu: wie viel du dort dauerhaft liegen lässt."
+     },
+     {
+      "frage": "Du tauschst nach sieben Monaten eine Kryptowährung in eine andere, mit Gewinn. Was ist steuerlich relevant?",
+      "loesung": "Der Tausch gilt als Veräußerung. Weil die Haltedauer unter einem Jahr liegt, kommt es darauf an, ob der Gesamtgewinn aus privaten Veräußerungsgeschäften im Kalenderjahr weniger als 1.000 Euro beträgt (§ 23 Absatz 3 Satz 5 EStG). Ab 1.000 Euro ist der gesamte Gewinn steuerpflichtig, die Grenze ist eine Freigrenze und kein Freibetrag. Für Einzelfälle hilft die Steuerberatung."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wer den privaten Schlüssel einer Wallet hat, ...",
+      "loesung": "... kontrolliert die Coins darin. Wer ihn verliert, kommt in der Regel nicht mehr an sie."
+     },
+     {
+      "frage": "Was gilt nach MiCA für die Whitepapers im ESMA-Register?",
+      "loesung": "Sie wurden von keiner Behörde geprüft oder genehmigt. Verantwortlich für den Inhalt sind Anbieter und Emittent."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-26",
+     "warum": "Du kennst jetzt die Grundlagen. Als Nächstes geht es um Hebel, Liquidationen und Verwahrungsfehler."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-26",
+   "name": "Krypto-Risiken: Hebel, Liquidationen, Verwahrung",
+   "frage": "Wie entstehen Verluste bei Krypto-Hebeln, was lehren Börsenpleiten und woran erkenne ich Betrug?",
+   "intro": "Viele Verluste bei Krypto entstehen nicht durch den Coin selbst, sondern durch Hebel, Plattformen und Betrug. Dieser Pfad führt von den Liquidationen der Woche über die Mechanik von Hebel und Margin, die Kosten bei Perpetual Futures und die Lehren aus dem Fall FTX zu Verwahrungsfehlern, Stablecoins und Betrugsmaschen. Sachlich, mit Rechenbeispiel und ohne Angstmache.",
+   "level": "Fortgeschritten",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "Lernpfad 25 (Krypto-Einstieg) ist die direkte Vorbereitung.",
+   "lernziel": "Du erkennst Hebelrisiken, Liquidationskaskaden und Verwahrungsfehler.",
+   "steps": [
+    {
+     "slug": "/artikel/krypto-liquidationen-erklaert-2026-10-19/",
+     "warum": "Der Einstieg: Was Liquidationen sind und warum sie in einer Woche Thema waren."
+    },
+    {
+     "slug": "/artikel/hebel-und-margin-erklaert/",
+     "warum": "Die Mechanik: Hebel, Margin, ein Rechenbeispiel und die EU-Grenzen für Privatkunden."
+    },
+    {
+     "slug": "/artikel/funding-rates-und-futures/",
+     "warum": "Die Kosten: Wie Perpetuals ohne Ablaufdatum Haltekosten erzeugen."
+    },
+    {
+     "slug": "/artikel/boersenpleiten-lehren/",
+     "warum": "Der Fall FTX: Was Kontrollmängel für Verwahrung und Anbieterwahl bedeuten."
+    },
+    {
+     "slug": "/artikel/self-custody-risiken/",
+     "warum": "Die Alternative: Eigene Verwahrung, Backup und typische Fehler."
+    },
+    {
+     "slug": "/artikel/stablecoins-erklaert/",
+     "warum": "Stabilität als Versprechen: Rückgabeanspruch, Reserven und das Beispiel USDC 2023."
+    },
+    {
+     "slug": "/artikel/krypto-scams-erkennen/",
+     "warum": "Der Abschluss: Warnzeichen und Prüfschritte gegen Betrugsmaschen."
+    }
+   ],
+   "terms": [
+    "liquiditaet",
+    "was-bedeutet-volatilitaet",
+    "diversifikation",
+    "spread"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Eine Plattform bietet dir Hebel 10 auf Bitcoin an. Was rechnest du durch, bevor du überhaupt über einen Einstieg nachdenkst?",
+      "loesung": "Mit Hebel 10 genügt bei vereinfachter Rechnung eine Gegenbewegung von rund 10 Prozent, um die Margin aufzubrauchen. In der Praxis löst die Plattform oft früher auf (Mindestmarge), dazu kommen Gebühren und Funding. Außerdem: Prüfe, ob das Angebot unter die EU-CFD-Schutzregeln fällt, die für Krypto-CFDs ein Limit von 2:1 vorsehen."
+     },
+     {
+      "frage": "Du hältst eine Long-Position mit Hebel über mehrere Wochen und die Funding Rate ist positiv. Welche Kosten entstehen?",
+      "loesung": "Bei positiver Rate zahlen Long-Positionen bei jedem Zahlungstermin an Short-Positionen. Über Wochen summiert sich das und mindert den Ertrag. Die Rate ist nicht fix und unterscheidet sich je Anbieter."
+     },
+     {
+      "frage": "Ein Anbieter wirbt stark und ist bekannt. Warum reicht das nicht als Sicherheit?",
+      "loesung": "Der Fall FTX zeigt, dass Bekanntheit und Werbung keine Aussage über Kontrollen und Verwahrung treffen. Prüfe die Zulassung (ESMA-Register, BaFin), die Trennung von Kundengeldern, wie viel du dort liegen hast und Hinweise auf verzögerte Auszahlungen."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was bedeutet Liquidation?",
+      "loesung": "Die Plattform schließt eine gehebelte Position automatisch, wenn die Margin nicht mehr ausreicht."
+     },
+     {
+      "frage": "Welches Warnzeichen kennzeichnet viele Fake-Plattformen?",
+      "loesung": "Auszahlungen, die nur nach weiteren Zahlungen für angebliche Steuern oder Gebühren möglich sein sollen, dazu gefälschte Kontostände."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-27",
+     "warum": "Du kennst die Risiken bei Krypto. Als Nächstes lernst du Derivate wie Optionen, Zertifikate und Knock-outs kennen."
+    }
+   ]
+  }
+ ]
+}

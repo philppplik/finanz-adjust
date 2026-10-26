@@ -1,0 +1,41 @@
+{
+  "slug": "krypto-risiken-ueberblick",
+  "title": "Krypto-Risiken im Überblick: Was schiefgehen kann",
+  "description": "Die wichtigsten Risiken bei Kryptowerten sachlich sortiert: Kurs, Anbieter, Verwahrung, Betrug, Hebel, Regulierung und Steuern. Mit Warnungen der EU-Aufsichtsbehörden.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/krypto-risiken-ueberblick.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die EU-Aufsichtsbehörden warnen: Viele Kryptowerte sind sehr riskant und spekulativ, der rechtliche Schutz kann begrenzt sein.</li><li>Risiken lassen sich in Gruppen sortieren: Kurs, Anbieter, Verwahrung, Betrug, Hebel, Recht und Steuern.</li><li>Wer die Risiken kennt, kann gezielter prüfen. Das ist kein Rat zum Kaufen oder Lassen.</li></ul></div><h2>Was die Aufsichtsbehörden sagen</h2><p>EBA, EIOPA und ESMA haben im Oktober 2025 erneut gewarnt: Krypto kann riskant sein, und der rechtliche Schutz hängt davon ab, in welche Kryptowerte und bei welchem Anbieter man investiert. Die Behörden empfehlen, das Produkt zu verstehen und das Risiko zu bewerten, zu prüfen, ob der Anbieter in der EU zugelassen ist, und Wallets ausreichend zu sichern. Sie nennen auch aggressive Werbung durch Finfluencer in sozialen Medien.</p><h2>Kursrisiko</h2><p>Kryptokurse können stark schwanken. Die ESAs bezeichnen viele Kryptowerte als hochriskant und spekulativ, ungeeignet für die meisten Kleinanleger als Geldanlage oder Zahlungsmittel. Ein hoher Verlust bis hin zum Totalverlust ist denkbar. Mehr zu Schwankungen im Glossar-Eintrag zur Volatilität.</p><h2>Anbieter- und Verwahrungsrisiko</h2><p>Börsen können gehackt werden, ausfallen oder Auszahlungen sperren. Wer selbst verwahrt, trägt das Risiko für Schlüssel und Sicherung. Beides haben wir ausführlich: <a href=\"/artikel/krypto-boersen-und-verwahrung/\">Börsen und Verwahrung</a>, <a href=\"/artikel/self-custody-risiken/\">Self-Custody-Risiken</a>, <a href=\"/artikel/boersenpleiten-lehren/\">Lehren aus Börsenpleiten</a>.</p><h2>Betrug</h2><p>Gefälschte Handelsplattformen und Anlagebetrug sind ein eigenes Thema. Die BaFin beschreibt, wie gefälschte Gewinne und blockierte Auszahlungen laufen. Siehe <a href=\"/artikel/krypto-scams-erkennen/\">Krypto-Scams erkennen</a> und <a href=\"/artikel/fake-brokers-und-krypto-scams/\">Fake-Broker und Krypto-Scams</a>.</p><h2>Hebel, Stablecoins, Recht, Steuern</h2><p>Hebel verstärken Verluste und können zur erzwungenen Auflösung von Positionen führen: <a href=\"/artikel/hebel-und-margin-erklaert/\">Hebel und Margin</a>, <a href=\"/artikel/krypto-liquidationen-erklaert-2026-10-19/\">Liquidationen</a>. Stablecoins sind nicht automatisch stabil: <a href=\"/artikel/stablecoins-erklaert/\">Stablecoins erklärt</a>. Die Regeln der EU stehen im <a href=\"/artikel/mica-regulierung-ueberblick/\">MiCA-Überblick</a>, die Steuerfragen in <a href=\"/artikel/krypto-steuern-deutschland/\">Krypto-Steuern</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "EBA/EIOPA/ESMA: Pressemitteilung vom 6. Oktober 2025 (abgerufen 26.10.2026)",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and"
+    },
+    {
+      "title": "Joint ESAs: Warnung zu Kryptowerten (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/document/joint-esas-warning-crypto-assets"
+    },
+    {
+      "title": "ESAs: Warnung vor Krypto-Risiken, 2022 (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/library/esa_2022_15_joint_esas_warning_on_crypto-assets.pdf"
+    },
+    {
+      "title": "BaFin: Vorsicht vor betrügerischen Handelsplattformen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/finanzbetrug-erkennen/anlagebetrug/betruegerische-handelsplattformen/betruegerische-handelsplattformen.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind alle Kryptowerte gleich riskant?",
+      "a": "Nein. Die Behörden betonen, dass sich Kryptowerte unterscheiden. Risiko und Schutz hängen von Art des Kryptowerts und vom Anbieter ab."
+    },
+    {
+      "q": "Kann ich bei Krypto alles verlieren?",
+      "a": "Ja, ein Totalverlust ist möglich, etwa durch Kursverfall, Ausfall eines Anbieters, Betrug oder Fehler bei der Verwahrung."
+    },
+    {
+      "q": "Wer prüft Anbieter?",
+      "a": "In der EU zugelassene Anbieter stehen im ESMA-Register. Zur Orientierung dient auch die Unternehmensdatenbank der BaFin."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "was-ist-bitcoin",
+  "title": "Was ist Bitcoin? Die Grundidee ohne Fachchinesisch",
+  "description": "Bitcoin einfach erklärt: ein digitales Zahlungssystem ohne zentrale Stelle, Wallet, privater Schlüssel, Mining und die feste Obergrenze von 21 Millionen Coins. Ohne Kursprognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/was-ist-bitcoin.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bitcoin ist ein digitales Zahlungssystem, das ohne Bank oder andere zentrale Stelle auskommt.</li><li>Alle bestätigten Überweisungen stehen in einem gemeinsamen, öffentlichen Kontobuch, der Blockchain.</li><li>Wer den privaten Schlüssel zu einer Wallet hat, kontrolliert die Coins darin.</li><li>Es soll insgesamt nur 21 Millionen Bitcoin geben. Das sagt nichts darüber, wohin der Kurs geht.</li></ul></div><h2>Die Grundidee</h2><p>Unter dem Namen Satoshi Nakamoto wurde in einem Whitepaper ein elektronisches Zahlungssystem beschrieben, bei dem Zahlungen direkt von einer Partei zur anderen gehen, ohne dass ein Finanzinstitut dazwischensteht. Das steht im Whitepaper \"Bitcoin: A Peer-to-Peer Electronic Cash System\". Die Kernfrage: Wie verhindert man ohne zentrale Stelle, dass dieselbe digitale Einheit zweimal ausgegeben wird? Bitcoin löst das mit einem Netzwerk, das alle Zahlungen mit Zeitstempel in einer gemeinsamen Kette festhält.</p><h2>Wallet, Adresse und privater Schlüssel</h2><p>Laut bitcoin.org erzeugt eine Wallet-Software Bitcoin-Adressen, die du weitergeben kannst, damit dir jemand Geld schickt. Die Wallet verwaltet außerdem einen privaten Schlüssel, mit dem Überweisungen signiert werden. Die Signatur ist der mathematische Nachweis, dass die Überweisung vom Besitzer der Wallet stammt. Daraus folgt eine einfache Regel mit großen Folgen: Wer den Schlüssel hat, hat die Kontrolle. Wer ihn verliert, kommt nicht mehr an die Coins. Mehr dazu im Artikel zu <a href=\"/artikel/self-custody-risiken/\">Self-Custody</a>.</p><h2>Mining in einem Satz</h2><p>Mining bedeutet, dass viele Rechner im Netzwerk neue Überweisungen prüfen, in Blöcke packen und an die Kette anhängen. Das erzwingt eine feste zeitliche Reihenfolge und sorgt dafür, dass sich das Netzwerk auf einen gemeinsamen Stand einigt. Wie die Blockchain dahinter aufgebaut ist, erklärt der nächste Artikel: <a href=\"/artikel/blockchain-einfach-erklaert/\">Blockchain einfach erklärt</a>.</p><h2>Warum 21 Millionen?</h2><p>Nach ethereum.org hat Bitcoin ein festes Angebot: Es wird nie mehr als 21 Millionen Coins geben. Das ist eine Eigenschaft des Systems, kein Qualitätsurteil. Ein begrenztes Angebot garantiert keinen Wert und keine Kursentwicklung. Kurse entstehen am Markt aus Angebot und Nachfrage, und sie schwanken bei Kryptowerten teils stark. Das Thema Risiko behandeln wir im <a href=\"/artikel/krypto-risiken-ueberblick/\">Risiko-Überblick</a>.</p><h2>Was Bitcoin nicht ist</h2><p>Bitcoin ist kein Sparbuch und kein Einlagensicherungs-Produkt. Es gibt keinen Emittenten, der dir einen Wert zusagt. Ob du Bitcoin als Zahlungsmittel, als Spekulation oder gar nicht siehst, ist deine Entscheidung. Hier geht es nur um das Verstehen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bitcoin.org: How does Bitcoin work? (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/en/how-it-works"
+    },
+    {
+      "title": "Satoshi Nakamoto: Bitcoin - A Peer-to-Peer Electronic Cash System (Whitepaper, abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/bitcoin.pdf"
+    },
+    {
+      "title": "ethereum.org: What is Ethereum? - Vergleich mit Bitcoin, feste Menge von 21 Millionen (abgerufen 26.10.2026)",
+      "url": "https://ethereum.org/en/what-is-ethereum/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer hat Bitcoin erfunden?",
+      "a": "Das Whitepaper wurde unter dem Namen Satoshi Nakamoto veröffentlicht. Wer dahintersteht, ist nicht belegt. Für das Verständnis der Funktionsweise spielt das keine Rolle, weil der Code und die Regeln öffentlich einsehbar sind."
+    },
+    {
+      "q": "Ist Bitcoin dasselbe wie Blockchain?",
+      "a": "Nein. Die Blockchain ist die Datenstruktur, in der Bitcoin-Überweisungen festgehalten werden. Bitcoin ist die Währungseinheit und das Netzwerk, das sie nutzt. Blockchains gibt es auch ohne Bitcoin."
+    },
+    {
+      "q": "Muss ich ganze Bitcoin kaufen?",
+      "a": "Nein, Bitcoin lässt sich in kleinen Teilbeträgen halten. Ob und wie viel für dich passt, hängt von deiner Situation ab. Dazu geben wir keine Empfehlung."
+    }
+  ]
+}

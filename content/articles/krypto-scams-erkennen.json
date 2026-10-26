@@ -1,0 +1,41 @@
+{
+  "slug": "krypto-scams-erkennen",
+  "title": "Krypto-Scams erkennen: Warnzeichen und Prüfschritte",
+  "description": "Typische Krypto-Betrugsmaschen mit gefälschten Plattformen, Fernzugriff und Gebühren-Forderungen. Warnzeichen, Prüfschritte bei BaFin und ESMA und was du im Ernstfall tun kannst.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/krypto-scams-erkennen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Betrüger locken mit hohen Gewinnen, gefälschten Kontoständen und Druck. Das Ziel ist dein Geld.</li><li>Typische Warnzeichen: unaufgeforderter Kontakt, garantierte Rendite, Fernzugriff, Auszahlung nur gegen weitere Zahlung.</li><li>Prüfe Anbieter in der BaFin-Datenbank und im ESMA-Register, bevor du Geld schickst.</li><li>Im Verdachtsfall: nichts mehr zahlen und Beratung bei der Verbraucherzentrale suchen.</li></ul></div><h2>Wie die Masche läuft</h2><p>Die BaFin beschreibt ein wiederkehrendes Muster. Du wirst per Telefon, Mail oder Social Media angesprochen und bekommst schnelle, hohe Gewinne versprochen. Die vermeintlichen Berater geben sich als Mitarbeiter seriöser Firmen aus. Für die Zahlung sollst du ein Konto bei einem Krypto-Handelsplatz einrichten, das Geld wird in Bitcoin umgewandelt, landet aber in der Wallet der Täter. Die angezeigten Kontostände und Gewinne sind laut BaFin gefälscht.</p><h2>Warnzeichen</h2><p>Unaufgeforderter Anruf oder Nachricht zu Geldanlagen. Garantierte Rendite oder minimales Risiko. Angebote mit Prominenten-Fotos oder nachgemachten Nachrichtenseiten. Angebote, sich per Fernwartungssoftware auf dein Gerät zu schalten. Bonusversprechen und Demokonten mit Traumgewinnen. Und besonders: Auszahlungen, die nur nach weiteren Zahlungen für angebliche Steuern, Gebühren oder Liquiditätsnachweise möglich sind. Auch die sogenannte Spiegeltransaktion, bei der du vorab die beantragte Summe überweisen sollst, gehört dazu.</p><h2>Prüfschritte vor dem ersten Euro</h2><p>Frage dich: Habe ich den Kontakt selbst gesucht? Ist der Anbieter in der Unternehmensdatenbank der BaFin oder bei einer Aufsicht im Europäischen Wirtschaftsraum gelistet? Steht er im ESMA-Register für Kryptowerte-Dienstleister? Gibt es Warnungen der BaFin oder ausländischer Aufsichten? Die BaFin warnt zum Beispiel immer wieder vor Reihen fast identischer Websites ohne Erlaubnis. Wichtig: Warnlisten sind nie vollständig, dass ein Name fehlt, ist kein Freibrief. Ausführlich: <a href=\"/artikel/fake-brokers-und-krypto-scams/\">Fake-Broker und Krypto-Scams</a>.</p><h2>Wenn es schon passiert ist</h2><p>Nichts mehr einzahlen, auch nicht gegen Versprechen, das Geld zurückzubekommen. Die BaFin weist darauf hin, dass die Chancen auf Rückholung minimal sind und Täter Opfer Jahre später erneut kontaktieren. Beweise sichern, etwa Chatverläufe, Kontoauszüge und Wallet-Adressen, und bei der Verbraucherzentrale und der Polizei Rat suchen. Weitere Prüffragen zu Anbietern: <a href=\"/artikel/krypto-boersen-und-verwahrung/\">Börsen und Verwahrung</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Vorsicht vor betrügerischen Handelsplattformen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/finanzbetrug-erkennen/anlagebetrug/betruegerische-handelsplattformen/betruegerische-handelsplattformen.html"
+    },
+    {
+      "title": "BaFin: Verbrauchermitteilung vom 12.01.2026 zu einer Plattformreihe für Kryptowerte (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_01_12_plattformreihe_handel_kryptowerten.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Vorsicht, betrügerisches Online-Trading (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/warnungen/vorsicht-betruegerisches-onlinetrading-54699"
+    },
+    {
+      "title": "ESMA: MiCA-Register (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woran erkenne ich eine gefälschte Handelsplattform?",
+      "a": "Typisch sind unaufgeforderter Kontakt, garantierte Gewinne, gefälschte Kontostände und Forderungen nach weiteren Zahlungen vor einer Auszahlung. Prüfe den Anbieter bei der BaFin und im ESMA-Register."
+    },
+    {
+      "q": "Hilft ein Eintrag auf einer Warnliste weiter?",
+      "a": "Eine Warnung ist ein klares Signal. Das Fehlen einer Warnung beweist aber nichts, denn die Listen sind nie vollständig."
+    },
+    {
+      "q": "Bekomme ich mein Geld zurück?",
+      "a": "Laut BaFin sind die Chancen minimal. Zahle nichts mehr nach und suche Beratung."
+    }
+  ]
+}

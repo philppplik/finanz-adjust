@@ -1,0 +1,37 @@
+{
+  "slug": "ethereum-und-smart-contracts",
+  "title": "Ethereum und Smart Contracts: Programme statt nur Überweisungen",
+  "description": "Was Ethereum von Bitcoin unterscheidet, was Smart Contracts sind und was Proof of Stake bedeutet. Sachlich erklärt, mit den Grenzen von Code als Vertrag. Keine Kursprognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/ethereum-und-smart-contracts.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ethereum ist eine Blockchain, auf der neben Überweisungen auch Programme laufen, sogenannte Smart Contracts.</li><li>Ein Smart Contract folgt einer festen Wenn-dann-Logik und führt sich nach den im Code festgelegten Regeln aus.</li><li>Seit September 2022 nutzt Ethereum Proof of Stake statt Proof of Work.</li><li>Fehler im Code und Nutzerfehler bleiben ein reales Risiko.</li></ul></div><h2>Mehr als eine Währung</h2><p>Bitcoin ist nach ethereum.org auf Zahlungen von Person zu Person ausgerichtet, mit festem Angebot und einfacher Skriptsprache. Ethereum ist breiter angelegt: Auf der Kette laufen Programme. Die Währungseinheit heißt Ether (ETH) und wird laut ethereum.org unter anderem als Belohnung für das Prüfen von Transaktionen ausgegeben. Anders als bei Bitcoin ist das Angebot laut ethereum.org dynamisch: Neue Einheiten werden an Validatoren ausgegeben, ein Teil wird mit Transaktionen vernichtet.</p><h2>Was ist ein Smart Contract?</h2><p>Laut ethereum.org sind Smart Contracts Programme auf der Blockchain, die einer Wenn-dann-Logik folgen und sich so ausführen, wie es der Code festlegt. Das Bild dazu ist ein Verkaufsautomat: Eine bestimmte Eingabe führt zu einer festgelegten Ausgabe, ohne dass ein Mensch dazwischensteht. Du wählst, zahlst, der Automat prüft den Betrag und gibt aus. Der Begriff geht auf Nick Szabo zurück, der ihn 1994 prägte.</p><h2>Proof of Stake in Kürze</h2><p>Ethereum wechselte im September 2022 von Proof of Work zu Proof of Stake. Wer Transaktionen mitprüfen will, hinterlegt laut ethereum.org als Validator 32 ETH als Einsatz. Bei Proof of Stake sichert dieser Einsatz die Regeln des Netzwerks, nicht Rechenleistung wie beim Mining. Für Nutzer bedeutet das vor allem: Das Netzwerk verbraucht anders Energie und lässt sich anders skalieren. Das ist keine Aussage über Kurse.</p><h2>Grenzen und Risiken</h2><p>Ein Smart Contract tut, was im Code steht, nicht unbedingt, was jemand meinte. Fehler im Code können Geld kosten, und Transaktionen auf der Kette lassen sich nicht wie eine Banküberweisung zurückholen. Dazu kommen Betrugsmaschen mit gefälschten Programmen. Wer Smart Contracts nutzt, sollte die Grundlagen von <a href=\"/artikel/self-custody-risiken/\">Self-Custody</a> kennen. Rechtlich ist die Einordnung je nach Token und Anbieter unterschiedlich, siehe <a href=\"/artikel/mica-regulierung-ueberblick/\">MiCA im Überblick</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "ethereum.org: Introduction to smart contracts (abgerufen 26.10.2026)",
+      "url": "https://ethereum.org/en/smart-contracts/"
+    },
+    {
+      "title": "ethereum.org: What is Ethereum? (abgerufen 26.10.2026)",
+      "url": "https://ethereum.org/en/what-is-ethereum/"
+    },
+    {
+      "title": "ethereum.org: Proof-of-stake (PoS) (abgerufen 26.10.2026)",
+      "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Ether dasselbe wie Ethereum?",
+      "a": "Ethereum ist das Netzwerk, Ether (ETH) die zugehörige Währungseinheit."
+    },
+    {
+      "q": "Kann ein Smart Contract rückgängig gemacht werden?",
+      "a": "Laut ethereum.org lässt sich der Code eines Smart Contracts nach dem Erstellen nicht mehr ändern. Eine ausgeführte Transaktion ist in der Regel endgültig. Deshalb sind Fehler und Betrug hier besonders teuer."
+    },
+    {
+      "q": "Ist ein Smart Contract rechtlich ein Vertrag?",
+      "a": "Nicht automatisch. Der Name beschreibt ein Programm, keine rechtliche Einordnung. Bei Rechtsfragen hilft eine Beratung, hier geben wir keine."
+    }
+  ]
+}

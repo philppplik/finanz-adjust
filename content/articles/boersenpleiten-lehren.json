@@ -1,0 +1,33 @@
+{
+  "slug": "boersenpleiten-lehren",
+  "title": "Lehren aus Krypto-Börsenpleiten: Der Fall FTX sachlich betrachtet",
+  "description": "Was der Zusammenbruch der Börse FTX 2022 über Verwahrung, Kontrolle und Transparenz lehrt. Auf Basis des Berichts des Sanierungsverwalters. Ohne Schuldzuweisung, ohne Angst.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/boersenpleiten-lehren.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>FTX-Gesellschaften beantragten am 11. und 14. November 2022 Insolvenzschutz nach Chapter 11 in den USA.</li><li>Der Bericht des Sanierungsverwalters beschreibt fehlende Kontrollen und Aufzeichnungen sowie eine umfangreiche Vermischung von Vermögenswerten.</li><li>Aus dem Fall lassen sich Prüffragen für Kunden ableiten: Wer verwahrt? Wer kontrolliert? Welche Aufsicht gibt es?</li></ul></div><h2>Was passiert ist</h2><p>Am 11. und 14. November 2022 beantragten FTX-Gesellschaften freiwillig Insolvenzschutz nach Chapter 11 vor einem US-Insolvenzgericht in Delaware. So steht es in der Einreichung des ersten Zwischenberichts von John J. Ray III, der als Sanierungsverwalter die Führung übernahm. Strafrechtliche und zivilrechtliche Verfahren betrafen einzelne Personen, hier geht es nur um die Lehren für Nutzer.</p><h2>Was der Bericht beschreibt</h2><p>Der Bericht vom 9. April 2023 beschreibt fehlende Kontrollen in Führung, Finanzen und Rechnungswesen sowie bei der Verwaltung digitaler Vermögenswerte. Beim Übernehmen der Führung fanden die Verwalter nach eigener Darstellung kaum Aufzeichnungen darüber, wo und wie Geld und digitale Vermögenswerte zu finden oder erreichbar waren, und eine umfangreiche Vermischung von Vermögenswerten. Das ist die Sicht des Sanierungsverwalters, nicht ein Urteil über einzelne Personen. Die Lehre: Ein bekannter Name und viel Werbung sind keine Sicherheit.</p><h2>Prüffragen für Nutzer</h2><p>Erstens: Wer verwahrt meine Coins, und lässt sich nachvollziehen, ob Kundengelder getrennt gehalten werden? Zweitens: Gibt es eine Zulassung und Aufsicht, und stimmt der Eintrag im ESMA-Register (siehe <a href=\"/artikel/krypto-boersen-und-verwahrung/\">Börsen und Verwahrung</a>)? Drittens: Wie viel liegt dauerhaft auf der Plattform, und wie viel davon müsste ich dort haben? Viertens: Gibt es Anzeichen, dass Auszahlungen verzögert werden?</p><h2>Was Regulierung ändert und was nicht</h2><p>MiCA stellt Anforderungen an Organisation und Kundenschutz von Dienstleistern in der EU (siehe <a href=\"/artikel/mica-regulierung-ueberblick/\">MiCA im Überblick</a>). Sie ist kein Garantieversprechen. Eigene Verwahrung vermeidet das Anbieterrisiko, schafft aber eigene Risiken: <a href=\"/artikel/self-custody-risiken/\">Self-Custody-Risiken</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Erster Zwischenbericht von John J. Ray III zu Kontrollmängeln bei FTX, 9.4.2023 (abgerufen 26.10.2026)",
+      "url": "https://www.fishmanhaygood.com/wp-content/uploads/2023/04/April-9-Debtor-Report-on-Failure-of-Internal-Controls-1.pdf"
+    },
+    {
+      "title": "Ray-Bericht, Gerichtsfassung (abgerufen 26.10.2026)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.flsd.648382/gov.uscourts.flsd.648382.159.1.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Haben FTX-Kunden ihr Geld zurückbekommen?",
+      "a": "Das haben wir für diesen Artikel nicht ausgewertet. Der aktuelle Stand des Verfahrens steht bei der Insolvenzverwaltung."
+    },
+    {
+      "q": "Kann so etwas bei einer EU-zugelassenen Börse nicht passieren?",
+      "a": "Zulassung bedeutet Aufsicht und Pflichten, aber keine Garantie. Deshalb bleibt die Frage nach Verwahrung und Klumpenrisiko sinnvoll."
+    },
+    {
+      "q": "Ist eigene Verwahrung die Lösung?",
+      "a": "Sie vermeidet das Anbieterrisiko, bringt aber eigene Risiken. Siehe den Artikel zu Self-Custody."
+    }
+  ]
+}

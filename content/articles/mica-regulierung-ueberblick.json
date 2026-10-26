@@ -1,0 +1,41 @@
+{
+  "slug": "mica-regulierung-ueberblick",
+  "title": "MiCA im Überblick: Was die EU-Krypto-Regeln für dich bedeuten",
+  "description": "MiCA regelt Stablecoins und Anbieter von Kryptowerte-Dienstleistungen in der EU. Zeitplan, Zulassung, ESMA-Register und was MiCA nicht abdeckt. Sachlich, mit Quellen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/mica-regulierung-ueberblick.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>MiCA ist die EU-Verordnung über Märkte für Kryptowerte (Markets in Crypto-Assets). Sie ist in Kraft und gilt in Stufen.</li><li>Regeln für Stablecoin-Emittenten gelten seit 30. Juni 2024, für die meisten Dienstleister seit 30. Dezember 2024.</li><li>Die Übergangsfristen für bestehende Anbieter sind inzwischen abgelaufen, in Deutschland nach dem Gesetzestext spätestens Ende 2025.</li><li>MiCA deckt nicht alles ab. Auch für regulierte Anbieter bleiben Kursrisiken.</li></ul></div><h2>Was MiCA regelt</h2><p>Die Verordnung schafft einheitliche Regeln für bestimmte Kryptowerte und deren Anbieter in der EU. Die EU-Aufseher nennen drei erfasste Arten: E-Geld-Token (EMT), vermögenswertreferenzierte Token (ART) und andere Kryptowerte, die weder das eine noch das andere sind (etwa Utility-Token). Dazu kommen Regeln für Anbieter von Kryptowerte-Dienstleistungen, zum Beispiel Verwahrung oder den Betrieb einer Handelsplattform. Dort geht es um Organisation, Kapital und Verbraucherschutz.</p><h2>Zeitplan</h2><p>Nach den Aufsichtsbehörden trat MiCA am 29. Juni 2023 in Kraft. Die Regeln für Emittenten von E-Geld-Token und vermögenswertreferenzierten Token gelten seit 30. Juni 2024, für die meisten Kryptowerte-Dienstleister seit 30. Dezember 2024. Die formatierten Whitepapers nach MiCA (iXBRL) sind seit 23. Dezember 2025 Pflicht.</p><h2>Übergangsfristen: Stand heute</h2><p>Mitgliedstaaten durften Übergangsregeln für Anbieter einführen, die schon vor dem 30. Dezember 2024 tätig waren. Nach der ESMA konnten sie längstens bis 1. Juli 2026 weitermachen oder bis zur Entscheidung über ihre MiCA-Zulassung. In Deutschland regelt § 50 KMAG die Übergangszeit: Die fortbestehende Erlaubnis erlischt spätestens mit Ablauf des 31. Dezember 2025. Rechtsstand: Art. 143 MiCA (Verordnung (EU) 2023/1114) in der Darstellung der ESMA und § 50 KMAG, beide abgerufen am 26.10.2026. Danach sind diese Fristen heute, am 26. Oktober 2026, vorbei. Ob einzelne Anbieter eine Zulassung haben, zeigt das ESMA-Register. Für Anbieter in anderen EU-Staaten gelten deren Regeln, die ebenfalls spätestens zum 1. Juli 2026 endeten.</p><h2>Was du prüfen kannst</h2><p>Die ESMA führt ein Register mit zugelassenen Anbietern, Emittenten und Whitepapers. Wichtig: Die ESMA weist darauf hin, dass die gelisteten Whitepapers von keiner Behörde geprüft oder genehmigt wurden. Verantwortlich für den Inhalt sind Anbieter und Emittent. Eine Zulassung als Dienstleister sagt also etwas über Organisation und Aufsicht, nicht über die Qualität eines Coins.</p><h2>Was MiCA nicht abdeckt</h2><p>Einzigartige, nicht austauschbare Werte wie manche NFTs fallen laut den Aufsehern nicht unter MiCA. Anbieter ohne EU-Zulassung können im Netz erreichbar sein, dann gilt womöglich kein oder weniger Schutz. Hebelprodukte auf Krypto-Kurse sind eine andere Baustelle, siehe <a href=\"/artikel/hebel-und-margin-erklaert/\">Hebel und Margin</a>. Zu Stablecoins: <a href=\"/artikel/stablecoins-erklaert/\">Stablecoins erklärt</a>. Keine Rechtsberatung, keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "ESMA: Markets in Crypto-Assets Regulation (MiCA), Register und Übergangsregeln (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica"
+    },
+    {
+      "title": "EBA/EIOPA/ESMA: Pressemitteilung vom 6. Oktober 2025 (abgerufen 26.10.2026)",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and"
+    },
+    {
+      "title": "Joint ESAs Factsheet on crypto-assets (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2025-10/Joint_ESAs_Factsheet_on_crypto-assets.pdf"
+    },
+    {
+      "title": "§ 50 KMAG: Übergangsvorschrift (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/kmag/__50.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt MiCA für Bitcoin?",
+      "a": "Die Verordnung erfasst nach den Aufsichtsbehörden drei Arten von Kryptowerten, darunter eine Auffangkategorie für andere Kryptowerte. Bei Anbietern von Dienstleistungen wie Verwahrung und Handelsplattformen greift die Zulassungspflicht. Für die genaue Einordnung einzelner Coins gibt es Rechtsberatung."
+    },
+    {
+      "q": "Schützt MiCA vor Verlusten?",
+      "a": "Nein. MiCA regelt Anbieter und Informationspflichten. Kurse können trotzdem stark schwanken, auch bei regulierten Anbietern."
+    },
+    {
+      "q": "Wo prüfe ich, ob ein Anbieter zugelassen ist?",
+      "a": "Im ESMA-Register und auf der Seite der nationalen Aufsicht, in Deutschland die BaFin."
+    }
+  ]
+}

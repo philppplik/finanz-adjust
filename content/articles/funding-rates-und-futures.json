@@ -1,0 +1,37 @@
+{
+  "slug": "funding-rates-und-futures",
+  "title": "Funding Rates und Futures: Was Perpetuals wirklich kosten",
+  "description": "Perpetual Futures haben kein Ablaufdatum. Funding Rates halten ihren Preis nah am Marktpreis. Wie sie funktionieren, wer wen bezahlt und warum das Haltekosten verursacht.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/funding-rates-und-futures.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Future ist ein Vertrag über einen Preis zu einem späteren Zeitpunkt. Ein Perpetual Future hat kein Ablaufdatum.</li><li>Die Funding Rate ist eine regelmäßige Zahlung zwischen Käufern (Long) und Verkäufern (Short) der Position.</li><li>Ist die Rate positiv, zahlen Long-Positionen an Short-Positionen. Bei negativer Rate ist es umgekehrt.</li><li>Wer lange im Markt bleibt, kann so laufende Kosten haben.</li></ul></div><h2>Future und Perpetual</h2><p>Ein klassischer Future läuft bis zu einem festen Datum. Am Ende fällt sein Preis mit dem Marktpreis zusammen. Ein Perpetual Future hat laut Anbieterdokumentation keinen Ablauf und kann unbegrenzt gehalten werden. Weil dieser natürliche Abgleich fehlt, braucht es einen Mechanismus, der den Preis des Perpetuals an den Preis des Basiswerts bindet.</p><h2>Die Funding Rate</h2><p>Coinbase beschreibt die Funding Rate als Gebühr, die periodisch zwischen Long- und Short-Positionen ausgetauscht wird. Ist die Nachfrage nach Long-Positionen groß, liegt der Future-Preis über dem Marktpreis: Die Rate ist positiv und Long-Halter zahlen an Short-Halter. Bei starker Short-Nachfrage ist es andersherum. Die Zahlung geht nicht an die Börse, sondern zwischen den Tradern.</p><h2>Wie die Rate gebildet wird</h2><p>Typisch ist die Formel: Funding Rate = Prämienindex plus Zinsanteil. Der Prämienindex ist der Abstand zwischen Future- und Marktpreis, der Zinsanteil ein von der Plattform festgelegter, meist konstanter Satz. Beispiel aus der Coinbase-Erklärung: Zinsanteil 0,01 Prozent und Prämie 0,02 Prozent ergeben 0,03 Prozent. Wie oft gezahlt wird, legt die Plattform fest, bei Coinbase stündlich. Die Details unterscheiden sich je Anbieter.</p><h2>Was das für Haltekosten heißt</h2><p>Wer eine Long-Position bei positivem Funding hält, zahlt bei jedem Zahlungstermin. Über Tage und Wochen kann das den Ertrag mindern. Short-Positionen können bei positiver Rate Zahlungen erhalten. Die Rate kann sich ändern, ein Fixwert ist sie nicht. Zusammen mit Hebel (siehe <a href=\"/artikel/hebel-und-margin-erklaert/\">Hebel und Margin</a>) steigen Risiko und laufende Kosten. Die ESMA hat 2026 klargestellt, dass Perpetuals mit Hebel für Privatkunden in der EU unter die CFD-Schutzregeln fallen können. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Coinbase Learn: Understanding Funding Rates in Perpetual Futures (abgerufen 26.10.2026)",
+      "url": "https://www.coinbase.com/learn/perpetual-futures/understanding-funding-rates-in-perpetual-futures"
+    },
+    {
+      "title": "dYdX Docs: What are funding rates? (abgerufen 26.10.2026)",
+      "url": "https://docs.dydx.xyz/concepts/trading/funding"
+    },
+    {
+      "title": "ESMA: Public Statement vom 24.02.2026 zu Perpetual Futures und CFD-Maßnahmen (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2026-02/ESMA35-243228190-8024_-_Public_statement_on_derivatives_in_scope_of_the_CFD_product_intervention_measures.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer bekommt die Funding-Zahlung?",
+      "a": "Nach Anbieterdokumentation wird sie zwischen den Tradern ausgetauscht und ist keine Gebühr der Plattform."
+    },
+    {
+      "q": "Kann die Funding Rate negativ sein?",
+      "a": "Ja. Dann zahlen Short-Positionen an Long-Positionen."
+    },
+    {
+      "q": "Ist ein Perpetual dasselbe wie ein Krypto-CFD?",
+      "a": "Nicht automatisch. Die ESMA sagt, dass solche Derivate wahrscheinlich unter die CFD-Maßnahmen fallen können, wenn sie die CFD-Definition erfüllen. Entscheidend sind die Produktmerkmale."
+    }
+  ]
+}

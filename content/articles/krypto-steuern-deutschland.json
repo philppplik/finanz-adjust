@@ -1,0 +1,49 @@
+{
+  "slug": "krypto-steuern-deutschland",
+  "title": "Krypto-Steuern in Deutschland: Haltefrist, 1.000-Euro-Grenze und Meldepflichten",
+  "description": "Wann Krypto-Gewinne in Deutschland steuerpflichtig sind: Haltefrist von einem Jahr, die Grenze von 1.000 Euro nach § 23 EStG, Tausch als Veräußerung und Meldepflichten der Anbieter. Keine Steuerberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/krypto-steuern-deutschland.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kryptowerte im Privatvermögen sind nach Auffassung der Finanzverwaltung \"andere Wirtschaftsgüter\" im Sinne von § 23 EStG. Gewinne sind steuerpflichtig, wenn zwischen Anschaffung und Veräußerung nicht mehr als ein Jahr liegt.</li><li>Nach § 23 Absatz 3 Satz 5 EStG bleiben Gewinne steuerfrei, wenn der Gesamtgewinn aus privaten Veräußerungsgeschäften im Kalenderjahr weniger als 1.000 Euro beträgt. Ab 1.000 Euro ist der gesamte Gewinn steuerpflichtig.</li><li>Auch Tausch in andere Kryptowährungen und Bezahlen mit Krypto können als Veräußerung zählen.</li><li>Anbieter melden Daten an das Bundeszentralamt für Steuern. Die Finanzämter erhalten laut Land Baden-Württemberg ab 2027 erstmals Informationen zu Transaktionen seit 1. Januar 2026.</li></ul></div><h2>Die Grundregel</h2><p>§ 23 Absatz 1 Satz 1 Nummer 2 EStG erfasst private Veräußerungsgeschäfte bei anderen Wirtschaftsgütern, wenn der Zeitraum zwischen Anschaffung und Veräußerung nicht mehr als ein Jahr beträgt. Das Bundesfinanzministerium ordnet Kryptowerte in seinem Schreiben vom 6. März 2025 (Randnummer 53) als solche anderen Wirtschaftsgüter ein. Wer privat gehaltene Kryptowährungen länger als ein Jahr hält und dann verkauft, hat den Gewinn nach den Hinweisen des Finanzministeriums Baden-Württemberg in der Regel nicht zu versteuern. Maßgeblich ist die Haltedauer der jeweils veräußerten Einheit, deshalb ist Dokumentation wichtig.</p><h2>Die Grenze von 1.000 Euro</h2><p>§ 23 Absatz 3 Satz 5 EStG sagt: Gewinne bleiben steuerfrei, wenn der aus den privaten Veräußerungsgeschäften erzielte Gesamtgewinn im Kalenderjahr weniger als 1.000 Euro betragen hat. Das ist eine Freigrenze, kein Freibetrag. Liegt der Gesamtgewinn bei 1.000 Euro oder darüber, ist nicht nur der übersteigende Teil, sondern der gesamte Gewinn steuerpflichtig. Wichtig ist der Gesamtgewinn aller privaten Veräußerungsgeschäfte des Jahres, nicht nur die Krypto-Geschäfte. Verluste sind nur eingeschränkt verrechenbar. Die Details stehen in § 23 EStG.</p><h2>Was als Veräußerung zählt</h2><p>Neben dem Verkauf gegen Euro zählen laut Finanzverwaltung auch der Tausch einer Kryptowährung in eine andere, die Bezahlung von Waren oder Dienstleistungen mit Krypto und der Umtausch in eine andere staatliche Währung. Beispiel aus dem Ministerium Baden-Württemberg: Wer Krypto für 1.000 Euro kauft und nach sechs Monaten in eine andere Kryptowährung im Wert von 1.300 Euro tauscht, hat 300 Euro Gewinn. Ob er versteuert wird, hängt von der Grenze im Kalenderjahr ab.</p><h2>BMF-Schreiben und Sonderfälle</h2><p>Das Bundesfinanzministerium hat am 6. März 2025 ein Schreiben zu Einzelfragen veröffentlicht. Es behandelt unter anderem Handel, Blockerstellung, Staking, Lending, Hard Forks, Airdrops, Utility Token und Security Token. Gerade bei Staking und Lending gelten eigene Regeln, die hier nicht erklärt werden. Bei Krypto im Betriebsvermögen gelten ebenfalls andere Regeln. Hier hilft die Steuerberatung.</p><h2>Meldepflichten der Anbieter</h2><p>Nach dem Kryptowerte-Steuertransparenz-Gesetz melden Anbieter jährlich bis 31. Juli für den vorangegangenen Zeitraum Informationen an das Bundeszentralamt für Steuern (§ 9 KStTG). Laut dem Land Baden-Württemberg erhalten die Finanzämter ab 2027 erstmals Informationen zu Transaktionen, die seit 1. Januar 2026 durchgeführt wurden. Auch Daten ausländischer Anbieter können über europäische und internationale Verfahren übermittelt werden. Praktisch heißt das: Halte Kaufdatum, Verkaufsdatum, Anschaffungskosten, Erlös, Gebühren, Plattform und Belege bereit.</p><h2>Wohin damit?</h2><p>Dieser Artikel ist Allgemeinwissen, kein Steuerrat. Rechtsstand: § 23 EStG in der am 26.10.2026 auf gesetze-im-internet.de abrufbaren Fassung. Wer Krypto handelt, tauscht oder bezahlt, sollte seine Fälle prüfen lassen, etwa in der Steuerberatung (siehe auch <a href=\"/artikel/wo-steuerberater-noetig-ist/\">Wo Steuerberater nötig ist</a>). Die Risiken rund ums Handeln behandelt der <a href=\"/artikel/krypto-risiken-ueberblick/\">Risiko-Überblick</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "§ 23 EStG: Private Veräußerungsgeschäfte (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__23.html"
+    },
+    {
+      "title": "BMF: Einzelfragen zur ertragsteuerrechtlichen Behandlung bestimmter Kryptowerte, 6.3.2025, Rn. 53 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2025-03-06-einzelfragen-kryptowerte-bmf-schreiben.html"
+    },
+    {
+      "title": "Finanzministerium Baden-Württemberg: Besteuerung von Kryptowährungen (abgerufen 26.10.2026)",
+      "url": "https://fm.baden-wuerttemberg.de/de/steuern/steuern-aktuelle-themen/besteuerung-von-kryptowaehrungen"
+    },
+    {
+      "title": "§ 9 KStTG: Meldepflicht (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/ksttg/__9.html"
+    },
+    {
+      "title": "BZSt: DAC8-Meldeverfahren (abgerufen 26.10.2026)",
+      "url": "https://www.bzst.de/DE/Unternehmen/Intern_Informationsaustausch/DAC8/Verfahren/verfahren_node.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind Krypto-Gewinne nach einem Jahr wirklich steuerfrei?",
+      "a": "Im Privatvermögen fällt § 23 EStG nur bei einem Zeitraum von nicht mehr als einem Jahr zwischen Anschaffung und Veräußerung an. Danach bleibt der Gewinn aus einem späteren Verkauf in der Regel steuerfrei. Für Sonderfälle wie Staking, Lending oder Betriebsvermögen gelten andere Regeln."
+    },
+    {
+      "q": "Ist die 1.000-Euro-Grenze ein Freibetrag?",
+      "a": "Nein, sie ist eine Freigrenze. Bleibt der Gesamtgewinn des Kalenderjahres unter 1.000 Euro, ist er steuerfrei. Ab 1.000 Euro ist der gesamte Gewinn steuerpflichtig."
+    },
+    {
+      "q": "Muss ich beim Tausch Krypto gegen Krypto Steuern zahlen?",
+      "a": "Der Tausch gilt steuerlich als Veräußerung. Ob Steuern anfallen, hängt von Haltedauer, Gewinn und der Grenze ab."
+    },
+    {
+      "q": "Erfährt das Finanzamt von meinen Transaktionen?",
+      "a": "Anbieter müssen nach dem KStTG Daten melden. Laut Land Baden-Württemberg erhalten die Finanzämter ab 2027 Informationen zu Transaktionen ab 1. Januar 2026."
+    }
+  ]
+}

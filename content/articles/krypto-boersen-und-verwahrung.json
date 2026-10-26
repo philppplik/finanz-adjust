@@ -1,0 +1,41 @@
+{
+  "slug": "krypto-boersen-und-verwahrung",
+  "title": "Krypto-Börsen und Verwahrung: Wo deine Coins wirklich liegen",
+  "description": "Wie Krypto-Börsen funktionieren, was Verwahrung bedeutet und worauf du bei Anbietern in der EU achten kannst: Zulassung, ESMA-Register und der Unterschied zwischen Börse und eigener Wallet.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/krypto-boersen-und-verwahrung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Auf einer Krypto-Börse kaufst du meist Coins, die der Anbieter für dich verwahrt. Du hältst dann einen Anspruch gegen den Anbieter.</li><li>Verwahrung heißt rechtlich: sichere Aufbewahrung oder Kontrolle von Kryptowerten oder der Zugangsmittel dazu.</li><li>In der EU brauchen Anbieter von Kryptowerte-Dienstleistungen nach MiCA eine Zulassung.</li><li>Ob ein Anbieter zugelassen ist, prüfst du im ESMA-Register und bei der nationalen Aufsicht.</li></ul></div><h2>Was eine Börse macht</h2><p>Eine Krypto-Börse bringt Käufer und Verkäufer zusammen und tauscht Euro in Kryptowerte oder eine Kryptowährung in eine andere. Die meisten Nutzer legen dabei ein Konto an. Die gekauften Coins stehen dann im Konto beim Anbieter. Das ist bequem, hat aber eine Folge: Die Zugangsmittel (private Schlüssel) liegen nicht bei dir.</p><h2>Was Verwahrung bedeutet</h2><p>Die BaFin beschreibt Verwahrung und Verwaltung von Kryptowerten für Kunden nach MiCAR als die sichere Aufbewahrung oder Kontrolle von Kryptowerten oder der Mittel für den Zugang zu solchen Kryptowerten. Hinter dem Wort steckt also eine Pflicht des Anbieters. Wie gut sie erfüllt wird, kannst du als Kunde schwer selbst prüfen. Deshalb gibt es Zulassungsregeln und Aufsicht.</p><h2>Zulassung prüfen</h2><p>Die europäischen Aufsichtsbehörden raten Verbrauchern, vor einer Anlage zu prüfen, ob der Anbieter in der EU zugelassen ist. Dafür gibt es das Register der ESMA und die Seiten der nationalen Aufsicht, in Deutschland die BaFin. Nur gelistete Anbieter dürfen Kryptowerte-Dienstleistungen in der EU unter MiCA erbringen. Auch Plattformen außerhalb der EU können im Netz erreichbar sein. Dann gelten laut den Aufsehern oft keine oder nur geringe Verbraucherschutzrechte. Wie MiCA aufgebaut ist, steht im <a href=\"/artikel/mica-regulierung-ueberblick/\">Überblick zur Regulierung</a>.</p><h2>Börse oder eigene Wallet?</h2><p>Bei der Börse vertraust du dem Anbieter, bei der eigenen Wallet dir selbst. Beides hat Risiken: Anbieter können gehackt werden, ausfallen oder Auszahlungen sperren. Bitcoin.org rät zur Vorsicht bei Diensten, die dein Geld online halten, und nennt Börsen und Online-Wallets, die gehackt wurden, ausgefallen sind oder Zugriff gesperrt haben. Eigene Verwahrung verlagert die Risiken zu dir: Verlust von Schlüsseln, Fehlbedienung, Phishing. Mehr dazu in <a href=\"/artikel/self-custody-risiken/\">Self-Custody-Risiken</a> und, aus der Praxis, in <a href=\"/artikel/boersenpleiten-lehren/\">Lehren aus Börsenpleiten</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Merkblatt zu Kryptowerte-Dienstleistungen nach MiCAR, Verwahrung (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_250103_Kryptowerte_Dienstl.html"
+    },
+    {
+      "title": "EBA/EIOPA/ESMA: Warnung an Verbraucher vom 6. Oktober 2025 (abgerufen 26.10.2026)",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and"
+    },
+    {
+      "title": "Joint ESAs Factsheet on crypto-assets (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2025-10/Joint_ESAs_Factsheet_on_crypto-assets.pdf"
+    },
+    {
+      "title": "Bitcoin.org: Securing your wallet (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/en/secure-your-wallet"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind meine Coins auf einer Börse wie ein Bankguthaben geschützt?",
+      "a": "Das hängt vom Anbieter und der Rechtslage ab und lässt sich nicht pauschal sagen. Die EU-Aufseher weisen darauf hin, dass der Schutz je nach Kryptowert und Dienstleister begrenzt sein kann. Prüfe, ob der Anbieter zugelassen ist, und lies die Bedingungen."
+    },
+    {
+      "q": "Wo finde ich das ESMA-Register?",
+      "a": "Auf der ESMA-Seite zu MiCA, siehe Quellen unten. Dort sind zugelassene Anbieter und weitere Verzeichnisse verlinkt."
+    },
+    {
+      "q": "Ist ein Anbieter außerhalb der EU automatisch betrügerisch?",
+      "a": "Nein. Er ist aber nicht automatisch unter MiCA beaufsichtigt, und du hast womöglich keinen oder weniger Schutz."
+    }
+  ]
+}

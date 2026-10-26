@@ -1,0 +1,37 @@
+{
+  "slug": "self-custody-risiken",
+  "title": "Self-Custody: Eigene Verwahrung und ihre Risiken",
+  "description": "Was Self-Custody bedeutet, wie Hardware-Wallets und Backups helfen und welche Fehler teuer werden: verlorene Schlüssel, Phishing, fehlende Sicherung. Sachlich und praktisch.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/self-custody-risiken.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Self-Custody heißt: Du hältst die privaten Schlüssel selbst, nicht ein Anbieter.</li><li>Das vermeidet das Risiko, dass ein Anbieter ausfällt, gehackt wird oder Auszahlungen sperrt.</li><li>Dafür liegt die Verantwortung bei dir: Sicherung, Backup und Schutz vor Betrug.</li><li>Ein verlorener Schlüssel ist in der Regel nicht ersetzbar.</li></ul></div><h2>Warum Self-Custody</h2><p>Bitcoin.org rät zur Vorsicht bei Diensten, die dein Geld online halten: Wenn eine dritte Partei deine Schlüssel kontrolliert, bist du auf deren Sicherheit und Ehrlichkeit angewiesen, und Börsen und Online-Wallets wurden gehackt, sind ausgefallen oder haben den Zugriff gesperrt. Eigene Verwahrung nimmt dir dieses Anbieterrisiko ab. Warum es auch Argumente für Börsen gibt, steht in <a href=\"/artikel/krypto-boersen-und-verwahrung/\">Börsen und Verwahrung</a>.</p><h2>Hardware-Wallet und Offline-Aufbewahrung</h2><p>Bitcoin.org empfiehlt für größere Beträge eine Offline-Wallet und nennt Hardware-Wallets, außerdem Offline-Signieren von Überweisungen. Gedanke dahinter: Der Schlüssel soll nicht auf einem Gerät liegen, das ständig online ist. Für den Alltag rät die Seite, nur kleine Beträge auf dem Rechner oder Handy zu halten, so wie man auch nicht beliebig viel Bargeld in der Tasche trägt.</p><h2>Backup</h2><p>Ein Backup an einem sicheren Ort schützt laut Bitcoin.org vor Rechnerausfall und vielen Bedienfehlern und erlaubt die Wiederherstellung nach Diebstahl oder Verlust des Geräts. Wichtig: Sichere die gesamte Wallet, nicht nur die sichtbaren Schlüssel, nutze mehrere sichere Orte und sichere regelmäßig. Verschlüssele Online-Backups. Ein Backup, das jeder findet, ist ein offener Zugang zu deinen Coins.</p><h2>Typische Fehler</h2><p>Passwort vergessen, Backup nie getestet, nur eine Kopie an einem Ort, Backup in der Cloud ohne Verschlüsselung, Software nicht aktualisiert. Dazu kommt Betrug: Fremde fragen nach deiner Wiederherstellungsphrase oder schicken Links auf gefälschte Wallet-Seiten. Niemand, der dir wirklich helfen will, braucht deinen privaten Schlüssel. Mehr zu Maschen im Artikel <a href=\"/artikel/krypto-scams-erkennen/\">Krypto-Scams erkennen</a>.</p><h2>Auch an den Ernstfall denken</h2><p>Bitcoin.org empfiehlt außerdem, an den Todesfall zu denken: Was passiert mit deinen Coins, wenn du nicht mehr erreichbar bist? Ohne Zugangsinformationen können Angehörige nicht auf die Coins zugreifen. Wie du das regelst, ist eine persönliche Entscheidung und gegebenenfalls eine Rechtsfrage. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bitcoin.org: Securing your wallet (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/en/secure-your-wallet"
+    },
+    {
+      "title": "Bitcoin.org: How does Bitcoin work? (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/en/how-it-works"
+    },
+    {
+      "title": "EBA/EIOPA/ESMA: Warnung vom 6. Oktober 2025, Empfehlung zur Sicherung von Wallets (abgerufen 26.10.2026)",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist eigene Verwahrung sicherer als eine Börse?",
+      "a": "Sie vermeidet das Anbieterrisiko, schafft aber Risiken bei dir: Verlust, Fehlbedienung, Betrug. Welche Lösung passt, hängt vom Betrag und deinem Umgang mit Technik ab."
+    },
+    {
+      "q": "Was passiert, wenn ich meinen Schlüssel verliere?",
+      "a": "In der Regel kommst du nicht mehr an die Coins. Es gibt keine Stelle, die einen Zugang zurücksetzt. Deshalb ist ein getestetes Backup wichtig."
+    },
+    {
+      "q": "Darf ich meine Wiederherstellungsphrase jemandem geben?",
+      "a": "Nein. Wer die Phrase oder den privaten Schlüssel hat, kontrolliert die Coins."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "blockchain-einfach-erklaert",
+  "title": "Blockchain einfach erklärt: Das gemeinsame Kontobuch",
+  "description": "Was eine Blockchain ist, wie Blöcke, Transaktionen und Konsens zusammenspielen und wo sie an Grenzen stößt. Verständlich, ohne Technikjargon und ohne Kursversprechen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:00:00+01:00",
+  "image": "/images/blockchain-einfach-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Eine Blockchain ist ein gemeinsam geführtes Verzeichnis, in dem Einträge in Blöcken zeitlich geordnet verkettet werden.</li><li>Viele Rechner im Netzwerk halten dieselbe Kopie und einigen sich nach festen Regeln auf den aktuellen Stand.</li><li>Nachträgliche Änderungen sind sehr aufwendig, weil spätere Blöcke auf früheren aufbauen.</li><li>Blockchain heißt nicht automatisch sicher, legal oder werthaltig.</li></ul></div><h2>Das Bild vom Kontobuch</h2><p>Stell dir ein Kontobuch vor, das nicht bei einer Bank liegt, sondern in vielen Kopien bei vielen Teilnehmern. Jede bestätigte Überweisung wird als neue Zeile eingetragen. Die EU-Aufsichtsbehörden beschreiben ein verteiltes Verzeichnis ähnlich: eine Datenbank, die über ein Netzwerk geteilt wird. Die bekannteste Form ist die Blockchain, benannt nach Transaktionsgruppen (Blöcken), die in zeitlicher Reihenfolge aneinandergehängt werden.</p><h2>Wie ein Eintrag entsteht</h2><p>Du signierst eine Überweisung mit deinem privaten Schlüssel. Das Netzwerk prüft, ob du über die Coins verfügen darfst, und nimmt die Überweisung in einen neuen Block auf. Nach bitcoin.org bestätigen Netzwerkteilnehmer dazu ausstehende Überweisungen, indem sie diese in die Kette einfügen. Das erzwingt eine feste Reihenfolge und lässt verschiedene Rechner zu einem gemeinsamen Stand kommen.</p><h2>Warum Änderungen schwer sind</h2><p>Jeder Block enthält einen Fingerabdruck des vorherigen. Wer einen alten Eintrag ändern wollte, müsste alle folgenden Blöcke neu erzeugen. Das Whitepaper beschreibt die Kette als Aufzeichnung, die sich nicht ändern lässt, ohne die zugrunde liegende Arbeit zu wiederholen. Deshalb gilt eine Blockchain als manipulationsresistent. Das gilt für die Kette selbst, nicht für alles drumherum, etwa Börsen oder Wallet-Software.</p><h2>Wo die Grenzen liegen</h2><p>Eine Blockchain speichert Einträge, sie prüft nicht, ob eine Geschäftsidee seriös ist. Wer Coins bei einem Anbieter verwahren lässt, verlässt sich auf den Anbieter, nicht auf die Kette (siehe <a href=\"/artikel/krypto-boersen-und-verwahrung/\">Börsen und Verwahrung</a>). Dazu kommen Gebühren, begrenzte Geschwindigkeit je nach Netzwerk und die Frage, wie Programme auf der Kette laufen. Das zeigt der nächste Artikel zu <a href=\"/artikel/ethereum-und-smart-contracts/\">Ethereum und Smart Contracts</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bitcoin.org: How does Bitcoin work? (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/en/how-it-works"
+    },
+    {
+      "title": "Satoshi Nakamoto: Bitcoin Whitepaper (abgerufen 26.10.2026)",
+      "url": "https://bitcoin.org/bitcoin.pdf"
+    },
+    {
+      "title": "Joint ESAs Factsheet on crypto-assets, Definition verteiltes Verzeichnis (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2025-10/Joint_ESAs_Factsheet_on_crypto-assets.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist eine Blockchain unveränderbar?",
+      "a": "Sie ist sehr schwer nachträglich zu ändern, weil spätere Blöcke auf früheren aufbauen. Das betrifft die Kette selbst. Fehler bei Eingaben, Betrug oder Ausfälle bei Dienstleistern verhindert sie nicht."
+    },
+    {
+      "q": "Braucht jede Kryptowährung eine eigene Blockchain?",
+      "a": "Nicht zwingend. Viele Token laufen auf der Blockchain eines anderen Netzwerks, etwa auf Ethereum."
+    },
+    {
+      "q": "Sind Blockchain-Einträge anonym?",
+      "a": "Einträge sind öffentlich einsehbar, aber an Adressen geknüpft statt an Namen. Über Börsen und Meldepflichten lassen sich Adressen Personen zuordnen. Mehr dazu im Artikel zu <a href=\"/artikel/krypto-steuern-deutschland/\">Krypto-Steuern</a>."
+    }
+  ]
+}
