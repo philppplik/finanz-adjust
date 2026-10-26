@@ -1,0 +1,41 @@
+{
+  "slug": "ankereffekt-und-kurse",
+  "title": "Ankereffekt und Kurse: Warum der Einstiegskurs so festhält",
+  "description": "Der Ankereffekt bei Aktienkursen: Was Tversky und Kahneman beschrieben, warum der Kaufkurs ein willkürlicher Bezugspunkt sein kann und wie du ihn prüfst.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/ankereffekt-und-kurse.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Beim Ankereffekt beeinflusst ein Ausgangswert spätere Einschätzungen, auch wenn er sachlich wenig aussagt.</li><li>Tversky und Kahneman (1974) nennen die „Anpassung an einen Anker“ als eine von drei Urteilsheuristiken.</li><li>Der eigene Kaufkurs ist ein typischer Anker: Der Markt „weiß“ nicht, was du bezahlt hast.</li><li>Prüffrage: Würde ich die Position heute zum aktuellen Kurs neu kaufen?</li></ul></div><h2>Was ein Anker ist</h2><p>Tversky und Kahneman beschrieben 1974 drei Heuristiken beim Urteilen unter Unsicherheit. Eine ist die Anpassung von einem Anker aus, die bei numerischen Schätzungen vorkommt, wenn ein Ausgangswert vorliegt. Solche Heuristiken sind sparsam und meist nützlich, führen aber zu systematischen Fehlern.</p><h2>Anker im Depot</h2><p>Die Bundesbank (2011) beschreibt in Zusammenhang mit der Prospect Theory, dass als Bezugspunkt für Gewinn oder Verlust im Kern ein willkürlicher Wert gewählt wird, meist der Einstandskurs. Der Bankenverband zeigt ein Szenario: Eine Person kauft eine Aktie zu 100 Euro, hält bei 70 Euro fest und wartet darauf, dass der Kurs wieder auf 100 steigt, um Verluste wettzumachen. Währenddessen verschlechtert sich die Geschäftslage, der Kurs fällt weiter auf 50 Euro.</p><h2>Strukturbeispiel: Zwei Fragen</h2><p>Vereinfachtes Beispiel, keine Rechnung zu einem realen Wert: Eine Aktie wurde zu 100 gekauft und steht bei 70. Frage 1 (ankerbezogen): Wann habe ich meinen Einstand wieder? Frage 2 (ohne Anker): Was wäre mein Plan, wenn ich heute 70 in bar hätte? Der Marktkurs hängt nicht von deinem Kaufpreis ab. Die zweite Frage zwingt dich, aktuelle Information zu nutzen. Ob du die Position hältst oder verkaufst, beantwortet sie nicht, aber sie verschiebt die Entscheidung auf die richtige Grundlage.</p><h2>Weitere Anker</h2><p>Auch Höchststände, Rundzahlen oder Kursziele aus Medien können als Anker wirken. Die FMA rät dazu, den Kaufkurs nicht als Entscheidungsgrundlage zu nehmen und stattdessen zu fragen, ob man zum aktuellen Kurs kaufen würde. Vergleiche auch <a href=\"/artikel/verlustaversion/\">Verlustaversion</a>, die dazu oft beiträgt. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Tversky/Kahneman: Judgment under Uncertainty - Heuristics and Biases, Science 1974 (abgerufen 26.10.2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "Bankenverband: Fehler bei der Geldanlage - Machen Sie es besser, 05.09.2024 (abgerufen 26.10.2026)",
+      "url": "https://bankenverband.de/verbraucher/fehler-bei-der-geldanlage-machen-sie-es-besser"
+    },
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der Kaufkurs steuerlich irrelevant?",
+      "a": "Nein. Für die Steuer spielt er eine Rolle. Die Bundesbank betont nur, dass er, von Steuern abgesehen, für die reine Verkaufsentscheidung keine Rolle spielen sollte."
+    },
+    {
+      "q": "Sind Kursziele von Analysten auch Anker?",
+      "a": "Sie können es sein, wenn sie unbewusst als Maßstab für „richtig“ dienen. Prüfe, wer sie auf welcher Grundlage nennt."
+    },
+    {
+      "q": "Wie vermeide ich Anker?",
+      "a": "Indem du Entscheidungen auf aktuelle Information und deinen Plan stützt statt auf frühere Kurse."
+    }
+  ]
+}

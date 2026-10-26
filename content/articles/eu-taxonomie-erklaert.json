@@ -1,0 +1,37 @@
+{
+  "slug": "eu-taxonomie-erklaert",
+  "title": "EU-Taxonomie erklärt: Wann eine Tätigkeit als ökologisch nachhaltig gilt",
+  "description": "Die EU-Taxonomie einfach erklärt: vier Kriterien, sechs Umweltziele, technische Bewertungskriterien und was die Taxonomie-Quote bei Fonds bedeutet.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/eu-taxonomie-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Taxonomie-Verordnung (EU) 2020/852 legt fest, wann eine Wirtschaftstätigkeit als ökologisch nachhaltig gilt.</li><li>Vier Kriterien müssen zusammenkommen: wesentlicher Beitrag, keine erhebliche Beeinträchtigung, Mindestschutz, technische Kriterien.</li><li>Es gibt sechs Umweltziele. Soziale Ziele sind nicht Teil der Taxonomie-Verordnung.</li><li>Die Taxonomie ist ein Klassifikationssystem und bewertet kein Produkt als Ganzes.</li></ul></div><h2>Wozu eine Taxonomie</h2><p>Die Verordnung (EU) 2020/852 soll Anleger anhand gemeinsamer Kriterien für die gesamte EU informieren, ob eine Wirtschaftstätigkeit ökologisch nachhaltig ist (EUR-Lex-Zusammenfassung). Sie ist am 12. Juli 2020 in Kraft getreten. Die BaFin beschreibt sie als Klassifikationssystem, das zusammen mit der <a href=\"/artikel/nachhaltigkeitsklassen-sfdr/\">Offenlegungsverordnung</a> arbeitet.</p><h2>Die vier Kriterien</h2><p>Eine Tätigkeit gilt als ökologisch nachhaltig, wenn sie (1) wesentlich zu mindestens einem Umweltziel beiträgt, (2) keines der Umweltziele erheblich beeinträchtigt, (3) unter Einhaltung von Mindestschutzmaßnahmen durchgeführt wird und (4) die technischen Bewertungskriterien der Kommission erfüllt. Alle vier gelten gemeinsam.</p><h2>Die sechs Umweltziele</h2><p>Klimaschutz; Anpassung an den Klimawandel; nachhaltige Nutzung und Schutz von Wasser und Meeresressourcen; Übergang zu einer Kreislaufwirtschaft; Vermeidung und Verminderung der Umweltverschmutzung; Schutz und Wiederherstellung der biologischen Vielfalt und der Ökosysteme. Die technischen Kriterien stehen in delegierten Rechtsakten, zum Beispiel für Klimaschutz und Anpassung (Delegierte Verordnung (EU) 2021/2139) und für die übrigen vier Ziele (Delegierte Verordnung (EU) 2023/2486). Die Kommission hat außerdem unter strengen Bedingungen bestimmte Tätigkeiten in den Bereichen Kernenergie und fossiles Gas aufgenommen (Delegierte Verordnung (EU) 2022/1214). Das ist eine Einordnung der Regeln, keine Bewertung.</p><h2>Taxonomie-Quote bei Fonds</h2><p>Finanzprodukte, die mit ökologischen Merkmalen beworben werden oder ein Umweltziel anstreben, müssen seit dem 1. Januar 2022 eine Taxonomie-Quote ausweisen. Sie gibt den Anteil ökologisch nachhaltiger Investitionen im Verhältnis zu den Gesamtinvestitionen an (BaFin). Die Quote sagt nur etwas über den Anteil taxonomiekonformer Investitionen; über Kosten, Streuung oder Risiko eines Produkts sagt sie nichts.</p><h2>Vereinfachungen bei der Anwendung</h2><p>Die Kommission hat am 4. Juli 2025 Vereinfachungen für die Anwendung der Taxonomie in Form eines Delegierten Rechtsakts angenommen, um den Verwaltungsaufwand für Unternehmen zu senken. Nach ihrer Mitteilung sollten die Maßnahmen ab dem 1. Januar 2026 gelten und das Geschäftsjahr 2025 betreffen, mit Wahlrecht für das Geschäftsjahr 2026. Das ändert die Berichterstattung der Unternehmen, nicht die Grundidee der Taxonomie. Wie die Angaben für ein bestimmtes Produkt aktuell aussehen, steht in dessen Unterlagen. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "EUR-Lex: Bewertung ökologisch nachhaltiger Investitionen, Zusammenfassung zur Verordnung (EU) 2020/852 (abgerufen 26.10.2026)",
+      "url": "https://eur-lex.europa.eu/DE/legal-content/summary/assessing-environmentally-sustainable-investments.html"
+    },
+    {
+      "title": "BaFin: EU-Offenlegungsverordnung (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/SF/OffenlegungsVO/OffenlegungsVO_artikel.html"
+    },
+    {
+      "title": "Europäische Kommission: Vereinfachung der EU-Taxonomie, 04.07.2025 (abgerufen 26.10.2026)",
+      "url": "https://finance.ec.europa.eu/publications/commission-cut-eu-taxonomy-red-tape-companies_en"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist die Taxonomie ein Gütesiegel für Fonds?",
+      "a": "Nein. Sie klassifiziert Wirtschaftstätigkeiten. Bei Fonds taucht sie als Taxonomie-Quote auf, die den Anteil taxonomiekonformer Investitionen zeigt."
+    },
+    {
+      "q": "Warum gibt es keine sozialen Kriterien?",
+      "a": "Die Verordnung (EU) 2020/852 regelt ökologisch nachhaltige Tätigkeiten mit sechs Umweltzielen. Soziale Ziele sind dort nicht als Umweltziel enthalten; verlangt werden aber Mindestschutzmaßnahmen."
+    },
+    {
+      "q": "Gilt Gas oder Kernenergie als nachhaltig?",
+      "a": "Laut EUR-Lex hat die Kommission durch die Delegierte Verordnung (EU) 2022/1214 unter strengen Bedingungen bestimmte Tätigkeiten dieser Bereiche in die Taxonomie aufgenommen. Das betrifft die Klassifikation, nicht automatisch ein einzelnes Produkt."
+    }
+  ]
+}

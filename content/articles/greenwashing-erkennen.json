@@ -1,0 +1,41 @@
+{
+  "slug": "greenwashing-erkennen",
+  "title": "Greenwashing erkennen: Woran du nachhaltige Versprechen prüfst",
+  "description": "Greenwashing bei Geldanlagen: Was die BaFin darunter versteht, warum Namen allein nichts garantieren und welche Fragen du an Produktunterlagen stellen kannst.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/greenwashing-erkennen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Greenwashing meint, dass ein Produkt nachhaltiger dargestellt wird, als es ist. Eine einheitliche gesetzliche Definition gibt es bisher nicht.</li><li>Namenszusätze wie „grün“ oder „ethisch“ garantieren laut BaFin keine tatsächliche Nachhaltigkeit.</li><li>Für Fondsnamen mit ESG-Begriffen gelten ESMA-Leitlinien mit Mindestanteilen und Ausschlüssen.</li><li>Prüfen heißt: Produktunterlagen lesen, Anlagestrategie und Ausschlüsse vergleichen.</li></ul></div><h2>Was gemeint ist</h2><p>Wenn Unternehmen Finanzprodukte als „nachhaltig“ bewerben, die diesem Anspruch bei genauerem Hinsehen nicht gerecht werden, ist häufig von Greenwashing die Rede, schreibt die BaFin. Eine einheitliche gesetzliche Definition gibt es bislang nicht. Die BaFin fasst es in ihrer Sustainable-Finance-Strategie so: Es betrifft Praktiken im Vertrieb, bei denen das Nachhaltigkeitsprofil nicht eindeutig und redlich offengelegt wird, sodass Anlegerinnen und Anleger potenziell in die Irre geführt werden. Die BaFin überwacht nach eigenen Angaben, ob Institute ihre Offenlegungspflichten erfüllen und ob Marketingmitteilungen den offengelegten Informationen widersprechen.</p><h2>Der Name sagt wenig</h2><p>Viele Produkte tragen Zusätze wie „nachhaltig“, „ökologisch“, „sozial“, „ethisch“ oder „grün“. Die BaFin betont: Solche Begriffe im Namen garantieren nicht, dass ein Produkt tatsächlich nachhaltig ist. Seit den ESMA-Leitlinien zu Fondsnamen müssen Fonds mit ESG-Begriffen im Namen mindestens 80 % ihrer Investitionen an den offengelegten ökologischen oder sozialen Merkmalen oder Zielen ausrichten; bei „nachhaltig“ im Namen sollen darin mindestens 50 % nachhaltige Investitionen enthalten sein. Je nach Begriff gelten zusätzlich Ausschlüsse (ESMA, Final Report). Das ist ein Mindeststandard, kein Qualitätsurteil.</p><h2>Fragen an die Produktunterlagen</h2><p>Strukturbeispiel, vereinfacht: Du liest die Unterlagen eines Fonds mit „Green“ im Namen. Drei Fragen helfen. Welche Ausschlüsse gelten konkret, und wo steht das? Wie groß ist der Anteil der Investitionen, der die genannten Merkmale erfüllt? Wie passen Top-Positionen zum Versprechen im Namen? Die Verbraucherzentrale nennt als Beispiel für Lücken bei ETFs, dass fossile Energiequellen teils nicht ausgeschlossen, sondern nur untergewichtet werden. Ob dir das reicht, ist deine eigene Abwägung.</p><h2>Einordnung</h2><p>Greenwashing-Vorsicht heißt nicht, Nachhaltigkeit zu misstrauen. Sie heißt, Angaben wie jede andere Produktwerbung gegenzulesen. Eine passende Einordnung der Kosten und Risiken bleibt dabei Pflicht, siehe <a href=\"/artikel/nachhaltige-etf-ansaetze/\">nachhaltige ETF-Ansätze</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Greenwashing (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/SF/Greenwashing/Greenwashing_artikel.html"
+    },
+    {
+      "title": "BaFin: Nachhaltig investieren - Das sollten Sie wissen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/nachhaltige-geldanlage/nachhaltig-investieren/nachhaltig-investieren.html"
+    },
+    {
+      "title": "ESMA: Final Report on the Guidelines on funds' names (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2024-05/ESMA34-472-440_Final_Report_Guidelines_on_funds_names.pdf"
+    },
+    {
+      "title": "Verbraucherzentrale: Geld nachhaltig anlegen - Was bei nachhaltigen Fonds wichtig ist, Stand 12.10.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/geld-nachhaltig-anlegen-was-bei-nachhaltigen-fonds-wichtig-ist-80193"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es ein offizielles Greenwashing-Siegel oder eine Liste?",
+      "a": "Nicht in dem Sinn. Es gibt laut BaFin keine einheitliche gesetzliche Definition von Greenwashing und kein staatliches Gütesiegel für „nachhaltig“. Maßgeblich sind die offengelegten Produktangaben."
+    },
+    {
+      "q": "Reicht ein Siegel auf der Produktseite?",
+      "a": "Siegel privater Anbieter sagen nur etwas über deren eigene Kriterien. Sieh nach, wer das Siegel vergibt und was geprüft wird."
+    },
+    {
+      "q": "Wen kann ich bei Zweifeln fragen?",
+      "a": "Zuerst den Anbieter oder die Beratung, die zu den Angaben Auskunft geben muss. Die BaFin informiert Verbraucher zum Thema auf ihrer Website."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "verlustaversion",
+  "title": "Verlustaversion: Warum Verluste schwerer wiegen als gleich große Gewinne",
+  "description": "Verlustaversion einfach erklärt: Warum Verluste intensiver erlebt werden als Gewinne, wie der Dispositionseffekt entsteht und was beim Umgang damit hilft.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/verlustaversion.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Verlustaversion heißt: Ein Verlust wird subjektiv oft stärker bewertet als ein gleich großer Gewinn (FMA).</li><li>Folge kann der Dispositionseffekt sein: Gewinner werden früher verkauft als Verlierer (Bundesbank 2011).</li><li>Der Kaufkurs ist laut FMA für die Entscheidung wenig hilfreich. Hilfreicher ist die Frage, ob du zum aktuellen Kurs kaufen würdest.</li><li>Ein einzelnes Minus gehört in einem diversifizierten Portfolio dazu.</li></ul></div><h2>Was Verlustaversion ist</h2><p>Die FMA beschreibt: Der subjektive Wert eines Gewinns wird oft geringer geschätzt als ein objektiv gleich großer Verlust. Anleger erleben Verluste intensiver als vergleichbare Gewinne und sind deshalb stärker darauf fokussiert, Verluste zu vermeiden, als Chancen wahrzunehmen. Der Gedanke geht auf die Prospect Theory von Kahneman und Tversky zurück.</p><h2>Der Dispositionseffekt</h2><p>Die Bundesbank nennt ein typisches Muster: Anleger verkaufen Wertpapiere, die seit dem Kauf gestiegen sind, schneller als solche, die gefallen sind. Verlierer werden relativ lange gehalten. Auffällig daran: Der Kaufpreis dürfte, von Steuern abgesehen, für die Verkaufsentscheidung keine Rolle spielen; entscheidend wären die Erwartungen für die Zukunft. Erklärungsansätze sind die Prospect Theory und Reueaversion, also der Wunsch, die unangenehme Erfahrung eines realisierten Verlusts aufzuschieben.</p><h2>Strukturbeispiel: Zwei Positionen im Depot</h2><p>Vereinfachtes Beispiel, keine Empfehlung: In einem Depot liegt Position A mit 20 % im Plus und Position B mit 20 % im Minus. Das Muster wäre, A zu verkaufen, um den Gewinn „zu sichern“, und B zu halten, bis sie „wieder auf Einstand“ ist. Eine nüchterne Prüffrage lautet stattdessen: Würde ich B heute zum aktuellen Kurs neu kaufen? Wenn die Antwort nein ist, spielt der alte Einstand für die Entscheidung keine Rolle; ob das zu einem Verkauf führt, bleibt deine Abwägung, auch mit Blick auf Steuern und Kosten.</p><h2>Was hilft</h2><p>Die FMA rät, die Gesamtperformance des Depots im Blick zu behalten und zu bedenken, dass in einem gut diversifizierten Portfolio immer einzelne Positionen schwächer laufen. Eine Stop-Loss-Order kann helfen, eine Verlustgrenze schon beim Kauf festzulegen; sie hat eigene Nachteile wie Ausführung zum nächsten ausführbaren Kurs. Vorher festgelegte Regeln stehen im Artikel zu <a href=\"/artikel/regeln-gegen-emotionale-fehler/\">Regeln gegen emotionale Fehler</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "Nobelpreis Wirtschaftswissenschaften 2002, Pressemitteilung (abgerufen 26.10.2026)",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/press-release/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Verlustaversion schlecht?",
+      "a": "Nicht grundsätzlich. Sie schützt im Alltag vor Risiken. Bei Geldanlagen kann sie zu Entscheidungen führen, die vom eigenen Plan abweichen."
+    },
+    {
+      "q": "Wie groß ist der Unterschied zwischen Verlust und Gewinn im Erleben?",
+      "a": "Das hängt von Person und Situation ab. Die genannten Quellen beschreiben die Richtung, nicht einen festen Wert, den du für dich übernehmen solltest."
+    },
+    {
+      "q": "Soll ich Verlustpositionen sofort verkaufen?",
+      "a": "Das ist keine Handlungsanweisung dieses Artikels. Er beschreibt, warum der Kaufkurs die Entscheidung verzerren kann."
+    }
+  ]
+}

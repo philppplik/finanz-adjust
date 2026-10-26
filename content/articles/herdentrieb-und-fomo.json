@@ -1,0 +1,41 @@
+{
+  "slug": "herdentrieb-und-fomo",
+  "title": "Herdentrieb und FOMO: Warum wir der Menge folgen",
+  "description": "Herdenverhalten und FOMO bei Geldanlagen: Was Bundesbank, FMA, Bankenverband und ESMA dazu sagen, und welche Fragen vor einem Trend-Kauf helfen.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/herdentrieb-und-fomo.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Herdenverhalten heißt: Anleger ahmen das Verhalten anderer nach (Bundesbank).</li><li>Es kann Märkte volatiler machen und Spekulationsblasen verstärken (Bundesbank).</li><li>FOMO, die Angst, etwas zu verpassen, ist ein umgangssprachlicher Begriff für den Drang, bei einem Trend mitzumachen.</li><li>Die ESMA warnt vor Handelsentscheidungen, die ausschließlich auf Social-Media-Tipps beruhen.</li></ul></div><h2>Was Herdenverhalten ist</h2><p>Laut Bundesbank ahmen sich Anleger an den Finanzmärkten häufig gegenseitig nach, was die klassische Finanztheorie nicht erklären kann. Das kann die Märkte volatiler machen und spekulative Blasen verstärken. Die FMA ergänzt: Gerade in Unsicherheit verringert sich oft die Zahl derer, die sich an Fakten orientieren. Der Bankenverband nennt als Beispiel den Dotcom-Boom um die Jahrtausendwende, als viele in Technologieaktien investierten, weil es „alle taten“, auch bei Unternehmen ohne solides Geschäftsmodell.</p><h2>FOMO</h2><p>FOMO steht für „fear of missing out“. Der Begriff ist kein Fachbegriff der Aufsichtsbehörden, beschreibt aber ein bekanntes Muster: Steigende Kurse und viele Nachrichten erzeugen den Eindruck, ein Zug fahre ab. Die ESMA hat 2021 Kleinanleger vor Handelsentscheidungen gewarnt, die ausschließlich auf Meinungsaustausch und informellen Empfehlungen in sozialen Netzwerken beruhen. Als Risiken nennt sie unzuverlässige Informationen, erhöhte Verlustgefahr durch Kursschwankungen und das Risiko von Marktmissbrauch.</p><h2>Strukturbeispiel: Vor dem Trend-Kauf</h2><p>Vereinfachtes Beispiel, keine Empfehlung: Ein Thema ist seit Tagen überall, ein Kurs ist stark gestiegen. Die FMA empfiehlt, kritisch zu hinterfragen, warum man eine Anlage gerade bevorzugt und warum andere unattraktiv erscheinen. Fragen: Woher kommt meine Information, und wer hat welches Interesse? Passt die Anlage zu meinem Plan und zu meiner Risikotoleranz? Würde ich sie auch kaufen, wenn niemand darüber sprechen würde? Wie viel dürfte ich verlieren, ohne dass es mein Leben verändert?</p><h2>Einordnung</h2><p>Mit der Menge zu handeln ist nicht per se falsch: Breit gestreute Anlagen folgen ohnehin dem Markt. Kritisch wird es, wenn der Grund allein ist, dass andere es tun. Das Gegenstück zu FOMO sind Panikverkäufe in Marktschwächen; der Bankenverband beschreibt für 2008, dass viele ihre Aktien in Panik verkauften und Verluste realisierten, die Kurse später aber teils zurückkehrten. Das ist historisch, keine Aussage über künftige Verläufe. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    },
+    {
+      "title": "Bankenverband: Fehler bei der Geldanlage - Machen Sie es besser, 05.09.2024 (abgerufen 26.10.2026)",
+      "url": "https://bankenverband.de/verbraucher/fehler-bei-der-geldanlage-machen-sie-es-besser"
+    },
+    {
+      "title": "ESMA: Risiken für Kleinanleger bei Social-Media-getriebenem Aktienhandel, 17.02.2021 (abgerufen 26.10.2026)",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-highlights-risks-retail-investors-social-media-driven-share-trading"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist FOMO ein wissenschaftlicher Begriff?",
+      "a": "Es ist ein Alltagsbegriff. Wissenschaftlich beschrieben ist Herdenverhalten, das die Bundesbank als Nachahmung unter Anlegern definiert."
+    },
+    {
+      "q": "Sind Social-Media-Tipps verboten?",
+      "a": "Nein. Die ESMA warnt aber vor Entscheidungen, die ausschließlich darauf beruhen, und vor dem Risiko des Marktmissbrauchs."
+    },
+    {
+      "q": "Was hilft gegen den Drang mitzumachen?",
+      "a": "Ein vorher festgelegter Plan, eine Wartezeit vor Käufen und das Prüfen der Informationsquelle. Die Details stehen im Artikel zu Regeln gegen emotionale Fehler."
+    }
+  ]
+}

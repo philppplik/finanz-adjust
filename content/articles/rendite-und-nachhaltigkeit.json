@@ -1,0 +1,37 @@
+{
+  "slug": "rendite-und-nachhaltigkeit",
+  "title": "Rendite und Nachhaltigkeit: Was sich belegen lässt und was nicht",
+  "description": "Kostet Nachhaltigkeit Rendite oder bringt sie welche? Was Bundesbank, BaFin und Verbraucherzentrale dazu sagen, warum Vergangenheitsvergleiche nichts versprechen.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/rendite-und-nachhaltigkeit.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Eine pauschale Antwort gibt es nicht: Die Bundesbank beschreibt gegenläufige Effekte.</li><li>Ein engeres Anlageuniversum kann Konzentrationsrisiken erhöhen. Sichtbarere Risiken, etwa Klimarisiken, können Analysen verbessern.</li><li>Frühere Wertentwicklung ist kein Maßstab für künftige Erträge.</li><li>Nachhaltige Produkte tragen wie alle Geldanlagen finanzielle Risiken.</li></ul></div><h2>Zwei Argumente, die in verschiedene Richtungen zeigen</h2><p>Die Bundesbank beschreibt in ihrer Bestandsaufnahme zum Markt für nachhaltige Finanzanlagen (Oktober 2019) beide Seiten. Einerseits schränken nachhaltige Anlagestrategien die Anlagemöglichkeiten ein. Das verschlechtert typischerweise das Rendite-Risiko-Profil, weil eine Vorauswahl zulässiger Anlagen Konzentrationsrisiken erzeugt, in denen unsystematische Risiken stärker durchwirken. Andererseits können Unternehmensgewinne von Risiken abhängen, die bisher in der Analyse vernachlässigt wurden, zum Beispiel Klimarisiken. Machen Nachhaltigkeitsanalysen solche Risiken sichtbarer, schaffen sie nach Bundesbank-Darstellung die Grundlage für möglicherweise auch finanziell erfolgreiche Anlagen.</p><h2>Was ein Indexvergleich zeigen kann und was nicht</h2><p>Die Bundesbank vergleicht exemplarisch den MSCI World mit seinem nachhaltigen Tochterindex MSCI World ESG Leaders über zehn Jahre bis 2019 und folgert, dass eine Investition in nachhaltige Unternehmen für Anleger finanziell attraktiv sein kann, zumindest aber nicht nachteilig sein muss. Das ist ein Blick auf einen bestimmten Zeitraum und zwei Indizes. Er sagt nicht, wie sich andere Zeiträume oder andere nachhaltige Produkte entwickeln. Die Verbraucherzentrale mahnt entsprechend: Du kannst nicht von der Vergangenheit auf die Zukunft schließen.</p><h2>Strukturbeispiel: Warum Vergleiche täuschen können</h2><p>Vereinfachtes Beispiel, keine reale Rechnung: Zwei Indizes laufen fünf Jahre. Der nachhaltige Index liegt vorn, weil er in dieser Zeit weniger Energieunternehmen enthielt, die gerade stark im Kurs stiegen oder fielen. In einem anderen Fünfjahreszeitraum kann das Verhältnis umgekehrt sein. Der Vorsprung kommt dann aus der Branchengewichtung, nicht aus „Nachhaltigkeit“ an sich. Wer Zahlen vergleicht, sollte deshalb Zeitraum, Branchenmix und Kosten mitlesen. Mehr zu Kosten in den <a href=\"/glossar/gesamtkostenquote/\">Glossar-Hinweisen zur Gesamtkostenquote</a>.</p><h2>Was bleibt für deine Entscheidung</h2><p>Nachhaltigkeit kann eine Präferenz sein, die neben Sicherheit, Rentabilität und Liquidität steht, so die Verbraucherzentrale. Sie ersetzt nicht die grundsätzlichen Regeln für eine geeignete Geldanlage: Ziel, Horizont, Streuung, Kosten. Ob eine Strategie zu dir passt, entscheidest du selbst; <a href=\"/artikel/nachhaltige-etf-ansaetze/\">die Ansätze im Überblick</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Bundesbank: Der Markt für nachhaltige Finanzanlagen - eine Bestandsaufnahme, Oktober 2019 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/811956/a6679064dbcbabbbddfb9cc0da880061/mL/2019-10-nachhaltige-finanzanlage-data.pdf"
+    },
+    {
+      "title": "Verbraucherzentrale: Geld nachhaltig anlegen - Was bei nachhaltigen Fonds wichtig ist, Stand 12.10.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/geld-nachhaltig-anlegen-was-bei-nachhaltigen-fonds-wichtig-ist-80193"
+    },
+    {
+      "title": "BaFin: Nachhaltig investieren - Das sollten Sie wissen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/nachhaltige-geldanlage/nachhaltig-investieren/nachhaltig-investieren.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bringen nachhaltige Anlagen mehr Rendite?",
+      "a": "Das lässt sich pauschal nicht belegen. Die Bundesbank beschreibt gegenläufige Effekte und einen Beispielvergleich, der nicht nachteilig ausfiel. Vergangene Werte sagen nichts über künftige."
+    },
+    {
+      "q": "Sind nachhaltige Fonds riskanter?",
+      "a": "Das hängt von der Strategie ab. Ein enges Universum kann Konzentrationsrisiken erhöhen, ein breit gestreuter Index weniger. Ausgangspunkt ist immer die Streuung des konkreten Produkts."
+    },
+    {
+      "q": "Worauf sollte ich beim Vergleich von Wertentwicklungen achten?",
+      "a": "Auf Zeitraum, Vergleichsindex, Kosten und Branchenzusammensetzung. Ein einzelner Zeitraum ist keine Grundlage für eine Erwartung."
+    }
+  ]
+}

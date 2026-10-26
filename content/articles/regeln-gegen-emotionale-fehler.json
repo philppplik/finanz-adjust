@@ -1,0 +1,37 @@
+{
+  "slug": "regeln-gegen-emotionale-fehler",
+  "title": "Regeln gegen emotionale Fehler: Entscheidungen vorab festlegen",
+  "description": "Wie feste Regeln vor emotionalen Anlagefehlern schützen können: Plan, Checkliste, Wartezeit, Streuung. Mit Hinweisen von FMA und Bankenverband. Keine Anlageberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/regeln-gegen-emotionale-fehler.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Emotionen wie Gier und Angst verleiten laut Bankenverband dazu, hoch zu kaufen und tief zu verkaufen.</li><li>Regeln, die du vorher festlegst, verlagern Entscheidungen weg vom Moment.</li><li>Das Folgende sind allgemeine Methoden zur Selbstorganisation, keine Empfehlung für Produkte oder Zeitpunkte.</li><li>Eine passende Regel hängt von deinen Zielen, deinem Horizont und deiner Risikotoleranz ab.</li></ul></div><h2>Warum Regeln</h2><p>Der Bankenverband schreibt: In Stresssituationen neigt das Gehirn zu schnellen, oft irrationalen Entscheidungen. Gier und Angst verleiten dazu, Wertpapiere zu kaufen, wenn die Kurse hoch sind, und zu verkaufen, wenn sie gefallen sind. Die FMA rät, sich die Fallen vor einer Entscheidung bewusst zu machen, um schwere Fehlentscheidungen abzumildern. Eine Regel macht die Überlegung zu einem Zeitpunkt, in dem du ruhig bist.</p><h2>Bausteine einer persönlichen Regelliste</h2><p>Diese Liste ist eine Methodenidee zur Selbstorganisation, nicht aus einer einzelnen Quelle übernommen. 1. Ziel und Horizont aufschreiben, damit Kursbewegungen im Verhältnis stehen. 2. Streuung beachten: Die FMA nennt für Verlustaversion, dass in einem gut diversifizierten Portfolio immer einzelne Positionen schwächer laufen. 3. Vor jedem Kauf die Fragen beantworten: Warum, und wo habe ich das her? Würde ich zum aktuellen Kurs kaufen? 4. Eine Wartezeit einplanen, bevor du auf Nachrichten reagierst. 5. Einen Termin für Überprüfungen festlegen, etwa nach einem festen Rhythmus, statt bei jeder Schlagzeile. 6. Verlustgrenzen im Voraus festlegen; die FMA nennt Stop-Loss-Orders als Möglichkeit, mit eigenen Nachteilen.</p><h2>Strukturbeispiel: Ein Entscheidungsbogen</h2><p>Vereinfachtes Beispiel, keine Empfehlung. Vor einem Kauf oder Verkauf beantwortest du schriftlich: Anlass (Nachricht, Idee, Gefühl)? Passt es zu meinem Plan? Welche Alternative gäbe es, nichts zu tun? Worin könnte ich mich irren? Erst danach folgt die Entscheidung. Schon das Aufschreiben bremst impulsive Reaktionen. Wenn du kaufen würdest, weil „alle“ es tun, siehst du das auf dem Papier. Wie du solche Bögen sammelst, steht im Artikel zum <a href=\"/artikel/anlagetagebuch-fuehren/\">Anlagetagebuch</a>.</p><h2>Grenzen von Regeln</h2><p>Regeln sind keine Garantie. Sie können zu starr sein oder zu einem schlechten Zeitpunkt greifen. Prüfe sie regelmäßig und passe sie an deine Lage an. Bei komplexen Fragen kann eine neutrale Beratung sinnvoll sein; bei Steuerfragen ein Steuerberater. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bankenverband: Fehler bei der Geldanlage - Machen Sie es besser, 05.09.2024 (abgerufen 26.10.2026)",
+      "url": "https://bankenverband.de/verbraucher/fehler-bei-der-geldanlage-machen-sie-es-besser"
+    },
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Regeln brauche ich?",
+      "a": "Wenige, die du wirklich einhältst. Eine kurze Liste ist leichter einzuhalten als ein langes Regelwerk."
+    },
+    {
+      "q": "Sind Stop-Loss-Orders eine Lösung?",
+      "a": "Die FMA nennt sie als Hilfsmittel, die Position bei Erreichen des festgelegten Stop-Preises zum nächsten ausführbaren Kurs glattzustellen. Sie haben Grenzen, etwa dass der Ausführungskurs vom Stop-Preis abweichen kann."
+    },
+    {
+      "q": "Was, wenn ich mich nicht an meine Regeln halte?",
+      "a": "Das ist eine nützliche Beobachtung. Notiere, warum, und passe entweder die Regel oder dein Verhalten an."
+    }
+  ]
+}

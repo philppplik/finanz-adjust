@@ -1,0 +1,41 @@
+{
+  "slug": "nachhaltigkeitsklassen-sfdr",
+  "title": "SFDR: Was „Artikel 8“ und „Artikel 9“ bedeuten und was sich ändern soll",
+  "description": "Die EU-Offenlegungsverordnung SFDR erklärt: Was die Artikel 6, 8 und 9 bedeuten, warum sie kein Gütesiegel sind und was der laufende Reformvorschlag vorsieht.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/nachhaltigkeitsklassen-sfdr.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die SFDR (Verordnung (EU) 2019/2088) verpflichtet zu Transparenz über Nachhaltigkeit bei Finanzprodukten.</li><li>Die Einstufung nach Artikel 8 oder 9 war ursprünglich als Offenlegungspflicht gedacht, wurde aber im Markt wie ein Label genutzt.</li><li>Die EU-Kommission hat am 20.11.2025 eine Überarbeitung mit drei Produktkategorien vorgeschlagen.</li><li>Stand 26.10.2026 ist die Reform nicht beschlossen: Rat und Parlament haben Verhandlungspositionen, die Gespräche laufen.</li></ul></div><h2>Wofür die SFDR gedacht ist</h2><p>Die Offenlegungsverordnung (Sustainable Finance Disclosure Regulation, SFDR, Verordnung (EU) 2019/2088) soll Kapitalflüsse in nachhaltige Anlagen lenken. Dafür schafft sie vor allem Transparenz für Anlegerinnen und Anleger, so die BaFin. Sie enthält unternehmensbezogene Pflichten (etwa Angaben zu wichtigsten nachteiligen Auswirkungen) und produktbezogene Pflichten.</p><h2>Artikel 6, 8 und 9 im Überblick</h2><p>In der Praxis hat sich eine Einordnung nach Artikeln eingebürgert. Artikel 8 betrifft Produkte, die ökologische oder soziale Merkmale bewerben. Artikel 9 betrifft Produkte, die nachhaltige Investitionen als Ziel haben. Nach Artikel 6 muss jedes unter die Verordnung fallende Produkt angeben, wie es Nachhaltigkeitsrisiken in Investitionsentscheidungen einbezieht. Für Artikel-8- und -9-Produkte gibt es standardisierte Vorlagen (Delegierte Verordnung (EU) 2022/1288; BaFin). Diese Artikel waren als Offenlegungsregeln gedacht; die Kommission schreibt selbst, ihre Nutzung als De-facto-Produktkategorien habe zu Bedenken in Bezug auf Greenwashing und irreführende Verkaufspraktiken geführt (Kommission, 20.11.2025). Eine „Artikel-9-Einstufung“ ist deshalb kein staatliches Qualitätssiegel.</p><h2>Der Reformvorschlag</h2><p>Am 20.11.2025 hat die Kommission eine Überarbeitung vorgeschlagen. Kern: Die Artikel 8 und 9 in ihrer heutigen Form sollen entfallen. An ihre Stelle treten drei freiwillige Kategorien: „Nachhaltigkeit“ (Produkte, die zur Erreichung von Nachhaltigkeitszielen beitragen), „Übergang“ (Investitionen in Unternehmen oder Projekte, die auf dem Weg zur Nachhaltigkeit sind) und „ESG-Grundlagen“ (Produkte mit breiteren ESG-Ansätzen, die die beiden anderen Kategorien nicht erfüllen). ESG-Angaben in Produktnamen und Marketing sollen auf diese Kategorien beschränkt werden. Die Offenlegungen sollen zugleich kürzer und einfacher werden.</p><h2>Wie weit das Verfahren ist</h2><p>Der Rat der EU hat am 24.06.2026 seine Verhandlungsposition festgelegt. Der zuständige Parlamentsausschuss hat laut einer Kanzleimeldung vom 08.10.2026 sein Verhandlungsmandat beschlossen, die Gespräche mit dem Rat (Trilog) haben im Oktober begonnen oder stehen unmittelbar bevor; eine Einigung liegt Stand 26.10.2026 nicht vor. Es handelt sich also um einen Vorschlag, nicht um geltendes Recht. Bis auf Weiteres gilt die bisherige SFDR. Wann neue Regeln anwendbar werden, ist offen. Für dich heißt das: Prüfe bei einem Produkt die konkreten Angaben in den Unterlagen statt nur die Artikel-Nummer. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: EU-Offenlegungsverordnung (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/SF/OffenlegungsVO/OffenlegungsVO_artikel.html"
+    },
+    {
+      "title": "Europäische Kommission: Fragen und Antworten zur überarbeiteten SFDR, 20.11.2025 (abgerufen 26.10.2026)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/qanda_25_2737/QANDA_25_2737_DE.pdf"
+    },
+    {
+      "title": "Rat der EU: Position zu den SFDR-Transparenzregeln, 24.06.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/24/council-agrees-position-on-simpler-transparency-rules-for-sustainable-financial-products/"
+    },
+    {
+      "title": "Linklaters: SFDR 2.0 - Parliament adopts its negotiating mandate, 08.10.2026 (abgerufen 26.10.2026)",
+      "url": "https://sustainablefutures.linklaters.com/post/102o4wd/eu-sfdr-2-0-parliament-adopts-its-negotiating-mandate-as-trilogues-get-the-gree"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Artikel 9 besser als Artikel 8?",
+      "a": "Das lässt sich nicht pauschal sagen. Artikel 9 verlangt ein nachhaltiges Anlageziel, Artikel 8 das Bewerben ökologischer oder sozialer Merkmale. Wie das Produkt konkret investiert, steht in den Vorlagen und im Prospekt."
+    },
+    {
+      "q": "Gelten die drei neuen Kategorien schon?",
+      "a": "Nein. Sie stammen aus einem Kommissionsvorschlag vom 20.11.2025. Stand 26.10.2026 laufen die Verhandlungen zwischen Rat und Parlament; beschlossen ist nichts."
+    },
+    {
+      "q": "Wo sehe ich die SFDR-Angaben eines Fonds?",
+      "a": "In den vorvertraglichen Informationen und im Verkaufsprospekt, die der Anbieter auf seiner Website bereitstellt."
+    }
+  ]
+}

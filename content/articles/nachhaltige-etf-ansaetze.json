@@ -1,0 +1,37 @@
+{
+  "slug": "nachhaltige-etf-ansaetze",
+  "title": "Nachhaltige ETFs: Ausschlüsse, Best-in-Class und weitere Ansätze",
+  "description": "Wie nachhaltige Fonds und ETFs ESG-Kriterien umsetzen: Ausschlusskriterien, Positiv-Screening, Best-in-Progress, Impact, Engagement. Strukturbeispiel ohne Produktempfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/nachhaltige-etf-ansaetze.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Nachhaltige Fonds nutzen unterschiedliche Strategien. Das Umweltbundesamt beschreibt Ausschlüsse, Positiv-Screening, Best-in-Progress, Impact, Themenfonds, ESG-Integration und Engagement.</li><li>In Deutschland nutzen laut dem zitierten FNG-Marktbericht 2021 über 92 % der nachhaltigen Fonds und Mandate eine Kombination aus Ausschlusskriterien und normbasiertem Screening.</li><li>ETFs sind in der Regel günstiger als aktive Fonds, einige aktive Fonds schneiden laut Verbraucherzentrale bei der Nachhaltigkeit besser ab.</li><li>Schau auf Index-Regeln, Ausschlüsse, Replikation und Kosten, nicht nur auf den Namen.</li></ul></div><h2>Die gängigen Ansätze</h2><p>Das Umweltbundesamt unterscheidet unter anderem diese Strategien. Negatives Screening schließt Unternehmen, Branchen oder Länder aus, die gegen bestimmte Kriterien verstoßen, etwa Waffenhersteller oder Unternehmen mit Menschenrechtsverletzungen in der Lieferkette. Normbasiertes Screening prüft die Konformität mit internationalen Standards wie dem UN Global Compact. Positives Screening legt Mindestanforderungen fest, die Investitionen erfüllen müssen. Best-in-Progress wählt Wertpapiere mit den relativ größten Fortschritten bei Nachhaltigkeitsaspekten. Impact Investments verfolgen neben Erträgen eine messbare ökologische oder soziale Wirkung. ESG-Integration bezieht ESG-Risiken in die Wertpapieranalyse ein. Beim Engagement sucht der Anteilseigner den Dialog mit Unternehmen und übt Stimmrechte aus.</p><h2>Was bei ETFs konkret zählt</h2><p>Ein ETF bildet einen Index nach. Bei nachhaltigen ETFs steckt die Strategie also in den Regeln des Index. Die Verbraucherzentrale weist darauf hin, dass ETFs in der Regel günstiger sind als aktiv gemanagte Fonds, einige aktive Fonds aber bei der Nachhaltigkeit besser abschneiden. Bei synthetischer Replikation kann das Portfolio laut Verbraucherzentrale auch nicht-nachhaltige Unternehmen enthalten; Hintergrund dazu im Glossar zur <a href=\"/glossar/synthetische-replikation/\">synthetischen Replikation</a> und zur <a href=\"/glossar/volle-replikation/\">vollen Replikation</a>. Im Stiftung-Warentest-Test, den die Verbraucherzentrale zitiert, erhielten die ETFs bei der Nachhaltigkeit nur eine mittlere Bewertung, zum Beispiel wegen zu weniger Ausschlüsse.</p><h2>Strukturbeispiel: Zwei Fonds im Vergleich</h2><p>Vereinfachtes Beispiel, keine reale Auswertung und keine Empfehlung: Fonds A schließt ausschließlich Waffen und Tabak aus und bildet sonst einen breiten Index ab. Fonds B schließt zusätzlich fossile Brennstoffe aus und wählt nach einem ESG-Score. Beide können „nachhaltig“ heißen. B ist enger gefasst und damit weniger breit gestreut, A näher am Gesamtmarkt. Welcher Ansatz zu deinen Zielen passt, hängt von deinen eigenen Prioritäten und deiner Risikotoleranz ab. Wie Indexaufbau und Risiken allgemein aussehen, zeigen <a href=\"/artikel/etf-index-aufbau-msci-world/\">Indexaufbau am Beispiel MSCI World</a> und <a href=\"/artikel/etf-risiken-einsteiger/\">ETF-Risiken für Einsteiger</a>.</p><h2>Checkliste</h2><p>Ausschlüsse und Mindestanteile in den Unterlagen nachlesen. Replikationsmethode prüfen. Gesamtkosten vergleichen, siehe <a href=\"/glossar/gesamtkostenquote/\">Gesamtkostenquote</a>. Streuung beachten, denn engere Auswahlen erhöhen laut Bundesbank (2019) tendenziell Konzentrationsrisiken. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Umweltbundesamt: Investment-Strategien bei nachhaltigen Geldanlagen (abgerufen 26.10.2026)",
+      "url": "https://www.umweltbundesamt.de/investment-strategien-bei-nachhaltigen-geldanlagen"
+    },
+    {
+      "title": "Verbraucherzentrale: Geld nachhaltig anlegen - Was bei nachhaltigen Fonds wichtig ist, Stand 12.10.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/geld-nachhaltig-anlegen-was-bei-nachhaltigen-fonds-wichtig-ist-80193"
+    },
+    {
+      "title": "Deutsche Bundesbank: Der Markt für nachhaltige Finanzanlagen - eine Bestandsaufnahme, Oktober 2019 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/811956/a6679064dbcbabbbddfb9cc0da880061/mL/2019-10-nachhaltige-finanzanlage-data.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind nachhaltige ETFs teurer als normale ETFs?",
+      "a": "Das hängt vom Produkt ab. Vergleiche die Gesamtkostenquote einzelner Produkte in den Unterlagen. Die Verbraucherzentrale beschreibt ETFs allgemein als in der Regel günstiger als aktive Fonds."
+    },
+    {
+      "q": "Was heißt Best-in-Class?",
+      "a": "Best-in-Class wählt innerhalb einer Branche die Unternehmen mit den besten Nachhaltigkeitsbewertungen. Best-in-Progress, die Weiterentwicklung laut Umweltbundesamt, wählt dagegen Unternehmen mit den größten Fortschritten."
+    },
+    {
+      "q": "Bewirkt mein Geld damit etwas?",
+      "a": "Das ist nicht pauschal zu beantworten. Impact-Ansätze streben eine messbare Wirkung an; bei einem passiven Index ohne Engagement ist der direkte Einfluss auf Unternehmen nach Beschreibung des Umweltbundesamts begrenzt."
+    }
+  ]
+}

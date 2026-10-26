@@ -1,0 +1,37 @@
+{
+  "slug": "anlagetagebuch-fuehren",
+  "title": "Anlagetagebuch führen: Entscheidungen festhalten und daraus lernen",
+  "description": "Ein Anlagetagebuch hilft, Entscheidungen und Begründungen festzuhalten und Verzerrungen zu erkennen. Mit Vorlage als Strukturbeispiel, ohne Anlageberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/anlagetagebuch-fuehren.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Anlagetagebuch hält fest, was du wann warum entschieden hast.</li><li>Es kann Rückschauverzerrung entgegenwirken, die laut Bankenverband im Nachhinein glauben lässt, man habe es vorhergesehen.</li><li>Es liefert Daten für die Frage, ob du zu viel handelst oder dich von Mustern leiten lässt.</li><li>Das Tagebuch ist eine Selbstmethode. Die Quellen beschreiben die Verzerrungen, nicht das Tagebuch als Methode.</li></ul></div><h2>Wozu ein Tagebuch</h2><p>Die Bundesbank beschreibt Muster wie den Dispositionseffekt und die Überschätzung eigener Fähigkeiten. Der Bankenverband beschreibt die Rückschauverzerrung: Man glaubt im Nachhinein, die Marktentwicklung richtig vorhergesehen zu haben. Aufzeichnungen aus dem Moment der Entscheidung sind das Gegenmittel, das naheliegt: Sie zeigen, was du damals wusstest und erwartet hast. Das ist eine praktische Schlussfolgerung aus diesen Beschreibungen, keine Aussage der Quellen.</p><h2>Was hinein gehört</h2><p>Datum und Uhrzeit. Was ich entscheide (kaufen, verkaufen, nichts tun). Anlass: Nachricht, Idee, Gefühl. Begründung in zwei Sätzen. Was ich erwarte und was mich überraschen würde. Mein Gefühl auf einer einfachen Skala. Nach einem festen Zeitraum: Was ist passiert, und lag meine Begründung richtig?</p><h2>Strukturbeispiel: Ein Eintrag</h2><p>Vereinfachtes Beispiel, keine reale Anlage und keine Empfehlung. 27.10., Anlass: Schlagzeile zu Thema X. Entscheidung: nichts tun. Begründung: passt nicht zu meinem Plan, Informationsquelle ist unklar. Gefühl: unruhig. Überprüfung in vier Wochen: Wie hat sich die Lage entwickelt, hätte eine andere Entscheidung etwas geändert? Mit mehreren Einträgen entsteht ein Bild: Wann bin ich impulsiv, wann geduldig? Zu Mustern siehe <a href=\"/artikel/overconfidence/\">Overconfidence</a> und <a href=\"/artikel/herdentrieb-und-fomo/\">Herdentrieb</a>.</p><h2>Praktische Hinweise</h2><p>Halte das Tagebuch einfach, sonst führst du es nicht. Eine Tabelle oder Notiz reicht. Schreibe vor der Entscheidung, nicht danach. Prüfe nach einem Jahr, wie oft du gehandelt hast und was Gebühren und Steuern ausmachten. Speichere nur, was du bewusst notieren willst; ein Tagebuch ist privat, bitte lege keine sensiblen Zugangsdaten hinein. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bankenverband: Fehler bei der Geldanlage - Machen Sie es besser, 05.09.2024 (abgerufen 26.10.2026)",
+      "url": "https://bankenverband.de/verbraucher/fehler-bei-der-geldanlage-machen-sie-es-besser"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich jede Transaktion aufschreiben?",
+      "a": "Mindestens die, die über Routine hinausgehen, etwa Verkäufe oder Käufe außerhalb deines Plans. Ein regelmäßiger Sparplan braucht keinen Eintrag pro Ausführung."
+    },
+    {
+      "q": "Wie lange sollte ich Einträge aufbewahren?",
+      "a": "So lange, bis du Muster erkennst. Ein Jahr ist ein praktischer Zeitraum für eine erste Auswertung."
+    },
+    {
+      "q": "Ersetzt das Tagebuch eine Strategie?",
+      "a": "Nein. Es hilft dir, deine Strategie einzuhalten und zu prüfen."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "esg-grundlagen",
+  "title": "ESG verstehen: Was Umwelt, Soziales und Unternehmensführung bedeuten",
+  "description": "ESG erklärt: Was die drei Buchstaben meinen, wie sie in Geldanlagen auftauchen und warum es keine einheitliche Definition gibt. Neutral und ohne Empfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/esg-grundlagen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>ESG steht für Environment, Social, Governance: Umwelt, Soziales und Unternehmensführung.</li><li>Für den Begriff „nachhaltiges Finanzprodukt“ gibt es keine klare einheitliche Definition; die Ausprägung variiert stark.</li><li>EU-Taxonomie und Offenlegungsverordnung (SFDR) sollen Transparenz schaffen, sind aber kein Gütesiegel.</li><li>Auch nachhaltige Produkte tragen finanzielle Risiken wie alle anderen Geldanlagen.</li></ul></div><h2>Die drei Buchstaben</h2><p>ESG steht für Environment, Social und Governance. Die BaFin beschreibt es so: „E“ betrifft Unternehmen, die umweltverträglich produzieren, effizient mit Rohstoffen umgehen und Abfälle vermeiden. „S“ betrifft Unternehmen, die Ungleichheiten bekämpfen und sozialen Zusammenhalt fördern. „G“ steht für Ablehnung von Korruption und Bestechung, angemessene Löhne und hohe Standards bei Arbeitsrechten (BaFin, abgerufen 26.10.2026).</p><h2>Was ein nachhaltiges Finanzprodukt ist</h2><p>Nach Angaben der BaFin gibt es keine klare Definition für „nachhaltige Finanzprodukte“. Gemeint sind unter anderem Geldanlagen in ausgewählte Aktien und Anleihen, die nach eigenen Angaben finanzielle Ziele mit ESG-Kriterien verbinden. Die Spannbreite ist groß: Manche Produkte investieren gezielt in Projekte wie erneuerbare Energien oder Energieeffizienz, andere beachten nur wenige allgemeine Grundsätze oder schließen einzelne Branchen aus. Zwei Produkte mit „ESG“ im Namen können sich deshalb deutlich unterscheiden.</p><h2>Zwei EU-Bausteine</h2><p>Die BaFin nennt zwei zentrale Bausteine: Die Taxonomie-Verordnung ist ein Klassifikationssystem und legt fest, wann bestimmte Wirtschaftstätigkeiten als ökologisch nachhaltig gelten. Die Offenlegungsverordnung (SFDR) verpflichtet Finanzmarktteilnehmer, nachhaltigkeitsbezogene Informationen zu ihren Produkten offenzulegen. Mehr dazu in den Artikeln zur <a href=\"/artikel/eu-taxonomie-erklaert/\">EU-Taxonomie</a> und zu den <a href=\"/artikel/nachhaltigkeitsklassen-sfdr/\">Nachhaltigkeitsklassen der SFDR</a>. Beide Regelwerke schaffen Vergleichbarkeit der Angaben, sie bewerten ein Produkt aber nicht als „gut“ oder „schlecht“.</p><h2>Wo du Angaben findest</h2><p>Informationen zu den Nachhaltigkeitsmerkmalen stehen in der Produktinformation, zum Beispiel am Ende des Verkaufsprospekts, auf der Website des Anbieters. Wer sich beraten lässt, wird seit dem 2. August 2022 nach seinen Nachhaltigkeitspräferenzen gefragt (BaFin). Wichtig bleibt die Grundlogik: Ein Produkt muss zu Anlagezielen, finanzieller Lage und Risikotoleranz passen, Nachhaltigkeit kommt als weitere Präferenz dazu. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Nachhaltig investieren - Das sollten Sie wissen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/nachhaltige-geldanlage/nachhaltig-investieren/nachhaltig-investieren.html"
+    },
+    {
+      "title": "BaFin: Nachhaltige Geldanlage - Pflichtabfrage im Beratungsgespräch (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/beratung-empfehlung/nachhaltige-geldanlage/nachhaltige-geldanlage.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ESG dasselbe wie nachhaltig?",
+      "a": "Nicht ganz. ESG bezeichnet die drei Kriterienfelder. „Nachhaltig“ ist kein einheitlich definierter Begriff für Finanzprodukte; wie stark ein Produkt ESG-Kriterien tatsächlich berücksichtigt, steht in seinen Produktunterlagen."
+    },
+    {
+      "q": "Sind ESG-Produkte risikoärmer?",
+      "a": "Das lässt sich aus dem Begriff nicht ableiten. Die BaFin weist ausdrücklich darauf hin, dass nachhaltige Finanzprodukte wie alle Finanzprodukte auch finanzielle Risiken haben."
+    },
+    {
+      "q": "Wo steht, welche ESG-Kriterien ein Produkt erfüllt?",
+      "a": "In den Produktinformationen des Anbieters, etwa im Verkaufsprospekt und auf der Anbieter-Website. Dort legen Anbieter nach den EU-Regeln ihre Nachhaltigkeitsmerkmale offen."
+    }
+  ]
+}

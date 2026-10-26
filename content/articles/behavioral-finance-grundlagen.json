@@ -1,0 +1,45 @@
+{
+  "slug": "behavioral-finance-grundlagen",
+  "title": "Behavioral Finance: Warum Anleger nicht immer rational entscheiden",
+  "description": "Behavioral Finance einfach erklärt: Prospect Theory, Heuristiken und typische Verzerrungen bei Geldanlagen. Mit Quellen von Nobelpreis, Bundesbank und FMA.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/behavioral-finance-grundlagen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Behavioral Finance untersucht, warum Anlageentscheidungen systematisch von rein rationalen Modellen abweichen.</li><li>Daniel Kahneman erhielt 2002 den Wirtschaftsnobelpreis für Arbeiten zu Entscheidungen unter Unsicherheit; Amos Tversky war 1996 gestorben.</li><li>Heuristiken sind Abkürzungen im Denken: meist nützlich, aber mit vorhersehbaren Fehlern.</li><li>Wer die Muster kennt, kann Entscheidungen bewusster vorbereiten. Das beseitigt die Muster nicht.</li></ul></div><h2>Worum es geht</h2><p>Die FMA schreibt, die Forschung zur verhaltensorientierten Finanzmarkttheorie habe gezeigt, dass Anleger nur begrenzt rational handeln können. Häufig unterliegen sie bei Anlageentscheidungen Urteilsfehlern und Verzerrungen. Das ist keine Charakterfrage, sondern ein Merkmal menschlicher Entscheidungen unter Unsicherheit.</p><h2>Zwei Grundlagen aus der Forschung</h2><p>Die Nobelpreis-Pressemitteilung 2002 beschreibt: Daniel Kahneman zeigte, wie menschliche Entscheidungen unter Unsicherheit systematisch von dem abweichen können, was die Standardtheorie vorhersagt. Gemeinsam mit Amos Tversky formulierte er die Prospect Theory als Alternative, die beobachtetes Verhalten besser erklärt. Ihr 1979er Aufsatz zeigt unter anderem den Gewissheitseffekt: Menschen gewichten sichere Ergebnisse stärker als lediglich wahrscheinliche. Der zweite Baustein sind Heuristiken: Tversky und Kahneman (Science, 1974) beschrieben drei Urteilsheuristiken, nämlich Repräsentativität, Verfügbarkeit und Anpassung an einen Anker. Sie sind laut Autoren meist effektiv, führen aber zu systematischen und vorhersagbaren Fehlern.</p><h2>Wie das bei Geldanlagen aussieht</h2><p>Die Folgen zeigen sich im Verhalten. Die Bundesbank (2011) beschreibt etwa den Dispositionseffekt: Anleger verkaufen Gewinner schneller als Verlierer, obwohl der Kaufpreis für die Entscheidung eigentlich keine Rolle spielen sollte. Sie beschreibt auch Herdenverhalten und Überschätzung der eigenen Fähigkeiten als Erklärung für häufigen Handel. Die einzelnen Muster erklären wir in eigenen Artikeln: <a href=\"/artikel/verlustaversion/\">Verlustaversion</a>, <a href=\"/artikel/herdentrieb-und-fomo/\">Herdentrieb und FOMO</a>, <a href=\"/artikel/overconfidence/\">Overconfidence</a> und <a href=\"/artikel/ankereffekt-und-kurse/\">Ankereffekt</a>.</p><h2>Was du daraus mitnimmst</h2><p>Wissen über Verzerrungen ist ein Werkzeug zur Selbstbeobachtung, kein Garant für bessere Ergebnisse. Praktisch hilft es, Entscheidungen vorab zu klären und festzuhalten, siehe <a href=\"/artikel/regeln-gegen-emotionale-fehler/\">Regeln gegen emotionale Fehler</a> und <a href=\"/artikel/anlagetagebuch-fuehren/\">Anlagetagebuch</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Nobelpreis Wirtschaftswissenschaften 2002, Pressemitteilung (abgerufen 26.10.2026)",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/press-release/"
+    },
+    {
+      "title": "Tversky/Kahneman: Prospect Theory - An Analysis of Decision under Risk, Econometrica 1979 (abgerufen 26.10.2026)",
+      "url": "https://www.econometricsociety.org/publications/econometrica/1979/03/01/prospect-theory-analysis-decision-under-risk"
+    },
+    {
+      "title": "Tversky/Kahneman: Judgment under Uncertainty - Heuristics and Biases, Science 1974 (abgerufen 26.10.2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "FMA Österreich: Psychologische Fallen bei Anlageentscheidungen (abgerufen 26.10.2026)",
+      "url": "https://www.fma.gv.at/geldanlage/psychologische-fallen-bei-anlageentscheidungen-und-wie-sie-diese-vermeiden-koennen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Behavioral Finance das Gegenteil von klassischer Finanztheorie?",
+      "a": "Es ist eine Ergänzung. Sie beschreibt, wo tatsächliches Verhalten von den Annahmen rein rationaler Modelle abweicht."
+    },
+    {
+      "q": "Betrifft das nur Anfänger?",
+      "a": "Nein. Der Bankenverband schreibt, selbst erfahrene Investoren seien vor solchen Fehlern nicht gefeit."
+    },
+    {
+      "q": "Kann ich Verzerrungen ganz abstellen?",
+      "a": "Nach der Forschung nicht vollständig. Du kannst aber Entscheidungswege so gestalten, dass sie weniger anfällig sind."
+    }
+  ]
+}

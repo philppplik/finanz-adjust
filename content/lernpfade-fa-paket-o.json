@@ -1,0 +1,159 @@
+{
+ "paket": "O",
+ "welle": 4,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-33",
+   "name": "Nachhaltig anlegen: ESG verstehen",
+   "frage": "Fonds heißt „nachhaltig“ - aber woran erkenne ich, was dahinter steckt?",
+   "intro": "Nachhaltig, grün, ESG: Viele Fonds und ETFs tragen solche Namen, aber einheitlich definiert ist der Begriff nicht. Dieser Pfad erklärt zuerst, was ESG meint, dann die zwei EU-Regelwerke dahinter, die Offenlegungsverordnung und die Taxonomie. Danach geht es um Greenwashing, um die gängigen Strategien nachhaltiger Fonds und ETFs und um die Frage, was sich über Rendite und Nachhaltigkeit belegen lässt. Du lernst, Produktangaben zu lesen, nicht, ein Produkt auszuwählen.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 04 (ETF-Einstieg) hilft; Lernpfad 14 (Fondskosten durchschauen) ist eine gute Ergänzung.",
+   "lernziel": "Du verstehst ESG-Kriterien, Offenlegungsverordnung und Greenwashing-Risiken.",
+   "steps": [
+    {
+     "slug": "/artikel/esg-grundlagen/",
+     "warum": "Der Rahmen: Was ESG meint und warum es keine einheitliche Definition gibt."
+    },
+    {
+     "slug": "/artikel/nachhaltigkeitsklassen-sfdr/",
+     "warum": "Die Einstufung: Artikel 6, 8 und 9 der SFDR und der Stand der Reform."
+    },
+    {
+     "slug": "/artikel/greenwashing-erkennen/",
+     "warum": "Die Prüfung: Warum Namen nichts garantieren und welche Fragen helfen."
+    },
+    {
+     "slug": "/artikel/nachhaltige-etf-ansaetze/",
+     "warum": "Die Strategien: Ausschlüsse, Best-in-Progress, Impact und ETF-Besonderheiten."
+    },
+    {
+     "slug": "/artikel/rendite-und-nachhaltigkeit/",
+     "warum": "Die Erwartung: Was sich zu Rendite und Nachhaltigkeit sagen lässt und was nicht."
+    },
+    {
+     "slug": "/artikel/eu-taxonomie-erklaert/",
+     "warum": "Die Klassifikation: Wann eine Tätigkeit als ökologisch nachhaltig gilt."
+    }
+   ],
+   "terms": [
+    "investmentfonds",
+    "was-ist-ein-etf",
+    "diversifikation"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Fonds heißt „Green Future“ und wirbt mit Nachhaltigkeit. Welche drei Dinge prüfst du in den Produktunterlagen, bevor du den Namen ernst nimmst?",
+      "loesung": "Erstens die konkreten Ausschlüsse und wo sie stehen. Zweitens den Anteil der Investitionen, der die genannten ökologischen oder sozialen Merkmale erfüllt. Drittens, ob die größten Positionen zum Versprechen im Namen passen. Der Name allein garantiert laut BaFin keine tatsächliche Nachhaltigkeit."
+     },
+     {
+      "frage": "In den Unterlagen steht „Artikel 8 SFDR“. Was sagt dir das, und was sagt es nicht?",
+      "loesung": "Artikel 8 bedeutet, dass das Produkt ökologische oder soziale Merkmale bewirbt und dafür zusätzliche Angaben machen muss. Es ist kein staatliches Gütesiegel und sagt nichts über Rendite, Kosten oder Risiko. Die Kategorien sollen nach einem Kommissionsvorschlag vom 20.11.2025 neu geordnet werden; beschlossen ist das Stand 26.10.2026 nicht."
+     },
+     {
+      "frage": "Zwei nachhaltige Indexfonds unterscheiden sich in Ausschlüssen und Streuung. Wie vergleichst du sie fair?",
+      "loesung": "Nach den Index-Regeln und Ausschlüssen, der Streuung, der Replikationsmethode und den Gesamtkosten. Vergangene Wertentwicklung gehört dazu, aber ein einzelner Zeitraum sagt nichts über die Zukunft."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wofür steht ESG?",
+      "loesung": "Environment, Social, Governance: Umwelt, Soziales und Unternehmensführung."
+     },
+     {
+      "frage": "Welche Kriterien muss eine Tätigkeit nach der EU-Taxonomie erfüllen?",
+      "loesung": "Sie muss wesentlich zu einem Umweltziel beitragen, keines der Umweltziele erheblich beeinträchtigen, Mindestschutzmaßnahmen einhalten und die technischen Bewertungskriterien erfüllen."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-34",
+     "warum": "Nachhaltigkeit ist eine Frage der Werte, Entscheidungen fallen aber auch im Kopf: Als Nächstes geht es um typische Verhaltensfehler bei Geldanlagen."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-34",
+   "name": "Anlegerpsychologie: warum wir Geld falsch entscheiden",
+   "frage": "Warum verkaufe ich Gewinner zu früh und halte Verlierer zu lange?",
+   "intro": "Wissen allein schützt nicht vor Fehlentscheidungen, denn viele entstehen im Kopf: Verluste fühlen sich schwerer an als Gewinne, die Menge zieht mit, und der eigene Kaufkurs hält uns fest. Dieser Pfad erklärt, was die Verhaltensforschung zu solchen Mustern sagt, mit Quellen von Nobelpreis über Bundesbank bis FMA. Danach bekommst du Werkzeuge: Regeln, die du vorher festlegst, und ein Anlagetagebuch, mit dem du dein eigenes Verhalten beobachtest. Keine Anlageberatung.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 11 (Risiko und Rendite) und Lernpfad 10 (Finanzfallen erkennen) sind sinnvolle Vorbereitung.",
+   "lernziel": "Du erkennst Verhaltensfehler wie Herdentrieb, Verlustaversion und Overconfidence bei dir selbst.",
+   "steps": [
+    {
+     "slug": "/artikel/behavioral-finance-grundlagen/",
+     "warum": "Der Rahmen: Was Behavioral Finance untersucht und woher die Befunde kommen."
+    },
+    {
+     "slug": "/artikel/verlustaversion/",
+     "warum": "Das Muster: Warum Verluste schwerer wiegen und der Dispositionseffekt."
+    },
+    {
+     "slug": "/artikel/herdentrieb-und-fomo/",
+     "warum": "Das Umfeld: Warum wir der Menge folgen und was die ESMA dazu sagt."
+    },
+    {
+     "slug": "/artikel/overconfidence/",
+     "warum": "Die Selbstüberschätzung: Was Daten zu häufigem Handel zeigen."
+    },
+    {
+     "slug": "/artikel/ankereffekt-und-kurse/",
+     "warum": "Der Bezugspunkt: Warum der Kaufkurs die Entscheidung verzerrt."
+    },
+    {
+     "slug": "/artikel/regeln-gegen-emotionale-fehler/",
+     "warum": "Das Werkzeug: Entscheidungen vorab festlegen."
+    },
+    {
+     "slug": "/artikel/anlagetagebuch-fuehren/",
+     "warum": "Die Praxis: Entscheidungen festhalten und daraus lernen."
+    }
+   ],
+   "terms": [
+    "was-bedeutet-volatilitaet",
+    "diversifikation",
+    "rendite"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Eine Aktie liegt 30 % unter deinem Einstand. Du hoffst, dass sie „wieder auf Einstand“ kommt. Welche Prüffrage stellst du dir?",
+      "loesung": "Würde ich die Position heute zum aktuellen Kurs neu kaufen? Der Kaufpreis ist ein Anker. Für die Entscheidung zählen aktuelle Informationen und dein Plan, steuerliche Aspekte ausgenommen."
+     },
+     {
+      "frage": "Ein Thema ist seit Tagen in Social Media, der Kurs ist stark gestiegen, und du spürst den Drang, mitzumachen. Wie gehst du vor?",
+      "loesung": "Informationsquelle und Interesse prüfen, Passung zu Plan und Risikotoleranz klären, eine Wartezeit einlegen und die Entscheidung schriftlich begründen. Die ESMA warnt vor Entscheidungen, die ausschließlich auf Social-Media-Tipps beruhen."
+     },
+     {
+      "frage": "Du handelst seit Monaten häufig und bist von deinen Ergebnissen überzeugt. Wie prüfst du das?",
+      "loesung": "Mit Aufzeichnungen: Anzahl der Trades, Kosten und Steuern, Ergebnis gegenüber einem einfachen Vergleichsindex und die Frage, wie oft die damalige Begründung gestimmt hat. Studien wie Barber und Odean (2000) zeigen im Durchschnitt, dass sehr aktiver Handel mit schwächerer Rendite einherging; für dich zählen deine eigenen Daten."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was beschreibt der Dispositionseffekt?",
+      "loesung": "Die Neigung, Gewinner schneller zu verkaufen als Verlierer, obwohl der Kaufpreis für die Entscheidung keine Rolle spielen sollte (Bundesbank 2011)."
+     },
+     {
+      "frage": "Was ist ein Anker im Sinne der Verhaltensforschung?",
+      "loesung": "Ein Ausgangswert, der spätere Einschätzungen beeinflusst, auch wenn er sachlich wenig aussagt, zum Beispiel der eigene Kaufkurs."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-35",
+     "warum": "Du kennst jetzt die Fallen im Kopf. Als Nächstes lernst du Konzepte für den Aufbau und die Pflege eines Portfolios kennen."
+    }
+   ]
+  }
+ ]
+}

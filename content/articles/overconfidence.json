@@ -1,0 +1,37 @@
+{
+  "slug": "overconfidence",
+  "title": "Overconfidence: Wenn Selbstvertrauen die Rendite kostet",
+  "description": "Übermäßiges Selbstvertrauen bei Geldanlagen: Was Barber und Odean an 66.465 US-Haushalten zeigten, was die Bundesbank dazu schreibt und wie du dich prüfst.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:59:00+01:00",
+  "image": "/images/overconfidence.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Overconfidence heißt, die eigenen Fähigkeiten und Kenntnisse zu überschätzen.</li><li>In einer US-Studie (1991 bis 1996) erzielten die aktivsten Haushalte 11,4 % pro Jahr, der Markt 17,9 %.</li><li>Die Bundesbank nennt Overconfidence einen wichtigen Faktor für übermäßigen Handel.</li><li>Die Studiendaten sind historisch und amerikanisch. Sie zeigen ein Muster, keine Prognose.</li></ul></div><h2>Was gemeint ist</h2><p>Der Bankenverband beschreibt: Auch erfahrene Personen überschätzen manchmal ihre Fähigkeiten und Kenntnisse. Risiken werden dann unterschätzt und eigene Entscheidungen überbewertet. Die Bundesbank (2011) sieht Overconfidence als emotionalen Faktor, der die Erwartungsbildung beeinflusst und nennt ihn als wesentliche Erklärung für übermäßiges Handeln: Die höheren Transaktionskosten häufigen Handels werden im Schnitt nicht durch höhere Erträge ausgeglichen.</p><h2>Die bekannte Studie</h2><p>Barber und Odean (Journal of Finance, 2000) werteten Konten von 66.465 Haushalten bei einem großen US-Discountbroker von 1991 bis 1996 aus. Haushalte mit dem meisten Handel erzielten 11,4 % Jahresrendite, während der Markt 17,9 % brachte. Der durchschnittliche Haushalt kam auf 16,4 % und setzte 75 % seines Portfolios pro Jahr um. Die Autoren sehen Overconfidence als mögliche Erklärung für hohe Handelsaktivität und schwache Ergebnisse. Wichtig für die Einordnung: Es sind US-Daten aus den 1990er-Jahren, die Aussage betrifft Durchschnitte, und sie ist keine Prognose für heute.</p><h2>Strukturbeispiel: Die Einzelaktie</h2><p>Vereinfachtes Beispiel, keine Empfehlung: Jemand ist überzeugt, aufgrund seiner Marktkenntnis die beste Aktie gefunden zu haben, und investiert das ganze Geld in diese eine. Der Bankenverband weist darauf hin: Jedes Unternehmen kann überraschend in wirtschaftliche Probleme geraten oder von Wettbewerbern verdrängt werden. Wer seine Sicherheit hinterfragt, fragt: Woher weiß ich das? Was müsste passieren, damit ich falsch liege? Wie hoch ist der Anteil dieser Position am gesamten Vermögen? Hintergrund zur Streuung: <a href=\"/glossar/diversifikation/\">Diversifikation</a>.</p><h2>Selbstcheck</h2><p>Prüfe: Wie oft handle ich, und was haben Kosten und Steuern gekostet? Wie hat sich mein Depot gegenüber einem einfachen Vergleichsindex entwickelt? Halte ich Vorhersagen für sicherer, als sie sind? Das <a href=\"/artikel/anlagetagebuch-fuehren/\">Anlagetagebuch</a> liefert die Daten dafür. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Barber/Odean: Trading Is Hazardous to Your Wealth, Journal of Finance 2000 (abgerufen 26.10.2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00226"
+    },
+    {
+      "title": "Deutsche Bundesbank: Investor behaviour in theory and practice, Januar 2011 (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/resource/blob/707136/29ddeefeef350ff844191061867b069c/mL/2011-01-investor-behaviour-data.pdf"
+    },
+    {
+      "title": "Bankenverband: Fehler bei der Geldanlage - Machen Sie es besser, 05.09.2024 (abgerufen 26.10.2026)",
+      "url": "https://bankenverband.de/verbraucher/fehler-bei-der-geldanlage-machen-sie-es-besser"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zeigt die Studie, dass Handeln immer schadet?",
+      "a": "Nein. Sie beschreibt Durchschnittswerte für ein bestimmtes Panel in einem bestimmten Zeitraum in den USA."
+    },
+    {
+      "q": "Betrifft Overconfidence auch Profis?",
+      "a": "Der Bankenverband schreibt, auch erfahrene Personen im Bereich der Geldanlage überschätzen manchmal ihre Fähigkeiten."
+    },
+    {
+      "q": "Wie erkenne ich das bei mir?",
+      "a": "Durch Aufzeichnungen: Vorhersage, Begründung, Ergebnis. So siehst du, wie oft du richtig lagst."
+    }
+  ]
+}
