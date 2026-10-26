@@ -1,0 +1,33 @@
+{
+  "slug": "immobilien-als-geldanlage-reits",
+  "title": "Immobilien als Geldanlage und REITs: Beteiligung ohne eigene Haustür",
+  "description": "Direkt kaufen, offener Immobilienfonds oder REIT: die Wege in Immobilien als Anlageklasse, ihre Unterschiede und die Regeln des REIT-Gesetzes. Neutral erklärt.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/immobilien-als-geldanlage-reits.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Drei Wege führen in Immobilien als Geldanlage: Direktkauf, offener Immobilienfonds und börsennotierte Gesellschaften wie REITs.</li><li>Ein deutscher REIT ist eine Aktiengesellschaft, deren Aktien an einem organisierten Markt in der EU oder im EWR zugelassen sein müssen (§ 1 REITG).</li><li>Deutsche REITs dürfen inländische Bestandsmietwohnimmobilien nicht unmittelbar halten - das unterscheidet sie von vielen ausländischen REITs.</li><li>Börsennotierte Immobilienanlagen schwanken im Kurs - das ist ein anderer Charakter als der vermeintlich ruhige Wert einer Immobilie.</li></ul></div><h2>Drei Wege in dieselbe Anlageklasse</h2><p>Der <b>Direktkauf</b> gibt dir ein konkretes Objekt mit voller Kontrolle - und vollem Klumpenrisiko: viel Kapital an einem Standort, dazu Verwaltung und Instandhaltung. Der <b>offene Immobilienfonds</b> bündelt viele Objekte; du kaufst Anteile statt Türen und teilst dir die Objekte mit anderen Anlegern. Der <b>REIT</b> - Real Estate Investment Trust - und Immobilienaktien allgemein sind börsennotiert: Du handelst Anteile an der Börse, täglich, in kleinen Stücken. Steuerlich profitieren offene Immobilienfonds zusätzlich von einer Teilfreistellung: Nach § 20 InvStG sind 60 Prozent der Erträge steuerfrei, bei Auslands-Immobilienfonds 80 Prozent.</p><h2>Was ein REIT nach deutschem Recht ist</h2><p>Der deutsche REIT ist gesetzlich eng definiert: Nach § 1 REITG ist eine REIT-Aktiengesellschaft eine AG, deren Unternehmensgegenstand auf Immobilien beschränkt ist - Erwerb, Haltung, Verwaltung im Rahmen von Vermietung und Veräußerung - und deren Aktien zum Handel an einem organisierten Markt in der EU oder einem EWR-Staat zugelassen sein müssen. Eine Besonderheit: Inländische Bestandsmietwohnimmobilien sind als unmittelbarer Anlagegegenstand ausgeschlossen - das Gesetz zielt auf Gewerbe- und Auslandsimmobilien. Als Ausgleich für die Bindung an diese Regeln bleibt die REIT-AG selbst weitgehend von Körperschaft- und Gewerbesteuer verschont; besteuert wird auf Anlegerebene.</p><h2>Einordnung für Anleger</h2><p>Börsennotierte Immobilienanlagen sind liquide und streuen breit - aber sie schwanken im Kurs wie Aktien, manchmal deutlich stärker als die zugrunde liegenden Immobilienwerte. Direktbesitz schwankt gefühlt wenig, ist aber illiquide und konzentriert. Fonds liegen dazwischen, mit eigener Gesetzgebung und eigenen Kosten. Keine der Varianten ist die bessere Immobilie - sie sind unterschiedliche Konstruktionen mit eigenen Risikoprofilen. Grundlagen dazu liefert das Glossar zum <a href=\"/glossar/investmentfonds/\">Investmentfonds</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "REITG § 1 Wesen der REIT-Aktiengesellschaften (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/reitg/__1.html"
+    },
+    {
+      "title": "InvStG § 20 Teilfreistellung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__20.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein REIT das Gleiche wie ein Immobilienfonds?",
+      "a": "Nein. Ein REIT ist eine börsennotierte Aktiengesellschaft mit Immobiliengeschäft; du kaufst eine Aktie. Ein offener Immobilienfonds ist ein Sondervermögen, dessen Anteile über die Fondsgesellschaft gehandelt werden. Gesetz, Besteuerung und Handelbarkeit unterscheiden sich."
+    },
+    {
+      "q": "Warum schwankt ein REIT so stark wie eine Aktie?",
+      "a": "Weil er an der Börse gehandelt wird: Der Preis entsteht aus Angebot und Nachfrage und reagiert auf Zinsen und Marktstimmung - nicht direkt auf Gutachten der Immobilienwerte. Kurzfristig kann der Kurs deutlich vom inneren Wert der Bestände abweichen."
+    },
+    {
+      "q": "Kann ein deutscher REIT deutsche Wohnungen halten?",
+      "a": "Inländische Bestandsmietwohnimmobilien sind nach § 1 REITG vom unmittelbaren Anlagegegenstand ausgeschlossen. Gewerbeimmobilien und ausländische Bestände sind dagegen möglich."
+    }
+  ]
+}

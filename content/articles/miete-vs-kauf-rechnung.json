@@ -1,0 +1,29 @@
+{
+  "slug": "miete-vs-kauf-rechnung",
+  "title": "Miete oder kaufen: Die ehrliche Rechnung hinter der Grundsatzfrage",
+  "description": "Kaltmiete gegen Rate zu legen reicht nicht: Welche Posten in die Miete-oder-Kauf-Rechnung gehören und wie du sie selbst aufstellst. Ohne Empfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/miete-vs-kauf-rechnung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der einfache Vergleich Kaltmiete gegen Rate irrt: Die Rate enthält Vermögensaufbau, die Miete nicht.</li><li>Auf der Kaufseite stehen Nebenkosten, Zinskosten, Instandhaltung und die entgangene Rendite des Eigenkapitals.</li><li>Auf der Mietseite stehen Kaltmiete, mögliche Mieterhöhungen - und die Anlage des nicht gebundenen Vermögens.</li><li>Die Rechnung ist sensitiv: Wenige Annahmen zu Preisen, Mieten und Zinsen entscheiden über das Ergebnis.</li></ul></div><h2>Warum der einfache Vergleich irreführt</h2><p>\"Die Rate ist ja kaum höher als die Miete\" - dieser Satz unterschlägt fast alles Wichtige. Die Monatsrate einer Finanzierung enthält zwei Teile: Zinskosten, die verloren sind, und Tilgung, die Vermögen aufbaut. Die Miete ist dagegen vollständig Konsum. Wer Rate und Kaltmiete direkt vergleicht, vergleicht also Kosten mit einer Mischung aus Kosten und Sparen. Ein ehrlicher Vergleich stellt die <i>verlorenen</i> Posten beider Seiten gegenüber.</p><h2>Die vollständige Rechnung</h2><p>Auf der <b>Kaufseite</b> stehen: die einmaligen <a href=\"/artikel/nebenkosten-kaufnebenkosten/\">Kaufnebenkosten</a> - laut BBSR je nach Bundesland allein 3,5 bis 6,5 Prozent Grunderwerbsteuer plus Notar, Grundbuch und eventuell Makler; die Zinskosten der <a href=\"/artikel/baufinanzierung-grundlagen/\">Baufinanzierung</a>; laufende Instandhaltung, die als Eigentümer an dir hängt; und die Opportunitätskosten des Eigenkapitals - also die Rendite, die dein eingesetztes Geld andernorts erwirtschaftet hätte. Auf der <b>Mietseite</b> stehen: die Kaltmiete über die Jahre samt möglicher Erhöhungen - und auf der Habenseite die Anlage der Differenz: Wer mietet und diszipliniert den nicht gebundenen Überschuss anlegt, baut ebenfalls Vermögen auf. Hilfreich ist die Überschlagsgröße Kaufpreis-zu-Jahreskaltmiete: Sie zeigt, wie viele Jahresmieten im Kaufpreis stecken, und macht Märkte grob vergleichbar.</p><h2>Was die Rechnung nicht erfasst</h2><p>Drei Dinge stehen nicht in der Tabelle: Flexibilität - ein Jobwechsel oder eine Veränderung der Familie trifft Eigentümer härter, weil Kauf und Verkauf teuer sind; Standortbindung als bewusste Wahl, die für manche Sicherheit ist und für andere Zwang; und die Frage, ob du die Miet-Differenz wirklich anlegst - die Rechnung gilt nur, wenn das Geld nicht verlebt wird. Ergebnis: Miete-oder-Kaufen ist keine Trivialrechnung, sondern ein Bündel von Annahmen. Rechne es mit deinen Zahlen durch, nicht mit Schlagzeilen. Keine Anlage- oder Finanzierungsberatung.</p>",
+  "sources": [
+    {
+      "title": "BBSR: Nebenkosten beim Erwerb von Wohnimmobilien, BBSR-Online 12/2025 (abgerufen 26.10.2026)",
+      "url": "https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-012-2025.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ab wann lohnt sich kaufen statt mieten?",
+      "a": "Eine allgemeine Schwelle gibt es nicht. Das Ergebnis hängt von Kaufpreis im Verhältnis zur Miete, Zinsniveau, Nebenkosten, Haltedauer und der Entwicklung beider Märkte ab. Kurze Haltedauer spricht wegen der hohen einmaligen Nebenkosten eher gegen den Kauf."
+    },
+    {
+      "q": "Was ist das Kaufpreis-Miete-Verhältnis?",
+      "a": "Der Kaufpreis geteilt durch die Jahreskaltmiete einer vergleichbaren Wohnung. Es zeigt, wie viele Jahresmieten im Preis stecken: Hohe Werte bedeuten teure Kaufpreise im Verhältnis zum Mieten, niedrige Werte das Gegenteil. Es ist ein Grobfilter, keine Entscheidungsregel."
+    },
+    {
+      "q": "Vermietet kaufen - gilt dieselbe Rechnung?",
+      "a": "Nein. Eine vermietete Immobilie ist eine Geldanlage mit Erträgen, Leerstandsrisiko und Verwaltungsaufwand - die Rechnung enthält Mieteinnahmen und steuerliche Fragen, keine eigene Miete als Alternative. Den institutionellen Weg ohne eigene Immobilie zeigt der Artikel zu <a href=\"/artikel/immobilien-als-geldanlage-reits/\">Immobilien als Geldanlage und REITs</a>."
+    }
+  ]
+}

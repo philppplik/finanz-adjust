@@ -1,0 +1,29 @@
+{
+  "slug": "langlebigkeitsrisiko",
+  "title": "Langlebigkeitsrisiko: Wenn das Leben länger dauert als das Geld",
+  "description": "Das Risiko, älter zu werden als das Vermögen reicht: Lebenserwartung richtig lesen, den Planungshorizont wählen und mit Versicherungslogik puffern. Ohne Anlageberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/langlebigkeitsrisiko.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Langlebigkeitsrisiko heißt: Du lebst länger, als dein Vermögen reicht - das Gegenstück zum Sterblichkeitsrisiko einer Versicherung.</li><li>Aktuelle Sterbetafel 2023/2025: Die Lebenserwartung bei Geburt liegt bei 78,8 Jahren für Jungen und 83,4 Jahren für Mädchen (Destatis).</li><li>Die fernere Lebenserwartung im Alter 65 ist höher als die Lebenserwartung bei Geburt - wer 65 ist, hat die frühen Risiken bereits hinter sich.</li><li>Die Lebenserwartung ist ein Durchschnitt: Ein Plan, der nur auf den Durchschnitt zielt, ist halb kalkuliert.</li></ul></div><h2>Was das Langlebigkeitsrisiko ist</h2><p>Beim Ansparen ist Zeit dein Freund, beim Entnehmen dein Fragezeichen: Niemand weiß, wie viele Jahre die Entnahmephase dauert. Das Langlebigkeitsrisiko bezeichnet die Möglichkeit, dass das Vermögen vor dem Lebensende aufgebraucht ist. Es unterscheidet sich grundlegend von Marktrisiken wie dem <a href=\"/artikel/sequenzrisiko/\">Sequenzrisiko</a>: Kurse schwanken, aber die Länge der Entnahmephase ist die Unbekannte, auf die alles aufbaut.</p><h2>Lebenserwartung richtig lesen</h2><p>Nach der aktuellen Sterbetafel 2023/2025 des Statistischen Bundesamts liegt die Lebenserwartung bei Geburt bei 78,8 Jahren für Jungen und 83,4 Jahren für Mädchen. Zwei Präzisierungen sind wichtig: Erstens ist die fernere Lebenserwartung einer 65-jährigen Person höher als der Wert bei Geburt, weil die Sterbewahrscheinlichkeiten der bereits durchlaufenen Jahre herausfallen - Destatis erläutert diesen Mechanismus in seinen Methodenhinweisen. Zweitens ist jede Lebenserwartung ein Durchschnitt über viele Menschen: Etwa die Hälfte lebt länger. Wer also mit 65 auf den Durchschnittswert zielt, plant für eine Konstellation, die im eigenen Fall mit erheblicher Wahrscheinlichkeit nicht zutrifft. Üblich ist deshalb ein Horizont mit deutlichem Aufschlag, etwa bis 90 oder darüber.</p><h2>Wie man damit plant</h2><p>Drei Reaktionsmuster sind üblich: Erstens ein konservativer Planungshorizont - lieber für ein langes Leben rechnen und am Ende etwas übrig haben als umgekehrt. Zweitens eine Entnahmerate mit Sicherheitsabstand, wie sie die <a href=\"/artikel/entnahmestrategien-ueberblick/\">Entnahmestrategien im Überblick</a> beschreiben. Drittens die Versicherungslogik: Eine lebenslange Leibrente verlagert das Langlebigkeitsrisiko auf einen Versicherer, der über viele Versicherte mittelt - auch das Statistische Bundesamt nutzt Sterbetafeln für solche Rechnungen, etwa in seinen Versicherungsbarwert-Werten für Leibrenten. Ob und in welcher Mischung das passt, ist eine individuelle Abwägung. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Sterbefälle und Lebenserwartung (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum ist die Lebenserwartung mit 65 höher als bei Geburt?",
+      "a": "Weil in die Lebenserwartung bei Geburt die Sterbewahrscheinlichkeiten aller Altersstufen ab der Geburt einfließen. Wer bereits 65 ist, hat diese Jahre hinter sich - in die fernere Lebenserwartung fließen nur noch die Altersstufen ab 65 ein. Deshalb erreichen 65-Jährige im Durchschnitt ein höheres Endalter, als der Geburtswert suggeriert."
+    },
+    {
+      "q": "Kann ich mich gegen das Langlebigkeitsrisiko versichern?",
+      "a": "Genau dafür ist die lebenslange Leibrente gedacht: Sie zahlt bis zum Lebensende, unabhängig davon, wie lange das dauert. Das Risiko trägt dann der Versicherer, der über viele Versicherte rechnet. Der Preis dafür ist, dass das eingezahlte Kapital in der Regel gebunden oder verbraucht ist."
+    },
+    {
+      "q": "Ist es übertrieben vorsichtig, bis 95 zu planen?",
+      "a": "Es ist eine bewusste Sicherheitsentscheidung, keine Übertreibung: Etwa die Hälfte der Menschen überlebt die durchschnittliche Lebenserwartung. Ein längerer Horizont kostet Entnahmesumme, ein kürzerer kostet Sicherheit."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "nebenkosten-kaufnebenkosten",
+  "title": "Kaufnebenkosten: Grunderwerbsteuer, Notar, Grundbuch und Makler",
+  "description": "Was neben dem Kaufpreis anfällt: Grunderwerbsteuer je nach Bundesland, Notar- und Grundbuchkosten, Maklercourtage bei Wohnimmobilien. Mit Quellen und Strukturbeispiel.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/nebenkosten-kaufnebenkosten.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Zum Kaufpreis kommen die Kaufnebenkosten: Grunderwerbsteuer, Notar und Grundbuch, gegebenenfalls Maklercourtage.</li><li>Die Grunderwerbsteuer liegt je nach Bundesland zwischen 3,5 und 6,5 Prozent des Kaufpreises (BBSR 2025).</li><li>Notar- und Grundbuchkosten bemessen sich am Kaufpreis und sind mit diesem gestiegen (BBSR 2025).</li><li>Beim Kauf einer Wohnung oder eines Einfamilienhauses tragen Käufer und Verkäufer die Maklercourtage höchstens je zur Hälfte (§ 656c BGB).</li></ul></div><h2>Die drei großen Posten</h2><p>Erstens die <b>Grunderwerbsteuer</b>: Sie fällt auf den Kaufpreis an, der Steuersatz ist Landessache und liegt nach einer Untersuchung des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR) zwischen 3,5 und 6,5 Prozent - alle Bundesländer außer Bayern haben ihre Sätze seit der Föderalismusreform 2007 von ursprünglich 3,5 Prozent angehoben. Zweitens <b>Notar und Grundbuch</b>: Der Kaufvertrag muss notariell beurkundet werden, die Eintragung ins Grundbuch kostet ebenfalls - beide Gebühren bemessen sich bundesweit einheitlich am Kaufpreis und sind mit den gestiegenen Preisen fast proportional mitgewachsen. Drittens die <b>Maklercourtage</b>, falls ein Makler beteiligt ist.</p><h2>Wer zahlt den Makler</h2><p>Beim Kauf einer Wohnung oder eines Einfamilienhauses gilt seit 2020 eine gesetzliche Teilungsregel: Lässt sich der Makler von beiden Seiten einen Lohn versprechen, müssen sich beide in gleicher Höhe verpflichten; arbeitet er für eine Seite unentgeltlich, kann er von der anderen nichts verlangen (§ 656c Abs. 1 BGB). Ein abweichender Maklervertrag ist unwirksam (§ 656c Abs. 2 BGB). Die Höhe der Courtage selbst ist nicht gesetzlich reguliert - die BBSR-Studie beschreibt den Markt als für Verbraucher häufig intransparent.</p><h2>Strukturbeispiel - vereinfacht, keine Prognose</h2><p><b>Strukturbeispiel</b>, nur zur Größenordnung: Kaufpreis 400.000 Euro, Grunderwerbsteuer 5 Prozent (der Satz hängt vom Bundesland ab): 20.000 Euro. Notar und Grundbuch zusammen rund 2 Prozent: etwa 8.000 Euro. Maklercourtage von beispielsweise 3,57 Prozent Käuferanteil: rund 14.300 Euro. Summe: rund 42.000 Euro - über 10 Prozent des Kaufpreises. Diese Posten lassen sich durch einen späteren Verkauf nicht wieder hereinholen; sie gehören deshalb voll in die Rechnung von <a href=\"/artikel/miete-vs-kauf-rechnung/\">Miete oder Kaufen</a> und in die Frage, wie viel <a href=\"/artikel/baufinanzierung-grundlagen/\">Eigenkapital in der Baufinanzierung</a> nötig ist. Keine Rechts- oder Steuerberatung.</p>",
+  "sources": [
+    {
+      "title": "BBSR: Nebenkosten beim Erwerb von Wohnimmobilien, BBSR-Online 12/2025 (abgerufen 26.10.2026)",
+      "url": "https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-012-2025.html"
+    },
+    {
+      "title": "BGB § 656c Lohnanspruch bei Tätigkeit für beide Parteien (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__656c.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich die Nebenkosten mitfinanzieren?",
+      "a": "Manche Banken finanzieren sie mit, das verteuert aber die Gesamtlast und verschlechtert die Beleihungsrechnung. Üblich ist die Empfehlung, die Nebenkosten aus Eigenkapital zu zahlen - sie haben keinen Gegenwert in der Immobilie."
+    },
+    {
+      "q": "Gilt die Makler-Teilung immer?",
+      "a": "Sie gilt für den Kauf von Wohnungen und Einfamilienhäusern durch Verbraucher. Bei anderen Objektarten oder gewerblichen Käufern können andere Vereinbarungen gelten. Grundlage ist § 656c BGB."
+    },
+    {
+      "q": "Warum sind die Nebenkosten so gestiegen?",
+      "a": "Weil zwei Posten am Kaufpreis hängen: Notar- und Grundbuchgebühren sind preisproportional, die Grunderwerbsteuer zusätzlich durch angehobene Steuersätze in fast allen Bundesländern. Das zeigt die BBSR-Studie von 2025."
+    }
+  ]
+}

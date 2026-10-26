@@ -1,0 +1,29 @@
+{
+  "slug": "annuitaetendarlehen-erklaert",
+  "title": "Annuitätendarlehen erklärt: gleiche Rate, wechselnde Zusammensetzung",
+  "description": "Konstante Rate, sinkender Zinsanteil, steigende Tilgung: Wie ein Annuitätendarlehen funktioniert, mit durchgerechnetem Strukturbeispiel. Neutral, ohne Empfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/annuitaetendarlehen-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Annuität ist eine über die Zinsbindung konstante Jahres- oder Monatsrate aus Zins- und Tilgungsanteil.</li><li>Mit jeder Zahlung sinkt die Restschuld, der Zinsanteil fällt, der Tilgungsanteil steigt - bei gleicher Rate.</li><li>Ein Strukturbeispiel mit 300.000 Euro zeigt die Mechanik der ersten Monate.</li><li>Entscheidend für den Vergleich: Restschuld am Ende der Zinsbindung, nicht nur die Anfangsrate.</li></ul></div><h2>Das Prinzip</h2><p>Beim Annuitätendarlehen zahlst du während der Zinsbindung immer denselben Betrag - die Annuität. Sie setzt sich aus zwei Teilen zusammen: den Zinsen auf die aktuelle Restschuld und der Tilgung. Weil die Restschuld mit jeder Zahlung sinkt, wird der Zinsanteil von Monat zu Monat kleiner. Da die Rate konstant bleibt, wächst automatisch der Tilgungsanteil. Anfangs tilgst du also wenig und zahlst viel Zins, später kippt das Verhältnis. Rechtliche Grundlage ist der Darlehensvertrag nach § 488 BGB: Zinszahlung und Rückzahlung sind deine vertragstypischen Pflichten.</p><h2>Strukturbeispiel - vereinfacht, keine Prognose</h2><p>Folgendes <b>Strukturbeispiel</b> zeigt nur die Mechanik, ohne Nebenkosten, Bereitstellungszinsen und Sondertilgungen: Darlehen 300.000 Euro, Sollzins 3,5 Prozent pro Jahr, anfängliche Tilgung 2 Prozent pro Jahr. Die jährliche Annuität beträgt damit 5,5 Prozent von 300.000 Euro, also 16.500 Euro - als Monatsrate 1.375 Euro. Im ersten Monat entfallen davon 875 Euro auf die Zinsen (3,5 Prozent von 300.000 Euro geteilt durch 12) und 500 Euro auf die Tilgung. Nach einem Jahr ist die Restschuld auf rund 294.000 Euro gesunken; die Zinslast des folgenden Jahres fällt entsprechend niedriger aus, der Tilgungsanteil steigt. Nach zehn Jahren Zinsbindung bliebe in dieser Rechnung eine Restschuld von grob 235.000 Euro - genau diese Zahl ist der Vergleichsmaßstab zwischen Angeboten.</p><h2>Woran du Angebote vergleichst</h2><p>Vier Größen entscheiden: die Höhe der Rate und ob sie zu deinem Budget passt; die Restschuld am Ende der Zinsbindung; die Gesamtzinskosten über die Laufzeit; und Flexibilität wie Sondertilgungsrechte oder Ratenwechseloptionen. Eine höhere Anfangstilgung erhöht die Rate, verkürzt aber die Zeit bis zur Schuldenfreiheit und senkt die Zinssumme deutlich. Den Effekt verschiedener Raten und Laufzeiten kannst du im <a href=\"/rechner/kredit/\">Kreditrechner</a> nachvollziehen. Was nach der Zinsbindung passiert, erklärt der Artikel zur <a href=\"/artikel/zinsbindung-und-anschlussfinanzierung/\">Anschlussfinanzierung</a>. Keine Finanzierungsberatung.</p>",
+  "sources": [
+    {
+      "title": "BGB § 488 Vertragstypische Pflichten beim Darlehensvertrag (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__488.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum ist die Anfangstilgung so wichtig?",
+      "a": "Weil sie bestimmt, wie schnell die Restschuld sinkt. Bei niedrigen Zinsen reicht eine kleine Anfangstilgung kaum, die Schuld abzubauen - die Laufzeit bis zur Entschuldung wird sehr lang. Eine höhere Anfangstilgung beschleunigt den Abbau und senkt die Gesamtzinskosten, erhöht aber die monatliche Belastung."
+    },
+    {
+      "q": "Bleibt die Rate wirklich immer gleich?",
+      "a": "Während der Zinsbindung ist die Annuität vertraglich fest. Nach Ende der Zinsbindung wird für die Restschuld ein neuer Zinssatz vereinbart - dann kann sich die Rate ändern. Vereinbarte Sondertilgungen oder Ratenwechsel verändern die Rechnung ebenfalls."
+    },
+    {
+      "q": "Was ist der Unterschied zu einem endfälligen Darlehen?",
+      "a": "Beim Annuitätendarlehen tilgst du laufend. Bei einem endfälligen Darlehen zahlst du während der Laufzeit nur Zinsen und die gesamte Schuld am Ende auf einmal - das erfordert eine separate Ansparlogik für den Endbetrag und ist im privaten Wohnungsbau die Ausnahme."
+    }
+  ]
+}

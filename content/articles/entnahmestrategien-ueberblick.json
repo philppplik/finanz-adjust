@@ -1,0 +1,33 @@
+{
+  "slug": "entnahmestrategien-ueberblick",
+  "title": "Entnahmestrategien im Überblick: feste Raten, flexible Regeln, Kapitalerhalt",
+  "description": "Wie du aus einem Vermögen laufende Ausgaben ziehst: statische und dynamische Entnahmestrategien, die 4-Prozent-Regel als Forschungskonzept und ihre Grenzen. Ohne Anlageberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/entnahmestrategien-ueberblick.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Beim Entnehmen dreht sich die Logik des Ansparens um: Du verkaufst regelmäßig Anteile und lebst von den Erlösen.</li><li>Entnahmestrategien lassen sich in drei Grundmuster sortieren: feste Rate, regelbasiert-flexibel und Kapitalerhalt.</li><li>Die bekannte 4-Prozent-Regel ist ein historisches Forschungsergebnis aus US-Daten, keine Zusage und keine Empfehlung.</li><li>Wie lange das Geld reichen muss, hängt am Planungshorizont - das Langlebigkeitsrisiko gehört immer dazu.</li></ul></div><h2>Vom Ansparen zum Entnehmen</h2><p>Jahrzehntelang lautet die Richtung: Geld fließt ins Depot. Mit dem Ruhestand kehrt sie sich um - du entnimmst regelmäßig, und das Depot soll trotzdem möglichst lange tragen. Diese Umstellung hat es in sich: Beim Entnehmen verkaufst du Anteile, egal wo der Kurs gerade steht. Genau daraus entsteht das <a href=\"/artikel/sequenzrisiko/\">Sequenzrisiko</a>, dem ein eigener Artikel in diesem Pfad gewidmet ist. Eine Entnahmestrategie beantwortet drei Fragen: Wie viel nimmst du pro Jahr, wie passt du den Betrag an und wie reagierst du, wenn der Markt schwankt?</p><h2>Die drei Grundmuster</h2><p>Erstens die <b>feste Entnahmerate</b>: Du legst einen Prozentsatz des Startvermögens fest und erhöhst den Betrag höchstens um die Inflation. Planbar, aber starr. Zweitens die <b>regelbasierte, dynamische Entnahme</b>: Der Betrag hängt vom aktuellen Depotstand ab, etwa ein fester Prozentsatz des jeweiligen Jahreswerts, oder er folgt Leitplanken - nach starken Jahren etwas mehr, nach schwachen etwas weniger. Flexibler, aber dein Einkommen schwankt mit. Drittens der <b>Kapitalerhalt</b>: Du entnimmst nur, was an Ausschüttungen und Erträgen anfällt, und rührst die Substanz nicht an. Konservativ, erfordert aber ein entsprechend großes Vermögen oder bescheidene Entnahmen.</p><h2>Die 4-Prozent-Regel - und was sie wirklich ist</h2><p>Die bekannteste Zahl der Entnahme-Forschung stammt aus den USA: Der Finanzplaner Bill Bengen untersuchte Mitte der 1990er-Jahre historische Aktien- und Anleihedaten und fragte, welche anfängliche Entnahmerate ein gemischtes Portfolio in der Vergangenheit über rund 30 Jahre getragen hätte. Ergebnis: Etwa 4 Prozent des Startvermögens im ersten Jahr, danach inflationsangepasst, hätten historisch selbst schwere Abschwünge überstanden; in keinem der untersuchten historischen Fälle war das Depot vor 33 Jahren leer. In der Fachdiskussion bewegen sich die genannten Raten je nach Annahmen zwischen etwa 3 und 5 Prozent. Wichtig ist die Einordnung: Das ist ein Rückblick auf US-Marktdaten, kein Gesetz und keine Zusage für die Zukunft. Steuern, Kosten, deine Anlagemischung und dein Horizont verändern die Rechnung - die Steuerseite behandelt der Artikel zu <a href=\"/artikel/entnahme-und-steuern/\">Entnahme und Steuern</a>.</p><h2>So vergleichst du Strategien</h2><p>Vier Fragen strukturieren den Vergleich: Wie lange soll das Geld reichen - das <a href=\"/artikel/langlebigkeitsrisiko/\">Langlebigkeitsrisiko</a> setzt den Rahmen. Wie wichtig ist dir ein stabiler Betrag gegenüber Anpassungsfähigkeit? Wie wird die <a href=\"/artikel/inflation-im-ruhestand/\">Inflation im Ruhestand</a> eingepreist? Und wie groß ist dein Puffer für schwache Marktphasen? Mit dem <a href=\"/rechner/entnahmeplan/\">Entnahmeplan-Rechner</a> kannst du eigene Annahmen durchspielen - als Rechnung mit deinen Zahlen, nicht als Prognose. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Investopedia: What Is the 4% Rule for Withdrawals in Retirement? (abgerufen 26.10.2026)",
+      "url": "https://www.investopedia.com/terms/f/four-percent-rule.asp"
+    },
+    {
+      "title": "Statistisches Bundesamt: Sterbefälle und Lebenserwartung (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist die 4-Prozent-Regel ein verlässliches Versprechen?",
+      "a": "Nein. Sie ist ein Forschungsergebnis auf Basis historischer US-Marktdaten und beschreibt, was in der Vergangenheit funktioniert hätte. Sie berücksichtigt weder deine Steuern und Kosten noch künftige Marktbedingungen. In der Fachdiskussion gelten je nach Annahmen auch 3 oder 5 Prozent als diskutabel - das zeigt, wie sehr die Zahl von den Voraussetzungen abhängt."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen fester und dynamischer Entnahme?",
+      "a": "Bei der festen Entnahme orientiert sich der Betrag am Startvermögen und wird höchstens inflationsangepasst - planbar, aber starr. Bei der dynamischen Entnahme hängt der Betrag vom aktuellen Depotstand oder von Leitplanken ab - er kann steigen und fallen, reagiert aber auf die Marktlage."
+    },
+    {
+      "q": "Wie lange muss mein Geld im Ruhestand reichen?",
+      "a": "Das hängt von deinem Planungshorizont ab, nicht von der durchschnittlichen Lebenserwartung allein. Die Hälfte der Menschen lebt länger als der Durchschnitt - deshalb plant man den Horizont üblicherweise mit Aufschlag. Die Hintergründe erklärt der Artikel zum Langlebigkeitsrisiko."
+    }
+  ]
+}

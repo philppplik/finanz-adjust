@@ -1,0 +1,29 @@
+{
+  "slug": "sequenzrisiko",
+  "title": "Sequenzrisiko: Warum die Reihenfolge der Renditen in der Entnahmephase entscheidet",
+  "description": "Gleiche Durchschnittsrendite, unterschiedliches Ergebnis: Was das Sequenzrisiko ist, warum es gerade zu Rentenbeginn wirkt und welche Reaktionsmuster es gibt. Ohne Anlageberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/sequenzrisiko.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das Sequenzrisiko beschreibt: Bei Entnahmen hängt das Ergebnis davon ab, <i>wann</i> gute und schlechte Jahre kommen - nicht nur vom Durchschnitt.</li><li>Verluste zu Beginn der Entnahmephase wirken besonders stark, weil du in der Talsohle Anteile verkaufst, die später zur Erholung fehlen.</li><li>Ein vereinfachtes Strukturbeispiel zeigt: Gleiche Renditen in anderer Reihenfolge führen zu unterschiedlichen Restvermögen.</li><li>Gegenmittel sind keine Garantie, sondern Dämpfer: Puffer, flexible Entnahmen und realistische Anfangsraten.</li></ul></div><h2>Das Prinzip</h2><p>Solange du nur ansparst und nichts entnimmst, ist die Reihenfolge der Jahresrenditen für das Endvermögen egal: Ob erst minus 20 Prozent und dann plus 25 Prozent oder umgekehrt - bei einer Einmalanlage kommt dasselbe heraus. Sobald du entnimmst, kippt die Logik. Du verkaufst in jedem Jahr Anteile. Fallen die Kurse früh, musst du für denselben Geldbetrag mehr Anteile abgeben - und genau diese Anteile fehlen später, wenn die Kurse sich erholen. Der Durchschnitt der Renditen sagt dir also nicht, wie deine Entnahmephase ausgeht. Die Reihenfolge entscheidet mit.</p><h2>Strukturbeispiel - vereinfacht, keine Prognose</h2><p>Folgendes <b>Strukturbeispiel</b> zeigt nur die Mechanik, ohne Steuern, Kosten und ohne Aussage über die Zukunft: Startvermögen 100.000 Euro, am Ende jedes Jahres werden 10.000 Euro entnommen. Fall A: Das erste Jahr bringt plus 25 Prozent, das zweite minus 20 Prozent. Dann stehen nach dem ersten Jahr 125.000 Euro im Depot, nach der Entnahme 115.000 Euro, nach dem zweiten Jahr 92.000 Euro. Fall B: dieselben beiden Renditen in umgekehrter Reihenfolge. Nach dem ersten Jahr 80.000 Euro, nach der Entnahme 70.000 Euro, nach dem zweiten Jahr 87.500 Euro. Gleiche Durchschnittsrendite, aber rund 4.500 Euro Unterschied - nur wegen der Reihenfolge. Über 25 oder 30 Jahre summiert sich dieser Effekt erheblich.</p><h2>Warum es gerade zu Beginn trifft</h2><p>Der kritische Zeitraum sind die ersten Jahre der Entnahmephase: Dann ist das Depot am größten und ein früher Verlust entfernt die meisten Anteile dauerhaft aus der Rechnung. Die Entnahmeforschung zeigt an historischen US-Daten, dass selbst Rentenbeginne mitten in schwere Krisen - etwa zum Platzen der Technologieblase oder zur Finanzkrise 2008 - bei moderaten Entnahmeraten überraschend gut gealtert sind. Das beruhigt für die Vergangenheit, garantiert aber nichts für die Zukunft.</p><h2>Was dämpft - und was nicht</h2><p>Vermeiden lässt sich das Sequenzrisiko nicht, dämpfen schon. Drei Ansätze sind üblich: ein liquider Puffer für ein bis zwei Jahresausgaben, damit du in schwachen Phasen nicht verkaufen musst; eine flexible Entnahme, die nach Verlustjahren vorübergehend weniger entnimmt; und eine vorsichtige Anfangsrate statt einer optimistischen. Alle drei kosten etwas - Sicherheit, Ertrag oder beides. Den Rahmen setzt die <a href=\"/artikel/entnahmestrategien-ueberblick/\">Übersicht der Entnahmestrategien</a>, den Horizont das <a href=\"/artikel/langlebigkeitsrisiko/\">Langlebigkeitsrisiko</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Investopedia: What Is the 4% Rule for Withdrawals in Retirement? (abgerufen 26.10.2026)",
+      "url": "https://www.investopedia.com/terms/f/four-percent-rule.asp"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich das Sequenzrisiko vermeiden?",
+      "a": "Nein, es ist untrennbar mit regelmäßigen Entnahmen aus schwankenden Anlagen verbunden. Du kannst seine Wirkung aber dämpfen: mit einem liquiden Puffer, mit flexiblen statt starren Entnahmen und mit einer vorsichtigen Anfangsrate."
+    },
+    {
+      "q": "Gilt das Sequenzrisiko auch in der Ansparphase?",
+      "a": "In seiner scharfen Form nicht. Wer regelmäßig einzahlt, profitiert von niedrigen Kursen sogar, weil er mehr Anteile für dasselbe Geld bekommt. Erst wenn die Richtung umkippt und du regelmäßig verkaufst, dreht sich der Effekt um."
+    },
+    {
+      "q": "Hilft ein Tagesgeld-Puffer gegen das Sequenzrisiko?",
+      "a": "Ein liquider Puffer kann verhindern, dass du in einer Talsohle verkaufen musst - er dämpft also die Wirkung. Er ändert aber nichts am Grundmuster und kostet in der Regel Ertrag, weil der Puffer kaum verzinst ist."
+    }
+  ]
+}

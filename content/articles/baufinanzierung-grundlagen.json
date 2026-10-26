@@ -1,0 +1,37 @@
+{
+  "slug": "baufinanzierung-grundlagen",
+  "title": "Baufinanzierung Grundlagen: Eigenkapital, Sollzins und die Logik dahinter",
+  "description": "Woraus eine Baufinanzierung besteht: Eigenkapital, Darlehensbetrag, Sollzins und effektiver Jahreszins, Beleihung und die Rolle der Nebenkosten. Neutral erklärt.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/baufinanzierung-grundlagen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Eine Baufinanzierung ist rechtlich ein Darlehensvertrag: Die Bank stellt Geld bereit, du zahlst Zinsen und tilgst (§ 488 BGB).</li><li>Der Sollzins ist der vereinbarte Prozentsatz pro Jahr auf das Darlehen; der effektive Jahreszins enthält weitere Kosten.</li><li>Die Kaufnebenkosten - Grunderwerbsteuer, Notar, Grundbuch, Makler - gehören zur Gesamtrechnung und nicht in den Kaufpreis.</li><li>Wie viel Eigenkapital du einbringst, verändert Beleihung und Konditionen.</li></ul></div><h2>Die Grundgleichung</h2><p>Jede Immobilienfinanzierung beginnt mit einer einfachen Summe: Kaufpreis plus Kaufnebenkosten ergeben die Gesamtkosten des Vorhabens. Davon ziehst du dein Eigenkapital ab - was übrig bleibt, ist der Darlehensbetrag. Rechtlich ist das ein Darlehensvertrag nach § 488 BGB: Die Bank ist verpflichtet, den Betrag bereitzustellen; du bist verpflichtet, Zinsen zu zahlen und das Darlehen bei Fälligkeit zurückzuzahlen. Die Nebenkosten - Grunderwerbsteuer, Notar und Grundbuch, eventuell Maklercourtage - sind erheblich und werden im eigenen Artikel zu den <a href=\"/artikel/nebenkosten-kaufnebenkosten/\">Kaufnebenkosten</a> durchgerechnet.</p><h2>Sollzins, effektiver Jahreszins, Beleihung</h2><p>Drei Begriffe tragen jedes Angebot: Der <b>Sollzins</b> ist nach § 489 Absatz 5 BGB der gebundene oder veränderliche Prozentsatz, der pro Jahr auf das in Anspruch genommene Darlehen angewendet wird - die reine Verzinsung. Der <b>effektive Jahreszins</b> umfasst darüber hinaus weitere Kosten des Kredits und macht Angebote damit besser vergleichbar. Die <b>Beleihung</b> beschreibt das Verhältnis des Darlehens zum Wert der Immobilie: Je mehr eigene Mittel und je niedriger der Beleihungsanteil, desto besser sind typischerweise die Konditionen - ein Risikomaß aus Sicht der Bank, keine Bewertung deiner Person.</p><h2>Wie die Bausteine zusammenwirken</h2><p>Der meistgenutzte Vertragstyp ist das <a href=\"/artikel/annuitaetendarlehen-erklaert/\">Annuitätendarlehen</a> mit konstanter Rate. Für eine fest vereinbarte Zeit - die <a href=\"/artikel/zinsbindung-und-anschlussfinanzierung/\">Zinsbindung</a> - bleibt der Sollzins unverändert; danach wird die Restschuld meist weiter finanziert. Mit dem <a href=\"/rechner/kredit/\">Kreditrechner</a> kannst du Rate, Laufzeit und Restschuld eigener Annahmen durchrechnen. Keine Finanzierungsberatung - die konkrete Entscheidung gehört in individuelle Beratung.</p>",
+  "sources": [
+    {
+      "title": "BGB § 488 Vertragstypische Pflichten beim Darlehensvertrag (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__488.html"
+    },
+    {
+      "title": "BGB § 489 Ordentliches Kündigungsrecht des Darlehensnehmers (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__489.html"
+    },
+    {
+      "title": "BBSR: Nebenkosten beim Erwerb von Wohnimmobilien, BBSR-Online 12/2025 (abgerufen 26.10.2026)",
+      "url": "https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-012-2025.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viel Eigenkapital brauche ich?",
+      "a": "Eine allgemeine Pflichtquote gibt es nicht. Üblich ist die Empfehlung, mindestens die Kaufnebenkosten aus eigenen Mitteln zu zahlen, weil sie keinen Gegenwert in der Immobilie haben. Wie viel darüber hinaus sinnvoll ist, hängt von Einkommen, Absicherung und Angebot ab - das ist eine individuelle Frage, keine Regel."
+    },
+    {
+      "q": "Warum unterscheiden sich Sollzins und effektiver Jahreszins?",
+      "a": "Der Sollzins ist die reine Verzinsung des Darlehensbetrags. Der effektive Jahreszins enthält zusätzlich weitere Kosten des Kredits, etwa bestimmte Gebühren. Für den Vergleich von Angeboten ist der effektive Jahreszins die relevantere Größe."
+    },
+    {
+      "q": "Zählen die Kaufnebenkosten zum Kaufpreis?",
+      "a": "Nein. Grunderwerbsteuer, Notar, Grundbuch und Maklercourtage kommen zum Kaufpreis hinzu und lassen sich nicht aus der Immobilie wieder herauslösen. Eine Studie des BBSR zeigt, dass diese Posten mit den Kaufpreisen mitgestiegen sind."
+    }
+  ]
+}

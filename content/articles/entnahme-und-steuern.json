@@ -1,0 +1,45 @@
+{
+  "slug": "entnahme-und-steuern",
+  "title": "Entnahme und Steuern: Was vom Verkaufserlös tatsächlich bleibt",
+  "description": "Abgeltungsteuer, Sparer-Pauschbetrag und Teilfreistellung in der Entnahmephase: die wichtigsten Regeln in Grundzügen. Keine Steuerberatung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/entnahme-und-steuern.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kapitalerträge unterliegen grundsätzlich der Abgeltungsteuer von 25 Prozent, dazu der Solidaritätszuschlag von 5,5 Prozent auf die Steuer (§ 32d EStG, § 4 SolzG).</li><li>Der Sparer-Pauschbetrag beträgt 1.000 Euro pro Person, für zusammenveranlagte Ehegatten 2.000 Euro (§ 20 Abs. 9 EStG).</li><li>Bei Fonds bleibt ein Teil der Erträge steuerfrei: bei Aktienfonds 30 Prozent, bei Mischfonds 15 Prozent (§ 20 InvStG).</li><li>Besteuert wird der Gewinnanteil eines Verkaufs, nicht dein eingezahltes Kapital.</li></ul></div><h2>Der Grundrahmen</h2><p>Wer im Ruhestand Anteile verkauft oder Ausschüttungen bezieht, bewegt sich im Regelwerk der Abgeltungsteuer. Nach § 32d Absatz 1 EStG beträgt die Einkommensteuer auf Einkünfte aus Kapitalvermögen 25 Prozent. Hinzu kommt nach § 4 SolzG der Solidaritätszuschlag von 5,5 Prozent auf diese Steuer - effektiv also etwa 26,4 Prozent auf den steuerpflichtigen Ertrag, bei Kirchensteuerpflicht etwas mehr. Das Bundeszentralamt für Steuern bündelt die Verfahrensthemen rund um Kapitalerträge, darunter die Kapitalertragsteuerentlastung und die Kirchensteuer auf Abgeltungsteuer. Liegt dein persönlicher Steuersatz unter 25 Prozent, kannst du auf Antrag eine Günstigerprüfung nach § 32d Absatz 6 EStG nutzen - das Finanzamt rechnet dann, welche Variante günstiger ist.</p><h2>Sparer-Pauschbetrag und Entlastung</h2><p>Bis zur Höhe des Sparer-Pauschbetrags bleiben Kapitalerträge steuerfrei: 1.000 Euro pro Person, für zusammenveranlagte Ehegatten gemeinsam 2.000 Euro (§ 20 Abs. 9 EStG). Der Abzug tatsächlicher Werbungskosten ist daneben ausgeschlossen. In der Entnahmephase wirkt der Pauschbetrag jedes Jahr neu - er ist ein wiederkehrender Freibetrag, keine einmalige Freigabe. Die dazugehörigen Entlastungsverfahren thematisiert das BZSt unter dem Stichwort Kapitalertragsteuerentlastung.</p><h2>Fonds: die Teilfreistellung</h2><p>Bei Investmentfonds greift eine zweite Ebene. Nach § 20 InvStG sind bei Aktienfonds 30 Prozent der Erträge steuerfrei, bei Mischfonds die Hälfte davon, also 15 Prozent. <b>Strukturbeispiel, vereinfacht:</b> Erzielst du mit einem Aktienfonds einen steuerpflichtigen Gewinn von 1.000 Euro, bleiben 30 Prozent steuerfrei; auf die verbleibenden 700 Euro fallen 25 Prozent Abgeltungsteuer plus Solidaritätszuschlag an. Ohne Pauschbetrag und Kirchensteuer wären das rund 185 Euro statt gut 264 Euro. Die Zahlen sind kein Steuer-Rechner, sondern zeigen nur die Mechanik der zwei Stufen.</p><h2>Was das für die Entnahmeplanung bedeutet</h2><p>Drei Punkte gehören in jede Entnahmerechnung: Erstens ist nur der Gewinnanteil eines Verkaufs steuerrelevant - dein eingezahltes Kapital kommt unversteuert zurück, die Netto-Entnahme ist daher meist höher als die Bruttosteuer vermuten lässt. Zweitens verändern Teilfreistellung und Pauschbetrag die Nettowerte deutlich, je nachdem, was im Depot liegt. Drittens ist das hier eine vereinfachte Darstellung des Regelfalls: Verlustverrechnung, Vorabpauschale und Sonderfälle sind bewusst ausgeklammert. Keine Steuerberatung - für die eigene Situation lohnt fachliche Prüfung.</p>",
+  "sources": [
+    {
+      "title": "EStG § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__32d.html"
+    },
+    {
+      "title": "SolzG § 4 Zuschlagsatz (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/solzg_1995/__4.html"
+    },
+    {
+      "title": "EStG § 20 Einkünfte aus Kapitalvermögen (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__20.html"
+    },
+    {
+      "title": "InvStG § 20 Teilfreistellung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/invstg_2018/__20.html"
+    },
+    {
+      "title": "Bundeszentralamt für Steuern: Kapitalerträge (abgerufen 26.10.2026)",
+      "url": "https://www.bzst.de/DE/Privatpersonen/Kapitalertraege/kapitalertraege_node.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich Verkäufe aus dem Depot selbst versteuern?",
+      "a": "Bei inländischen Depots führt die Bank die Abgeltungsteuer grundsätzlich automatisch ab. Erträge, die keinem Steuerabzug unterlegen haben, musst du nach § 32d Absatz 3 EStG in der Steuererklärung angeben. Zudem kannst du nach § 32d Absatz 4 EStG eine Überprüfung des Steuereinbehalts beantragen, etwa bei nicht ausgeschöpftem Sparer-Pauschbetrag."
+    },
+    {
+      "q": "Warum ist meine Netto-Entnahme höher als gedacht?",
+      "a": "Weil nicht die gesamte Verkaufssumme besteuert wird, sondern nur der Gewinnanteil. Dein eingezahltes Kapital fließt unversteuert zurück. Bei Fonds reduziert die Teilfreistellung den steuerpflichtigen Anteil zusätzlich."
+    },
+    {
+      "q": "Gilt die Teilfreistellung automatisch?",
+      "a": "Bei inländischen Fonds und Depots wird die Teilfreistellung nach § 20 InvStG im Abzugsverfahren berücksichtigt. Voraussetzung ist, dass der Fonds die jeweilige Fondskategorie erfüllt. Details regelt das Investmentsteuergesetz."
+    }
+  ]
+}

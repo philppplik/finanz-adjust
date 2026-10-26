@@ -1,0 +1,29 @@
+{
+  "slug": "zinsbindung-und-anschlussfinanzierung",
+  "title": "Zinsbindung und Anschlussfinanzierung: Was nach dem Ende der Frist kommt",
+  "description": "Fünf, zehn oder fünfzehn Jahre fester Zins - und dann? Wie die Anschlussfinanzierung funktioniert, welche Rechte § 489 BGB dir gibt und was ein Forward-Darlehen ist.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/zinsbindung-und-anschlussfinanzierung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Zinsbindung ist der Zeitraum, für den der Sollzins fest vereinbart ist - danach bleibt meist eine Restschuld.</li><li>Für diese Restschuld brauchst du eine Anschlussfinanzierung: Verlängerung bei der Bank oder Umschuldung zu einem anderen Anbieter.</li><li>§ 489 BGB gibt dir nach zehn Jahren ab vollständiger Auszahlung ein Kündigungsrecht mit sechs Monaten Frist - unabhängig von längerer Zinsbindung.</li><li>Ein Forward-Darlehen sichert Konditionen für die Anschlussfinanzierung schon Jahre im Voraus - typischerweise gegen einen Zinsaufschlag.</li></ul></div><h2>Was Zinsbindung bedeutet</h2><p>Bei den meisten Baufinanzierungen ist der Sollzins nicht für die gesamte Laufzeit fest, sondern für einen vereinbarten Zeitraum - fünf, zehn, fünfzehn Jahre oder länger. Nach der gesetzlichen Definition in § 489 Absatz 5 BGB ist der Sollzinssatz gebunden, wenn für die Vertragslaufzeit feste Prozentzahlen vereinbart sind. Die Bindung ist ein Tausch: Planbarkeit für dich und die Bank gegen den Verzicht, von fallenden Zinsen sofort zu profitieren.</p><h2>Die Anschlussfinanzierung</h2><p>Endet die Zinsbindung und ist die Schuld noch nicht abbezahlt, steht die Anschlussfinanzierung an. Zwei Wege sind üblich: die Prolongation - du verlängerst bei deiner bisherigen Bank zu neuen Konditionen - oder die Umschuldung zu einem anderen Anbieter, die einen Wechsel der Grundschuld und damit Notar- und Grundbuchkosten auslösen kann. Der Vergleich lohnt sich fast immer: Der bisherige Anbieter schickt ein Angebot, konkurrierende Angebote setzen den Maßstab. Die Konditionen richten sich nach dem dann aktuellen Zinsumfeld - nicht nach deinem alten Vertrag.</p><h2>Deine gesetzlichen Rechte</h2><p>§ 489 BGB begrenzt, wie lange dich ein Vertrag binden kann: Nach Ablauf von zehn Jahren ab dem vollständigen Empfang des Darlehens kannst du ganz oder teilweise mit sechs Monaten Frist kündigen - auch wenn eine längere Zinsbindung vereinbart war (§ 489 Abs. 1 Nr. 2 BGB). Bei veränderlichem Zinssatz gilt eine Frist von drei Monaten (§ 489 Abs. 2 BGB). Diese Rechte können vertraglich nicht ausgeschlossen oder erschwert werden (§ 489 Abs. 4 BGB). Wichtig: Eine Kündigung gilt als nicht erfolgt, wenn der geschuldete Betrag nicht binnen zwei Wochen nach Wirksamwerden zurückgezahlt ist - die Anschlussfinanzierung muss also stehen.</p><h2>Das Forward-Darlehen</h2><p>Wer die Zinsen für die Anschlussfinanzierung früh sichern will, kann ein Forward-Darlehen abschließen: Die Konditionen werden heute für eine Auszahlung in einigen Jahren vereinbart, typischerweise gegen einen Aufschlag auf den aktuellen Satz. Es schafft Planbarkeit, ist aber eine Festlegung - fällt das Zinsniveau, bleibt der vereinbarte Satz verbindlich. Keine Finanzierungs- oder Rechtsberatung.</p>",
+  "sources": [
+    {
+      "title": "BGB § 489 Ordentliches Kündigungsrecht des Darlehensnehmers (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__489.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich während der Zinsbindung kündigen?",
+      "a": "Grundsätzlich nicht vor Ablauf, es sei denn, die Sollzinsbindung endet vor der Rückzahlungszeit ohne neue Vereinbarung (§ 489 Abs. 1 Nr. 1 BGB). Nach zehn Jahren ab vollständiger Auszahlung besteht in jedem Fall ein Kündigungsrecht mit sechsmonatiger Frist. Außerordentliche Fälle wie ein berechtigter Verkauf folgen anderen Regeln."
+    },
+    {
+      "q": "Ist eine Umschuldung kostenlos?",
+      "a": "Nicht automatisch. Der Wechsel der Grundschuld auf einen neuen Anbieter kann Notar- und Grundbuchkosten auslösen; manche Banken bieten Abtretungslösungen, die günstiger sind. Diese Kosten gehören in den Vergleich der Angebote hinein."
+    },
+    {
+      "q": "Lohnt sich ein Forward-Darlehen?",
+      "a": "Das hängt davon ab, wie sich die Zinsen bis zur Auszahlung entwickeln - das weiß niemand vorher. Es ist ein Tausch: Planbarkeit gegen einen typischen Aufschlag und gegen die Bindung. Eine allgemeine Antwort gibt es nicht."
+    }
+  ]
+}

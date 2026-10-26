@@ -1,0 +1,33 @@
+{
+  "slug": "inflation-im-ruhestand",
+  "title": "Inflation im Ruhestand: Kaufkraft über 20 und 30 Jahre denken",
+  "description": "Warum ein fester Betrag im Ruhestand jedes Jahr weniger kauft: Wie Inflation gemessen wird, warum deine persönliche Rate abweichen kann und was das für Entnahmen bedeutet. Ohne Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:09:00+01:00",
+  "image": "/images/inflation-im-ruhestand.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Inflation misst das Statistische Bundesamt über den Verbraucherpreisindex (VPI) - einen Warenkorb mit Wägungsschema, Basisjahr 2020.</li><li>Aktueller Stempel: Die Verbraucherpreise stiegen im September 2026 um 3,3 Prozent gegenüber dem Vorjahresmonat (Destatis, Mitteilung vom 13.10.2026).</li><li>Deine persönliche Inflationsrate kann abweichen, weil dein Konsum anders zusammengesetzt ist - Destatis bietet dafür einen persönlichen Inflationsrechner.</li><li>Über 20 oder 30 Jahre Ruhestand ist Kaufkraftverlust kein Nebenthema, sondern ein Hauptposten der Entnahmeplanung.</li></ul></div><h2>Was Inflation ist und wie sie gemessen wird</h2><p>Inflation ist der allgemeine Anstieg des Preisniveaus - gemessen wird er in Deutschland über den Verbraucherpreisindex des Statistischen Bundesamts. Dahinter steht ein repräsentativer Warenkorb aus Gütern und Dienstleistungen, dessen Bestandteile nach einem Wägungsschema gewichtet werden; der Index steht derzeit auf der Basis 2020 gleich 100. Aktueller Datenpunkt: Im September 2026 lagen die Verbraucherpreise 3,3 Prozent über dem Vorjahresmonat (Destatis, Mitteilung vom 13.10.2026). Solche Monatswerte schwanken - für die Ruhestandsplanung zählt nicht der einzelne Monat, sondern die lange Strecke.</p><h2>Deine persönliche Inflation</h2><p>Der VPI bildet den Durchschnitt aller Haushalte ab. Dein Ruhestand sieht anders aus: Wer weniger pendelt und mehr für Gesundheit oder Wohnen ausgibt, hat ein anderes Warenkorb-Gewicht. Destatis stellt deshalb einen persönlichen Inflationsrechner bereit, mit dem du die Gewichtung an dein Konsumverhalten anpassen kannst. Für die Planung heißt das: Die Schlagzeilen-Inflation ist der Anker, deine eigene Struktur die Korrektur.</p><h2>Strukturbeispiel Kaufkraft - vereinfacht, keine Prognose</h2><p>Angenommen, die Preise stiegen dauerhaft um 2 Prozent pro Jahr - das ist ein Rechenbeispiel, keine Vorhersage. Dann kaufen 1.000 Euro in 20 Jahren nur noch das, was heute rund 673 Euro kaufen. Bei angenommenen 3 Prozent jährlich wären es nur noch rund 554 Euro. Eine Entnahme, die nominal gleich bleibt, verliert also jedes Jahr real an Wert. Genau deshalb sehen Entnahmekonzepte wie das historische 4-Prozent-Modell eine jährliche Anpassung an die Inflation vor - mit der Folge, dass die benötigten Beträge nominal steigen.</p><h2>Was das für die Entnahme bedeutet</h2><p>Drei Konsequenzen: Erstens sollte jede Entnahmerechnung zwischen nominal und real unterscheiden - der <a href=\"/rechner/entnahmeplan/\">Entnahmeplan-Rechner</a> und der <a href=\"/rechner/inflation/\">Inflationsrechner</a> helfen beim Durchspielen eigener Annahmen. Zweitens gehört ein Puffer für steigende Ausgaben in den Plan, etwa für Posten, die stärker steigen als der Gesamtindex. Drittens hängt die Durchhaltefähigkeit des Vermögens davon ab, ob die Erträge langfristig mit den Preisen Schritt halten - eine Annahme, die du bewusst und konservativ treffen solltest. Hintergrund liefert das Glossar zur <a href=\"/glossar/inflation/\">Inflation</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Verbraucherpreisindex und Inflationsrate (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html"
+    },
+    {
+      "title": "Investopedia: What Is the 4% Rule for Withdrawals in Retirement? (abgerufen 26.10.2026)",
+      "url": "https://www.investopedia.com/terms/f/four-percent-rule.asp"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen VPI und persönlicher Inflation?",
+      "a": "Der Verbraucherpreisindex misst die Preisentwicklung eines durchschnittlichen Warenkorbs aller Haushalte. Deine persönliche Inflation hängt von deinem tatsächlichen Konsum ab - wer etwa überdurchschnittlich viel für Wohnen oder Gesundheit ausgibt, kann eine höhere Rate erleben. Der persönliche Inflationsrechner von Destatis macht genau diesen Unterschied sichtbar."
+    },
+    {
+      "q": "Reicht es, die Entnahme einmal festzulegen?",
+      "a": "Eine dauerhaft unveränderte nominale Entnahme verliert jedes Jahr Kaufkraft. Entnahmekonzepte sehen deshalb typischerweise eine jährliche Anpassung vor - entweder um die gemessene Inflation oder um einen festen Aufschlag. Welche Variante trägt, hängt von Vermögen, Zeitraum und Ertragsannahme ab."
+    },
+    {
+      "q": "Woher weiß ich, welche Inflationsrate ich annehmen soll?",
+      "a": "Das weiß niemand sicher - es ist eine Annahme, kein Faktum. Üblich ist, mit mehreren Szenarien zu rechnen, etwa 2 und 3 Prozent, und zu prüfen, ob der Plan in beiden Fällen trägt. Die langfristigen Messreihen von Destatis liefern den historischen Rahmen."
+    }
+  ]
+}

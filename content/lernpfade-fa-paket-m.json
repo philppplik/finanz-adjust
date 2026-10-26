@@ -1,0 +1,159 @@
+{
+ "paket": "M",
+ "welle": 3,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-29",
+   "name": "Entnahmephase: Vermögen im Ruhestand nutzen",
+   "frage": "Wie komme ich aus meinem Vermögen an laufendes Geld - ohne dass es vor mir leer ist?",
+   "intro": "Das Ansparen ist die vertraute Seite - das Entnehmen die unbekannte. Dieser Pfad führt dich durch die Logik der Entnahmephase: die Grundmuster der Entnahmestrategien und die berühmte 4-Prozent-Regel richtig eingeordnet, das Sequenzrisiko als stille Gefahr der ersten Jahre, die Steuerwirkung auf jeden Verkauf, die Inflation als Dauerposten über Jahrzehnte und das Langlebigkeitsrisiko als Frage des Horizonts. Am Ende liest du eine Entnahmerechnung als System von Annahmen statt als Zahlenspiel.",
+   "level": "Fortgeschritten",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 28 (Altersvorsorge verstehen) ist die direkte Vorbereitung; Lernpfad 04 (ETF-Einstieg) reicht als Minimum.",
+   "lernziel": "Du verstehst Entnahmestrategien, Sequenzrisiko und Steuerwirkung.",
+   "steps": [
+    {
+     "slug": "/artikel/entnahmestrategien-ueberblick/",
+     "warum": "Der Rahmen: die drei Grundmuster und die 4-Prozent-Regel als Forschungskonzept statt Versprechen."
+    },
+    {
+     "slug": "/rechner/entnahmeplan/",
+     "warum": "Die Praxis: eigene Entnahme-Annahmen direkt durchrechnen."
+    },
+    {
+     "slug": "/artikel/sequenzrisiko/",
+     "warum": "Die Mechanik: warum die Reihenfolge der Renditen beim Entnehmen entscheidet."
+    },
+    {
+     "slug": "/artikel/entnahme-und-steuern/",
+     "warum": "Die Abzüge: Abgeltungsteuer, Pauschbetrag und Teilfreistellung in der Entnahmephase."
+    },
+    {
+     "slug": "/artikel/inflation-im-ruhestand/",
+     "warum": "Der Dauerposten: Kaufkraft über 20 und 30 Jahre denken."
+    },
+    {
+     "slug": "/artikel/langlebigkeitsrisiko/",
+     "warum": "Der Horizont: Lebenserwartung richtig lesen und das Planungsende wählen."
+    }
+   ],
+   "terms": [
+    "inflation",
+    "rendite",
+    "diversifikation"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Du gehst in zwei Jahren in Rente und willst 30 Jahre lang entnehmen. Mit welchen drei Fragen wählst du eine Entnahmestrategie, statt einfach eine Prozentzahl zu übernehmen?",
+      "loesung": "Erst den Horizont: 30 Jahre plus Aufschlag für das Langlebigkeitsrisiko, nicht die Durchschnitts-Lebenserwartung. Dann die Flexibilität: Wie wichtig ist ein stabiler Betrag gegenüber der Fähigkeit, in schwachen Jahren weniger zu entnehmen? Dann die Nebenrechnungen: Steuern auf jeden Verkauf und Inflation über die gesamte Strecke. Erst mit diesen Antworten ist eine Rate - etwa aus der 4-Prozent-Forschung - sinnvoll einzuordnen."
+     },
+     {
+      "frage": "Dein Depot verliert im ersten Ruhestandsjahr 20 Prozent. Welche Reaktion schützt die Entnahmephase am ehesten - und welche zerstört sie?",
+      "loesung": "Schützend wirkt, die Entnahme vorübergehend zu senken oder aus einem liquiden Puffer zu bedienen, statt in der Talsohle Anteile zu verkaufen - das dämpft das Sequenzrisiko. Zerstörerisch ist das Gegenteil: die volle Entnahme aus dem gesunkenen Depot fortzusetzen, weil genau die Anteile fehlen, die an der Erholung teilhaben würden."
+     },
+     {
+      "frage": "Du willst wissen, was von einem Fondsverkauf über 10.000 Euro netto bleibt. Welche drei Dinge musst du kennen, bevor du rechnen kannst?",
+      "loesung": "Den Gewinnanteil des Verkaufs - nur er ist steuerrelevant, nicht das eingezahlte Kapital. Die Fondskategorie, weil etwa Aktienfonds 30 Prozent Teilfreistellung bringen. Und den noch freien Sparer-Pauschbetrag des Jahres, weil er die Steuer bis zu 1.000 Euro Ertrag auf null setzt."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Warum ist die 4-Prozent-Regel keine Empfehlung?",
+      "loesung": "Weil sie ein Rückblick auf historische US-Marktdaten ist: Sie zeigt, welche Rate ein gemischtes Portfolio in der Vergangenheit über rund 30 Jahre getragen hätte. Steuern, Kosten, Anlagemischung und künftige Märkte sind darin nicht enthalten."
+     },
+     {
+      "frage": "Warum wirken Verluste zu Rentenbeginn stärker als dieselben Verluste zehn Jahre später?",
+      "loesung": "Wegen des Sequenzrisikos: Zu Beginn ist das Depot am größten, und jeder Verkauf in der Talsohle entfernt Anteile dauerhaft aus der Rechnung. Spätere Verluste treffen ein bereits kleineres Depot und kürzere Reststrecke."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-30",
+     "warum": "Du weißt jetzt, wie Vermögen im Ruhestand fließt - als Nächstes rechnest du den größten Einzelposten vieler Haushalte: die Immobilienfinanzierung."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-30",
+   "name": "Immobilienfinanzierung: Zins, Tilgung, Eigenkapital",
+   "frage": "Was kostet die eigene Immobilie wirklich - und wie lese ich ein Finanzierungsangebot?",
+   "intro": "Kaum eine Entscheidung bindet so viel Geld über so viele Jahre wie eine Baufinanzierung - und kaum eine wird so oft am falschen Maßstab gemessen. Dieser Pfad baut die Rechnung Stück für Stück: die Grundlagen aus Eigenkapital, Sollzins und Beleihung, das Annuitätendarlehen als Standardkonstrukt, die Zinsbindung mit ihren gesetzlichen Rechten, die oft unterschätzten Kaufnebenkosten, die ehrliche Miete-oder-Kauf-Rechnung und zum Schluss die Frage, wie Immobilien als Anlageklasse auch ohne eigenes Objekt funktionieren.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2,5 Stunden",
+   "voraussetzungen": "Lernpfad 02 (Zinsen & Tagesgeld verstehen) hilft; ansonsten keine.",
+   "lernziel": "Du rechnest Annuität, Zinsbindung und Gesamtkosten einer Baufinanzierung.",
+   "steps": [
+    {
+     "slug": "/artikel/baufinanzierung-grundlagen/",
+     "warum": "Der Rahmen: Eigenkapital, Darlehensbetrag, Sollzins und Beleihung sortiert."
+    },
+    {
+     "slug": "/artikel/annuitaetendarlehen-erklaert/",
+     "warum": "Das Standardkonstrukt: gleiche Rate, wechselnde Zusammensetzung, durchgerechnet."
+    },
+    {
+     "slug": "/artikel/zinsbindung-und-anschlussfinanzierung/",
+     "warum": "Die Frist: was nach dem Ende der Zinsbindung kommt und welche Rechte du hast."
+    },
+    {
+     "slug": "/rechner/kredit/",
+     "warum": "Die Praxis: Rate, Laufzeit und Restschuld mit eigenen Zahlen rechnen."
+    },
+    {
+     "slug": "/artikel/nebenkosten-kaufnebenkosten/",
+     "warum": "Der unterschätzte Block: Grunderwerbsteuer, Notar, Grundbuch und Makler."
+    },
+    {
+     "slug": "/artikel/miete-vs-kauf-rechnung/",
+     "warum": "Der Vergleich: welche Posten wirklich gegenüberstehen."
+    },
+    {
+     "slug": "/artikel/immobilien-als-geldanlage-reits/",
+     "warum": "Die Anlageklasse: Direktkauf, Fonds und REITs als Wege ohne eigene Haustür."
+    }
+   ],
+   "terms": [
+    "zins",
+    "bonitaet",
+    "liquiditaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Zwei Angebote: Bank A mit niedrigerer Rate, Bank B mit höherer Anfangstilgung. Mit welchen zwei Zahlen vergleichst du sie fair?",
+      "loesung": "Mit der Restschuld am Ende der Zinsbindung und der Summe der Zinszahlungen bis dahin. Die niedrigere Rate von A kann über eine geringe Tilgung erkauft sein - dann bleibt mehr Schuld stehen und die Anschlussfinanzierung wird teurer. Erst Restschuld und Zinssumme machen die Angebote vergleichbar."
+     },
+     {
+      "frage": "Deine Zinsbindung läuft in einem Jahr aus, es bleibt eine Restschuld. Beschreibe deine nächsten drei Schritte.",
+      "loesung": "Erst das Angebot der bisherigen Bank abwarten und lesen - die Prolongation. Parallel Angebote anderer Anbieter einholen, inklusive der Frage, was ein Wechsel der Grundschuld kostet. Dann beide Seiten vergleichen: Konditionen, Nebenkosten des Wechsels und das eigene Budget. Wer früh festlegen will, kann zusätzlich ein Forward-Darlehen prüfen - mit Aufschlag und Bindung."
+     },
+     {
+      "frage": "Ein Freund sagt: \"Kaufen ist immer besser als Miete, die Rate geht ja in die eigene Tasche.\" Welche drei Posten übersehen solche Vergleiche typischerweise?",
+      "loesung": "Die einmaligen Kaufnebenkosten, die verloren sind; die laufenden Zins- und Instandhaltungskosten, die ebenfalls kein Vermögen aufbauen; und die Opportunitätskosten des Eigenkapitals samt der Frage, ob die Miet-Differenz tatsächlich angelegt wird. Erst wenn alle Posten auf dem Tisch liegen, ist der Vergleich ehrlich."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was besagt § 489 BGB für deine Baufinanzierung?",
+      "loesung": "Nach zehn Jahren ab vollständiger Auszahlung kannst du den Vertrag mit sechs Monaten Frist ganz oder teilweise kündigen - auch bei längerer Zinsbindung. Das Recht ist vertraglich nicht ausschließbar. Bei variablem Zins gilt eine Frist von drei Monaten."
+     },
+     {
+      "frage": "Warum sinkt der Zinsanteil der Annuität von Monat zu Monat?",
+      "loesung": "Weil die Zinsen auf die aktuelle Restschuld berechnet werden und diese mit jeder Tilgung sinkt. Bei konstanter Rate wächst dadurch automatisch der Tilgungsanteil - die Entschuldung beschleunigt sich selbst."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-31",
+     "warum": "Du kannst jetzt die größte Schuld deines Lebens rechnen - als Nächstes geht es um alle anderen: Kredite und Schulden im Griff."
+    }
+   ]
+  }
+ ]
+}
