@@ -1,0 +1,33 @@
+{
+  "slug": "volumen-und-momentum",
+  "title": "Volumen und Momentum: Die zweite Zeile unter dem Kurs",
+  "description": "Was das Handelsvolumen über die Bewegung verrät und was Momentum misst: die beiden Begleitgrößen des Charts verstehen, ohne aus ihnen ein Orakel zu machen.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/volumen-und-momentum.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das Volumen zählt, wie viele Stücke in einer Periode den Besitzer wechselten - es misst Beteiligung, nicht Richtung.</li><li>Hohe Beteiligung kann eine Bewegung bestärken, dünne Beteiligung macht Aussagen brüchiger.</li><li>Momentum beschreibt das Tempo der Kursveränderung über ein gewähltes Fenster.</li><li>Beide Größen ergänzen das Kursbild - sie ersetzen weder Nachrichtenlage noch Einordnung.</li></ul></div><h2>Volumen: die Beteiligung unter der Bewegung</h2><p>Unter jedem Kurschart läuft eine zweite Zeile: das Volumen, die Zahl der in der Periode gehandelten Stücke. Es antwortet auf eine andere Frage als der Kurs - nicht wohin, sondern mit wie viel Beteiligung. Drei Leseregeln: Erstens sagt Volumen nichts über die Richtung; ein hoher Ausschlag kann zu einem Kauf- wie zu einem Verkaufstag gehören. Zweitens gibt es Bewegungen Gewicht: Ein Sprung auf hohem Volumen fand vor breitem Publikum statt, derselbe Sprung auf dünnem Volumen vor fast leerem Saal. Drittens schwankt es strukturell - zwischen den Berichtsterminen ist es oft ruhiger als zur <a href=\"/artikel/glossar-berichtssaison/\">Berichtssaison</a>.</p><h2>Momentum: das Tempo der Bewegung</h2><p>Momentum-Größen messen, wie schnell sich der Kurs über ein gewähltes Fenster verändert hat - vereinfacht gesagt: die Steigung der jüngeren Bewegung. Hohes Momentum heißt, der Kurs hat in kurzer Zeit viel Strecke gemacht; es heißt nicht, dass er das auch weiter tut. Hier hilft der Begriff der Volatilität als Ordnungsrahmen: Sie ist das Maß für die durchschnittliche Schwankungsbreite eines Preises für eine bestimmte Periode, statistisch die Standardabweichung (Wiener Börse, Börsenlexikon, abgerufen 26.10.2026). Ein Wertpapier mit hoher Volatilität erzeugt zwangsläufig häufiger große Momentum-Ausschläge - ohne dass jeder Ausschlag eine Wende ankündigt.</p><h2>Einordnung</h2><p>Volumen und Momentum sind Begleitinstrumente: Sie beschreiben Beteiligung und Tempo des Vergangenen. Die Chartanalyse deutet solche Größen im Rahmen ihrer Grundannahme, dass sich Muster wiederholen - wie tragfähig diese Annahme ist, prüft der Artikel zu den <a href=\"/artikel/charttechnik-grenzen/\">Grenzen der Charttechnik</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Volatilität (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-v/volatilitaet/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Chart-Analyse (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/chart-analyse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zeigt steigendes Volumen an, dass es weitergeht?",
+      "a": "Nein. Es zeigt nur, dass viel gehandelt wird. Richtung und Fortdauer der Bewegung sind andere Fragen - Volumen misst Beteiligung, nicht die Zukunft."
+    },
+    {
+      "q": "Ist hohes Momentum ein Warnsignal?",
+      "a": "Es ist vor allem eine Beschreibung: Der Kurs ist schnell gelaufen. Ob daraus eine Pause, eine Umkehr oder eine Fortsetzung wird, ist offen - hohe Geschwindigkeit sagt nichts über die weitere Richtung."
+    },
+    {
+      "q": "Warum ist Volumen bei kleinen Werten so dünn?",
+      "a": "Weil weniger Stücke den Besitzer wechseln. Dünnes Volumen macht Kurse anfälliger für Sprünge und Chartsignale brüchiger - ein Grund, warum Technik in engen Märkten weniger trägt."
+    }
+  ]
+}

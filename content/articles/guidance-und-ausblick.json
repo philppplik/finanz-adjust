@@ -1,0 +1,33 @@
+{
+  "slug": "guidance-und-ausblick",
+  "title": "Guidance und Ausblick: Warum der Blick nach vorn oft mehr zählt als das Quartal",
+  "description": "Die eigene Prognose des Unternehmens lesen: was das HGB zum Ausblick im Lagebericht verlangt, wie Guidance aufgebaut ist und woran du Veränderungen erkennst.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/guidance-und-ausblick.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das Quartalsergebnis ist Vergangenheit - die Guidance ist der offizielle Blick des Unternehmens nach vorn.</li><li>Paragraf 289 HGB verpflichtet den Lagebericht, die voraussichtliche Entwicklung mit Chancen und Risiken zu beurteilen und die Annahmen offenzulegen.</li><li>Guidance kommt als Spanne oder Richtungsangabe, selten als Punktziel - und sie gilt unter Annahmen.</li><li>Angehobene oder gesenkte Guidance bewegt den Markt meist stärker als das abgelaufene Quartal.</li></ul></div><h2>Was das Gesetz verlangt</h2><p>Der Ausblick ist keine Freundlichkeit des Managements, sondern Pflichtbestandteil: Paragraf 289 Absatz 1 HGB verlangt, dass im Lagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken beurteilt und erläutert wird - und dass die zugrunde liegenden Annahmen anzugeben sind (gesetze-im-internet.de, abgerufen 26.10.2026). Das heißt: Jede seriöse Prognose kommt mit ihren Bedingungen. Wer nur die Zielzahl liest und die Annahmen überspringt, liest nur die halbe Botschaft.</p><h2>Wie Guidance aufgebaut ist</h2><p>Guidance ist die zusammengefasste Zielrichtung des Unternehmens für das laufende Jahr: typischerweise für Umsatz, Ergebnisgrößen und Kennzahlen, formuliert als Spanne oder als Richtungswort wie leichtes Wachstum. Drei Leseregeln: Erstens gilt sie unter den genannten Annahmen - etwa zu Wechselkursen oder Rohstoffpreisen. Zweitens ist sie bewusst vorsichtig formuliert, denn das Management haftet für den Lagebericht mit einer Versicherung an Eides statt im Sinn des Paragrafen. Drittens zählt die Veränderung: Wird eine Guidance im Jahresverlauf angehoben, bestätigt oder gesenkt, ist genau das die Nachricht - nicht die Zahl selbst.</p><h2>Einordnung</h2><p>In der Berichtssaison dreht sich die Aufmerksamkeit deshalb schnell vom Quartal zum Ausblick: Das Quartal ist abgeschlossen, die Guidance beschreibt die kommenden Quartale. Ob die Erwartung des Marktes zur Guidance passt, entscheidet über die Reaktion - die Mechanik steht im Artikel zum <a href=\"/artikel/konsens-schaetzungen-und-ueberraschung/\">Konsens</a>. Wo der Ausblick im Geschäftsbericht steht, zeigt der Artikel zur <a href=\"/artikel/geschaeftsbericht-orientierung/\">Orientierung im Geschäftsbericht</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Paragraf 289 HGB: Inhalt des Lageberichts (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/hgb/__289.html"
+    },
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Finanzberichte nach Paragraf 114 ff. WpHG (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist die Guidance eine verbindliche Zusage?",
+      "a": "Nein. Sie ist eine Prognose unter ausgewiesenen Annahmen. Das HGB verlangt genau diese Annahmen transparent zu machen - ändern sich die Bedingungen, kann das Unternehmen die Guidance anpassen und muss das erläutern."
+    },
+    {
+      "q": "Warum reagiert der Kurs manchmal stärker auf den Ausblick als auf die Zahlen?",
+      "a": "Weil das Quartal bereits eingepreist sein kann, während der Ausblick neue Information über die Zukunft liefert. Eine gesenkte Guidance kann gute Quartalszahlen überlagern - und umgekehrt."
+    },
+    {
+      "q": "Wo steht die Guidance genau?",
+      "a": "Im Lagebericht des Geschäftsberichts, im Abschnitt zur voraussichtlichen Entwicklung, und in den Unterlagen zur Berichtssaison auf der Investor-Relations-Seite des Unternehmens. Achte auf die Angabe der Annahmen direkt daneben."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+ "paket": "H",
+ "welle": 3,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-19",
+   "name": "Quartalszahlen & Berichtssaison",
+   "frage": "Rekordzahlen, fallender Kurs - was erwarte ich eigentlich von der Berichtssaison?",
+   "intro": "Vier Mal im Jahr bringen die Quartalszahlen Bewegung in die Kurse - und die Schlagzeilen erklären selten, warum gute Zahlen Kurse fallen lassen können. Dieser Pfad führt dich durch die Mechanik der Berichtssaison: den Konsens als Erwartungsmaßstab, die Guidance als offiziellen Ausblick, die Kursreaktion als Zusammenspiel beider, den Earnings-Kalender als Terminquelle und die Frage, welches Dokument welche Aussage trägt. Am Ende liest du einen Berichtstag wie ein Protokoll statt wie ein Gewinnspiel.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 18 (Geschäftsbericht, Bilanz und GuV) ist die direkte Vorbereitung; Lernpfad 03 (Aktien-Basics) reicht als Minimum.",
+   "lernziel": "Du ordnest Berichtstage ein: Konsens, Guidance, Kursreaktion und die richtige Quelle je Frage.",
+   "steps": [
+    {
+     "slug": "/artikel/glossar-berichtssaison/",
+     "warum": "Der Rahmen: Was die Berichtssaison ist und warum sie in Wellen über den Kalender läuft."
+    },
+    {
+     "slug": "/artikel/konsens-schaetzungen-und-ueberraschung/",
+     "warum": "Der Maßstab: Wie Erwartungen entstehen und warum die Abweichung zählt."
+    },
+    {
+     "slug": "/artikel/guidance-und-ausblick/",
+     "warum": "Der Blick nach vorn: Die eigene Prognose des Unternehmens und ihre Annahmen."
+    },
+    {
+     "slug": "/artikel/kursreaktion-auf-zahlen/",
+     "warum": "Die Mechanik: Warum Kurse auf Zahlen springen, zögern oder drehen."
+    },
+    {
+     "slug": "/artikel/earnings-kalender-nutzen/",
+     "warum": "Die Praxis: Berichtstermine an der richtigen Quelle finden und lesen."
+    },
+    {
+     "slug": "/artikel/pressemitteilung-vs-bericht/",
+     "warum": "Die Quellenkunde: Ad-hoc, Mitteilung und Pflichtbericht richtig sortiert."
+    }
+   ],
+   "terms": [
+    "emittent",
+    "rendite",
+    "was-bedeutet-volatilitaet"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Unternehmen meldet einen Rekordgewinn - und die Aktie fällt. Welche drei Dinge prüfst du zuerst, bevor du die Reaktion einordnest?",
+      "loesung": "Erst den Konsens: Lag die Erwartung vielleicht noch über dem Rekord? Dann die Guidance: Wurde der Ausblick gesenkt oder wurden die Annahmen schwächer? Dann die Qualität der Zahl: stecken Einmaleffekte darin, und deckt der Cashflow den Gewinn? Erst mit allen drei Antworten ist die Kursreaktion einzuordnen."
+     },
+     {
+      "frage": "Zwischen zwei Berichtsterminen erscheint überraschend eine Ad-hoc-Meldung. Was sagt dir das über die Lage, und wo verifizierst du die Details?",
+      "loesung": "Eine Ad-hoc-Meldung kommt nur bei erheblicher Kursrelevanz (Art. 17 MAR) - das Unternehmen sieht eine deutliche Abweichung vom bisherigen Bild. Die Details stehen in der Meldung selbst auf der Investor-Relations-Seite; eingeordnet wird sie gegen die bisherige Guidance aus dem letzten Bericht."
+     },
+     {
+      "frage": "Du willst die nächste Berichtssaison einer Aktie verfolgen. Beschreibe deinen Ablauf von der Terminsuche bis zur Einordnung.",
+      "loesung": "Termin im Finanzkalender des Emittenten prüfen, inklusive Vorbehalt und Tageszeit. Vorab Konsenslage und bisherige Guidance lesen. Am Berichtstag Meldung und Bericht gegen Erwartung und Ausblick prüfen - nicht nur die Schlagzeile. Danach erst beurteilen, ob sich am eigenen Bild etwas geändert hat."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Warum kann eine Aktie nach starken Zahlen fallen?",
+      "loesung": "Weil der Markt auf die Abweichung von der Erwartung reagiert: Lagen Konsens oder Guidance-Erwartung höher als die Meldung, ist die Überraschung negativ - bei objektiv starken Zahlen."
+     },
+     {
+      "frage": "Was verlangt Paragraf 289 HGB für den Ausblick im Lagebericht?",
+      "loesung": "Der Lagebericht muss die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken beurteilen und erläutern, und die zugrunde liegenden Annahmen sind anzugeben."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-20",
+     "warum": "Du verstehst jetzt die Termine und Zahlen - als Nächstes lernst du, die Kursbilder dazu nüchtern zu lesen."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-20",
+   "name": "Charttechnik-Basics ohne Mythen",
+   "frage": "Linien, Kerzen, Muster - was davon ist Werkzeug, was Mythos?",
+   "intro": "Charts sind überall - und ebenso überall werden sie überlesen. Dieser Pfad zeigt dir die Grundlagen der Charttechnik ohne die Mythologie: die drei Chartarten, Trends und markante Zonen, die 100-Tage-Linie und die gleitenden Durchschnitte dahinter, Volumen und Momentum als Begleitgrößen - und zum Schluss eine ehrliche Bilanz der Grenzen. Du lernst, Linien als Orientierung zu nutzen, ohne ihnen die Zukunft anzuvertrauen.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 07 (Börsenmeldungen lesen) oder ein vertrauter Umgang mit Kursansichten.",
+   "lernziel": "Du liest Charts als Orientierung und kennst die Grenzen jeder Linie.",
+   "steps": [
+    {
+     "slug": "/artikel/chartarten-erklaert/",
+     "warum": "Das Handwerkszeug: Linie, Balken und Kerzen - und was jede Darstellung zeigt."
+    },
+    {
+     "slug": "/artikel/trend-und-unterstuetzung/",
+     "warum": "Die Richtung: Trendlängen und markante Zonen sauber einordnen."
+    },
+    {
+     "slug": "/artikel/100-tage-linie-erklaert/",
+     "warum": "Die bekannteste Linie: Was die 100-Tage-Linie aussagt - und was nicht."
+    },
+    {
+     "slug": "/artikel/gleitende-durchschnitte/",
+     "warum": "Die Rechnung dahinter: Wie Glättung funktioniert und was sie kostet."
+    },
+    {
+     "slug": "/artikel/volumen-und-momentum/",
+     "warum": "Die Begleitgrößen: Beteiligung und Tempo unter dem Kursbild."
+    },
+    {
+     "slug": "/artikel/charttechnik-grenzen/",
+     "warum": "Die ehrliche Bilanz: Was Linien leisten und wo sie enden."
+    }
+   ],
+   "terms": [
+    "liquiditaet",
+    "was-bedeutet-volatilitaet",
+    "rendite"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Ein Bekannter zeigt dir einen Chart mit eingezeichnetem Dreieck und sagt: Wenn die Spitze bricht, geht es sicher nach oben. Was antwortest du mit diesem Pfad?",
+      "loesung": "Dass die Chartanalyse aus vergangenen Verläufen Rückschlüsse zieht und Wiederholung annimmt - eine Verhaltensbeobachtung, kein Gesetz. Das Dreieck beschreibt bisheriges Verhalten; ob es bricht und was dann passiert, ist offen. Neue Informationen können jedes Muster überholen. Als Orientierung in Ordnung, als Versprechen nicht."
+     },
+     {
+      "frage": "Die 100-Tage-Linie einer Aktie steigt seit Monaten, der Kurs rutscht gerade darunter. Was hast du beobachtet - und was folgt daraus nicht?",
+      "loesung": "Beobachtet: Die Linie mittelt hundert Tage und läuft dem Kurs hinterher; der Kurs liegt jetzt unter seinem Durchschnitt - eine Lagebeobachtung. Nicht folgen: ein automatisches Handelssignal. Die Linie kennt weder die Nachrichtenlage noch deine Anlagegründe."
+     },
+     {
+      "frage": "Eine Aktie springt an einem Tag um acht Prozent - auf sehr dünnem Volumen. Wie ordnest du die Bewegung ein?",
+      "loesung": "Dünnes Volumen heißt wenig Beteiligung: Wenige Orders konnten den Kurs weit bewegen. Die Bewegung ist real, aber als Signal brüchig; Gewicht bekommt sie erst mit Beteiligung oder mit bestätigenden Informationen."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Was ist ein Chart im Sinne des Börsenlexikons der Wiener Börse?",
+      "loesung": "Die grafische Darstellung einer Preisentwicklung - eine Sicht auf vergangene Kurse, keine Vorschau auf kommende."
+     },
+     {
+      "frage": "Welche drei Trendlängen unterscheidet das Börsenlexikon der Wiener Börse?",
+      "loesung": "Primärtrend (länger als ein Jahr), Sekundärtrend (drei Wochen bis mehrere Monate) und Tertiärtrend (unter drei Wochen) - jeweils aufwärts, abwärts oder seitwärts möglich."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-21",
+     "warum": "Hinter vielen Kursbewegungen steht Geldpolitik - der Makro-Pfad zu EZB und Fed schließt direkt an."
+    }
+   ]
+  }
+ ]
+}

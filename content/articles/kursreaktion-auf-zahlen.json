@@ -1,0 +1,33 @@
+{
+  "slug": "kursreaktion-auf-zahlen",
+  "title": "Kursreaktion auf Zahlen: Warum der Kurs springt - oder eben nicht",
+  "description": "Die Mechanik hinter Kursbewegungen am Zahltag: Erwartungslücke, Guidance und Marktumfeld im Zusammenspiel - mit Volatilität als Maß der Bewegung. Keine Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/kursreaktion-auf-zahlen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Kursreaktion folgt der Überraschung, nicht der Schlagzeile: Erwartungslücke plus Ausblick plus Marktumfeld.</li><li>Dieselbe Zahl kann an zwei Tagen gegenteilige Reaktionen auslösen - der Kontext entscheidet mit.</li><li>Sehr kursrelevante Abweichungen können die Ad-hoc-Pflicht des Emittenten auslösen (Art. 17 MAR).</li><li>Volatilität misst die durchschnittliche Schwankungsbreite - sie steigt rund um Berichtstermine oft an.</li></ul></div><h2>Drei Treiber der Reaktion</h2><p>Am Zahltag wirken drei Kräfte zusammen. Erstens die Erwartungslücke: Liegt das Ergebnis über oder unter dem Konsens, wie der Artikel zu <a href=\"/artikel/konsens-schaetzungen-und-ueberraschung/\">Konsens und Überraschung</a> zeigt. Zweitens der Ausblick: Eine angehobene oder gesenkte <a href=\"/artikel/guidance-und-ausblick/\">Guidance</a> kann die Quartalszahl vollständig überlagern. Drittens das Marktumfeld: An nervösen Tagen fallen Reaktionen tendenziell heftiger aus als in ruhigen Phasen - ein Grund, warum aus derselben Überraschung mal ein Sprung und mal ein Zögern wird. Eine sichere Vorschau auf die Richtung gibt es nicht; beschreiben lässt sich nur die Mechanik.</p><h2>Warum es manchmal kracht</h2><p>Erreicht eine Nachricht erhebliche Kursrelevanz, greift die Ad-hoc-Pflicht: Nach Artikel 17 Absatz 1 MAR muss ein Emittent Insiderinformationen, die den Preis erheblich beeinflussen können, grundsätzlich unverzüglich veröffentlichen (BaFin, abgerufen 26.10.2026). Deshalb erscheinen Gewinnwarnungen oft vor dem regulären Termin. Für dich heißt das: Eine Ad-hoc-Meldung zwischen den Berichtsterminen ist ein starkes Signal - sie steht genau dann im Raum, wenn die Abweichung vom bisherigen Bild groß ist.</p><h2>Die Bewegung messen</h2><p>Wie heftig es zugeht, beschreibt die Volatilität: Das Börsenlexikon der Wiener Börse definiert sie als Maß für die durchschnittliche Schwankungsbreite eines Preises für eine bestimmte Periode, statistisch als Standardabweichung (abgerufen 26.10.2026). Rund um Berichtstermine steigt die Schwankungsbreite erfahrungsgemäß - der Vertiefungsartikel dazu ist <a href=\"/artikel/volatilitaet-und-drawdown/\">Volatilität und Drawdown</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Volatilität (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-v/volatilitaet/"
+    },
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Ad-hoc-Publizität nach Art. 17 MAR (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann man die Richtung der Reaktion vorhersagen?",
+      "a": "Nein. Selbst wer die Zahlen kennt, kennt weder die exakte Erwartung aller Marktteilnehmer noch das Tagesumfeld. Beobachten lässt sich die Mechanik, vorhersagen lässt sich der Ausgang nicht."
+    },
+    {
+      "q": "Warum steigt eine Aktie nach schwachen Zahlen manchmal trotzdem?",
+      "a": "Weil die Erwartung noch schwächer war, die Guidance Zuversicht ausstrahlt oder die schlechte Nachricht vorab schon im Kurs steckte. Entscheidend ist immer die Differenz zwischen Erwartung und Meldung."
+    },
+    {
+      "q": "Was ist eine Gewinnwarnung?",
+      "a": "Eine Ad-hoc-Mitteilung, mit der ein Unternehmen ankündigt, dass es seine eigenen Ziele deutlich verfehlen wird. Sie ist Ausfluss der Ad-hoc-Pflicht: Die Abweichung ist groß genug, um den Kurs erheblich zu beeinflussen."
+    }
+  ]
+}

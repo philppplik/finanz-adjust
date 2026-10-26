@@ -1,0 +1,33 @@
+{
+  "slug": "chartarten-erklaert",
+  "title": "Chartarten erklärt: Linie, Balken und Kerzen im Vergleich",
+  "description": "Was ein Chart überhaupt zeigt und welche Darstellung was sichtbar macht: Linienchart, Balkenchart und Candlestick - Aufbau, Informationsgehalt, typische Lesefehler.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/chartarten-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Chart ist die grafische Darstellung einer Preisentwicklung (Wiener Börse, Börsenlexikon).</li><li>Der Linienchart verbindet Schlusskurse und blendet den Tagesverlauf aus.</li><li>Balken und Kerzen zeigen Eröffnung, Hoch, Tief und Schluss pro Periode - mehr Information, mehr Deutungsraum.</li><li>Die Wahl der Darstellung verändert, was du siehst - nicht die Kurse dahinter.</li></ul></div><h2>Was ein Chart ist</h2><p>Das Börsenlexikon der Wiener Börse definiert den Chart schlicht als grafische Darstellung einer Preisentwicklung (abgerufen 26.10.2026). Alle Chartarten beantworten dieselbe Grundfrage - wie hat sich der Preis über die Zeit bewegt - und unterscheiden sich nur darin, wie viel Detail des Weges sie zeigen.</p><h2>Die drei Grundformen</h2><p>Der Linienchart verbindet die Schlusskurse der Perioden zu einer durchgehenden Linie. Er ist die ruhigste Darstellung: Eröffnung, Tageshoch und Tagestief verschwinden, übrig bleibt die Richtung. Für den schnellen Überblick über Monate und Jahre ist das meist genug. Der Balkenchart zeichnet pro Periode einen senkrechten Strich vom Tief zum Hoch, mit einem kurzen Querstrich links für die Eröffnung und rechts für den Schluss. Der Candlestick- oder Kerzenchart trägt dieselben vier Werte anders: Ein Körper verbindet Eröffnung und Schluss, dünne Dochte markieren Hoch und Tief. Die Färbung des Körpers zeigt, ob der Schluss über oder unter der Eröffnung lag.</p><h2>Was die Wahl verändert</h2><p>Zwei Lesefehler sind typisch. Erstens: Wer nur die Linie kennt, übersieht die Tagesspanne - ein ruhiger Schlusskurs kann einen wilden Handelstag verdecken. Zweitens: Wer Kerzen mustert, neigt dazu, in jeder einzelnen Kerze eine Botschaft zu suchen. Vier Kurswerte pro Periode sind Daten, noch keine Aussage. Was Chartanalyse aus solchen Mustern ableiten will und wo ihre Grenzen liegen, steht im Artikel zu den <a href=\"/artikel/charttechnik-grenzen/\">Grenzen der Charttechnik</a>. Und welche Rolle Linien wie die <a href=\"/artikel/100-tage-linie-erklaert/\">100-Tage-Linie</a> in diesen Charts spielen, steht im eigenen Artikel. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Chart (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/chart/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Chart-Analyse (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/chart-analyse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Chartart ist die richtige für den Anfang?",
+      "a": "Der Linienchart. Er zeigt die Richtung ohne Nebenschauplätze. Balken und Kerzen werden interessant, wenn du den Verlauf innerhalb der Perioden verstehen willst."
+    },
+    {
+      "q": "Was bedeuten die Farben der Kerzen?",
+      "a": "Die Färbung markiert, ob der Schlusskurs über oder unter dem Eröffnungskurs lag. Welche Farbe für welche Richtung steht, hängt von der Darstellung deiner Plattform ab - die Legende der Plattform ist maßgeblich."
+    },
+    {
+      "q": "Zeigen alle Charts dasselbe?",
+      "a": "Die Kursdaten sind dieselben, aber die Sichtbarkeit unterscheidet sich: Die Linie zeigt nur Schlusskurse, Balken und Kerzen zusätzlich Eröffnung, Hoch und Tief. Mehr angezeigte Information bedeutet nicht automatisch mehr Erkenntnis."
+    }
+  ]
+}

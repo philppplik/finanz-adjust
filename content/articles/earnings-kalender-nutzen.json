@@ -1,0 +1,33 @@
+{
+  "slug": "earnings-kalender-nutzen",
+  "title": "Earnings-Kalender nutzen: Berichtstermine richtig finden und lesen",
+  "description": "Wo die verlässlichen Berichtstermine stehen: der Finanzkalender des Emittenten als erste Quelle, Pflichtberichte nach WpHG und der richtige Umgang mit Vorbehaltsterminen.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/earnings-kalender-nutzen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Finanzkalender auf der Investor-Relations-Seite des Emittenten ist die verbindlichste öffentliche Terminquelle.</li><li>Jahres- und Halbjahresfinanzberichte sind Pflicht (Paragraf 114 ff. WpHG), die Termine kündigen die Unternehmen vorab an.</li><li>Viele Kalender weisen Termine als erwartet aus - Verschiebungen kommen vor.</li><li>Zeitpunkt des Tages beachten: Manche Berichte erscheinen vor Handelsbeginn, andere nach Börsenschluss.</li></ul></div><h2>Die richtige Quelle</h2><p>Wer wissen will, wann ein Unternehmen berichtet, geht am besten direkt zur Quelle: den Finanzkalender auf seiner Investor-Relations-Seite. Der Kalender der Deutschen Telekom zeigt den typischen Aufbau (abgerufen 26.10.2026): das Jahresergebnis, die drei Quartalstermine und die Hauptversammlung als fortlaufende Liste - ausgewiesen mit dem Hinweis, dass alle Termine erwartete Termine sind. Genau diesen Vorbehalt solltest du mitlesen: Bis kurz vor dem Tag kann sich ein Termin verschieben, und erst die Einladung oder Meldung macht ihn endgültig.</p><h2>Warum es diese Termine überhaupt gibt</h2><p>Hinter dem Kalender steht eine Pflicht: Nach den Paragrafen 114 ff. WpHG müssen börsennotierte Unternehmen Jahres- und Halbjahresfinanzberichte veröffentlichen, damit Anleger regelmäßig über die Geschäftsentwicklung informiert werden - Pflichtbestandteile sind die Abschlüsse und die Lageberichte (BaFin, abgerufen 26.10.2026). Viele Unternehmen berichten zusätzlich zum ersten und dritten Quartal. Aus diesem Rhythmus entsteht die <a href=\"/artikel/glossar-berichtssaison/\">Berichtssaison</a>: Weil die Geschäftsjahre meist dem Kalenderjahr folgen, verdichten sich die Termine zu Wellen.</p><h2>Praxis: den Kalender lesen</h2><p>Vier Punkte: Erstens Quelle wählen - Emittentenkalender vor Portal-Terminlisten, denn Drittanbieter können Termine ungeprüft übernehmen. Zweitens Tageszeit beachten - Berichte erscheinen vor Börsenbeginn, während des Handels oder nach Schluss, und das prägt, wann die erste Kursreaktion möglich ist. Drittens den Vorbehalt prüfen - ein als erwartet markierter Termin ist ein Plan, keine Zusage. Viertens die zugehörigen Dokumente gleich mit speichern: Bericht, Präsentation und Webcast-Link liegen meist am selben Ort. Wie du die Meldungen dann einordnest, steht im Artikel zur <a href=\"/artikel/quartalsberichtssaison-einordnung/\">Einordnung der Berichtssaison</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Telekom: Financial Calendar - Beispiel eines Emittentenkalenders (abgerufen 26.10.2026)",
+      "url": "https://www.telekom.com/en/investor-relations/service/financial-calendar"
+    },
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Finanzberichte nach Paragraf 114 ff. WpHG (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt der Termin im Finanzkalender als fest?",
+      "a": "Er ist die verbindlichste öffentliche Planungsgröße, aber häufig als erwartet ausgewiesen. Kurzfristige Verschiebungen kommen vor - die finale Bestätigung liefert die Einladung oder Meldung des Unternehmens."
+    },
+    {
+      "q": "Warum unterscheiden Portale manchmal Termine?",
+      "a": "Weil Drittanbieter Termine aus unterschiedlichen Quellen und zu unterschiedlichen Zeitpunkten übernehmen. Im Konfliktfall gewinnt der Kalender des Emittenten."
+    },
+    {
+      "q": "Melden alle Unternehmen viermal im Jahr?",
+      "a": "Pflicht sind Jahres- und Halbjahresfinanzberichte. Viele größere Emittenten berichten zusätzlich zum ersten und dritten Quartal - das ist Usus, nicht die gesetzliche Grundlinie."
+    }
+  ]
+}

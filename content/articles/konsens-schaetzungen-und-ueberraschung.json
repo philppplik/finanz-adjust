@@ -1,0 +1,33 @@
+{
+  "slug": "konsens-schaetzungen-und-ueberraschung",
+  "title": "Konsens und Überraschung: Was der Markt erwartet, bevor Zahlen kommen",
+  "description": "Warum Kurse auf die Abweichung von der Erwartung reagieren und nicht auf die Schlagzeile: Konsensschätzungen verstehen, Überraschungen einordnen. Ohne Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/konsens-schaetzungen-und-ueberraschung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Analysten schätzen Umsatz und Gewinn vorab - der Konsens bündelt diese Schätzungen zu einem Erwartungswert.</li><li>Einige Emittenten veröffentlichen solche Sammlungen auf ihren IR-Seiten, mit Stand und deutlichem Haftungsvorbehalt.</li><li>Die Kursreaktion folgt meist der Abweichung vom Erwarteten, nicht der absoluten Höhe der Zahlen.</li><li>Erheblich kursrelevante Überraschungen können eine Ad-hoc-Mitteilung nach Artikel 17 MAR auslösen.</li></ul></div><h2>Wie der Konsens entsteht</h2><p>Bevor ein Unternehmen Zahlen meldet, haben Analysten längst geschätzt, was kommt: Umsatz, Gewinn, Margen. Der Konsens bündelt diese Einzelschätzungen zu einem Erwartungswert. Wie das in der Praxis aussieht, zeigt die Konsensus-Seite von RWE (abgerufen 26.10.2026): Das Unternehmen wird nach eigenen Angaben von zahlreichen deutschen und internationalen Finanzanalysten beobachtet und stellt die gesammelten Schätzungen mit ausgewiesenem Stichtag als Download bereit. Gleichzeitig betont RWE, sich die Empfehlungen und Bewertungen nicht zu eigen zu machen und keine Haftung für Auswahl, Aktualität, Vollständigkeit oder Richtigkeit zu übernehmen. Der Konsens ist also eine fremde Erwartung, die der Emittent nur dokumentiert.</p><h2>Warum die Abweichung zählt</h2><p>Ein Rekordgewinn kann den Kurs kalt lassen, wenn der Konsens ihn genau so erwartet hatte. Ein solides Ergebnis kann Kursbewegung auslösen, wenn die Erwartung höher lag. Entscheidend ist die Differenz zwischen Schätzung und Meldung - die Überraschung. Grobe Einordnung in drei Fälle: Die Zahl trifft den Konsens, dann bleibt es oft ruhig. Sie liegt spürbar darüber oder darunter, dann reagieren Kurs und Volatilität. Und ist die Abweichung groß genug, um den Kurs erheblich zu beeinflussen, kann für den Emittenten die Ad-hoc-Pflicht greifen: Nach Artikel 17 Absatz 1 MAR hat ein Emittent Insiderinformationen, die den Preis erheblich beeinflussen können, grundsätzlich unverzüglich zu veröffentlichen (BaFin, abgerufen 26.10.2026).</p><h2>Wie du den Konsens liest</h2><p>Drei Fragen helfen: Wer steht hinter der Zahl - wie viele Analysten, welcher Stichtag? Was genau wurde geschätzt - Umsatz, Gewinn, oder eine bereinigte Kenngröße? Und wo steht die eigene Prognose des Unternehmens im Verhältnis dazu? Die Prognose liest du im Artikel zur <a href=\"/artikel/guidance-und-ausblick/\">Guidance</a>, die Kursseite der Überraschung im Artikel zur <a href=\"/artikel/kursreaktion-auf-zahlen/\">Kursreaktion</a>. Den Rahmen setzt der Überblick zur <a href=\"/artikel/glossar-berichtssaison/\">Berichtssaison</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "RWE: Analystenempfehlungen und Konsensus (abgerufen 26.10.2026)",
+      "url": "https://www.rwe.com/investor-relations/rwe-aktie/analystenempfehlungen-und-konsensus/"
+    },
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Ad-hoc-Publizität nach Art. 17 MAR (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der Konsens die offizielle Prognose des Unternehmens?",
+      "a": "Nein. Der Konsens bündelt Schätzungen von Analysten. Emittenten, die ihn veröffentlichen, weisen ausdrücklich darauf hin, dass sie sich die Schätzungen nicht zu eigen machen. Die offizielle Richtung gibt nur die eigene Prognose des Unternehmens, die Guidance."
+    },
+    {
+      "q": "Warum fällt eine Aktie trotz guter Zahlen manchmal?",
+      "a": "Weil der Markt auf die Abweichung von der Erwartung reagiert. Lagen die Schätzungen noch höher als die gemeldeten Zahlen, ist die Überraschung negativ - bei objektiv guten Zahlen."
+    },
+    {
+      "q": "Wo finde ich den Konsens zu einer Aktie?",
+      "a": "Manche Emittenten stellen eine Sammlung auf ihrer Investor-Relations-Seite bereit, Finanzportale aggregieren ebenfalls Schätzungen. Wichtig sind Stichtag und Quellenlage: Ein Konsens von vor drei Monaten beschreibt eine andere Erwartung als einer von gestern."
+    }
+  ]
+}

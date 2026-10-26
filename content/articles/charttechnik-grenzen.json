@@ -1,0 +1,33 @@
+{
+  "slug": "charttechnik-grenzen",
+  "title": "Grenzen der Charttechnik: Was Linien nicht leisten",
+  "description": "Die Grundannahme der Chartanalyse und ihr Bruchpunkt: warum Muster die Vergangenheit beschreiben, aber keine Zukunft erzwingen - und wofür du Charts sinnvoll nutzt.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/charttechnik-grenzen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Chartanalyse zieht aus vergangenen Preisverläufen Rückschlüsse auf die Zukunft und setzt voraus, dass sich Trends wiederholen (Wiener Börse, Börsenlexikon).</li><li>Diese Annahme ist zugleich ihre Grenze: Wiederholung ist Verhaltensbeobachtung, kein Naturgesetz.</li><li>Neue Informationen - Zahlen, Zinsen, Nachrichten - können jedes Muster sofort überholen.</li><li>Sinnvoll genutzt, ordnet der Chart Vergangenheit und hilft beim Fragenstellen - er ersetzt keine Anlagegründe.</li></ul></div><h2>Die Annahme im Zentrum</h2><p>Das Börsenlexikon der Wiener Börse beschreibt das Verfahren präzise: Bei der Chart-Analyse werden von vergangenen Preisverläufen (Formationen) Rückschlüsse auf zukünftige Preisbewegungen gezogen, wobei davon ausgegangen wird, dass die Preisentwicklungen bestimmten Trends folgen und sich diese Trends wiederholen werden (abgerufen 26.10.2026). In diesen zwei Sätzen steckt alles: die Stärke - ein ordnender Blick auf das bisherige Verhalten - und die Schwäche, denn die ganze Methode steht und fällt mit der Wiederholungsannahme.</p><h2>Vier konkrete Grenzen</h2><p>Erstens: Muster beschreiben Vergangenheit. Eine Formation ist fertig, bevor sie benannt wird - ihre Fortsetzung ist Deutung. Zweitens: Neue Information schlägt Muster. Eine Gewinnwarnung, ein Zinsentscheid oder eine Überraschung aus der <a href=\"/artikel/glossar-berichtssaison/\">Berichtssaison</a> kann jede Linie in Minuten überholen. Drittens: Rückschauverzerrung. Im fertigen Chart wirken Wendepunkte offensichtlich, die live keineswegs offensichtlich waren. Viertens: Brüchige Datenlage. Bei dünn gehandelten Werten verzerren wenige Orders das Bild - die Aussagekraft leidet mit der Beteiligung, wie der Artikel zu <a href=\"/artikel/volumen-und-momentum/\">Volumen und Momentum</a> zeigt.</p><h2>Wofür der Chart trotzdem taugt</h2><p>Als Ordnungsinstrument ist er stark: Er zeigt, woher der Kurs kommt, wie stark er schwankt - messbar etwa über die Volatilität, das Maß der durchschnittlichen Schwankungsbreite (Wiener Börse, abgerufen 26.10.2026) - und wo andere Marktteilnehmer zuletzt reagiert haben. Als Prognosemaschine taugt er nicht: Keine Linie enthält die Nachrichten von morgen. Deshalb die Arbeitsregel dieses Pfades: Charttechnik liefert Fragen und Orientierung, keine Antworten und schon gar keine Zeitpunkte. Deine Anlagegründe kommen aus Unternehmen, Kosten und Zielen - nicht aus Mustern. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Chart-Analyse (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/chart-analyse/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Volatilität (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-v/volatilitaet/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Charttechnik also wertlos?",
+      "a": "Nein, aber begrenzt. Sie ordnet Vergangenheit und Verhalten, sie sagt die Zukunft nicht voraus. Wer sie als Orientierung nutzt, hat ein Werkzeug; wer sie als Prognose nutzt, ein Missverständnis."
+    },
+    {
+      "q": "Warum lesen Profis dann Charts?",
+      "a": "Weil der Chart Beteiligung, Schwankung und markante Zonen bündelt - Informationen über das bisherige Verhalten des Marktes. Genau diese Information ist nützlich, solange niemand sie mit einer Vorschau verwechselt."
+    },
+    {
+      "q": "Was ist der Unterschied zur Fundamentalanalyse?",
+      "a": "Die Fundamentalanalyse bewertet das Unternehmen - Geschäft, Zahlen, Perspektiven. Die Chartanalyse beobachtet den Kursverlauf selbst. Dieser Pfad ordnet die zweite ein, der Pfad zu den <a href=\"/lernpfade/lp-fa-17-aktien-analysieren/\">Kennzahlen</a> die erste."
+    }
+  ]
+}

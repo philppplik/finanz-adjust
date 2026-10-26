@@ -1,0 +1,33 @@
+{
+  "slug": "trend-und-unterstuetzung",
+  "title": "Trend, Unterstützung, Widerstand: Linien mit System",
+  "description": "Trends einordnen und markante Zonen lesen: die drei Trendlängen nach dem Börsenlexikon der Wiener Börse und was Unterstützung und Widerstand leisten - und was nicht.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/trend-und-unterstuetzung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Wiener Börse unterscheidet Primärtrend (über ein Jahr), Sekundärtrend (drei Wochen bis mehrere Monate) und Tertiärtrend (unter drei Wochen).</li><li>Trends können aufwärts, abwärts oder seitwärts verlaufen - Seitwärts ist auch ein Zustand.</li><li>Unterstützung und Widerstand sind beobachtete Zonen, keine physikalischen Barrieren.</li><li>Jede Linie beschreibt Vergangenheit - eine Fortschreibung in die Zukunft ist Deutung, kein Gesetz.</li></ul></div><h2>Die drei Trendlängen</h2><p>Das Börsenlexikon der Wiener Börse definiert den Trend als Richtung einer Entwicklung und teilt ihn in drei Längen: den langfristigen Primärtrend von mehr als einem Jahr, den mittelfristigen Sekundärtrend von drei Wochen bis zu mehreren Monaten und den kurzfristigen Tertiärtrend von unter drei Wochen (abgerufen 26.10.2026). Alle drei können aufwärts, abwärts oder seitwärts laufen. Praktisch heißt das: Dieselbe Aktie kann gleichzeitig in einem langfristigen Aufwärtstrend und einem kurzfristigen Abwärtstrend stecken - ohne Widerspruch, nur auf verschiedenen Zeitebenen.</p><h2>Unterstützung und Widerstand</h2><p>Als Unterstützung bezeichnet die Chartsprache eine Zone, an der ein fallender Kurs in der Vergangenheit mehrfach gestoppt ist; als Widerstand eine Zone, an der ein steigender Kurs mehrfach drehte. Drei Punkte halten die Deutung sauber: Erstens sind es Zonen, keine exakten Linien - der Markt kennt keine Millimeterpräzision. Zweitens beruhen sie auf Beobachtung des bisherigen Verhaltens, nicht auf einer Garantie. Drittens kann ein Durchbruch durch eine viel beachtete Zone selbst wieder Beachtung erzeugen - ob daraus eine neue Richtung entsteht, zeigt erst die Zeit danach.</p><h2>Einordnung</h2><p>Die Annahme der Chartanalyse, dass Preisentwicklungen bestimmten Trends folgen und sich wiederholen, ist zugleich ihre Verwundbarkeit: Sie beschreibt Wahrscheinlichkeiten des Verhaltens, keine Naturgesetze. Was das für den Nutzen bedeutet, steht im Artikel zu den <a href=\"/artikel/charttechnik-grenzen/\">Grenzen der Charttechnik</a>. Wie du Trends mit Durchschnittslinien glättest, zeigt der Artikel zu den <a href=\"/artikel/gleitende-durchschnitte/\">gleitenden Durchschnitten</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Trend (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-t/trend/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Chart-Analyse (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-c/chart-analyse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woran erkenne ich den übergeordneten Trend?",
+      "a": "Über die Zeitebene: Zoome weit genug heraus, bis der Verlauf über ein Jahr oder länger sichtbar ist. Der Primärtrend ergibt sich aus der Richtung dieses Gesamtbildes, nicht aus den letzten Wochen."
+    },
+    {
+      "q": "Gilt ein Durchbruch durch den Widerstand als Kaufsignal?",
+      "a": "Nicht automatisch. Ein Durchbruch ist zunächst nur eine neue Beobachtung. Charttechnik liefert Deutungsrahmen, keine verbindlichen Signale - Entscheidungen triffst du vor dem Hintergrund deiner eigenen Anlagegründe."
+    },
+    {
+      "q": "Warum funktionieren manche Zonen scheinbar immer wieder?",
+      "a": "Ein Erklärungsansatz ist die Aufmerksamkeit selbst: Viele Marktteilnehmer beobachten dieselben markanten Marken, sodass sich Verhalten um diese Zonen bündelt. Das ist eine Hypothese über Verhalten, kein Naturgesetz."
+    }
+  ]
+}

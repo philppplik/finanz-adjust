@@ -1,0 +1,33 @@
+{
+  "slug": "pressemitteilung-vs-bericht",
+  "title": "Pressemitteilung oder Bericht: Wo steht was - und was zählt",
+  "description": "Ad-hoc-Meldung, Pressemitteilung und Pflichtbericht unterscheiden: welche Quelle welche Aussage trägt und in welcher Reihenfolge du sie liest.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/pressemitteilung-vs-bericht.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Ad-hoc-Meldung ist Pflicht: Sie kommt bei erheblich kursrelevanten Fakten und muss unverzüglich erscheinen (Art. 17 MAR).</li><li>Der Finanzbericht ist das geprüfte Pflichtwerk mit Abschluss und Lagebericht (Paragraf 114 ff. WpHG).</li><li>Die Pressemitteilung ist die Kurzfassung in eigener Sicht - Auswahl und Ton liegen beim Unternehmen.</li><li>Reihenfolge beim Prüfen: erst die Pflichtquelle, dann die Kurzfassung.</li></ul></div><h2>Drei Quellen, drei Aufgaben</h2><p>Zur Berichtssaison erscheinen meist drei Textsorten. Die Ad-hoc-Meldung ist der Pflichtkanal für das Dringende: Nach Artikel 17 Absatz 1 MAR hat ein Emittent Insiderinformationen, die den Preis erheblich beeinflussen können, grundsätzlich unverzüglich zu veröffentlichen - Sinn ist, dass alle Kapitalmarktteilnehmer möglichst schnell über wesentliche Informationen verfügen (BaFin, abgerufen 26.10.2026). Der Finanzbericht ist das Pflichtwerk auf Halbjahres- oder Jahressicht: Abschluss plus Lagebericht, mit dem formellen Rahmen aus Paragraf 114 ff. WpHG und den Inhaltsanforderungen des HGB - der Lagebericht muss unter anderem die voraussichtliche Entwicklung mit Chancen und Risiken beurteilen (Paragraf 289 HGB, abgerufen 26.10.2026). Die Pressemitteilung schließlich ist die kompakte Eigenlesart: Sie zitiert die Vorstandsstimmen, ordnet die Highlights ein und verlinkt die Dokumente.</p><h2>Wo die Unterschiede liegen</h2><p>Drei Punkte machen die Trennung praktisch. Erstens die Auswahl: Der Bericht muss vollständig und ausgewogen sein, die Pressemitteilung darf Schwerpunkte setzen - und setzt sie. Zweitens der Prüfstand: Der Jahresabschluss durchläuft die Abschlussprüfung, die Mitteilung nicht. Drittens der Ton: Zitate und Ordnungsworte wie Rekord oder robust stammen aus der Unternehmenssicht. Deshalb die Lesereihenfolge: Wer es genau wissen will, prüft Aussagen aus der Mitteilung im Bericht - dort stehen die zugehörigen Zahlen, Annahmen und Risiken. Wie du im Bericht selbst navigierst, zeigen die Artikel zur <a href=\"/artikel/geschaeftsbericht-orientierung/\">Orientierung im Geschäftsbericht</a>, zur <a href=\"/artikel/bilanz-lesen/\">Bilanz</a> und zur <a href=\"/artikel/guv-lesen/\">GuV</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Ad-hoc-Publizität und Finanzberichte (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    },
+    {
+      "title": "Paragraf 289 HGB: Inhalt des Lageberichts (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/hgb/__289.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist die Pressemitteilung verbindlich?",
+      "a": "Sie ist eine offizielle Unternehmensdarstellung, aber keine Pflichtpublikation mit gesetzlichem Inhaltsrahmen. Verbindlich strukturiert und geprüft ist der Finanzbericht - die Mitteilung kürzt und gewichtet ihn."
+    },
+    {
+      "q": "Kommt die Ad-hoc-Meldung immer vor dem Bericht?",
+      "a": "Nur wenn eine erheblich kursrelevante Abweichung vorliegt. Läuft alles im erwarteten Rahmen, erscheint einfach der reguläre Bericht zum angekündigten Termin."
+    },
+    {
+      "q": "Wo finde ich die Ad-hoc-Meldungen eines Unternehmens?",
+      "a": "Auf der Investor-Relations-Seite des Emittenten und über die dafür vorgesehenen Verbreitungskanäle. Die BaFin-Seite zu den Informationspflichten erklärt den rechtlichen Rahmen."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "gleitende-durchschnitte",
+  "title": "Gleitende Durchschnitte: Die Glättung hinter den Linien",
+  "description": "Was ein gleitender Durchschnitt rechnet, warum er hinter dem Kurs herläuft und wie die gängigen Linien zu lesen sind - mit durchgerechnetem Strukturbeispiel.",
+  "section": "einordnung",
+  "date": "2026-10-26T11:30:00+01:00",
+  "image": "/images/gleitende-durchschnitte.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Vormittag</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein gleitender Durchschnitt mittelt die Schlusskurse der letzten n Tage und rückt jeden Tag um einen Wert weiter.</li><li>Er glättet Zufallszuckungen und zeigt die Richtung - dafür läuft er dem Kurs hinterher.</li><li>Je länger das Fenster, desto träger die Linie: 200 Tage reagieren langsamer als 50 Tage.</li><li>Die bekannteste Einzellinie ist die 100-Tage-Linie - sie hat einen eigenen Artikel in diesem Pfad.</li></ul></div><h2>Die Rechnung</h2><p>Strukturbeispiel: Fünf Schlusskurse in Folge - 20, 21, 19, 22, 21 Euro. Der einfache gleitende 5-Tage-Durchschnitt am fünften Tag ist die Summe geteilt durch fünf, also 103 durch 5 gleich 20,60 Euro. Am nächsten Tag schließt der Kurs bei 23: Der älteste Wert (20) fällt heraus, der neue tritt ein - die Summe wird 106, der Durchschnitt 21,20. Die Linie ist um 0,60 gestiegen, obwohl der Kurs um 2 Punkte sprang: Genau diese Dämpfung ist der Zweck der Glättung.</p><h2>Was die Glättung kostet</h2><p>Der Preis der Ruhe ist die Verspätung. Weil der Durchschnitt alte und neue Werte gleich gewichtet, reagiert er auf Wenden erst mit Verzögerung - je länger das Fenster, desto später. Eine 200-Tage-Linie bildet den langen Grundton ab und dreht entsprechend spät; eine 50-Tage-Linie bleibt näher am Kurs und wird dafür nervöser. Aus dem Börsenlexikon der Wiener Börse passt dazu die Trendlogik: Trends lassen sich in lang, mittel und kurz unterteilen - die Fensterlänge wählt, welche dieser Ebenen die Linie abbilden soll (abgerufen 26.10.2026).</p><h2>Wie die Linien gelesen werden</h2><p>In der Chartsprache gilt der Stand des Kurses über oder unter einer Durchschnittslinie als Lagebeurteilung und das Kreuzen zweier Linien als beobachtetes Ereignis. Wichtig ist die Einordnung: Diese Lesarten beschreiben vergangene Verläufe und liefern keine verlässliche Vorschau - die Grenzen steht im Artikel zur <a href=\"/artikel/charttechnik-grenzen/\">Charttechnik</a>. Die praktisch wichtigste Einzellinie erklärt der Artikel zur <a href=\"/artikel/100-tage-linie-erklaert/\">100-Tage-Linie</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Trend (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-t/trend/"
+    },
+    {
+      "title": "Wiener Börse, Börsenlexikon: Technische Analyse (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-t/technische-analyse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum hinkt der Durchschnitt dem Kurs hinterher?",
+      "a": "Weil jeder neue Wert nur ein Bruchteil der Summe ist. Bei 200 Werten im Fenster verändert ein einzelner Tag den Durchschnitt nur wenig - Stabilität und Verspätung sind zwei Seiten derselben Rechnung."
+    },
+    {
+      "q": "Gibt es die beste Fensterlänge?",
+      "a": "Nein. Die Wahl entscheidet nur, welche Zeitebene die Linie zeigt: kurze Fenster für den Tertiärtrend, lange für den Primärtrend. Eine Länge, die zuverlässig die Zukunft trifft, lässt sich daraus nicht ableiten."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen einfach und exponentiell gewichtet?",
+      "a": "Der einfache Durchschnitt gewichtet alle Werte im Fenster gleich, der exponentielle gewichtet neuere Werte stärker und reagiert damit schneller. Beide bleiben Durchschnitte vergangener Kurse."
+    }
+  ]
+}
