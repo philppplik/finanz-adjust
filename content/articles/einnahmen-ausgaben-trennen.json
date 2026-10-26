@@ -1,0 +1,33 @@
+{
+  "slug": "einnahmen-ausgaben-trennen",
+  "title": "Privat und geschäftlich trennen: Ordnung vor dem Steuerbescheid",
+  "description": "Umsatz ist kein Privatbudget. Geldflüsse, Belege, Einlagen und Entnahmen für Selbständige verständlich auseinanderhalten.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/einnahmen-ausgaben-trennen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kontostand, Umsatz und Gewinn sind verschiedene Größen.</li><li>Private Entnahmen sind nicht automatisch Betriebsausgaben.</li><li>Trennung schafft eine Grundlage für Planung.</li></ul></div><h2>Eine Überweisung hat mehrere Aufgaben</h2><p>Eine Kundenzahlung sieht nach frei verfügbarem Geld aus. Daraus können noch Betriebskosten, Steuern und Versicherungsbeiträge zu zahlen sein. Eine übersichtliche Trennung verhindert, dass ein hoher Kontostand als privates Nettogehalt missverstanden wird. Dieses Organisationsmodell klärt nicht, ob ein separates Geschäftskonto für die jeweilige Rechtsform oder nach Bankbedingungen erforderlich ist. Das ist gesondert zu prüfen.</p><h2>Gewinn ist nicht Entnahme</h2><p>§ 4 EStG definiert Betriebsausgaben als betrieblich veranlasste Aufwendungen und behandelt private Entnahmen gesondert. Bei einem Einzelunternehmen wird eine private Überweisung deshalb nicht allein durch den Geldabfluss zur Betriebsausgabe. Ebenso ist eine private Einzahlung nicht automatisch Umsatz aus Kundenleistungen. Für Kapitalgesellschaften gelten andere Zusammenhänge; das Modell ersetzt keine rechtsformbezogene Beratung.</p><h2>Ein Ordnungsablauf</h2><p>Erfasse geschäftliche Eingänge mit Beleg, markiere betriebliche Ausgaben und dokumentiere Einlagen sowie Entnahmen getrennt. Das Existenzgründungsportal nennt zeitliche Ordnung, Kategorien und Nachprüfbarkeit als Grundlagen einfacher Buchführung. Bei gemischten Ausgaben muss die Zuordnung sachlich nachvollziehbar sein. Ein Konto mit dem Namen Business löst diese Aufgabe nicht. Belege bleiben erforderlich.</p><h2>Nicht am Tageshoch orientieren</h2><p>Fiktives Strukturbeispiel ohne Steuerrechnung: Auf dem Konto stehen 4.000 Euro. Davon sind 1.500 Euro für Lieferanten und 900 Euro als geplante Steuerreserve vorgesehen. Dann sind nicht 4.000 Euro frei. Auch die rechnerisch verbleibenden 1.600 Euro sind gegen weitere Verpflichtungen zu prüfen. Die Ergänzung ist eine <a href=\"/artikel/liquiditaetsplanung-freelancer/\">Liquiditätsplanung</a> mit gesonderter <a href=\"/artikel/steuerruecklage-planen/\">Steuerrücklage</a>.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "EStG § 4: Gewinn und Betriebsausgaben (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__4.html"
+    },
+    {
+      "title": "Existenzgründungsportal: Einfache Buchführung (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/SharedDocs/Expertenforum_Unterseiten/Unternehmenszahlen-erfassen-Rechnungswesen/Einfache-Buchfuehrung/inhalt"
+    },
+    {
+      "title": "Existenzgründungsportal: Liquiditätsvorschau, Grundlagen vom 19.09.2014 (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/_noch_neu_einordnen/DE/Gruendung-vorbereiten/Finanzierung/Finanzierungswissen/Liquiditaetsvorschau/inhalt"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist jede private Überweisung Betriebsausgabe?",
+      "a": "Nein. Bei einem Einzelunternehmen ist eine private Entnahme nicht allein wegen des Geldabflusses eine Betriebsausgabe."
+    },
+    {
+      "q": "Brauche ich zwingend zwei Konten?",
+      "a": "Hier geht es um Organisation. Rechtliche Anforderungen und Bankbedingungen sind separat zu prüfen."
+    }
+  ]
+}

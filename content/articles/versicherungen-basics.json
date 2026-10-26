@@ -1,0 +1,29 @@
+{
+  "slug": "versicherungen-basics",
+  "title": "Versicherungen zum Start: Erst Risiko verstehen, dann Vertrag",
+  "description": "Haftpflicht, Arbeitskraft und bestehender Schutz: Versicherungsbedarf einordnen, ohne wahllos Verträge zu sammeln.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/versicherungen-basics.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Entscheidend sind finanzielle Folgen, nicht die Zahl der Policen.</li><li>Bestehenden Schutz und seine Grenzen prüfen.</li><li>Absicherung und Sparen sind unterschiedliche Aufgaben.</li></ul></div><h2>Die Einstiegsfrage</h2><p>Frag nicht zuerst, welche Police günstig wirkt. Frag, welche Folgen dich finanziell treffen könnten und welcher Schutz bereits besteht. Die Verbraucherzentrale nennt unter anderem Haftung für Schäden, Einkommensausfall und die Lage von Hinterbliebenen. Eine ersetzbare Sache und dauerhaft wegfallendes Arbeitseinkommen sind verschiedene Größenordnungen. Dein Lebensmodell und bestehende Ansprüche gehören in die Prüfung.</p><h2>Haftpflicht ist nicht Schutz eigener Sachen</h2><p>Eine private Haftpflicht schützt im vertraglichen Umfang vor Schadenersatzansprüchen und wehrt unberechtigte Ansprüche ab. Ob du bei den Eltern noch mitversichert bist, folgt nicht allein aus der Adresse oder dem Studierendenstatus. Lass die konkrete Konstellation bestätigen. Versicherte Personen, Selbstbeteiligung und Ausschlüsse sind wichtiger als ein kleiner Monatsbeitrag allein.</p><h2>Arbeitskraft und gesetzliche Leistungen</h2><p>Berufsunfähigkeit im Versicherungsvertrag und Erwerbsminderung im gesetzlichen System sind nicht dasselbe. Die Verbraucherzentrale stellt zusätzliche Absicherung als eigene Bedarfsfrage dar. Gesundheitsfragen, Definitionen, Voraussetzungen und Ausschlüsse sind entscheidend. Unabhängige Beratung kann helfen, bevor bindende Angaben oder Abschlüsse erfolgen. Eine pauschale Zusage, dass jede junge Person problemlos versicherbar sei, wäre falsch.</p><h2>Sparen nicht verstecken</h2><p>Risikoabsicherung ist anders zu prüfen als Vermögensaufbau. Bei Kombinationen können Änderungen oder Kündigung beide Teile betreffen. Die Verbraucherzentrale betont die Trennung dieser Aufgaben und Flexibilität. Prüfaufgabe: Wenn du die Sparrate pausierst, bleibt der gewünschte Schutz unverändert und zu welchen Kosten? Erst eine verständliche Antwort erlaubt eine Einordnung. Das ist eine Prüfmethode, keine Empfehlung für eine bestimmte Police.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Altersvorsorge zum Berufsstart, Stand 10.11.2025 (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/altersvorsorge/altersvorsorge-fuer-den-berufsstart-so-stellen-sie-die-weichen-richtig-85280"
+    },
+    {
+      "title": "Verbraucherzentrale: Private Haftpflichtversicherung (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-alle-13891"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bin ich bei meinen Eltern mitversichert?",
+      "a": "Das hängt von Vertrag und persönlicher Situation ab. Lass Umfang und Voraussetzungen bestätigen."
+    },
+    {
+      "q": "Sind Kombiverträge automatisch flexibler?",
+      "a": "Nein. Prüfe die Folgen von Pause und Kündigung für jeden Teil sowie die Kosten."
+    }
+  ]
+}

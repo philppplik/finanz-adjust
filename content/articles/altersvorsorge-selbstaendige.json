@@ -1,0 +1,33 @@
+{
+  "slug": "altersvorsorge-selbstaendige",
+  "title": "Altersvorsorge für Selbständige: Erst den Status klären",
+  "description": "Pflichtversicherung, freiwillige Wege und private Planung unterscheiden: Ein Überblick für Freelancer ohne pauschale Produktempfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/altersvorsorge-selbstaendige.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Selbständig bedeutet nicht automatisch versicherungsfrei.</li><li>Berufsgruppe und Auftragsstruktur können relevant sein.</li><li>Vorsorge muss zu Liquidität und Absicherung passen.</li></ul></div><h2>Der erste Schritt ist kein Produktvergleich</h2><p>Die Deutsche Rentenversicherung nennt bestimmte selbständige Berufsgruppen als gesetzlich pflichtversichert, darunter beispielsweise Publizisten. Die konkrete Einordnung richtet sich nach Tätigkeit und Voraussetzungen. Auf viele andere Selbständige trifft diese Pflicht nicht zu. Das Wort Freelancer auf einer Website liefert deshalb keine Antwort. Kläre den Status bei der zuständigen Stelle, bevor du den gesamten Gewinn als frei verfügbar behandelst.</p><h2>Auftragsstruktur kann zählen</h2><p>Die DRV erläutert einen eigenen Fall: Wer im Zusammenhang mit der Tätigkeit regelmäßig keinen versicherungspflichtigen Arbeitnehmer beschäftigt und auf Dauer im Wesentlichen nur für einen Auftraggeber tätig ist, kann nach § 2 Satz 1 Nummer 9 SGB VI rentenversicherungspflichtig sein. Das ist keine pauschale Aussage über alle Soloselbständigen. Rentenversicherungspflicht und die Frage nach einer tatsächlich abhängigen Beschäftigung sind verschiedene Prüfungen.</p><h2>Mehr als eine spätere Auszahlung</h2><p>Die DRV beschreibt auch Leistungen im Todesfall, bei Erwerbsminderung und zur Rehabilitation unter den jeweils geltenden Voraussetzungen. Private oder berufsbezogene Wege können hinzukommen. Vergleiche Leistungsumfang, Kosten, Beitragsbindung und Zugriffsmöglichkeiten statt nur einer prognostizierten Monatsrente. Für manche Wege gelten Antragsfristen. Die Eurobeträge einer älteren DRV-Meldung werden hier nicht als heutige Beitragssätze übernommen.</p><h2>Schwankende Einnahmen einplanen</h2><p>Langfristig verfügbar ist nicht jeder Zahlungseingang, sondern nur Geld nach Betriebskosten, Steuern und laufender Absicherung. Eine hohe feste Verpflichtung kann in schwachen Monaten schwierig werden. Prüfe Anpassungsmöglichkeiten und deren Folgen. Zugleich ist ein Betriebspuffer kein vollständiger Ersatz für langfristige Vorsorge. <a href=\"/artikel/liquiditaetsplanung-freelancer/\">Liquiditätsplanung</a> und <a href=\"/artikel/krankenversicherung-selbststaendige/\">Krankenversicherung</a> ergänzen die Bestandsaufnahme.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "DRV: Selbständige in der Rentenversicherung, 13.01.2025 (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2025/250113-selbstaendige-in-der-rentenversicherung"
+    },
+    {
+      "title": "DRV: Selbständige mit nur einem Auftraggeber (abgerufen 26.10.2026)",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/S/selbstaendige_mit_nur_einem_auftraggeber"
+    },
+    {
+      "title": "Existenzgründungsportal: Liquiditätsvorschau, Grundlagen vom 19.09.2014 (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/_noch_neu_einordnen/DE/Gruendung-vorbereiten/Finanzierung/Finanzierungswissen/Liquiditaetsvorschau/inhalt"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind Selbständige immer von der gesetzlichen Rentenversicherung ausgenommen?",
+      "a": "Nein. Bestimmte Berufsgruppen und weitere gesetzliche Konstellationen können versicherungspflichtig sein."
+    },
+    {
+      "q": "Reicht ein Rentenbetrag zum Vergleich?",
+      "a": "Nein. Voraussetzungen, Leistungen, Kosten, Bindung und Flexibilität müssen ebenfalls betrachtet werden."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "erstes-gehalt-abrechnung-lesen",
+  "title": "Erstes Gehalt: So liest du deine Abrechnung",
+  "description": "Brutto, gesetzliche Abzüge, Netto und Auszahlung: Was eine Gehaltsabrechnung zeigt und welche Angaben du beim ersten Gehalt prüfst.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/erstes-gehalt-abrechnung-lesen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Brutto ist nicht gleich Auszahlungsbetrag.</li><li>Steuerbrutto und Sozialversicherungsbrutto können unterschiedlich sein.</li><li>Auch nach dem Netto können weitere Verrechnungen folgen.</li></ul></div><h2>Die Abrechnung ist eine Brücke</h2><p>Im Arbeitsvertrag steht häufig ein Bruttobetrag, auf dem Konto landet ein anderer Betrag. Dazwischen liegt eine Abrechnung mit getrennten Schritten. Die Entgeltbescheinigungsverordnung schreibt unter anderem Zeitraum, Steuermerkmale, Bezüge, gesetzliche Abzüge und Auszahlungsbetrag vor. Lies zuerst den Monat und die Beschäftigungsdaten. Bei einem Einstieg mitten im Monat kann der bescheinigte Zeitraum kürzer sein als ein voller Monat.</p><h2>Warum es mehrere Bruttowerte gibt</h2><p>Die Verordnung unterscheidet Gesamtbrutto, steuerpflichtigen Arbeitslohn und Sozialversicherungsbrutto. Ein Bezug kann sich je nach Behandlung auf diese Größen unterschiedlich auswirken. Auch laufende und einmalige Bezüge werden getrennt ausgewiesen. Ein Sachbezug ist deshalb nicht automatisch zusätzliches Bargeld. Springt eine Zahl, suche die veränderte Zeile. Eine pauschale Nettoquote ersetzt diese Prüfung nicht.</p><h2>Vom Netto zur Überweisung</h2><p>Nettoentgelt ist nach der Verordnung das Gesamtbrutto abzüglich der gesetzlichen Abzüge. Weitere Bezüge, Einbehalte oder Verrechnungen können danach den Auszahlungsbetrag verändern. Fiktives Strukturbeispiel, keine Steuerberechnung: Stehen als Netto 1.400 Euro und danach 50 Euro Vorschussverrechnung, werden 1.350 Euro ausgezahlt. Entscheidend ist, ob die Verrechnung sachlich stimmt und nachvollziehbar ausgewiesen ist.</p><h2>Dein Prüfablauf</h2><p>Vergleiche vereinbarte Bezüge und ausgewiesene Lohnbestandteile. Kontrolliere Zeitraum und Steuermerkmale, lies einmalige Zahlungen gesondert und gleiche die Auszahlung mit dem Konto ab. Unklare Kürzel klärst du bei der Lohnbuchhaltung. Teile dafür nur benötigte Angaben, nicht wahllos die vollständige Abrechnung. Für dein Budget zählt der verfügbare Auszahlungsbetrag. Die Kontokosten erklärt <a href=\"/artikel/girokonto-und-gebuehren/\">der nächste Schritt</a>.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "Entgeltbescheinigungsverordnung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Netto immer die Überweisung?",
+      "a": "Nein. Weitere ausgewiesene Bezüge oder Verrechnungen können den Auszahlungsbetrag ändern."
+    },
+    {
+      "q": "Gibt es zwingend jeden Monat eine neue Abrechnung?",
+      "a": "Die Verordnung sieht Ausnahmen vor, wenn sich außer dem Abrechnungszeitraum nichts geändert hat."
+    }
+  ]
+}

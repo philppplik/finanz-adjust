@@ -1,0 +1,29 @@
+{
+  "slug": "krankenversicherung-selbststaendige",
+  "title": "Krankenversicherung für Selbständige: Beitrag und Leistung zusammen lesen",
+  "description": "Einkommensabhängige GKV, Krankengeld und schwankende Einnahmen: Prüffragen ohne pauschale Systemempfehlung.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/krankenversicherung-selbststaendige.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bei freiwilliger GKV können weitere Einnahmen zählen.</li><li>Behandlung und Einkommensersatz sind unterschiedliche Fragen.</li><li>Bemessungsgrenzen machen die Rechnung komplexer als Umsatz mal Prozentsatz.</li></ul></div><h2>Breiter als ein Auftrag</h2><p>Das Bundesgesundheitsministerium erläutert, dass freiwillige GKV-Mitglieder auch aus weiteren Einnahmen Beiträge zahlen können, etwa aus Kapitalvermögen oder Vermietung. Ein schwacher Geschäftsmonat entscheidet daher nicht allein über die Beitragslast. Eine Privatentnahme ist ebenfalls nicht automatisch die relevante Einkommensgröße. Kläre mit der Kasse, welche Nachweise für deine Tätigkeit und Situation maßgeblich sind.</p><h2>Bestandteile unterscheiden</h2><p>Die GKV arbeitet mit beitragspflichtigen Einnahmen, einer Beitragsbemessungsgrenze und bei freiwilliger Versicherung einer Mindestbemessung. Hinzu kommen kassenindividueller Zusatzbeitrag und gesondert Pflegeversicherung. Diese Rechengrößen können sich ändern und ergeben noch kein persönliches Angebot. Eine Rechnung nur aus letztem Monatsumsatz und Prozentsatz ist unvollständig. Verlange eine nachvollziehbare Berechnung mit maßgeblichem Jahr und allen Bestandteilen.</p><h2>Behandlung und Honorarausfall</h2><p>Das BMG unterscheidet zwischen allgemeinem und ermäßigtem Beitragssatz entsprechend auch den Krankengeldanspruch. Prüfe deshalb getrennt medizinische Leistungen und einen Einkommensersatz bei längerer Krankheit. Eine bezahlte Behandlung ersetzt nicht automatisch ausgefallene Honorare und laufende Betriebskosten. Leistungsbeginn und Bedingungen müssen verständlich sein, bevor du Beträge im Plan als sicher ansiehst.</p><h2>Mehr als ein Monatsbeitrag</h2><p>Ob gesetzliche oder private Absicherung zugänglich ist und wie spätere Wechsel möglich wären, hängt von persönlichen und rechtlichen Voraussetzungen ab. Hier wird kein System ausgewählt. Bereite für eine Beratung Status, Einnahmequellen, Familienkonstellation und gewünschten Einkommensschutz vor. Besprich Einkommensänderungen mit der Kasse. Die <a href=\"/artikel/liquiditaetsplanung-freelancer/\">Liquiditätsübersicht</a> sollte mögliche Anpassungen nicht einfach als ausgeschlossen behandeln.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "BMG: Beiträge der gesetzlichen Krankenversicherung (abgerufen 26.10.2026)",
+      "url": "https://www.bundesgesundheitsministerium.de/beitraege"
+    },
+    {
+      "title": "Existenzgründungsportal: Liquiditätsvorschau, Grundlagen vom 19.09.2014 (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/_noch_neu_einordnen/DE/Gruendung-vorbereiten/Finanzierung/Finanzierungswissen/Liquiditaetsvorschau/inhalt"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zählt nur der Freelancer-Gewinn?",
+      "a": "Nicht zwingend. Das BMG nennt bei freiwilligen Mitgliedern auch Kapital- und Mieteinkünfte als mögliche Grundlage."
+    },
+    {
+      "q": "Ist Krankengeld automatisch enthalten?",
+      "a": "Das hängt von Status und Absicherung ab. Prüfe Umfang und Leistungsbeginn konkret mit der Kasse."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "buchhaltung-basics",
+  "title": "Buchhaltung-Basics: Vom Beleg zur brauchbaren Übersicht",
+  "description": "EÜR, Belegordnung, offene Rechnungen und private Geldbewegungen: Warum Buchhaltung mehr ist als der Kontostand.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/buchhaltung-basics.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Geldflüsse brauchen nachvollziehbare Zuordnung.</li><li>EÜR ist an Voraussetzungen gebunden.</li><li>Offene Forderungen und Zukunftsplanung brauchen zusätzlichen Überblick.</li></ul></div><h2>Mehr als die Bank-App</h2><p>Die App zeigt Bewegungen, die Buchhaltung ordnet wirtschaftliche Vorgänge ein. Das Existenzgründungsportal beschreibt Kategorien, zeitliche Erfassung und Nachweise. Dazu gehören Ausgangs- und Eingangsrechnungen sowie Kennzeichnung unbezahlter Beträge. Auf demselben Konto kann eine private Einlage ebenso auftauchen wie Kundenhonorar. Die beiden Vorgänge brauchen trotzdem eine unterschiedliche Behandlung.</p><h2>Was EÜR bedeutet</h2><p>Nach § 4 Absatz 3 EStG können Steuerpflichtige unter den dort genannten Voraussetzungen den Überschuss der Betriebseinnahmen über Betriebsausgaben als Gewinn ansetzen. Das gilt nicht unabhängig von Buchführungs- und Abschlusspflichten. Auch Regeln zu Abschreibungen und bestimmten Wirtschaftsgütern sind zu beachten. Ein länger genutztes Arbeitsmittel ist daher nicht immer schlicht ein sofort vollständig abziehbarer Geldabfluss. Die zulässige Methode ist eine fachliche Ausgangsfrage.</p><h2>Ein kleiner Monatsablauf</h2><p>Sichere Belege, gleiche sie mit Zahlungen ab, ordne Vorgänge Kategorien zu und markiere offene Rechnungen. Prüfe private Bewegungen separat. Kontrolliere fehlende Unterlagen und doppelte Erfassung. Bei gemischter Nutzung sind nachvollziehbare Grundlagen wichtig. Auch mit Steuerberatung bleibt ein geordneter Unterlagenfluss nötig. Software kann rechnen, aber eine falsche sachliche Einordnung nicht allein durch ihren Namen verhindern.</p><h2>Die Grenzen einfacher Übersichten</h2><p>Eine Gewinnübersicht zeigt nicht alle Forderungen, Schulden und künftigen Fälligkeiten. Das Portal nennt zusätzliche Übersichten für Vermögen und Abschreibungen. Ergänze die rückblickenden Zahlen deshalb um eine <a href=\"/artikel/liquiditaetsplanung-freelancer/\">Liquiditätsplanung</a>. Bei Auslandsgeschäften, gemischten Tätigkeiten oder Rechtsformwechsel steigt der Klärungsbedarf. Prüfe aktuelle Fristen und Formvorgaben konkret. Veraltete Softwarehinweise älterer Grundlagenquellen sind keine heutige Pflicht.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "Existenzgründungsportal: Einfache Buchführung (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/SharedDocs/Expertenforum_Unterseiten/Unternehmenszahlen-erfassen-Rechnungswesen/Einfache-Buchfuehrung/inhalt"
+    },
+    {
+      "title": "EStG § 4: Gewinn und Betriebsausgaben (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__4.html"
+    },
+    {
+      "title": "Existenzgründungsportal: Liquiditätsvorschau, Grundlagen vom 19.09.2014 (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/_noch_neu_einordnen/DE/Gruendung-vorbereiten/Finanzierung/Finanzierungswissen/Liquiditaetsvorschau/inhalt"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf jeder eine EÜR nutzen?",
+      "a": "Nein. § 4 Absatz 3 EStG nennt Voraussetzungen, insbesondere zu Buchführungs- und Abschlusspflichten."
+    },
+    {
+      "q": "Ist Buchhaltung eine Vorschau?",
+      "a": "Sie dokumentiert Vorgänge. Künftige Termine, Kosten und Verzögerungen gehören zusätzlich in den Liquiditätsplan."
+    }
+  ]
+}

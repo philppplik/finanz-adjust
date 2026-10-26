@@ -1,0 +1,25 @@
+{
+  "slug": "liquiditaetsplanung-freelancer",
+  "title": "Liquiditätsplanung für Freelancer: Gewinn bezahlt keine fällige Rechnung",
+  "description": "Zahlungseingänge und Fälligkeiten zusammenbringen: Ein Modell mit Basisszenario, Verzögerung und getrennten Reserven.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/liquiditaetsplanung-freelancer.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Liquidität ist verfügbares Geld zum richtigen Termin.</li><li>Eine versandte Rechnung ist noch kein Geldeingang.</li><li>Ein Plan braucht Ist-Zahlen und ein Verzögerungsszenario.</li></ul></div><h2>Profitabel und knapp bei Kasse</h2><p>Ein Auftrag kann Gewinn versprechen und trotzdem Geld binden, solange die Zahlung fehlt. Das Existenzgründungsportal trennt Liquiditätsvorschau und rückblickende Buchführung: Erwartete Ein- und Auszahlungen werden zeitlich gegenübergestellt. Ausgangspunkt ist der verfügbare Anfangsbestand. Danach zählen Zahlungen und ihre Termine, nicht nur geschriebene Rechnungen oder kalkulierter Umsatz.</p><h2>Ein Raster bauen</h2><p>Erfasse Anfangsbestand, sichere und erwartete Eingänge, Betriebskosten, Versicherungen, Steuern, Kreditdienst und Privatentnahmen. Zeige zweckgebundene Reserven gesondert. Anfangsbestand plus Einzahlungen minus Auszahlungen ergibt den Endbestand. Er wird zum Anfang des nächsten Zeitraums. Bei einer großen Fälligkeit mitten im Monat reicht der Monatsendblick möglicherweise nicht. Dann brauchst du eine feinere Auflösung.</p><h2>Wenn der Kunde später zahlt</h2><p>Fiktives Rechenbeispiel: 3.000 Euro Anfangsbestand plus 2.000 Euro Kundeneingang minus 4.000 Euro Auszahlungen ergeben 1.000 Euro Endbestand. Kommt die Überweisung erst im Folgemonat, fehlen im betrachteten Zeitraum 1.000 Euro. Der Auftrag kann weiterhin Gewinn bringen. Seine Zahlungswirkung ist trotzdem anders. Offene Rechnungen sind deshalb nicht wie schon vorhandenes Bankguthaben zu behandeln.</p><h2>Eine Routine statt einer Datei</h2><p>Vergleiche erwartete und tatsächliche Zahlungen und aktualisiere Folgemonate. Das Portal nennt Zahlungsziele, Anzahlungen, Teilzahlungen und Reserven als Prüfpunkte. Daraus folgt keine automatische Kredit- oder Inkassoempfehlung. Bei Engpässen hilft frühe fachliche Unterstützung. Die Verbindung zur <a href=\"/artikel/steuerruecklage-planen/\">Steuerreserve</a> verhindert, dass ein scheinbarer Überschuss später für eine bekannte Fälligkeit fehlt.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "Existenzgründungsportal: Liquiditätsvorschau, Grundlagen vom 19.09.2014 (abgerufen 26.10.2026)",
+      "url": "https://www.existenzgruendungsportal.de/_noch_neu_einordnen/DE/Gruendung-vorbereiten/Finanzierung/Finanzierungswissen/Liquiditaetsvorschau/inhalt"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Rechnungsumsatz verfügbares Geld?",
+      "a": "Nein. Erst der Eingang schafft Liquidität. Beträge können zudem bereits für Verpflichtungen vorgesehen sein."
+    },
+    {
+      "q": "Warum zwei Szenarien?",
+      "a": "Das Basisszenario zeigt Erwartungen. Ein verzögerter großer Eingang macht die Abhängigkeit davon sichtbar."
+    }
+  ]
+}

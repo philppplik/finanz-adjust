@@ -1,0 +1,155 @@
+{
+  "paket": "Q",
+  "welle": 4,
+  "stand": "2026-10-26",
+  "pfade": [
+    {
+      "id": "LP-FA-37",
+      "name": "Finanzstart für Azubis, Studierende, Berufseinsteiger",
+      "frage": "Erstes eigenes Geld: Was kommt zuerst und was kann warten?",
+      "intro": "Mit Ausbildung, Studium oder dem ersten Job ändern sich die Geldfragen. Dieser Pfad beginnt bei der Abrechnung, geht über Kontokosten und Finanzierung und ordnet Rücklagen, Versicherungsschutz und Altersvorsorge ein. Du lernst Zahlungen und Verträge zu lesen, statt eine pauschale Quote oder ein Verkaufsargument zu übernehmen. Die Übungen prüfen Verständnis und treffen keine individuelle Produktwahl.",
+      "level": "Einsteiger-nah",
+      "zielgruppe": "Junge Erwachsene",
+      "dauer": "ca. 90 Minuten",
+      "voraussetzungen": "Keine fachlichen Vorkenntnisse. Ein Überblick über die eigenen Einnahmen und Verpflichtungen hilft bei den Übungen.",
+      "lernziel": "Du ordnest erstes Gehalt, Versicherungen, Sparen und Altersvorsorge sinnvoll.",
+      "steps": [
+        {
+          "slug": "/artikel/erstes-gehalt-abrechnung-lesen/",
+          "warum": "Brutto, gesetzliche Abzüge, Netto und Auszahlung: Was eine Gehaltsabrechnung zeigt und welche Angaben du beim ersten Gehalt prüfst."
+        },
+        {
+          "slug": "/artikel/girokonto-und-gebuehren/",
+          "warum": "Kontoführung, Karten, Bargeld und Dispo: So liest du ein Kontoangebot und erkennst Bedingungen von Jugend- und Ausbildungskonten."
+        },
+        {
+          "slug": "/artikel/bafoeg-und-studienfinanzierung/",
+          "warum": "BAföG, BAB, Nebenverdienst und Kredit unterscheiden: Ein Überblick für Studium und Ausbildung ohne pauschale Förderzusage."
+        },
+        {
+          "slug": "/artikel/berufseinsteiger-sparstrategie/",
+          "warum": "Fixkosten, Rücklagen und langfristige Ziele trennen: Ein Lernmodell für das erste regelmäßige Einkommen ohne Produktempfehlung."
+        },
+        {
+          "slug": "/artikel/versicherungen-basics/",
+          "warum": "Haftpflicht, Arbeitskraft und bestehender Schutz: Versicherungsbedarf einordnen, ohne wahllos Verträge zu sammeln."
+        },
+        {
+          "slug": "/artikel/altersvorsorge-fuer-junge/",
+          "warum": "Gesetzliche, betriebliche und private Vorsorge sortieren. Kosten, Flexibilität und Risiken verstehen, ohne Abschlussdruck."
+        }
+      ],
+      "terms": [
+        "liquiditaet",
+        "tagesgeld",
+        "sparplan"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Die Abrechnung zeigt ein höheres Netto als deine Überweisung. Ist das automatisch falsch?",
+            "loesung": "Nein. Prüfe Zeitraum, Bezüge und gesetzliche Abzüge. Weitere ausgewiesene Verrechnungen können den Auszahlungsbetrag verändern. Gleiche die Zeilen mit der Überweisung ab und frage die Lohnbuchhaltung nach unklaren Posten."
+          },
+          {
+            "frage": "Ein BAföG-Rechner zeigt einen Anspruch. Du willst damit feste Mietkosten planen. Was bleibt offen?",
+            "loesung": "Der Rechner ist unverbindlich, der Bescheid entscheidet. Sichere und beantragte Einnahmen sind getrennt zu behandeln. Wartezeit und persönliche Voraussetzungen bleiben zu prüfen."
+          },
+          {
+            "frage": "Eine Vermittlerin empfiehlt sofort einen langfristigen Kombivertrag. Welche Fragen stellst du?",
+            "loesung": "Welcher Schutz besteht schon und was fehlt? Welche Kosten und Bindungen entstehen, was passiert bei einer Pause? Rücklagen, Schulden und langfristig verfügbare Mittel müssen getrennt betrachtet werden. Aus dem Berufsstart folgt kein automatischer Abschluss."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Ist ein Dispo Einkommen?",
+            "loesung": "Nein. Er ist eine Kreditmöglichkeit mit möglichen Zinskosten."
+          },
+          {
+            "frage": "Garantiert ein langer Anlagezeitraum Ertrag?",
+            "loesung": "Nein. Zeit verändert Rechenzusammenhänge und Kostenwirkung, beseitigt aber keine Risiken."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-38",
+          "warum": "Bei Selbständigkeit kommen betriebliche Geldflüsse, Steuerplanung und ein eigener Versicherungsstatus hinzu."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-38",
+      "name": "Selbständige & Freelancer: Finanzen organisieren",
+      "frage": "Volles Auftragsbuch, knappes Konto: Wie sortierst du selbständige Finanzen?",
+      "intro": "Selbständige Einnahmen sind kein Nettogehalt und nicht automatisch frei verfügbar. Dieser Pfad trennt betriebliche und private Bewegungen, Steuerreserven, Versicherungsstatus und Zahlungsplanung. Du lernst, Kontostand und Gewinn nicht zu verwechseln und Statusfragen an zuständige Stellen zu geben. Die Beispiele erklären Strukturen, berechnen aber weder eine persönliche Steuer noch wählen sie eine Versicherung.",
+      "level": "Praktiker",
+      "zielgruppe": "Selbständige",
+      "dauer": "ca. 90 Minuten",
+      "voraussetzungen": "Keine fachlichen Vorkenntnisse. Ein Überblick über die eigenen Einnahmen und Verpflichtungen hilft bei den Übungen.",
+      "lernziel": "Du trennst privat und geschäftlich, planst Steuern und Altersvorsorge.",
+      "steps": [
+        {
+          "slug": "/artikel/einnahmen-ausgaben-trennen/",
+          "warum": "Umsatz ist kein Privatbudget. Geldflüsse, Belege, Einlagen und Entnahmen für Selbständige verständlich auseinanderhalten."
+        },
+        {
+          "slug": "/artikel/steuerruecklage-planen/",
+          "warum": "Einkommensteuer-Vorauszahlungen, Umsatzsteuer und Nachzahlungen trennen: Die Reserve als nachvollziehbare Planungsgröße verstehen."
+        },
+        {
+          "slug": "/artikel/altersvorsorge-selbstaendige/",
+          "warum": "Pflichtversicherung, freiwillige Wege und private Planung unterscheiden: Ein Überblick für Freelancer ohne pauschale Produktempfehlung."
+        },
+        {
+          "slug": "/artikel/liquiditaetsplanung-freelancer/",
+          "warum": "Zahlungseingänge und Fälligkeiten zusammenbringen: Ein Modell mit Basisszenario, Verzögerung und getrennten Reserven."
+        },
+        {
+          "slug": "/artikel/krankenversicherung-selbststaendige/",
+          "warum": "Einkommensabhängige GKV, Krankengeld und schwankende Einnahmen: Prüffragen ohne pauschale Systemempfehlung."
+        },
+        {
+          "slug": "/artikel/buchhaltung-basics/",
+          "warum": "EÜR, Belegordnung, offene Rechnungen und private Geldbewegungen: Warum Buchhaltung mehr ist als der Kontostand."
+        }
+      ],
+      "terms": [
+        "liquiditaet",
+        "faelligkeit",
+        "zins"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Ein Kunde zahlt 4.000 Euro. Du möchtest alles privat entnehmen. Was prüfst du?",
+            "loesung": "Betriebskosten, Steuern, Versicherungen und weitere Fälligkeiten. Bei einem Einzelunternehmen ist die Privatentnahme nicht automatisch Betriebsausgabe. Erst Liquiditäts- und Rücklagenübersicht zeigen den Spielraum."
+          },
+          {
+            "frage": "Du startest mit 3.000 Euro, erwartest 2.000 Euro Eingang und musst 4.000 Euro zahlen. Der Kunde zahlt später. Was ändert sich?",
+            "loesung": "Mit Eingang wären 1.000 Euro übrig. Ohne ihn fehlen 1.000 Euro im Zeitraum. Die Verschiebung verändert Liquidität, auch wenn der Auftrag profitabel bleibt."
+          },
+          {
+            "frage": "Du nennst dich Freelancer und hältst Altersvorsorge deshalb für freiwillig. Warum reicht das nicht?",
+            "loesung": "Berufsgruppe und weitere gesetzliche Merkmale können Rentenversicherungspflicht auslösen. Ein Fall ist eine Tätigkeit auf Dauer im Wesentlichen für einen Auftraggeber ohne entsprechenden Arbeitnehmer. Der Status muss geprüft werden; die Selbstbezeichnung entscheidet ihn nicht."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Befreit die Kleinunternehmerregelung von Einkommensteuer?",
+            "loesung": "Nein. § 19 UStG betrifft Umsatzsteuer, keine allgemeine Einkommensteuerbefreiung."
+          },
+          {
+            "frage": "Ersetzt EÜR jede andere Übersicht?",
+            "loesung": "Nein. Ihre Anwendung hat Voraussetzungen. Für Forderungen, Vermögen und künftige Zahlungstermine sind weitere Übersichten nötig."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-39",
+          "warum": "Danach ordnest du Börsenzyklen und historische Krisen anhand belegter Daten ein."
+        }
+      ]
+    }
+  ]
+}

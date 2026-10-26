@@ -1,0 +1,33 @@
+{
+  "slug": "steuerruecklage-planen",
+  "title": "Steuerrücklage planen: Keine Universalquote ersetzt die Rechnung",
+  "description": "Einkommensteuer-Vorauszahlungen, Umsatzsteuer und Nachzahlungen trennen: Die Reserve als nachvollziehbare Planungsgröße verstehen.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/steuerruecklage-planen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Gewinn und Umsatz nicht verwechseln.</li><li>Vorauszahlungen und Schlussabrechnung haben verschiedene Zeitpunkte.</li><li>Eine Rücklage ist keine verbindliche Steuerberechnung.</li></ul></div><h2>Warum die Standardquote nicht reicht</h2><p>Eine pauschale Rücklage vom Umsatz kann zu hoch oder zu niedrig sein. Die Einkommensteuer hängt nicht nur von einem Zahlungseingang ab. Betriebsausgaben beeinflussen den Gewinn; persönliche Einkünfte und steuerliche Umstände kommen hinzu. Umsatzsteuer hat eine andere Logik. Trenne Steuerarten, bereits gezahlte Beträge und Fälligkeiten. Eine fachliche Prognose hilft bei veränderten Gewinnen mehr als eine Internetquote.</p><h2>Vorauszahlung ist nicht Schlussrechnung</h2><p>§ 37 EStG sieht Einkommensteuer-Vorauszahlungen vor, die das Finanzamt durch Bescheid festsetzt. Das Gesetz nennt reguläre Termine im März, Juni, September und Dezember. Für eine konkrete Zahlung zählen Bescheid und geltende Fristregeln. Die Vorauszahlungen beruhen grundsätzlich auf der letzten Veranlagung und können angepasst werden. Eine Nachzahlung und laufende Vorauszahlungen können deshalb im selben Planungszeitraum zusammentreffen.</p><h2>Umsatzsteuer separat denken</h2><p>Ist ein Umsatz umsatzsteuerpflichtig, ist der entsprechende Geldbetrag nicht automatisch privates Einkommen. Die Abführung hängt unter anderem von der Umsatzbehandlung und möglicher Vorsteuer ab. Die Kleinunternehmerregelung in § 19 UStG ist eine Umsatzsteuerregel, kein allgemeiner Einkommensteuererlass. Voraussetzungen und ein möglicher Verzicht sind eigene Steuerfragen. Hier werden keine Quoten oder Schwellen als individuelle Handlungsanweisung eingesetzt.</p><h2>Die Reserve abstimmen</h2><p>Führe je Steuerart erwartete Jahresbelastung, geleistete Zahlungen, verbleibende Schätzung und Zahlungszeitpunkte auf. Fiktives Rechenmodell: Bei angenommener Restbelastung von 2.400 Euro und 1.500 Euro vorhandener Reserve fehlen 900 Euro. Das berechnet nicht deine Steuer. Ändern sich Gewinne oder Bescheide, ändert sich der Plan. <a href=\"/artikel/buchhaltung-basics/\">Vollständige Unterlagen</a> sind die Grundlage. Ein Unterkonto allein macht die Schätzung nicht richtig.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "EStG § 37: Einkommensteuer-Vorauszahlung (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__37.html"
+    },
+    {
+      "title": "EStG § 4: Gewinn und Betriebsausgaben (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/estg/__4.html"
+    },
+    {
+      "title": "UStG § 19: Kleinunternehmer (abgerufen 26.10.2026)",
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__19.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind Kleinunternehmer einkommensteuerfrei?",
+      "a": "Nein. § 19 UStG betrifft Umsatzsteuer, keine allgemeine Befreiung von Einkommensteuer."
+    },
+    {
+      "q": "Lassen sich Vorauszahlungen ändern?",
+      "a": "§ 37 EStG sieht Anpassungen durch das Finanzamt an die voraussichtliche Steuer vor. Der konkrete Fall ist fachlich zu prüfen."
+    }
+  ]
+}

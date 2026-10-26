@@ -1,0 +1,29 @@
+{
+  "slug": "bafoeg-und-studienfinanzierung",
+  "title": "BAföG und Studienfinanzierung: Anspruch prüfen statt Höchstsätze verplanen",
+  "description": "BAföG, BAB, Nebenverdienst und Kredit unterscheiden: Ein Überblick für Studium und Ausbildung ohne pauschale Förderzusage.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/bafoeg-und-studienfinanzierung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, abends. Allgemeine Finanzbildung für Deutschland.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ausbildung und persönliche Voraussetzungen bestimmen den Anspruch.</li><li>Ein Rechner ersetzt keinen Bescheid.</li><li>Künftige Reformpläne sind kein heute bewilligtes Budget.</li></ul></div><h2>Der Höchstsatz ist nicht dein Budget</h2><p>Das BMFTR nennt unter anderem die förderfähige Ausbildung, persönliche Voraussetzungen sowie Einkommen und Vermögen als Prüfpunkte. Auch Einkommen der Eltern oder von Ehe- beziehungsweise Lebenspartnern kann berücksichtigt werden. Eine Überschrift mit Förderhöchstbetrag begründet deshalb keinen eigenen Anspruch. Trenne verlässliche Einnahmen von beantragten, noch offenen Mitteln.</p><h2>Förderung und Finanzierung trennen</h2><p>Der offizielle BAföG-Rechner liefert laut Ministerium nur eine unverbindliche Orientierung. Die zuständige Stelle setzt den Anspruch fest. Unterhalt, Stipendien, Nebenverdienst und vorhandene Mittel können weitere Bausteine sein, sind aber nicht automatisch ohne Wechselwirkungen kombinierbar. Bei Nebenverdienst sind Förderung und Versicherungsstatus zu prüfen. Ein Studienkredit bedeutet spätere Zahlungen einschließlich möglicher Zinsen. Er ist kein gleichwertiger Ersatz für einen Zuschuss.</p><h2>Azubi heißt nicht automatisch BAföG</h2><p>Für betriebliche oder außerbetriebliche Berufsausbildungen kann Berufsausbildungsbeihilfe relevant sein. Die Bundesagentur für Arbeit prüft unter anderem Ausbildungsart, Wohnsituation und Einkommen. Sie beschreibt BAB als Zuschuss, der nicht zurückgezahlt werden muss. Das gilt nicht automatisch für jede Ausbildungsfinanzierung. Für eine schulische Ausbildung ist wiederum zu prüfen, ob BAföG infrage kommt. Die zuständige Stelle hilft bei der Einordnung.</p><h2>Antrag und Reformmeldungen</h2><p>Sammle Unterlagen früh und plane Wartezeit ein. Bei BAB weist die BA darauf hin, dass rückwirkend nur ab dem Antragsmonat gezahlt wird. Die BAföG-Seite des Ministeriums beschreibt auch einen Regierungsentwurf mit vorgesehenen Verbesserungen ab 2027 und anschließendem parlamentarischem Verfahren. Ein Entwurf ist kein bewilligter persönlicher Anspruch. Deshalb werden hier keine künftigen Fördersätze als heute geltendes Budget angesetzt. Halte sichere Einnahmen, unvermeidbare Kosten und offene Lücken getrennt fest.</p><p>Keine individuelle Anlage-, Versicherungs-, Steuer- oder Rechtsberatung. Ob eine Regel oder ein Vertrag für dich passt, hängt von deiner persönlichen Situation ab.</p>",
+  "sources": [
+    {
+      "title": "BMFTR: BAföG (abgerufen 26.10.2026)",
+      "url": "https://www.bmftr.bund.de/DE/Forschung/AkademischeLaufbahn/Studium/Finanzierung/Bafoeg/bafoeg_node.html"
+    },
+    {
+      "title": "Bundesagentur für Arbeit: Berufsausbildungsbeihilfe (abgerufen 26.10.2026)",
+      "url": "https://www.arbeitsagentur.de/bildung/ausbildung/berufsausbildungsbeihilfe-bab"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der BAföG-Rechner verbindlich?",
+      "a": "Nein. Laut BMFTR entscheidet das zuständige Amt über den tatsächlichen Förderanspruch."
+    },
+    {
+      "q": "Muss BAB zurückgezahlt werden?",
+      "a": "Die BA beschreibt BAB als nicht zurückzuzahlenden Zuschuss. Die Berechtigung wird individuell geprüft."
+    }
+  ]
+}
