@@ -1,0 +1,33 @@
+{
+  "slug": "gold-als-anlage-erklaert",
+  "title": "Gold als Anlage: Metall, Preis und Produkt trennen",
+  "description": "Gold liefert keine laufenden Erträge. Was physisches Gold von ETCs unterscheidet, wie die Währung wirkt und welche Risiken trotz Besicherung bleiben.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/gold-als-anlage-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Gold selbst zahlt weder Zinsen noch Dividenden.</li><li>Direkt gehaltenes Metall und ein Gold-Wertpapier sind rechtlich nicht dasselbe.</li><li>Euro-Anleger können zusätzlich eine Währungswirkung haben.</li></ul></div><h2>Was du tatsächlich hältst</h2><p>Ein Barren ist ein körperlicher Gegenstand. Ein Gold-ETC ist ein Wertpapier mit vertraglichen Ansprüchen. Diese Unterscheidung ist wichtiger als das gemeinsame Etikett Gold. Die EZB erklärt, dass physisches Gold keine Verbindlichkeit eines Emittenten ist. Auf eine Schuldverschreibung lässt sich das nicht unverändert übertragen.</p><p>DWS beschreibt seine ETCs als besicherte Schuldverschreibungen und betont, dass Anleger nicht Eigentümer des Metalls werden. Bei diesen Produkten ist auch keine physische Lieferung an Anleger vorgesehen. Andere Produkte können andere Bedingungen haben. Physische Besicherung beweist deshalb weder direktes Eigentum noch einen allgemeinen Lieferanspruch.</p><section aria-label=\"Besitzform und Risiko trennen\"><h3>Besitzform und Risiko trennen</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Barren</h3><p style=\"margin:8px 0;white-space:normal\"><b>Anspruch:</b> Körperliches Metall</p><p style=\"margin:8px 0;white-space:normal\"><b>Prüffrage:</b> Echtheit und Verwahrung</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">ETC</h3><p style=\"margin:8px 0;white-space:normal\"><b>Anspruch:</b> Wertpapieranspruch</p><p style=\"margin:8px 0;white-space:normal\"><b>Prüffrage:</b> Besicherung und Lieferung</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Minenaktie</h3><p style=\"margin:8px 0;white-space:normal\"><b>Anspruch:</b> Unternehmensanteil</p><p style=\"margin:8px 0;white-space:normal\"><b>Prüffrage:</b> Betrieb und Finanzierung</p></div></div></section><h2>Was die Wertentwicklung ausmacht</h2><p>Das Metall selbst erzeugt keinen laufenden Cashflow. Bei einer einfachen Goldposition ergibt sich der Ertrag aus der Verkaufspreisänderung abzüglich Kosten. Bei direktem Besitz können Verwahrung und Versicherung Kosten verursachen, beim Wertpapier produktabhängige Gebühren und Handelsspreads.</p><p>Die EZB untersucht Gold im Financial Stability Review vom Mai 2025 in historischen Stressphasen. Solche Beobachtungen sind keine Garantie für die nächste Phase oder einen bestimmten Euro-Wert. Ein Gegenstand ohne Emittentenausfallrisiko kann trotzdem im Marktpreis fallen.</p><h2>Die Währung ist eine weitere Ebene</h2><p>Ein in US-Dollar angegebener Goldpreis muss für einen Euro-Anleger umgerechnet werden. Bei konstantem Dollar-Preis kann eine Euro-Aufwertung den Euro-Wert senken. Eine Euro-Notierung am Handelsplatz ist keine automatische Absicherung. Bei ausdrücklich gesicherten Produkten kommen eigene Vertragsmechanismen und Risiken hinzu.</p><p>Auch eine Minenaktie ist kein Barren. Sie beteiligt an einem Unternehmen mit Betriebs- und Finanzierungsrisiken. Mehr zum Produktvergleich steht in <a href=\"/artikel/anlagewege-rohstoffe-etc-etf/\">Anlagewege bei Rohstoffen</a>. Den deutschen Steuerrahmen behandelt <a href=\"/artikel/rohstoff-steuer/\">Rohstoffe und Steuern</a>.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "EZB: Gold und Risikowahrnehmung, Financial Stability Review (Mai 2025) (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2025/html/ecb.fsrbox202505_02~7f616fcd3f.en.html"
+    },
+    {
+      "title": "DWS Xtrackers: FAQ ETCs, Rechtsform und Risiken (abgerufen 26.10.2026)",
+      "url": "https://etf.dws.com/de-de/etf-wissen/faq-etcs/"
+    },
+    {
+      "title": "EZB: Die Rolle der Wechselkurse (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/role_of_exchange_rates.en.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zahlt Gold Zinsen?",
+      "a": "Das Metall selbst zahlt keine Zinsen oder Dividenden. Verleih oder andere Zusatzgeschäfte haben eigene Risiken."
+    },
+    {
+      "q": "Ist physisch besichert gleich direktes Eigentum?",
+      "a": "Nein. Die Produktbedingungen legen die Ansprüche fest. DWS erklärt für seine ETCs ausdrücklich, dass Anleger nicht Eigentümer des Metalls werden."
+    }
+  ]
+}

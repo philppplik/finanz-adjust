@@ -1,0 +1,29 @@
+{
+  "slug": "eur-usd-lesen",
+  "title": "EUR/USD lesen: Was 1,10 wirklich bedeutet",
+  "description": "Basiswährung, Kehrwert und Umrechnung: So liest du EUR/USD richtig. Mit klaren Beispielrechnungen und dem Unterschied zwischen Referenz- und Bankkurs.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/eur-usd-lesen.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>EUR/USD 1,10 bedeutet: Ein Euro entspricht 1,10 US-Dollar.</li><li>Steigt diese Zahl, wertet der Euro gegenüber dem Dollar auf.</li><li>EZB-Referenzkurse sind Informationen, keine zugesagten Transaktionskurse.</li></ul></div><h2>Erst die Einheit, dann die Richtung</h2><p>Die erste Währung ist die Basis. Bei EUR/USD wird angegeben, wie viele US-Dollar ein Euro wert ist. 1,10 bedeutet also 1 Euro = 1,10 Dollar. Es bedeutet nicht, dass ein Dollar 1,10 Euro kostet. Genau diese Verwechslung dreht viele Aussagen über Währungsgewinne um.</p><p>Die EZB führt ihre Euro-Referenzkurse mit dem Euro als Basiswährung. Wenn der USD-Eintrag steigt, bekommst du rechnerisch mehr Dollar für einen Euro. Der Euro hat gegenüber dem Dollar aufgewertet; aus Dollar-Sicht hat der Dollar gegenüber dem Euro abgewertet. Beide Sätze beschreiben dieselbe Bewegung.</p><section aria-label=\"Frei gewählte Umrechnungen bei EUR/USD 1,10\"><h3>Frei gewählte Umrechnungen bei EUR/USD 1,10</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">500 Euro</h3><p style=\"margin:8px 0;white-space:normal\"><b>Rechnung:</b> 500 × 1,10</p><p style=\"margin:8px 0;white-space:normal\"><b>Ergebnis:</b> 550 US-Dollar</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">550 US-Dollar</h3><p style=\"margin:8px 0;white-space:normal\"><b>Rechnung:</b> 550 ÷ 1,10</p><p style=\"margin:8px 0;white-space:normal\"><b>Ergebnis:</b> 500 Euro</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">1 US-Dollar</h3><p style=\"margin:8px 0;white-space:normal\"><b>Rechnung:</b> 1 ÷ 1,10</p><p style=\"margin:8px 0;white-space:normal\"><b>Ergebnis:</b> ca. 0,9091 Euro</p></div></div></section><h2>Multiplizieren hin, dividieren zurück</h2><p>Bei einem frei gewählten Kurs von 1,10 ergeben 500 Euro rechnerisch 550 Dollar: 500 × 1,10. Für die Rückrechnung teilst du: 550 Dollar ÷ 1,10 = 500 Euro. Der Kehrwert für USD/EUR beträgt 1 ÷ 1,10, also rund 0,9091 Euro je Dollar.</p><p>Nicht symmetrisch sind die Prozentänderungen: Steigt EUR/USD von 1,00 auf 1,10, ist das ein Anstieg um zehn Prozent. USD/EUR fällt gleichzeitig von 1,00 auf rund 0,9091, also um rund 9,09 Prozent. Die unterschiedlichen Ausgangswerte erklären den Unterschied.</p><h2>Referenz ist nicht der Kassenkurs</h2><p>Die EZB aktualisiert die Referenzkurse üblicherweise gegen 16 Uhr an ihren Veröffentlichungstagen. Sie bezeichnet diese ausdrücklich als Informationswerte und rät von ihrer Verwendung für Transaktionszwecke ab. Eine Bank oder ein Broker kann zu einem anderen Zeitpunkt einen anderen Kurs anbieten und Gebühren oder einen Spread einrechnen.</p><p>Daher gehören zu jeder Kursangabe Quelle, Zeit und Einheit. Für eine reale Abrechnung zählen die Bedingungen des Anbieters. Ein Referenzwert vom Nachmittag ist weder ein Live-Tick noch die Garantie, diesen Kurs am Automaten, beim Broker oder bei der Kartenzahlung zu erhalten.</p><h2>Eine praktische Lesereihenfolge</h2><p>Notiere zuerst \"Dollar je Euro\", dann den Zeitpunkt, danach erst die Bewegung. Bei einer Renditerechnung müssen Anfang und Ende zur gleichen Kursdefinition passen. Werden Devisenkurse mit Aktienkursen kombiniert, sollten auch die Beobachtungszeitpunkte zusammenpassen.</p><p>Welche Faktoren Kurse bewegen, erklärt <a href=\"/artikel/wechselkurs-treiber/\">Wechselkurs-Treiber</a>. Die Wirkung im Depot rechnet <a href=\"/artikel/waehrungsrisiko-bei-us-aktien/\">der Artikel zu US-Aktien</a> durch.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "EZB: Euro-Referenzkurse, Informationszweck (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+    },
+    {
+      "title": "EZB: Die Rolle der Wechselkurse (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/role_of_exchange_rates.en.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet ein steigender EUR/USD-Kurs?",
+      "a": "Ein Euro ist mehr Dollar wert. Der Euro wertet gegenüber dem Dollar auf."
+    },
+    {
+      "q": "Kann ich zum EZB-Referenzkurs handeln?",
+      "a": "Die EZB stellt ihn nur für Informationszwecke bereit. Dein tatsächlicher Kurs richtet sich nach Anbieter, Zeitpunkt, Spread und Gebühren."
+    }
+  ]
+}

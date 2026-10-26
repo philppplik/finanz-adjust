@@ -1,0 +1,33 @@
+{
+  "slug": "waehrungsrisiko-bei-us-aktien",
+  "title": "US-Aktien im Euro-Depot: Wie der Dollar die Rendite verändert",
+  "description": "Aktienkurs und Wechselkurs wirken gemeinsam auf die Euro-Rendite. Ein Rechenbeispiel zeigt, warum ein Euro-Handelsplatz das Dollar-Risiko nicht entfernt.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/waehrungsrisiko-bei-us-aktien.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Euro-Rendite einer direkt gehaltenen US-Aktie hängt vom Aktienkurs und vom Wechselkurs ab.</li><li>Ein Kauf in Euro beseitigt die wirtschaftliche Währungsexposition nicht automatisch.</li><li>Unternehmensrisiko und Währungswirkung sind getrennte Ebenen.</li></ul></div><h2>Eine Aktie, zwei Umrechnungen</h2><p>Du bewertest dein Depot in Euro, die betrachtete Aktie wird in US-Dollar notiert. Beim Einstieg wird der Euro-Betrag gedanklich in Dollar umgerechnet, beim Ausstieg wieder zurück. Dazwischen können sich sowohl der Aktienkurs als auch EUR/USD verändern. Selbst ein unveränderter Dollar-Kurs bedeutet deshalb keinen unveränderten Euro-Wert.</p><p>Das Beispiel betrachtet eine direkte Aktie, keine Fondsstruktur. Es lässt Dividenden, Gebühren, Spreads und Steuern weg. Der Startwert beträgt 100 US-Dollar, der anfängliche Wechselkurs 1,00 US-Dollar je Euro. Damit entspricht die Aktie anfangs 100 Euro. Anschließend steigt der Aktienkurs auf 110 Dollar.</p><section aria-label=\"Frei gewähltes Rechenbeispiel: Aktie von 100 auf 110 USD, Start EUR/USD 1,00\"><h3>Frei gewähltes Rechenbeispiel: Aktie von 100 auf 110 USD, Start EUR/USD 1,00</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">1,10</h3><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Endwert:</b> 100,00 €</p><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Rendite:</b> 0 %</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">1,25</h3><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Endwert:</b> 88,00 €</p><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Rendite:</b> −12 %</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">0,90</h3><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Endwert:</b> 122,22 €</p><p style=\"margin:8px 0;white-space:normal\"><b>Euro-Rendite:</b> ca. +22,22 %</p></div></div></section><h2>Die Rechnung statt einer Faustregel</h2><p>Bei einem Schlusskurs von EUR/USD 1,10 entsprechen die 110 Dollar genau 100 Euro. Die Aktie hat in Dollar zehn Prozent gewonnen, in Euro ist der Wert im Beispiel unverändert. Steigt EUR/USD auf 1,25, entsprechen 110 Dollar nur 88 Euro. Fällt EUR/USD auf 0,90, sind es rund 122,22 Euro.</p><p>Die Formel lautet: Euro-Endwert = Dollar-Endwert geteilt durch Dollar je Euro am Ende. Für die Rendite gilt ohne Ausschüttungen: Aktienkursfaktor in Dollar × EUR/USD am Anfang ÷ EUR/USD am Ende − 1. Prozentänderungen einfach zu addieren ist nur eine Näherung und kann bei großen Bewegungen irreführen.</p><h2>Handelswährung ist nicht wirtschaftliches Risiko</h2><p>Wird dieselbe Aktie an einem deutschen Handelsplatz in Euro angezeigt, ist das zunächst eine andere Preisangabe. Daraus folgt keine vertragliche Währungsabsicherung. Eine solche Absicherung braucht eine eigene Konstruktion. Der Börsenort allein genügt nicht.</p><p>Daneben hat das Unternehmen selbst Währungsrisiken: Es kann weltweit Umsätze erzielen und Kosten in unterschiedlichen Währungen tragen. Diese operativen Effekte sind bereits Teil seines Geschäfts und können den Aktienkurs beeinflussen. Die rechnerische Umrechnung des Depotwerts bleibt davon getrennt.</p><h2>Welche Aussage das Beispiel nicht macht</h2><p>Es zeigt die Mechanik, nicht die künftige Dollar-Richtung und nicht die passende Depotstruktur. Es sagt auch nicht, dass jede US-Aktie wirtschaftlich ausschließlich am Dollar hängt. Geschäftsmodell, Einnahmen, Kosten und Absicherungen des Unternehmens unterscheiden sich.</p><p>Die Notierung erklärt <a href=\"/artikel/eur-usd-lesen/\">EUR/USD lesen</a>. Was eine explizite Absicherung verändert und was nicht, steht in <a href=\"/artikel/waehrungsabsicherung-erklaert/\">Währungsabsicherung erklärt</a>.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "EZB: Die Rolle der Wechselkurse (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/role_of_exchange_rates.en.html"
+    },
+    {
+      "title": "EZB: Euro-Referenzkurse, Informationszweck (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+    },
+    {
+      "title": "BlackRock/iShares: Currency Hedged ETFs, Funktionsweise und Risiken (2025; US-Produktbeispiel) (abgerufen 26.10.2026)",
+      "url": "https://www.ishares.com/us/literature/brochure/ishares-currency-hedged-product-brief.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Verschwindet das Währungsrisiko beim Kauf in Euro?",
+      "a": "Nicht allein dadurch. Eine Euro-Notierung ist keine vertragliche Währungsabsicherung."
+    },
+    {
+      "q": "Kann eine steigende US-Aktie in Euro verlieren?",
+      "a": "Ja. Wertet der Euro gegenüber dem Dollar ausreichend auf, kann die Umrechnung den Aktiengewinn übertreffen."
+    }
+  ]
+}

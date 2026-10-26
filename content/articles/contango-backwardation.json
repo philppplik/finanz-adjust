@@ -1,0 +1,29 @@
+{
+  "slug": "contango-backwardation",
+  "title": "Contango und Backwardation: Warum der Spotpreis nicht alles ist",
+  "description": "Die Terminstruktur erklärt Preisunterschiede zwischen Fälligkeiten. Wie Rollen wirkt und warum Contango keine sichere Zukunftsvorhersage ist.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/contango-backwardation.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Terminkontrakte unterschiedlicher Fälligkeit können heute verschiedene Preise haben.</li><li>Contango und Backwardation beschreiben eine Kurve, keine sichere Prognose.</li><li>Rollen, Preisentwicklung und Kosten beeinflussen futuresbasierte Strategien.</li></ul></div><h2>Ein Rohstoff, mehrere Termine</h2><p>Ein Spotpreis bezieht sich auf zeitnahe Lieferung. Ein Futures-Preis gehört zu einem standardisierten Vertrag mit einem festgelegten späteren Termin. CME bezeichnet einen über dem Spotpreis liegenden Terminpreis als Contango, die umgekehrte Lage als Backwardation.</p><p>Eine vereinfachte Kurve kann steigen oder fallen. Reale Kurven können auch Knicke haben. Deshalb müssen die konkret verglichenen Termine und der Beobachtungszeitpunkt genannt werden. Die Momentaufnahme sagt nicht, wo der Spotpreis in einigen Monaten liegen wird.</p><section aria-label=\"Frei gewählte Momentaufnahme, keine Prognose oder Renditerechnung\"><h3>Frei gewählte Momentaufnahme, keine Prognose oder Renditerechnung</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Contango</h3><p style=\"margin:8px 0;white-space:normal\"><b>Spot heute:</b> 100 Recheneinheiten</p><p style=\"margin:8px 0;white-space:normal\"><b>Späterer Termin heute:</b> 105 Recheneinheiten</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Backwardation</h3><p style=\"margin:8px 0;white-space:normal\"><b>Spot heute:</b> 100 Recheneinheiten</p><p style=\"margin:8px 0;white-space:normal\"><b>Späterer Termin heute:</b> 95 Recheneinheiten</p></div></div></section><h2>Warum Termine unterschiedlich kosten</h2><p>CME nennt Lagerung, Finanzierung und Versicherung als mögliche Bestandteile der Haltung lagerfähiger Rohstoffe. Sofort verfügbares Material kann andererseits einen wirtschaftlichen Nutzen haben, etwa für einen laufenden Produktionsprozess. Dieser Verfügbarkeitsnutzen heißt Convenience Yield.</p><p>Die Terminstruktur ist damit mehr als eine Meinung über einen späteren Preis. Kosten, Verfügbarkeit und Erwartungen können sich verändern. Höhere Terminpreise bedeuten nicht automatisch, dass der Spotpreis steigen muss. Die Kurve kann ihre Form wechseln.</p><h2>Was Rollen verändert</h2><p>Eine laufende Futures-Strategie hält nicht denselben auslaufenden Kontrakt unbegrenzt. Sie schließt oder ersetzt ihn nach festgelegten Regeln. Ist der spätere Vertrag teurer, ermöglicht ein gleicher rechnerischer Expositionsbetrag weniger Rohstoffeinheiten. Das ist eine vereinfachte Darstellung, keine vollständige Abrechnung eines Futures-Kontos.</p><p>Der Preisabstand ist nicht bereits ein sofort realisierter Verlust in genau dieser Höhe. Ein Futures-Vertrag ist keine einfache Barzahlung des gesamten Rohstoffwerts. Für die Rendite zählen die Preisentwicklung der gehaltenen Kontrakte, ihre Annäherung an den Spotpreis, Rollregeln, Sicherheitenverzinsung und Kosten. Bei konstantem Spotpreis und vergleichbarer Kurve kann Contango eine negative Rollkomponente erzeugen; Backwardation kann umgekehrt helfen.</p><h2>Die richtige Messlatte</h2><p>Ein futuresbasierter Rohstoffindex und ein Spotpreis bilden unterschiedliche Konstruktionen ab. Zu klären ist, ob ein Index nur die Futures-Komponente oder auch Sicherheitenverzinsung enthält und ob Gebühren bereits abgezogen sind. Eine Abweichung ist ohne diese Prüfung noch kein Fehler.</p><p>Die EIA unterscheidet für Öl Spot- und Futuresgeschäfte. Bei einem Anlegerprodukt ergänzt der Prospekt diese Marktmechanik. Den Überblick gibt <a href=\"/artikel/anlagewege-rohstoffe-etc-etf/\">Rohstoffe im Depot</a>.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "CME Group: Contango and Backwardation (abgerufen 26.10.2026)",
+      "url": "https://www.cmegroup.com/education/courses/introduction-to-precious-metals/what-is-contango-and-backwardation"
+    },
+    {
+      "title": "US Energy Information Administration: Oil prices and outlook (abgerufen 26.10.2026)",
+      "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Contango eine Preisprognose?",
+      "a": "Nein. Die Kurve enthält Kosten, Verfügbarkeitsnutzen und Erwartungen und kann sich verändern."
+    },
+    {
+      "q": "Ist der Rollabstand sofort der gesamte Verlust?",
+      "a": "Nein. Die Futures-Abrechnung und spätere Preisentwicklung sind komplexer. Der Abstand allein ist keine vollständige Renditerechnung."
+    }
+  ]
+}

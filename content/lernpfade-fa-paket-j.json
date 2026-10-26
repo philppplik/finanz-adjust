@@ -1,0 +1,161 @@
+{
+  "paket": "J",
+  "welle": 3,
+  "stand": "2026-10-26",
+  "pfade": [
+    {
+      "id": "LP-FA-23",
+      "name": "Währungen & Wechselkurse",
+      "frage": "Die US-Aktie steigt, dein Euro-Wert nicht: Wie passt das zusammen?",
+      "intro": "Du lernst die Sprache der Wechselkurse und die Kräfte hinter ihren Bewegungen. Danach trennst du Aktienrendite, Währungswirkung und Handelswährung. Aufwertung und Abwertung bekommen eine klare Richtung. Zum Schluss liest du EUR/USD und erkennst, was eine ausdrückliche Absicherung leisten soll und was offenbleibt. Keine Devisenprognose, keine Handelsstrategie.",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "Grundbegriffe zu Aktien, ETFs und Rendite; sichere Prozentrechnung für die Beispiele.",
+      "lernziel": "Du verstehst Wechselkurse, Währungsrisiko und deren Folgen für Anleger.",
+      "steps": [
+        {
+          "slug": "/glossar/was-ist-ein-wechselkurs/",
+          "warum": "Der Einstieg: Währungen als Preisverhältnis verstehen."
+        },
+        {
+          "slug": "/artikel/wechselkurs-treiber/",
+          "warum": "Der Mechanismus: Angebot, Nachfrage und Erwartungen trennen."
+        },
+        {
+          "slug": "/artikel/waehrungsrisiko-bei-us-aktien/",
+          "warum": "Die Depotwirkung: Aktienkurs und Währung zusammen rechnen."
+        },
+        {
+          "slug": "/glossar/aufwertung/",
+          "warum": "Die Richtung: Welche Währung wird relativ stärker?"
+        },
+        {
+          "slug": "/glossar/abwertung/",
+          "warum": "Die Gegenrichtung verstehen, ohne das Vorzeichen zu drehen."
+        },
+        {
+          "slug": "/artikel/eur-usd-lesen/",
+          "warum": "Die Praxis: Einheit, Basiswährung und Kehrwert lesen."
+        },
+        {
+          "slug": "/artikel/waehrungsabsicherung-erklaert/",
+          "warum": "Die Grenze: Was ein Hedge verringert und was bleibt."
+        }
+      ],
+      "terms": [
+        "was-ist-ein-wechselkurs",
+        "aufwertung",
+        "abwertung"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Eine Aktie steigt von 100 auf 110 Dollar. EUR/USD steigt von 1,00 auf 1,10. Was wird aus anfangs 100 Euro?",
+            "loesung": "Ohne Gebühren, Dividenden und Steuern wieder 100 Euro: 110 geteilt durch 1,10. Der Dollar-Aktiengewinn wird durch die Euro-Aufwertung ausgeglichen."
+          },
+          {
+            "frage": "Ein Produkt wird in Euro gehandelt. Ist es deshalb währungsgesichert?",
+            "loesung": "Nein. Handelswährung und ausdrückliche Absicherung sind verschiedene Dinge. Zielwährung, Umfang, Instrumente und Anpassungsregeln müssen in den Produktunterlagen stehen."
+          },
+          {
+            "frage": "Nach einer Zinserhöhung wird eine sichere Währungsaufwertung versprochen. Was fehlt?",
+            "loesung": "Zinsen sind ein möglicher Einfluss. Erwartungen und andere Nachrichten wirken gleichzeitig. Der Mechanismus erlaubt keine sichere Kursprognose."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was bedeutet EUR/USD 1,20?",
+            "loesung": "Ein Euro entspricht 1,20 US-Dollar."
+          },
+          {
+            "frage": "Was schützt ein reines Währungshedge nicht?",
+            "loesung": "Es schützt nicht gegen Kursverluste des eigentlichen Aktien- oder Rohstoffbasiswerts."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-24",
+          "warum": "Das nächste Themenfeld schließt an die hier gelernten Risiken und Begriffe an."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-24",
+      "name": "Rohstoffe & Gold verstehen",
+      "frage": "Gold, Öl, ETC: Welchen Preis und welchen Anspruch hältst du eigentlich?",
+      "intro": "Dieser Pfad trennt Rohstoffmarkt, Besitzform und Anlegerprodukt. Nach dem Grundbegriff und Gold lernst du die physische Ölmarktbilanz kennen. Danach vergleichst du Anlagewege, prüfst Inflationsbehauptungen und liest die Terminstruktur. Zum Schluss folgt der deutsche Steuerrahmen: Die Konstruktion zählt, nicht das Rohstoffetikett. Es geht um Verständnis, nicht um eine Kaufentscheidung.",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "Grundbegriffe zu Aktien, ETFs und Rendite; sichere Prozentrechnung für die Beispiele.",
+      "lernziel": "Du verstehst Preisbildung und Anlagewege bei Rohstoffen und Gold und kennst ihre Risiken.",
+      "steps": [
+        {
+          "slug": "/glossar/rohstoff/",
+          "warum": "Der Grundbegriff: Was Rohstoffe kennzeichnet."
+        },
+        {
+          "slug": "/artikel/gold-als-anlage-erklaert/",
+          "warum": "Das Metall: Preisrisiko, fehlende laufende Erträge und Besitzform."
+        },
+        {
+          "slug": "/artikel/oelpreis-treiber/",
+          "warum": "Der Markt: Angebot, Nachfrage, Lager und Liefertermine."
+        },
+        {
+          "slug": "/artikel/anlagewege-rohstoffe-etc-etf/",
+          "warum": "Der Anspruch: Physischer Besitz, ETC, Fonds und Aktie unterscheiden."
+        },
+        {
+          "slug": "/artikel/rohstoffe-und-inflation/",
+          "warum": "Die Einordnung: Zusammenhang ohne Schutzgarantie."
+        },
+        {
+          "slug": "/artikel/contango-backwardation/",
+          "warum": "Die Technik: Warum Termine unterschiedlich kosten."
+        },
+        {
+          "slug": "/artikel/rohstoff-steuer/",
+          "warum": "Der Rahmen: Steuerart, Haltefrist und Produktbedingungen trennen."
+        }
+      ],
+      "terms": [
+        "rohstoff"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Ein ETC heißt physisch besichert. Welche Schlüsse wären voreilig?",
+            "loesung": "Dass du direkt Eigentümer des Metalls bist und es automatisch ausgeliefert bekommst. Ansprüche und Lieferung bestimmen die Bedingungen. Auch die Steuerfrage folgt nicht allein aus der Besicherung."
+          },
+          {
+            "frage": "Ein Ölprodukt bleibt hinter dem Spotpreis zurück. Was prüfst du?",
+            "loesung": "Indexart, Kontrakte und Fälligkeiten, Rollregeln, Sicherheitenverzinsung, Gebühren und Währung. Futuresbasierte Produkte bilden nicht automatisch den Spotpreis ab."
+          },
+          {
+            "frage": "Ein Anbieter sagt: Gold ist steuerfrei. Was musst du trennen?",
+            "loesung": "Umsatzsteuer auf qualifiziertes Anlagegold und Einkommensteuer auf Verkaufsgewinne. Beim Privatbarren zählen Frist und Nutzung; beim ETC die konkreten Ansprüche. Die §-23-Freigrenze ist keine pauschale Abzugssumme."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Was meint Contango im vereinfachten Fall?",
+            "loesung": "Der heutige Terminpreis liegt über dem heutigen Spotpreis. Das ist keine sichere Prognose."
+          },
+          {
+            "frage": "Warum ist eine Minenaktie kein Barren?",
+            "loesung": "Sie ist eine Unternehmensbeteiligung mit Betriebs- und Finanzierungsrisiken, kein Eigentum an einer bestimmten Metallmenge."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-25",
+          "warum": "Das nächste Themenfeld schließt an die hier gelernten Risiken und Begriffe an."
+        }
+      ]
+    }
+  ]
+}

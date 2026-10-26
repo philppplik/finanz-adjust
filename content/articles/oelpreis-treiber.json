@@ -1,0 +1,33 @@
+{
+  "slug": "oelpreis-treiber",
+  "title": "Was den Ölpreis bewegt: Angebot, Nachfrage und Lager",
+  "description": "Ölpreise verstehen: Nachfrage, Förderung, Lager und Engpässe. Warum Spot, Futures und Endkundenpreis nicht dieselbe Größe sind.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/oelpreis-treiber.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Globales Angebot und Nachfrage sind zentrale Ölpreistreiber.</li><li>Lager und freie Förderkapazität können Störungen abfedern.</li><li>Ölsorte, Lieferort und Fälligkeit gehören zu jeder belastbaren Preisangabe.</li></ul></div><h2>Die physische Bilanz zuerst</h2><p>Die US-Energiebehörde EIA nennt Angebot und Nachfrage als zentrale Ölpreistreiber. Wirtschaftswachstum beeinflusst Energie- und Transportbedarf. Auf der Angebotsseite zählen Förderung, Transport und die Möglichkeit, zusätzliche Mengen bereitzustellen. Die Frage lautet: Wie viel wird gebraucht und wie viel ist verfügbar?</p><p>Kurzfristig reagieren beide Seiten oft begrenzt. Neue Förderkapazität benötigt Zeit, und Verbraucher können Fahrzeuge oder Maschinen nicht sofort ersetzen. Daher können bereits begrenzte Ungleichgewichte deutliche Preisreaktionen auslösen. Das erklärt eine Mechanik, nicht den nächsten Tageskurs.</p><section aria-label=\"Ölmeldungen nach Ebenen lesen\"><h3>Ölmeldungen nach Ebenen lesen</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Nachfrage</h3><p style=\"margin:8px 0;white-space:normal\"><b>Beispiel:</b> Transportbedarf</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Keine alleinige Prognose</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Angebot</h3><p style=\"margin:8px 0;white-space:normal\"><b>Beispiel:</b> Förderung und Ausfälle</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Ankündigung ist nicht Lieferung</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Puffer</h3><p style=\"margin:8px 0;white-space:normal\"><b>Beispiel:</b> Lager und Reservekapazität</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Nicht unbegrenzt verfügbar</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Kontrakt</h3><p style=\"margin:8px 0;white-space:normal\"><b>Beispiel:</b> Sorte und Fälligkeit</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Nicht jeder Ölpreis ist gleich</p></div></div></section><h2>Puffer verändern die Wirkung einer Störung</h2><p>Lagerbestände können zeitweise Versorgungslücken abfedern. Freie Förderkapazität kann zusätzliches Angebot ermöglichen. Sind beide Puffer gering, gibt es weniger Ausgleichsmöglichkeiten. Die EIA betrachtet diese Faktoren deshalb zusammen mit der laufenden Angebots- und Nachfragebilanz.</p><p>Produktionsziele von Förderländern können die verfügbare Menge beeinflussen. Eine Ankündigung ist aber nicht dasselbe wie tatsächlich gelieferte Produktion. Eine sachliche Einordnung trennt Ziele, realisierte Förderung und Verfügbarkeit. Wetter, Transport- und technische Ausfälle können ebenfalls eine Rolle spielen. Politische Bewertungen sind für diese Mechanik nicht nötig.</p><h2>Nicht jede Preiszahl misst dasselbe</h2><p>Spotgeschäfte betreffen eine zeitnahe Lieferung. Ein Futures-Preis gehört zu einem standardisierten Vertrag mit einem bestimmten zukünftigen Termin. Qualität, Lieferort und Fälligkeit können sich unterscheiden. Die EIA grenzt diese Vertragsformen ausdrücklich voneinander ab.</p><p>Auch der Preis eines fertigen Treibstoffs ist nicht einfach der Rohölpreis. Verarbeitung und Transport liegen dazwischen. Im Depot kann zusätzlich die Produktkonstruktion wirken. Vergleiche deshalb nur dieselbe Sorte und Fälligkeit über denselben Zeitraum. Den Unterschied der Termine erklärt <a href=\"/artikel/contango-backwardation/\">Contango und Backwardation</a>.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "US Energy Information Administration: Oil prices and outlook (abgerufen 26.10.2026)",
+      "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php"
+    },
+    {
+      "title": "CME Group: Futures Supply and Demand (abgerufen 26.10.2026)",
+      "url": "https://www.cmegroup.com/education/courses/using-fundamental-analysis-when-evaluating-trades/fundamental-analysis-futures-supply-and-demand"
+    },
+    {
+      "title": "CME Group: Contango and Backwardation (abgerufen 26.10.2026)",
+      "url": "https://www.cmegroup.com/education/courses/introduction-to-precious-metals/what-is-contango-and-backwardation"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum schwankt Öl kurzfristig?",
+      "a": "Angebot und Nachfrage können sich kurzfristig oft nur begrenzt anpassen. Lager und freie Förderkapazität beeinflussen den Ausgleich."
+    },
+    {
+      "q": "Ist ein Futures-Preis eine sichere Prognose?",
+      "a": "Nein. Er ist ein heutiger Preis für einen bestimmten Vertrag und keine sichere Vorhersage des späteren Spotpreises."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rohstoffe-und-inflation",
+  "title": "Rohstoffe und Inflation: Zusammenhang ja, Schutzgarantie nein",
+  "description": "Rohstoffe können Verbraucherpreise beeinflussen. Warum ein Investment trotzdem nicht automatisch den eigenen Kaufkraftverlust ausgleicht.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/rohstoffe-und-inflation.jpg",
+  "body": "<p><small>Stand: 26.10.2026. Grundlagenwissen; alle Zahlenbeispiele sind frei gewählt, keine aktuellen Kurse.</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Rohstoffpreis ist kein Verbraucherpreisindex.</li><li>Währung und Weiterverarbeitung beeinflussen die Wirkung auf Verbraucher.</li><li>Produktkosten und Konstruktion verändern die Anlegerrechnung.</li></ul></div><h2>Rohstoffpreis und Warenkorb sind verschiedene Größen</h2><p>Öl, Metalle und Agrarprodukte sind Vorprodukte. Die EIA beschreibt den Zusammenhang von Energiebedarf, Rohöl und wirtschaftlicher Aktivität. Höhere Rohstoffpreise können Produktion oder Transport verteuern. Verbraucher bezahlen aber fertige Waren und Dienstleistungen und nicht nur den Rohstoff.</p><p>Inflation bezeichnet die Veränderung eines Preisniveaus über einen Zeitraum. Ein einzelner Rohstoff kann stark steigen, während andere Preise anders laufen. Deshalb bildet eine Ölposition weder einen vollständigen Verbraucherpreisindex noch den persönlichen Ausgabenmix ab. Bereits die gemessenen Gegenstände unterscheiden sich.</p><section aria-label=\"Drei Messgrößen auseinanderhalten\"><h3>Drei Messgrößen auseinanderhalten</h3><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:12px;margin:18px 0\"><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Rohstoffpreis</h3><p style=\"margin:8px 0;white-space:normal\"><b>Gegenstand:</b> Ein bestimmtes Gut</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Nur ein Teil der Wirtschaft</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Inflationsindex</h3><p style=\"margin:8px 0;white-space:normal\"><b>Gegenstand:</b> Warenkorb</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Andere Gewichte und Dienstleistungen</p></div><div style=\"border:1px solid var(--b,#d8dde5);border-radius:12px;padding:16px;min-width:0\"><h3 style=\"margin:0 0 10px;font-size:1rem\">Depotrendite</h3><p style=\"margin:8px 0;white-space:normal\"><b>Gegenstand:</b> Konkretes Produkt</p><p style=\"margin:8px 0;white-space:normal\"><b>Grenze:</b> Währung, Konstruktion und Kosten</p></div></div></section><h2>Die Währung verändert die Übertragung</h2><p>Die EZB erklärt, dass ein stärkerer Euro in Dollar bepreiste Importe bei sonst gleichen Bedingungen günstiger machen kann. Dies wirkt direkt auf importierte Konsumgüter oder indirekt über Vorprodukte. Ein Dollar-Rohstoffpreis erzählt daher für Euro-Verbraucher nicht die ganze Geschichte.</p><p>In einem Depot beeinflusst die Umrechnung ebenfalls den Wert. Hinzu kommen Produktkonstruktion, Gebühren und bei futuresbasierten Strategien Kontraktwechsel. Diese Anlegerrechnung ist eine andere Frage als die Verbraucherpreisinflation. Wer beide gleichsetzt, übersieht eigene Renditekomponenten.</p><h2>Gold ist keine feste Inflationsformel</h2><p>Die EZB untersucht Gold im Mai 2025 in historischen Stressphasen und beschreibt es unter anderem im Zusammenhang mit Diversifikation. Zugleich erzeugt das Metall selbst keine laufenden Erträge. Nachfrage, Marktpreis und Wechselkurs können sich ändern. Eine historische Beobachtung ist keine Zusage für einen gleichmäßigen jährlichen Kaufkrafterhalt.</p><p>Eine Aussage über physisches Gold gilt zudem nicht automatisch für eine Minenaktie, einen gehebelten Schein oder einen Fremdwährungsanspruch. Der betrachtete Zeitraum und die Besitzform verändern die Rechnung. \"Inflationsschutz\" ohne Zeitraum, Preisindex und Produktbeschreibung bleibt deshalb eine unvollständige Behauptung.</p><h2>Eine Behauptung prüfbar machen</h2><p>Welche Inflation ist gemeint: ein offizieller Verbraucherpreisindex oder der eigene Warenkorb? Über welchen Zeitraum? Geht es um den Spotpreis oder die tatsächliche Nettorendite eines Produkts? Solche Fragen machen einen Vergleich nachvollziehbar, ohne daraus eine individuelle Anlageentscheidung abzuleiten.</p><p>Für die Terminkomponente folgt <a href=\"/artikel/contango-backwardation/\">Contango und Backwardation</a>. Die verschiedenen Rechtsformen stehen in <a href=\"/artikel/anlagewege-rohstoffe-etc-etf/\">Rohstoffe im Depot</a>.</p><p>Allgemeine Information, keine Anlageberatung. Rechenbeispiele ohne Gebühren und Steuern, soweit nicht ausdrücklich anders angegeben.</p>",
+  "sources": [
+    {
+      "title": "EZB: Die Rolle der Wechselkurse (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/role_of_exchange_rates.en.html"
+    },
+    {
+      "title": "US Energy Information Administration: Oil prices and outlook (abgerufen 26.10.2026)",
+      "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/prices-and-outlook.php"
+    },
+    {
+      "title": "EZB: Gold und Risikowahrnehmung, Financial Stability Review (Mai 2025) (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2025/html/ecb.fsrbox202505_02~7f616fcd3f.en.html"
+    },
+    {
+      "title": "CME Group: Contango and Backwardation (abgerufen 26.10.2026)",
+      "url": "https://www.cmegroup.com/education/courses/introduction-to-precious-metals/what-is-contango-and-backwardation"
+    },
+    {
+      "title": "CME Group: Futures Supply and Demand (abgerufen 26.10.2026)",
+      "url": "https://www.cmegroup.com/education/courses/using-fundamental-analysis-when-evaluating-trades/fundamental-analysis-futures-supply-and-demand"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Steigen Rohstoffe bei Inflation immer?",
+      "a": "Nein. Sie reagieren auf verschiedene Angebots-, Nachfrage- und Finanzmarktbedingungen."
+    },
+    {
+      "q": "Garantiert Gold einen Inflationsausgleich?",
+      "a": "Nein. Historische Zusammenhänge garantieren keine feste Euro-Rendite für einen bestimmten Zeitraum."
+    }
+  ]
+}
