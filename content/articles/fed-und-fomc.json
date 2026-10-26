@@ -1,0 +1,29 @@
+{
+  "slug": "fed-und-fomc",
+  "title": "Fed und FOMC: Wer in den USA über den Leitzins entscheidet",
+  "description": "Zwölf Mitglieder, acht Sitzungen pro Jahr, drei Instrumente: der Aufbau der US-Notenbank Federal Reserve und ihres Offenmarktkomitees FOMC. Institutionell erklärt.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/fed-und-fomc.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Federal Reserve ist die Zentralbank der USA; ihr Auftrag geht auf den Federal Reserve Act von 1913 zurück.</li><li>Das Offenmarktkomitee FOMC hat zwölf stimmberechtigte Mitglieder und tagt acht Mal pro Jahr planmässig.</li><li>Die Fed steuert drei Instrumente: Offenmarktgeschäfte, Diskontsatz und Mindestreserve.</li><li>Als langfristige Ziele nennt das FOMC Preisstabilität und nachhaltiges Wirtschaftswachstum.</li></ul></div><h2>Zwölf Stimmen im FOMC</h2><p>Das Federal Open Market Committee besteht laut Federal Reserve (Seite abgerufen 26.10.2026, englisch) aus zwölf Mitgliedern: den sieben Mitgliedern des Board of Governors, dem Präsidenten der Federal Reserve Bank of New York und vier der übrigen elf Präsidenten der regionalen Reserve Banks, die jährlich rotieren. Die nicht stimmberechtigten Reserve-Bank-Präsidenten nehmen an den Sitzungen und Diskussionen trotzdem teil. Wer aktüll welchen Sitz innehat, steht mit Namen und Rotationstabelle auf der FOMC-Seite der Fed - dort lohnt der Blick ins Original, weil sich die Zusammensetzung zu Jahresbeginn ändert.</p><h2>Drei Werkzeuge, ein Leitzins</h2><p>Die Fed beschreibt drei geldpolitische Instrumente: Offenmarktgeschäfte, den Diskontsatz und die Mindestreserve. Der Gouverneursrat ist für Diskontsatz und Mindestreserve zuständig, das FOMC für die Offenmarktgeschäfte. Über diese Werkzeuge beeinflusst die Fed den Federal Funds Rate - das ist der Zinssatz, zu dem Banken sich gegenseitig über Nacht Guthaben bei der Zentralbank leihen. Wie die Fed selbst beschreibt, lösen Veränderungen dieses Satzes eine Kette von Effekten aus: auf andere kurzfristige Zinsen, auf Wechselkurse, auf langfristige Zinsen und letztlich auf Beschäftigung, Produktion und Preise. Den europäischen Vergleich zu dieser Wirkkette beschreibt der Artikel zur <a href=\"/artikel/zinsentscheidung-und-marktreaktion/\">Zinsentscheidung und Marktreaktion</a>.</p><h2>Acht Termine pro Jahr</h2><p>Das FOMC hält acht planmässige Sitzungen pro Jahr ab. Auf diesen Sitzungen prüft das Komitee die Wirtschafts- und Finanzlage, bestimmt den geldpolitischen Kurs und bewertet die Risiken für seine langfristigen Ziele: Preisstabilität und nachhaltiges Wirtschaftswachstum. Termine, Statements und Protokolle veröffentlicht die Fed auf derselben Seite - der FOMC-Kalender ist dort direkt verlinkt. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Federal Reserve: Federal Open Market Committee (abgerufen 26.10.2026, englisch)",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer entscheidet bei der Fed über den Leitzins?",
+      "a": "Das FOMC: sieben Gouverneure, der Präsident der New Yorker Reserve Bank und vier rotierende Präsidenten anderer regionaler Reserve Banks - zwölf stimmberechtigte Mitglieder."
+    },
+    {
+      "q": "Was ist der Federal Funds Rate?",
+      "a": "Der Zinssatz, zu dem Banken einander über Nacht Zentralbankguthaben leihen. Er ist der operative Anker der US-Geldpolitik."
+    },
+    {
+      "q": "Wo finde ich die Beschlüsse?",
+      "a": "Auf der FOMC-Seite der Federal Reserve: Dort sind der Sitzungskalender, das jeweils jüngste Statement und die Protokolle (Minutes) verlinkt. Die Seite ist englischsprachig."
+    }
+  ]
+}

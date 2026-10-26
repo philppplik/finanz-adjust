@@ -1,0 +1,33 @@
+{
+  "slug": "anleiherenditen-und-zinsstruktur",
+  "title": "Anleiherenditen und Zinsstruktur: Was die Kurve über Zinsen sagt",
+  "description": "Die Zinsstrukturkurve zeigt, wie Zins und Laufzeit zusammenhängen. Was die Bundesbank dazu veröffentlicht und wie du die Formen der Kurve liest.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/anleiherenditen-und-zinsstruktur.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Zinsstruktur beschreibt den Zusammenhang zwischen Zinssätzen und Laufzeiten.</li><li>Die Bundesbank veröffentlicht Zinsstrukturdaten als Schätzwerte, berechnet aus beobachteten Umlaufsrenditen.</li><li>Grundlage sind Null-Kuponanleihen ohne Kreditausfallrisiko - die Kurve zeigt eine reine Zins-Laufzeit-Beziehung.</li><li>Die Form der Kurve wird als Stimmungsbild gelesen: steigend, flach oder invers.</li></ul></div><h2>Was die Bundesbank veröffentlicht</h2><p>Die Bundesbank definiert das Thema so (abgerufen 26.10.2026): Die Zinsstruktur am Rentenmarkt zeigt den Zusammenhang zwischen den Zinssätzen und den Laufzeiten von Null-Kuponanleihen ohne Kreditausfallrisiko. Bei den veröffentlichten Daten handele es sich um Schätzwerte, die auf der Grundlage beobachteter Umlaufsrenditen von Kuponanleihen ermittelt würden. Zwei Punkte sind daran wichtig: Die Kurve basiert auf echten Marktbeobachtungen, und sie ist ein Rechenergebnis - keine direkt handelbare Notierung.</p><h2>Drei Grundformen der Kurve</h2><p>Trägt man die Zinsen über die Laufzeiten ab, entstehen drei typische Bilder: Liegt der Zins für längere Laufzeiten über dem für kurze, steigt die Kurve - das gilt als die übliche Grundform. Laufen die Zinsen aller Laufzeiten fast gleichauf, spricht man von einer flachen Kurve. Liegen die kurzen Zinsen über den langen, ist die Kurve invers. Diese drei Formen beschreiben die Zinslandschaft eines Stichtags, nicht die Zukunft: Dahinter stehen die jeweils aktüllen Markterwartungen zu Zinsen und Umfeld, und Erwartungen verschieben sich mit jeder neuen Information.</p><h2>Warum die Kurve für Anleger relevant ist</h2><p>Der Leitzins ist nur ein Punkt dieser Kurve, aber ein gewichtiger: Die EZB beschreibt, dass Leitzinsänderungen auf die Zinssätze im Markt durchschlagen. Wer Anleihen oder Zinsprodukte vergleicht, trifft also immer auf die gesamte Kurve - beim Tagesgeld am kurzen Ende, bei langlaufenden Anleihen weit draussen. Die Einordnung der aktüllen Zinsangebote übernimmt der <a href=\"/vergleiche/zinsmonitor/\">Zinsmonitor</a>; den Leitzins-Mechanismus erklärt der Artikel zur <a href=\"/artikel/zinsentscheidung-und-marktreaktion/\">Zinsentscheidung</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Bundesbank: Zinsstruktur am Rentenmarkt (abgerufen 26.10.2026)",
+      "url": "https://www.bundesbank.de/de/statistiken/geld-und-kapitalmaerkte/zinssaetze-und-renditen/zinsstruktur-am-rentenmarkt"
+    },
+    {
+      "title": "Europäische Zentralbank: Was ist Geldpolitik? (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo sehe ich die aktülle Zinsstrukturkurve?",
+      "a": "Die Bundesbank veröffentlicht die geschätzten Zinsstrukturdaten auf ihrer Statistikseite zum Rentenmarkt - als Datenreihen, nicht als fertiges Bild."
+    },
+    {
+      "q": "Ist eine inverse Kurve ein Signal?",
+      "a": "Eine inverse Kurve ist zunächst eine Beobachtung: Kurze Laufzeiten rentieren höher als lange. Was Marktteilnehmer daraus lesen, ist Erwartungsinterpretation - kein Gesetz."
+    },
+    {
+      "q": "Was ist eine Umlaufrendite?",
+      "a": "Die Rendite der derzeit umlaufenden, also am Markt gehandelten Anleihen. Aus ihren Beobachtungswerten schätzt die Bundesbank die Zinsstruktur."
+    }
+  ]
+}

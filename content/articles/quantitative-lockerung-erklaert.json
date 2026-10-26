@@ -1,0 +1,33 @@
+{
+  "slug": "quantitative-lockerung-erklaert",
+  "title": "Quantitative Lockerung erklärt: Wertpapierkäufe der Zentralbank",
+  "description": "APP, PSPP, CSPP: Wie das Eurosystem mit Wertpapierkaufprogrammen arbeitet, wann die Nettokäufe endeten und wo die Bestände dokumentiert sind. Rein mechanisch erklärt.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/quantitative-lockerung-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Neben den Leitzinsen nutzt das Eurosystem Wertpapierkaufprogramme als geldpolitisches Instrument.</li><li>Das APP startete im Oktober 2014 und bündelt vier Teilprogramme: PSPP, CSPP, ABSPP und CBPP3.</li><li>Die Nettokäufe endeten am 1. Juli 2022; seit Juli 2023 werden auch Tilgungen nicht mehr reinvestiert.</li><li>Bestände und Phasen dokumentiert die EZB öffentlich auf ihrer APP-Seite.</li></ul></div><h2>Vier Programme unter einem Dach</h2><p>Das Asset Purchase Programme (APP) des Eurosystems besteht laut EZB (Seite abgerufen 26.10.2026) aus vier Teilprogrammen: dem Kaufprogramm für Wertpapiere des öffentlichen Sektors (PSPP), dem für Unternehmensanleihen (CSPP), dem für forderungsbesicherte Wertpapiere (ABSPP) und dem dritten Kaufprogramm für gedeckte Schuldverschreibungen (CBPP3). Zusammen bilden sie die Bilanz der Wertpapierkäufe, die die EZB Monat für Monat offenlegt. Wer Informationen zum pandemischen Kaufprogramm PEPP sucht, findet es auf derselben Seite als gesondert ausgewiesenes Programm.</p><h2>Die Phasen des APP</h2><p>Die EZB dokumentiert die Entwicklung im Detail: Die Nettokäufe begannen im Oktober 2014; ab März 2015 lagen sie bei 60 Mrd. Euro im Monat, von April 2016 bis März 2017 bei 80 Mrd. Euro, danach schrittweise niedriger bis zum Auslaufen der Nettokäufe Ende 2018. Im November 2019 starteten Nettokäufe von 20 Mrd. Euro monatlich erneut, ergänzt von März bis Dezember 2020 um einen zusätzlichen Rahmen von 120 Mrd. Euro. Am 9. Juni 2022 beschloss der Rat, die Nettokäufe zum 1. Juli 2022 einzustellen; Tilgungsbeträge wurden zunächst voll, ab März 2023 nur noch teilweise reinvestiert. Seit Juli 2023 finden auch keine Reinvestitionen mehr statt - der Bestand läuft seitdem planmässig aus. Alle Angaben: EZB, abgerufen 26.10.2026.</p><h2>Woher das Instrument kommt</h2><p>Die Zinssätze seien nur eines von mehreren Instrumenten, schreibt die EZB in ihrer Geldpolitik-Erläuterung: In den letzten Jahren habe man neue Instrumente in den Werkzeugkasten aufgenommen, als Reaktion auf grosse Veränderungen in der Wirtschaft, die die Aufgabe der Preisstabilität erschwert hätten. Die Kaufprogramme gehören zu diesen Instrumenten. Wie die klassische Zinsseite funktioniert, zeigt der Artikel zur <a href=\"/artikel/zinsentscheidung-und-marktreaktion/\">Zinsentscheidung</a>; wie Anleihezinsen und Laufzeiten zusammenhängen, der Artikel zur <a href=\"/artikel/anleiherenditen-und-zinsstruktur/\">Zinsstruktur</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Europäische Zentralbank: Asset purchase programmes (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/mopo/implement/app/html/index.de.html"
+    },
+    {
+      "title": "Europäische Zentralbank: Was ist Geldpolitik? (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kauft die EZB heute noch Anleihen?",
+      "a": "Nach dem Stand der APP-Seite (abgerufen 26.10.2026) endeten die Nettokäufe am 1. Juli 2022; seit Juli 2023 werden auch keine Tilgungsbeträge mehr reinvestiert. Der Bestand läuft also aus."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen APP und PEPP?",
+      "a": "Beides sind Kaufprogramme des Eurosystems. Das PEPP wurde als pandemisches Notfallprogramm gesondert aufgelegt; die EZB verweist auf ihrer APP-Seite getrennt darauf."
+    },
+    {
+      "q": "Wo sehe ich die Bestände?",
+      "a": "Die EZB veröffentlicht die Bestände je Teilprogramm auf der APP-Seite - als Tabelle und Zeitreihe."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "wirtschaftskalender-nutzen",
+  "title": "Wirtschaftskalender nutzen: Termine kennen, Überraschungen lesen",
+  "description": "Zentralbanksitzungen, Statistiktermine, Berichtstage: Die meisten kursbewegenden Termine stehen lange vorher fest. Wie du mit einem Wirtschaftskalender arbeitest.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/wirtschaftskalender-nutzen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Zentralbanksitzungen und Statistiktermine sind öffentlich terminiert - Überraschung entsteht im Inhalt, nicht im Termin.</li><li>Der EZB-Rat veröffentlicht seinen Sitzungskalender; die nächsten Zinstermine: 28./29.10. und 16./17.12.2026 (abgerufen 26.10.2026).</li><li>Die Fed hält acht planmässige FOMC-Sitzungen pro Jahr ab, ebenfalls mit öffentlichem Kalender.</li><li>Destatis führt einen Veröffentlichungskalender für die amtliche Statistik.</li></ul></div><h2>Wo die Termine stehen</h2><p>Der EZB-Rat terminiert seine Sitzungen weit im Voraus und veröffentlicht den Kalender: Nach dem Stand der Seite vom 26.10.2026 finden die nächsten geldpolitischen Sitzungen am 28. und 29.10.2026 sowie am 16. und 17.12.2026 statt, jeweils zweitägig mit Pressekonferenz am zweiten Tag; dazwischen liegen gesondert ausgewiesene Sitzungen ohne geldpolitischen Beschluss. Die Fed veröffentlicht auf ihrer FOMC-Seite ebenfalls Kalender, Statements und Protokolle - acht planmässige Sitzungen pro Jahr. Und für die amtliche Statistik in Deutschland führt das Statistische Bundesamt einen Veröffentlichungskalender auf seiner Website (Seite abgerufen 26.10.2026; die Inhalte laden dort dynamisch).</p><h2>Was der Kalender leistet</h2><p>Mit dem Kalender verschiebt sich die Frage vom Wann auf das Was: Der Termin ist bekannt, offen bleibt der Inhalt. Genau darauf baut die Einordnung auf - was die Märkte vor einer Veröffentlichung erwarten und wie die Meldung davon abweicht. Das Muster kennst du aus den <a href=\"/artikel/konsens-schätzungen-und-überraschung/\">Konsensschätzungen der Berichtssaison</a>, und es gilt genauso für den <a href=\"/artikel/zinsentscheidung-und-marktreaktion/\">Zinsentscheid</a>, das <a href=\"/artikel/bip-erklärt/\">BIP</a> oder die <a href=\"/artikel/arbeitsmarktdaten/\">Arbeitsmarktdaten</a>: Wer den Termin kennt, kann die Erwartungslage vorher prüfen und die Meldung danach dagegen lesen.</p><h2>Praktisch nutzen</h2><p>Ein schlichter Ablauf reicht: Am Wochenanfang die Termine der Woche sichten - Zentralbanksitzung, Statistikmeldung, Berichtstag. Zu jedem Termin notieren, welche Zahl kommt und was als Erwartung gilt. Nach der Meldung nur noch die Abweichung einordnen. Damit wird aus Nachrichtenkonsum ein Vergleich zwischen Erwartung und Wirklichkeit - und der Kalender vom Terminplan zum Werkzeug. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Europäische Zentralbank: Sitzungskalender des EZB-Rats (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.de.html"
+    },
+    {
+      "title": "Federal Reserve: Federal Open Market Committee (abgerufen 26.10.2026, englisch)",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm"
+    },
+    {
+      "title": "Statistisches Bundesamt: Veröffentlichungskalender (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Presse/Termine/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich die EZB-Termine?",
+      "a": "Im öffentlichen Sitzungskalender des EZB-Rats auf der Website der Zentralbank - mit Kennzeichnung, welche Sitzungen geldpolitische Beschlüsse und Pressekonferenzen haben."
+    },
+    {
+      "q": "Gibt es den Wirtschaftskalender fertig irgendwo?",
+      "a": "Viele Finanzportale bündeln die Termine. Die Primärqüllen sind der EZB-Kalender, der FOMC-Kalender der Fed und der Veröffentlichungskalender der Destatis."
+    },
+    {
+      "q": "Muss ich jeden Termin verfolgen?",
+      "a": "Nein. Entscheidend ist zu wissen, welche Termine es gibt und wie man eine Meldung gegen die Erwartung liest. Der Kalender ist ein Werkzeug, keine Pflicht."
+    }
+  ]
+}

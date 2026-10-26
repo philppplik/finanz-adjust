@@ -1,0 +1,37 @@
+{
+  "slug": "ifo-geschaeftsklima",
+  "title": "ifo-Geschäftsklima: der monatliche Stimmungsmesser der deutschen Wirtschaft",
+  "description": "Der ifo-Geschäftsklimaindex erscheint monatlich und zählt zu den meistbeachteten Konjunkturindikatoren. Was er ist und wie du ihn neben den amtlichen Daten liest.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/ifo-geschaeftsklima.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der ifo-Geschäftsklimaindex wird vom ifo Institut für Wirtschaftsforschung in München monatlich veröffentlicht.</li><li>Er gilt als viel beachteter Konjunkturindikator für die deutsche Wirtschaft.</li><li>Umfrageindikatoren erscheinen früher im Monat als die amtlichen Quartalsdaten.</li><li>Eingeordnet wird er am besten im Bündel: zusammen mit ZEW, Einkaufsmanagerindex und den Destatis-Zahlen.</li></ul></div><h2>Was der Index ist</h2><p>Das Börsenlexikon der Wiener Börse beschreibt den ifo-Geschäftsklimaindex (abgerufen 26.10.2026) als einen vom Münchner ifo Institut für Wirtschaftsforschung monatlich veröffentlichten, viel beachteten Konjunkturindikator für die deutsche Wirtschaft. Drei Eigenschaften tragen diese Einordnung: der monatliche Rhythmus, ein Institut mit langer Historie dahinter und die Aufmerksamkeit, die jede neue Veröffentlichung bekommt.</p><h2>Früh dran gegenüber der Statistik</h2><p>Der praktische Vorteil solcher Umfrageindikatoren ist das Timing. Die amtlichen Konjunkturdaten brauchen Erhebungs- und Bearbeitungszeit: Die BIP-Tabelle der Destatis trug beim Abruf am 26.10.2026 den Stand 25.08.2026 - sie zeigt damit Quartale, die Wochen bis Monate zurückliegen. Monatliche Umfrageindikatoren liefern dagegen eine frühe Lesart der aktüllen Stimmung. Das macht sie nützlich, aber auch begrenzt: Stimmung ist keine Produktionszahl. Deshalb liest man den ifo-Index am besten neben seinen Geschwistern - den <a href=\"/artikel/glossar-zew-index/\">ZEW-Konjunkturerwartungen</a> und dem <a href=\"/artikel/glossar-einkaufsmanagerindex/\">Einkaufsmanagerindex</a> - und immer mit Blick auf die amtlichen Daten, die später folgen.</p><h2>Wie du eine ifo-Meldung liest</h2><p>Drei Fragen helfen: Geht es um die Richtung oder um den Stand? Eine Bewegung ist etwas anderes als ein Niveau. Zweitens: Passt die Meldung zu den anderen Indikatoren des Monats, oder steht sie allein? Drittens: Was sagen die amtlichen Zahlen, sobald sie kommen? Ein einzelner Monatswert ist ein Datenpunkt - der Verlauf macht die Einordnung. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: ifo-Geschäftsklimaindex (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-i/ifo-geschaeftsklimaindex/"
+    },
+    {
+      "title": "Statistisches Bundesamt: Bruttoinlandsprodukt, Vierteljahresangaben, Stand 25.08.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/bruttoinlandsprodukt-viertel-jahr-bip.html"
+    },
+    {
+      "title": "ifo Institut: Institutsseite zum ifo-Geschäftsklima (direkter Link, Inhalt dynamisch)",
+      "url": "https://www.ifo.de/fakten/ifo-geschaeftsklima"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie oft erscheint der ifo-Index?",
+      "a": "Monatlich - so beschreibt es das Börsenlexikon der Wiener Börse."
+    },
+    {
+      "q": "Wer steht hinter dem Index?",
+      "a": "Das ifo Institut für Wirtschaftsforschung in München. Die Institutsseite ist verlinkt; die aktüllen Werte veröffentlicht das Institut dort selbst."
+    },
+    {
+      "q": "Ist der ifo-Index eine Prognose?",
+      "a": "Nein. Er ist ein Stimmungsindikator aus Umfragen - eine zeitnahe Momentaufnahme, die mit den später folgenden amtlichen Daten abgeglichen wird."
+    }
+  ]
+}

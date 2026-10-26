@@ -1,0 +1,33 @@
+{
+  "slug": "bip-erklaert",
+  "title": "BIP erklärt: Was das Bruttoinlandsprodukt misst - und wie du die Zahl liest",
+  "description": "Das Bruttoinlandsprodukt ist die bekannteste Konjunkturzahl. Definition, die drei Veröffentlichungsvarianten der Destatis und der Unterschied zwischen nominal und preisbereinigt.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/bip-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Das BIP ist der Gesamtwert aller Waren und Dienstleistungen, die innerhalb eines Jahres in einer Volkswirtschaft produziert werden.</li><li>Destatis veröffentlicht Vierteljahreswerte - nominal, preisbereinigt und saisonbereinigt.</li><li>2. Quartal 2026: nominal 1.151,03 Mrd. Euro; preisbereinigt +1,0 Prozent zum Vorjahresquartal (Stand 25.08.2026).</li><li>Der Abstand zwischen nominaler und preisbereinigter Veränderung zeigt den Preiseffekt.</li></ul></div><h2>Die Definition</h2><p>Das Börsenlexikon der Wiener Börse definiert das Bruttoinlandsprodukt (abgerufen 26.10.2026) als den Gesamtwert aller Waren und Dienstleistungen, die innerhalb eines Jahres in einer Volkswirtschaft zum Verbrauch hergestellt werden. Zwei Wörter tragen dabei die Last: Gesamtwert - es geht um alles Produzierte in Summe - und innerhalb: Es zählt die Produktion im Inland, unabhängig davon, wem die produzierenden Unternehmen gehören.</p><h2>Drei Blicke auf dieselbe Zahl</h2><p>Das Statistische Bundesamt veröffentlicht das BIP vierteljährlich in mehreren Varianten (Tabelle abgerufen 26.10.2026, Stand 25.08.2026): in jeweiligen Preisen, also nominal; preisbereinigt und verkettet als Index (2020 = 100); und saison- sowie kalenderbereinigt. Für das 2. Quartal 2026 stehen dort: 1.151,03 Mrd. Euro nominal, ein Plus von 3,8 Prozent gegenüber dem Vorjahresquartal; preisbereinigt liegt die Veränderung zum Vorjahresquartal bei 1,0 Prozent und die saison- und kalenderbereinigte Veränderung zum Vorquartal bei 0,3 Prozent. Der Abstand zwischen den 3,8 Prozent nominal und 1,0 Prozent preisbereinigt ist direkt in der Tabelle ablesbar - er zeigt, wie viel der nominalen Bewegung auf die Preisentwicklung entfällt. Genau deshalb lesen Konjunkturbeobachter die preisbereinigte Reihe, wenn es um das reale Wachstum geht.</p><h2>Was ein Quartal nicht sagt</h2><p>Ein Quartalswert ist ein Datenpunkt: Er sagt, wie gross die Produktion war und wie sie sich verändert hat - nicht, wie lange eine Richtung trägt. Dafür braucht es den Verlauf über mehrere Quartale und die Begleitindikatoren: die Stimmungsdaten des <a href=\"/artikel/ifo-geschäftsklima/\">ifo-Index</a>, die <a href=\"/artikel/arbeitsmarktdaten/\">Arbeitsmarktdaten</a> und den Gesamtrahmen des <a href=\"/artikel/konjunkturzyklus/\">Konjunkturzyklus</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Bruttoinlandsprodukt (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-b/bruttoinlandsprodukt/"
+    },
+    {
+      "title": "Statistisches Bundesamt: Bruttoinlandsprodukt, Vierteljahresangaben, Stand 25.08.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/bruttoinlandsprodukt-viertel-jahr-bip.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen nominal und preisbereinigt?",
+      "a": "Nominal wird zu jeweiligen Preisen bewertet - Preisveränderungen sind enthalten. Preisbereinigt rechnet die Preisentwicklung heraus und zeigt die reale Mengenentwicklung. Destatis veröffentlicht beide Reihen."
+    },
+    {
+      "q": "Wie oft erscheint das BIP?",
+      "a": "Destatis veröffentlicht Vierteljahresangaben. Die Werte des 2. Quartals 2026 trugen beim Abruf am 26.10.2026 den Stand 25.08.2026."
+    },
+    {
+      "q": "Warum gibt es saisonbereinigte Werte?",
+      "a": "Quartale haben regelmässige Muster - Ferien, Wetter, Arbeitstage. Die Saison- und Kalenderbereinigung rechnet diese Muster heraus, damit der Vergleich zum Vorquartal die konjunkturelle Bewegung zeigt."
+    }
+  ]
+}

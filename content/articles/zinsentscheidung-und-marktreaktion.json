@@ -1,0 +1,37 @@
+{
+  "slug": "zinsentscheidung-und-marktreaktion",
+  "title": "Zinsentscheidung und Marktreaktion: Warum nicht die Zahl allein zählt",
+  "description": "Leitzinsbeschlüsse bewegen die Märkte - aber der Beschluss ist nur die halbe Geschichte. Termine, Wirkkette und die Rolle der Erwartungen.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/zinsentscheidung-und-marktreaktion.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Leitzinsbeschlüsse sind unter normalen Umständen das wichtigste geldpolitische Instrument der EZB.</li><li>Sie wirken über die Kreditzinsen der Banken auf Verbrauch und Investitionen.</li><li>Die Sitzungstermine stehen lange vorher fest - der EZB-Rat veröffentlicht seinen Kalender öffentlich.</li><li>Für die Marktreaktion zählt neben dem Beschluss, was die Märkte vorher erwartet haben.</li></ul></div><h2>Vom Beschluss zur Wirkung</h2><p>Die EZB beschreibt den Mechanismus so (abgerufen 26.10.2026): Werden die Leitzinsen verändert, wirkt sich dies auf die Zinssätze aus, zu denen Geschäftsbanken ihren Kunden Kredite gewähren. Damit beeinflussen Leitzinsbeschlüsse die Verbraucherausgaben und die Unternehmensinvestitionen. Das Ziel, auf das diese Kette ausgerichtet ist, nennt die EZB ebenfalls: eine Preissteigerungsrate von mittelfristig 2 Prozent. Der Leitzins ist damit kein Selbstzweck, sondern das Steuerungsinstrument für ein Stabilitätsziel. Die Grundbegriffe erklärt der Artikel zum <a href=\"/artikel/leitzins-einfach-erklärt/\">Leitzins</a>.</p><h2>Der Kalender ist bekannt</h2><p>Zinsentscheidungen kommen nicht unangekündigt. Der EZB-Rat veröffentlicht seine Sitzungstermine öffentlich: Nach dem Stand der Seite vom 26.10.2026 sind die nächsten geldpolitischen Sitzungen für den 28. und 29.10.2026 sowie für den 16. und 17.12.2026 terminiert, jeweils mit Pressekonferenz am zweiten Tag. Dazwischen liegen Sitzungen ohne geldpolitischen Beschluss, die der Kalender gesondert ausweist. Die Fed hält acht planmässige FOMC-Sitzungen pro Jahr ab und veröffentlicht ihren Kalender ebenfalls. Weil die Termine bekannt sind, liegt die Spannung eines Beschlusstags nicht im Ob, sondern im Was.</p><h2>Warum die Erwartung mitentscheidet</h2><p>Ein Beschluss kann bestätigen, was die Märkte längst eingepreist haben - oder davon abweichen. Auf diese Abweichung reagieren Kurse typischerweise; dasselbe Muster kennst du aus der Berichtssaison: Auch dort zählt die Differenz zwischen <a href=\"/artikel/konsens-schätzungen-und-überraschung/\">Konsens und Meldung</a>, nicht die absolute Zahl. Deshalb lohnt vor jedem Beschluss der Blick auf zwei Dinge: Was erwarten die Märkte, und was steht tatsächlich im Statement? Wie stark eine Entscheidung auf dich durchschlägt, hängt vom eigenen Anlagehorizont ab; den Überblick über aktülle Zinsangebote liefert der <a href=\"/vergleiche/zinsmonitor/\">Zinsmonitor</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Europäische Zentralbank: Was ist Geldpolitik? (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.de.html"
+    },
+    {
+      "title": "Europäische Zentralbank: Sitzungskalender des EZB-Rats (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.de.html"
+    },
+    {
+      "title": "Federal Reserve: Federal Open Market Committee (abgerufen 26.10.2026, englisch)",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo erfahre ich als Erstes vom Beschluss?",
+      "a": "Am Sitzungstag über das Statement und die Pressekonferenz der Zentralbank. Beide Termine stehen im öffentlichen Sitzungskalender der EZB."
+    },
+    {
+      "q": "Wirkt sich der Leitzins auf mein Tagesgeld aus?",
+      "a": "Indirekt: Die EZB beschreibt die Wirkkette über die Zinssätze, zu denen Banken Kredite vergeben. Spar- und Einlagenzinsen bewegen sich im selben Umfeld - wie schnell und wie stark, entscheidet jede Bank selbst."
+    },
+    {
+      "q": "Kann man die Marktreaktion vorhersagen?",
+      "a": "Nein. Reaktionen hängen von der Abweichung von der Erwartung ab, und Erwartungen sind kein fester Wert. Wer Termine und Wirkkette kennt, ordnet besser ein - mehr leistet kein Kalender."
+    }
+  ]
+}

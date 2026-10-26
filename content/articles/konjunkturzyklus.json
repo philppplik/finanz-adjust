@@ -1,0 +1,33 @@
+{
+  "slug": "konjunkturzyklus",
+  "title": "Der Konjunkturzyklus: Auf- und Abschwung in den Daten erkennen",
+  "description": "Konjunktur ist die gesamtwirtschaftliche Aktivität einer Volkswirtschaft. Wie man den Zyklus in den Quartalsdaten sichtbar macht - ohne Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/konjunkturzyklus.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Konjunktur beschreibt die gesamtwirtschaftliche Aktivität einer Volkswirtschaft.</li><li>Beobachtet werden dafür unter anderem BIP, Kapazitätsauslastung, Arbeitsmarkt und Preisniveau.</li><li>Die Quartalsdaten der Destatis machen Phasen von Rückgang und Erholung sichtbar.</li><li>Ein einzelner Quartalswert ist ein Datenpunkt - der Zyklus zeigt sich erst im Verlauf.</li></ul></div><h2>Der Begriff</h2><p>Das Börsenlexikon der Wiener Börse definiert Konjunktur (abgerufen 26.10.2026) als einen Begriff zur Beschreibung der gesamtwirtschaftlichen Aktivität einer Volkswirtschaft - unter Bezugnahme auf die Entwicklung des Bruttoinlandsprodukts, der Kapazitätsauslastung, des Arbeitsmarktes und des Preisniveaus. Konjunktur ist also kein einzelner Indikator, sondern das Zusammenspiel mehrerer Grossen.</p><h2>Ein Zyklus in Zahlen</h2><p>Wie so eine Phase aussieht, zeigt die BIP-Tabelle der Destatis (Stand 25.08.2026, abgerufen 26.10.2026): Die preisbereinigte Veränderung gegenüber dem Vorjahresquartal lag 2023 in allen vier Quartalen im Minus (zwischen -0,2 und -1,4 Prozent); auch 2024 blieben die Werte schwach (unter anderem -0,7 Prozent im 1. Quartal), bevor 2025 wieder positive Werte folgten und das 2. Quartal 2026 mit +1,0 Prozent abschloss. Das ist keine Prognose und kein Gesetz - aber ein sichtbares Beispiel dafür, dass Konjunktur in Wellen läuft: Rückgang, Stabilisierung, Erholung. Die Vergangenheit der Datenreihe macht den Zyklus lesbar; die Zukunft bleibt offen.</p><h2>Wie du Konjunkturmeldungen einordnest</h2><p>Weil Konjunktur mehrere Grossen bündelt, verdient keine Einzelzahl eine Schlagzeilenreaktion: Das <a href=\"/artikel/bip-erklärt/\">BIP</a> kommt quartalsweise und rückblickend, der <a href=\"/artikel/ifo-geschäftsklima/\">ifo-Index</a> monatlich und stimmungsbasiert, die <a href=\"/artikel/arbeitsmarktdaten/\">Arbeitsmarktdaten</a> mit eigenem Rhythmus. Wer die drei Ebenen kennt - harte Statistik, Umfrage, Arbeitsmarkt - kann Meldungen sortieren statt sammeln. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Konjunktur (abgerufen 26.10.2026)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-k/konjunktur/"
+    },
+    {
+      "title": "Statistisches Bundesamt: Bruttoinlandsprodukt, Vierteljahresangaben, Stand 25.08.2026 (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/bruttoinlandsprodukt-viertel-jahr-bip.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es eine feste Zykluslänge?",
+      "a": "Nein. Auf- und Abschwächephasen dauern unterschiedlich lange; der Datenverlauf zeigt Phasen, aber keinen Fahrplan."
+    },
+    {
+      "q": "Welche Daten zeigen die Konjunktur?",
+      "a": "Unter anderem das BIP, die Kapazitätsauslastung, der Arbeitsmarkt und das Preisniveau - so die Definition im Börsenlexikon der Wiener Börse."
+    },
+    {
+      "q": "Ist Konjunktur dasselbe wie Börse?",
+      "a": "Nein. Konjunktur beschreibt die Gesamtwirtschaft. Börsenkurse bilden zusätzlich Erwartungen ab und laufen dem Datenkalender zeitlich oft voraus."
+    }
+  ]
+}

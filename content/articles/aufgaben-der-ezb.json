@@ -1,0 +1,33 @@
+{
+  "slug": "aufgaben-der-ezb",
+  "title": "Die Aufgaben der EZB: Was die Zentralbank des Euroraums macht",
+  "description": "Preisstabilität, Geldpolitik, Bankenaufsicht: die Aufgaben der Europäischen Zentralbank und des Eurosystems im Überblick. Institutionell erklärt, ohne Politikbewertung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/aufgaben-der-ezb.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die EZB ist die Zentralbank des Euroraums; zusammen mit den nationalen Zentralbanken der Euroraum-Länder bildet sie das Eurosystem.</li><li>Vorrangiges Ziel des Eurosystems ist Preisstabilität - der Wert des Euro soll erhalten bleiben.</li><li>Zu den Aufgaben gehören die Geldpolitik, Devisengeschäfte, die Währungsreserven und die Zahlungssysteme.</li><li>Dazu kommen Bankenaufsicht, Banknoten, Statistik und die Arbeit an der Finanzstabilität.</li></ul></div><h2>Ein Ziel vor allem: Preisstabilität</h2><p>Das Eurosystem setzt sich aus der EZB und den nationalen Zentralbanken des Euroraums zusammen - in Deutschland ist das die Bundesbank. Nach Angaben der EZB (abgerufen 26.10.2026) besteht das vorrangige Ziel darin, Preisstabilität zu gewährleisten, also den Wert des Euro zu wahren. Als Rechtsgrundlagen nennt die EZB ausdrücklich den Vertrag über die Arbeitsweise der Europäischen Union und die Satzung des ESZB und der EZB. Was Preisstabilität konkret heisst, definiert die EZB in ihrer Geldpolitik-Erläuterung: Sie versucht, die Preissteigerungsrate mittelfristig bei 2 Prozent zu halten. Das ist ein Mandat, keine Tagesentscheidung - und der Massstab, an dem jede geldpolitische Veröffentlichung der EZB gemessen werden will.</p><h2>Die vier Kernaufgaben des Eurosystems</h2><p>Die EZB listet vier Aufgaben des Eurosystems auf: die Festlegung und Umsetzung der Geldpolitik, die Durchführung von Devisengeschäften, das Halten und Verwalten der Währungsreserven des Euroraums und die Förderung des reibungslosen Funktionierens von Zahlungssystemen. Für Anlegerinnen und Anleger ist der erste Punkt der relevante: Wie die Geldpolitik festgelegt und umgesetzt wird, beschreibt der Artikel zur <a href=\"/artikel/zinsentscheidung-und-marktreaktion/\">Zinsentscheidung und ihren Marktreaktionen</a>; das Grundlagenstück dazu ist der Artikel zum <a href=\"/artikel/leitzins-einfach-erklärt/\">Leitzins</a>.</p><h2>Mehr als Geldpolitik</h2><p>Neben den vier Kernaufgaben nennt die EZB weitere Arbeitsfelder: die Bankenaufsicht, die Banknoten, die Statistik, die makroprudenzielle Politik und Finanzstabilität sowie die internationale und europäische Zusammenarbeit. Für die Einordnung von Meldungen heisst das: Nicht jede EZB-Meldung ist eine Zinsmeldung. Eine Statistik-Veröffentlichung, ein aufsichtlicher Beschluss und eine geldpolitische Sitzung sind drei verschiedene Dinge - und nur eines davon verändert den Leitzins. Das US-Gegenstück mit seiner eigenen Struktur beschreibt der Artikel zur <a href=\"/artikel/fed-und-fomc/\">Fed und zum FOMC</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Europäische Zentralbank: Aufgaben (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb/tasks/html/index.de.html"
+    },
+    {
+      "title": "Europäische Zentralbank: Was ist Geldpolitik? (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/what-is-monetary-policy.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen EZB und Eurosystem?",
+      "a": "Die EZB ist die zentrale Institution. Das Eurosystem ist der Verbund aus der EZB und den nationalen Zentralbanken der Länder, die den Euro haben. Die Aufgabenliste der EZB bezieht sich auf diesen Verbund."
+    },
+    {
+      "q": "Woher kommt das 2-Prozent-Ziel?",
+      "a": "Die EZB beschreibt in ihrer Geldpolitik-Erläuterung, dass sie die Preissteigerungsrate mittelfristig bei 2 Prozent halten will. Das vorrangige Ziel Preisstabilität selbst ist in den europäischen Verträgen verankert."
+    },
+    {
+      "q": "Entscheidet die EZB auch über Banken in Deutschland?",
+      "a": "Die EZB nennt die Bankenaufsicht als einen ihrer Aufgabenbereiche. Welche Banken direkt von der EZB und welche von nationalen Stellen beaufsichtigt werden, regelt der europäische Aufsichtsrahmen - Details dazu gehören zur Bankenaufsicht, nicht zur Geldpolitik."
+    }
+  ]
+}

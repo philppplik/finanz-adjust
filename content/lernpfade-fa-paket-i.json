@@ -1,0 +1,163 @@
+{
+ "paket": "I",
+ "welle": 3,
+ "stand": "2026-10-26",
+ "pfade": [
+  {
+   "id": "LP-FA-21",
+   "name": "Makro: EZB, Fed und Leitzinsen",
+   "frage": "Zinsentscheid, Pressekonferenz, Kaufprogramm - was machen die Zentralbanken da eigentlich?",
+   "intro": "Kaum ein Termin bewegt die Märkte so zuverlässig wie eine Zentralbanksitzung - und kaum ein Thema wird so gern mit Meinung statt mit Mechanik erzählt. Dieser Pfad zeigt dir das Handwerk dahinter: die Aufgaben der EZB, den Aufbau der Fed und ihres FOMC, die Wirkkette vom Leitzins in die Wirtschaft, die Zinsstrukturkurve als Zinslandkarte und die Kaufprogramme als zweites Instrument. Am Ende liest du eine Zentralbankmeldung institutionell statt emotional.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Lernpfad 02 (Zinsen & Tagesgeld) liefert die Zinsgrundlagen; Lernpfad 09 (Anleihen) hilft bei der Zinsstruktur.",
+   "lernziel": "Du verstehst, wie Zentralbanken steürn und wie Zinsentscheidungen Märkte beeinflussen.",
+   "steps": [
+    {
+     "slug": "/artikel/leitzins-einfach-erklaert/",
+     "warum": "Die Basis: Was der Leitzins ist und warum alles daran hängt."
+    },
+    {
+     "slug": "/artikel/aufgaben-der-ezb/",
+     "warum": "Die Institution: Was die EZB darf, soll und macht."
+    },
+    {
+     "slug": "/artikel/fed-und-fomc/",
+     "warum": "Das US-Gegenstück: Wer im FOMC sitzt und wie die Fed steuert."
+    },
+    {
+     "slug": "/artikel/zinsentscheidung-und-marktreaktion/",
+     "warum": "Der Termin: Wirkkette, Kalender und die Rolle der Erwartungen."
+    },
+    {
+     "slug": "/artikel/anleiherenditen-und-zinsstruktur/",
+     "warum": "Die Landkarte: Wie Zins und Laufzeit zusammenhängen."
+    },
+    {
+     "slug": "/artikel/quantitative-lockerung-erklaert/",
+     "warum": "Das zweite Instrument: Wertpapierkäufe und ihre Phasen."
+    },
+    {
+     "slug": "/vergleiche/zinsmonitor/",
+     "warum": "Die Praxis: Aktülle Zinsangebote im Überblick einordnen."
+    }
+   ],
+   "terms": [
+    "leitzins",
+    "anleihe",
+    "inflation"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Eine Schlagzeile meldet: 'Zentralbank verändert Leitzins.' Welche drei Dinge prüfst du, bevor du die Meldung einordnest?",
+      "loesung": "Erst: Welche Zentralbank - EZB oder Fed, und war es eine geldpolitische Sitzung mit Beschluss? Dann: Was stand im Statement - der Beschluss ist nur ein Teil, die Begründung der Rest. Und drittens: Was hatten die Märkte erwartet? Die Reaktion folgt der Abweichung von der Erwartung, nicht der Schlagzeile."
+     },
+     {
+      "frage": "Ein Bekannter sagt: 'Die EZB kauft massenhaft Anleihen, das weisst du doch.' Wie prüfst du das nach?",
+      "loesung": "Auf der APP-Seite der EZB: Dort stehen die Phasen. Nettokäufe endeten am 1. Juli 2022, seit Juli 2023 werden auch Tilgungen nicht mehr reinvestiert (Stand der Seite: abgerufen 26.10.2026). Der Bestand läuft also aus - die Behauptung beschreibt eine alte Phase."
+     },
+     {
+      "frage": "Du liest: 'Die Zinsstrukturkurve ist invers.' Was weisst du danach - und was nicht?",
+      "loesung": "Gewusst: Kurze Laufzeiten rentieren höher als lange - eine Momentaufnahme der Zinslandschaft, geschätzt aus beobachteten Umlaufsrenditen (Bundesbank). Nicht gewusst: was als Nächstes passiert. Die Kurve bildet Erwartungen ab, sie sagt sie nicht voraus."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Wer gehört zum Eurosystem?",
+      "loesung": "Die EZB und die nationalen Zentralbanken der Euroraum-Länder. Vorrangiges Ziel des Verbundes ist Preisstabilität."
+     },
+     {
+      "frage": "Aus wie vielen Mitgliedern besteht das FOMC und wie oft tagt es?",
+      "loesung": "Zwölf stimmberechtigte Mitglieder: sieben Gouverneure, der Präsident der New Yorker Reserve Bank und vier rotierende Präsidenten. Acht planmässige Sitzungen pro Jahr."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-22",
+     "warum": "Zentralbanken reagieren auf Daten - der nächste Pfad zeigt dir die Konjunkturindikatoren, auf die sie schaün."
+    }
+   ]
+  },
+  {
+   "id": "LP-FA-22",
+   "name": "Konjunkturindikatoren lesen",
+   "frage": "BIP, ifo, ZEW, Arbeitslosenzahl - welche Zahl sagt was?",
+   "intro": "Jeden Monat hagelt es Konjunkturdaten - und jede Schlagzeile klingt wie die wichtigste. Dieser Pfad bringt Ordnung rein: das BIP als harte Quartalszahl, das ifo-Geschäftsklima als monatlichen Stimmungsmesser, die Arbeitsmarktdaten in ihren zwei Zählweisen, den Konjunkturzyklus als Gesamtrahmen und den Wirtschaftskalender als Werkzeug, das aus Terminen Einordnung macht. Am Ende liest du eine Konjunkturmeldung nach Qülle, Rhythmus und Aussagekraft sortiert.",
+   "level": "Praktiker",
+   "zielgruppe": "Alle",
+   "dauer": "ca. 2 Stunden",
+   "voraussetzungen": "Keine fachlichen - Lernpfad 07 (Börsenmeldungen lesen) hilft beim Einordnen der Schlagzeilen.",
+   "lernziel": "Du liest BIP, ZEW, ifo, PMI und Inflationsdaten und ordnest Überraschungen ein.",
+   "steps": [
+    {
+     "slug": "/artikel/bip-erklaert/",
+     "warum": "Die harte Zahl: Was das BIP misst und wie die drei Varianten zu lesen sind."
+    },
+    {
+     "slug": "/artikel/glossar-zew-index/",
+     "warum": "Die Erwartung: Was der ZEW-Index über die Stimmung der Finanzmarktexperten sagt."
+    },
+    {
+     "slug": "/artikel/ifo-geschaeftsklima/",
+     "warum": "Der Stimmungsmesser: der monatliche Klassiker aus München."
+    },
+    {
+     "slug": "/artikel/glossar-einkaufsmanagerindex/",
+     "warum": "Der Einkaufsmanagerindex: Frühindikator aus den Beschaffungsabteilungen."
+    },
+    {
+     "slug": "/artikel/arbeitsmarktdaten/",
+     "warum": "Zwei Zählweisen: arbeitslos bei der BA, erwerbslos bei Destatis."
+    },
+    {
+     "slug": "/artikel/konjunkturzyklus/",
+     "warum": "Der Rahmen: Auf- und Abschwung im Datenverlauf erkennen."
+    },
+    {
+     "slug": "/artikel/wirtschaftskalender-nutzen/",
+     "warum": "Das Werkzeug: Termine kennen und Meldungen gegen die Erwartung lesen."
+    }
+   ],
+   "terms": [
+    "zew-index",
+    "einkaufsmanagerindex",
+    "inflation"
+   ],
+   "abschluss_check": {
+    "szenarien": [
+     {
+      "frage": "Zwei Portale melden am selben Tag unterschiedliche Arbeitsmarktzahlen für Deutschland. Wie löst du den Widerspruch auf?",
+      "loesung": "Erst die Qülle prüfen: Zitiert das eine die Bundesagentur für Arbeit (registrierte Arbeitslose, April 2026: rund 3,0 Mio.) und das andere Destatis (Erwerbslose im Erwerbspersonenkonzept)? Dann widersprechen sich die Zahlen nicht - sie messen Verschiedenes. Erst danach Zeitraum und Veränderung vergleichen."
+     },
+     {
+      "frage": "Das BIP fällt in zwei aufeinanderfolgenden Quartalen. Eine Schlagzeile ruft den Abschwung aus. Was prüfst du?",
+      "loesung": "Welche Variante ist gemeint - nominal oder preisbereinigt, saisonbereinigt oder nicht? Wie sieht der längere Verlauf aus - die Destatis-Tabelle zeigt solche Phasen (zum Beispiel 2023/24) im Vergleich. Und: Was sagen die frühen Indikatoren wie ifo und ZEW dazu? Ein Datenpunkt ist kein Zyklus."
+     },
+     {
+      "frage": "Du willst die nächste Konjunkturwoche vorbereiten. Beschreibe deinen Ablauf.",
+      "loesung": "Termine sichten: EZB-Kalender, FOMC-Kalender, Veröffentlichungskalender der Destatis. Zu jedem Termin notieren, welche Zahl kommt und was erwartet wird. Nach der Meldung nur die Abweichung einordnen - Erwartung gegen Wirklichkeit, nicht Schlagzeile gegen Gefühl."
+     }
+    ],
+    "quiz": [
+     {
+      "frage": "Warum erscheinen Umfrageindikatoren wie ifo früher als das BIP?",
+      "loesung": "Weil amtliche Quartalsdaten Erhebungs- und Bearbeitungszeit brauchen (die BIP-Tabelle trug beim Abruf am 26.10.2026 den Stand 25.08.2026), während monatliche Umfragen zeitnah veröffentlicht werden."
+     },
+     {
+      "frage": "Was ist der Unterschied zwischen Arbeitslosen (BA) und Erwerbslosen (Destatis)?",
+      "loesung": "Die BA zählt administrativ registrierte Arbeitslosigkeit; Destatis zählt Erwerbslose im Konzept der Erwerbspersonen. Beide Zahlen sind richtig - sie beantworten verschiedene Fragen."
+     }
+    ]
+   },
+   "danach": [
+    {
+     "id": "LP-FA-23",
+     "warum": "Konjunktur endet nicht an der Grenze - der nächste Pfad erklärt Währungen und Wechselkurse."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "arbeitsmarktdaten",
+  "title": "Arbeitsmarktdaten lesen: arbeitslos, erwerbslos - zwei Zahlen, zwei Konzepte",
+  "description": "Bundesagentur für Arbeit und Destatis zählen den Arbeitsmarkt unterschiedlich. Wer die beiden Konzepte kennt, liest die Schlagzeilen richtig.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:56:00+01:00",
+  "image": "/images/arbeitsmarktdaten.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der deutsche Arbeitsmarkt wird doppelt gezählt: registrierte Arbeitslosigkeit bei der BA und Erwerbslosigkeit bei der Destatis.</li><li>BA, Berichtsmonat April 2026: rund 3,0 Mio. Arbeitslose, davon 2,7 Mio. leistungsberechtigt.</li><li>Destatis nennt 45,53 Mio. Erwerbstätige und eine Erwerbslosenquote von 4,3 Prozent - der Seitenstand ist dabei zu beachten.</li><li>Beide Zahlen sind richtig; sie messen nur Verschiedenes.</li></ul></div><h2>Die Zählung der Bundesagentur für Arbeit</h2><p>Die Statistik der Bundesagentur für Arbeit erklärt ihre Begriffe auf einer eigenen Seite (abgerufen 26.10.2026). Dort heisst es: In Deutschland gab es im Berichtsmonat April 2026 rund 3,0 Mio. Arbeitslose; 2,7 Mio. davon waren leistungsberechtigt und 0,3 Mio. sogenannte Nichtleistungsberechtigte. Arbeitslos gemeldet zu sein und Anspruch auf Arbeitslosengeld oder Grundsicherung zu haben, sind also zwei verschiedene Dinge. Im Rechtskreis SGB III lag der Anteil der Nichtleistungsberechtigten an allen Arbeitslosen bei knapp einem Fünftel, im Rechtskreis SGB II bei 4,5 Prozent. Die Gründe für fehlende Leistungsberechtigung sind vielfältig: eine noch nicht erfüllte Anwartschaftszeit, ein aufgebrauchter Anspruch bei ausreichendem eigenen Einkommen oder Vermögen oder ein Haushaltseinkommen über der Bedarfsgrenze.</p><h2>Die Zählung von Destatis</h2><p>Das Statistische Bundesamt zählt anders: nicht die registrierte Arbeitslosigkeit, sondern Erwerbstätige und Erwerbslose im Konzept der Erwerbspersonen. Auf seiner Themenseite Konjunkturindikatoren standen beim Abruf am 26.10.2026 die Kennzahlen 45,53 Mio. Erwerbstätige, 1,86 Mio. Erwerbslose und eine Erwerbslosenquote von 4,3 Prozent. Wichtig ist der Hinweis der Destatis selbst: Diese Themenseite wird seit der Kalenderwoche 43 des Jahres 2026 nicht mehr aktualisiert und Anfang 2027 abgeschaltet; die grundlegenden Daten laufen im Dashboard Konjunktur und in der Datenbank GENESIS-Online weiter. Für aktülle Stände sind also diese beiden Angebote der richtige Weg.</p><h2>Warum beide Zahlen nebeneinander stehen dürfen</h2><p>Die BA misst, wer sich bei ihr arbeitslos gemeldet hat - eine administrative Zählung. Destatis misst Erwerbsbeteiligung im Bevölkerungskonzept - eine statistische. Keine der beiden ist falsch; sie beantworten verschiedene Fragen. Für die Einordnung von Schlagzeilen heisst das: Erst prüfen, welche Zählung gemeint ist, dann den Zeitraum, dann die Veränderung. Den gesamtwirtschaftlichen Rahmen liefert der Artikel zum <a href=\"/artikel/konjunkturzyklus/\">Konjunkturzyklus</a>; die Terminplanung solcher Daten beschreibt der Artikel zum <a href=\"/artikel/wirtschaftskalender-nutzen/\">Wirtschaftskalender</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Bundesagentur für Arbeit, Statistik erklärt: Arbeitsuche, Arbeitslosigkeit und Unterbeschäftigung, Zahlen zum Berichtsmonat April 2026 (abgerufen 26.10.2026)",
+      "url": "https://statistik.arbeitsagentur.de/DE/Navigation/Grundlagen/Statistik-erklaert/Arbeitsuche-Arbeitslosigkeit-Unterbeschaeftigung-Nav.html"
+    },
+    {
+      "title": "Statistisches Bundesamt: Themenseite Konjunkturindikatoren (abgerufen 26.10.2026)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum unterscheiden sich Arbeitslosen- und Erwerbslosenzahl?",
+      "a": "Weil sie anders gezählt werden: Die BA zählt registrierte Arbeitslosigkeit, Destatis zählt Erwerbslose im Erwerbspersonenkonzept. Beide Konzepte haben ihre Berechtigung - vergleichbar sind sie nur bedingt."
+    },
+    {
+      "q": "Was heisst leistungsberechtigt?",
+      "a": "Wer arbeitslos gemeldet ist und Anspruch auf Arbeitslosengeld oder Grundsicherungsgeld hat. Im April 2026 waren das laut BA 2,7 Mio. der rund 3,0 Mio. Arbeitslosen."
+    },
+    {
+      "q": "Wo finde ich die aktüllsten Zahlen?",
+      "a": "Bei der Statistik der Bundesagentur für Arbeit und - nach dem Hinweis der Destatis - im Dashboard Konjunktur und in GENESIS-Online, da die alte Themenseite nicht mehr gepflegt wird."
+    }
+  ]
+}
