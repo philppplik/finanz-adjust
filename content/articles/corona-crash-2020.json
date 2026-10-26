@@ -1,0 +1,37 @@
+{
+  "slug": "corona-crash-2020",
+  "title": "Der Corona-Einbruch 2020: Ein schneller Absturz im Zeitraffer",
+  "description": "Wie schnell die Aktienmärkte im Februar und März 2020 fielen, was Handelsunterbrechungen waren und wie die Notenbank reagierte. Nach Daten der New Yorker Fed.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:44:00+01:00",
+  "image": "/images/corona-crash-2020.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der S&amp;P 500 fiel bis 23. März 2020 um 34 Prozent gegenüber dem Februar-Hoch.</li><li>Im März 2020 stoppten Handelsunterbrechungen den US-Börsenhandel dreimal.</li><li>Die US-Notenbank senkte ihren Zinsrahmen am 15. März auf 0 bis 0,25 Prozent.</li><li>Die Rezession dauerte laut NBER nur von Februar bis April 2020.</li></ul></div><h2>Der Ablauf</h2><p>Als sich das Coronavirus über China hinaus ausbreitete, fielen die Preise vieler Anlagen weltweit. Laut Liberty Street Economics der New Yorker Fed sank der S&amp;P 500 steil und löste im März dreimal marktweite Handelsunterbrechungen (Circuit Breaker) aus. Bis zum 23. März lag der Aktienmarkt 34 Prozent unter seinem Februar-Hoch. Anleger suchten Sicherheit in US-Staatsanleihen, deren Renditen auf Rekordtiefs fielen. Maße für die erwartete Schwankung stiegen stark (abgerufen 26.10.2026).</p><h2>Die Reaktion</h2><p>Die Fed erhöhte ab 9. März Umfang und Laufzeit ihrer Repo-Geschäfte, um die kurzfristige Dollar-Finanzierung zu stützen. Am 15. März senkte der Offenmarktausschuss den Zinsrahmen auf 0 bis 0,25 Prozent und kündigte Käufe von mindestens 500 Milliarden Dollar Staatsanleihen und 200 Milliarden Dollar Hypothekenpapieren an (Federal Reserve, FOMC-Erklärung vom 15.03.2020, und Liberty Street Economics).</p><h2>Einordnung</h2><p>Das NBER datiert das Hoch der US-Wirtschaftsaktivität auf Februar 2020 und das Tief auf April 2020. Es stufte die Phase wegen ihrer Tiefe und Breite trotz kurzer Dauer als Rezession ein (NBER, abgerufen 26.10.2026). Zum Vergleich: Die Rezession 2007 bis 2009 dauerte nach der Fed von Dezember 2007 bis Juni 2009. Wie sich Kurse danach entwickelten, ist in diesen Quellen nicht ausgewertet; hier bleibt es offen. Weiter: <a href=\"/artikel/bullenmaerkte-und-baeren/\">Bullen- und Bärenmärkte</a> und <a href=\"/artikel/lehren-aus-crashs/\">Lehren aus Crashs</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Liberty Street Economics (New York Fed): The COVID-19 Pandemic and the Fed's Response (abgerufen 26.10.2026)",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2020/04/the-covid-19-pandemic-and-the-feds-response/"
+    },
+    {
+      "title": "Federal Reserve: FOMC-Erklärung vom 15. März 2020 (abgerufen 26.10.2026)",
+      "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm"
+    },
+    {
+      "title": "NBER: Business Cycle Dating (abgerufen 26.10.2026)",
+      "url": "https://www.nber.org/research/business-cycle-dating"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist ein Circuit Breaker?",
+      "a": "Eine automatische Handelsunterbrechung bei sehr starken Kursverlusten. Laut New Yorker Fed wurde der US-Handel im März 2020 dreimal so gestoppt."
+    },
+    {
+      "q": "Warum gilt die kurze Phase als Rezession?",
+      "a": "Das NBER stufte sie wegen der Tiefe und der breiten Wirkung auf die Wirtschaft als Rezession ein, auch wenn sie nur wenige Monate dauerte."
+    },
+    {
+      "q": "Wie ging es nach dem Tief weiter?",
+      "a": "Das ist nicht Gegenstand dieses Artikels und wurde hier nicht mit Quellen belegt. Aktuelle Indexdaten findest du bei der Börse oder beim Indexanbieter."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "boersenzyklen-erklaert",
+  "title": "Börsenzyklen erklärt: Aufschwung, Hoch, Abschwung, Tief",
+  "description": "Was Börsenzyklen sind, wie sie sich von Konjunkturzyklen unterscheiden und warum Aktienkurse der Wirtschaft oft vorauslaufen. Mit belegten Daten, ohne Prognose.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:40:00+01:00",
+  "image": "/images/boersenzyklen-erklaert.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Zyklus beschreibt ein Auf und Ab, keinen festen Fahrplan: Länge und Stärke der Phasen schwanken.</li><li>Konjunkturzyklus (Wirtschaft) und Börsenzyklus (Kurse) laufen nicht im Gleichschritt.</li><li>Im Zyklus 2007 bis 2009 lag das Kurshoch vor dem Beginn der Rezession, das Kurstief vor ihrem Ende.</li><li>Daten aus der Vergangenheit ordnen ein, sie sagen kein Datum für die nächste Wende voraus.</li></ul></div><h2>Zwei Zyklen, die oft verwechselt werden</h2><p>Der <b>Konjunkturzyklus</b> misst die Wirtschaft: Das NBER, das die US-Konjunkturphasen datiert, beschreibt Expansionen als Zeit zwischen Tief und Hoch der Wirtschaftsaktivität, Rezessionen als Zeit zwischen Hoch und Tief. Expansion sei der Normalzustand, die meisten Rezessionen seien kurz (NBER, abgerufen 26.10.2026). Der <b>Börsenzyklus</b> beschreibt dagegen die Kurse eines Marktes. Beide hängen zusammen, laufen aber nicht gleichzeitig.</p><h2>Ein belegtes Beispiel: 2007 bis 2009</h2><p>Nach der Federal Reserve dauerte die Rezession von Dezember 2007 bis Juni 2009. Der S&amp;P 500 fiel vom Hoch im Oktober 2007 bis zum Tief im März 2009 um 57 Prozent (Federal Reserve History, abgerufen 26.10.2026). Der Kursrückgang begann also vor der Rezession, und das Kurstief lag vor ihrem offiziellen Ende. Die Börse bewegte sich hier früher als die Wirtschaftsdaten. Ein Muster, auf das du dich verlassen kannst, ist das nicht: Es ist ein Fall.</p><h2>Die Phasen grob eingeordnet</h2><p>Üblich ist eine Vierteilung: Aufschwung (Kurse steigen, Stimmung wird besser), Hoch (Optimismus ist hoch), Abschwung (Kurse fallen, Stimmung kippt) und Tief (Kurse bleiben niedrig, bevor sie sich erholen). Im Rückblick sind die Wendepunkte klar, in der Gegenwart sind sie es nicht. Wie Anstiege und Rückgänge benannt werden, steht im Artikel zu <a href=\"/artikel/bullenmaerkte-und-baeren/\">Bullen- und Bärenmärkten</a>. Historische Fälle: <a href=\"/artikel/crash-1929/\">1929</a>, <a href=\"/artikel/dotcom-blase/\">Dotcom-Blase</a>, <a href=\"/artikel/finanzkrise-2008/\">Finanzkrise 2008</a>. Zur Schwankung selbst: <a href=\"/glossar/was-bedeutet-volatilitaet/\">Volatilität</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "NBER: Business Cycle Dating (abgerufen 26.10.2026)",
+      "url": "https://www.nber.org/research/business-cycle-dating"
+    },
+    {
+      "title": "Federal Reserve History: The Great Recession (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Börsenzyklus berechenbar?",
+      "a": "Nein. Die Phasen lassen sich im Rückblick benennen, Länge und Zeitpunkt der Wenden schwanken stark. Der Artikel beschreibt Muster aus der Vergangenheit, keine Vorhersage."
+    },
+    {
+      "q": "Warum laufen Kurse und Wirtschaft nicht gleichzeitig?",
+      "a": "Kurse bilden Erwartungen ab, Wirtschaftsdaten werden mit Verzögerung erhoben und veröffentlicht. Im Zyklus 2007 bis 2009 lag das Kurshoch laut Fed-Daten vor Rezessionsbeginn."
+    },
+    {
+      "q": "Gibt es einen Zyklus mit festen Jahren?",
+      "a": "Eine feste Länge ist durch die hier genutzten Quellen nicht belegt. Die NBER-Chronologie zeigt Phasen unterschiedlicher Dauer."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "lehren-aus-crashs",
+  "title": "Lehren aus Crashs: Was die Geschichte belegt und was nicht",
+  "description": "Was sich aus 1929, der Dotcom-Blase, 2008 und 2020 sachlich ableiten lässt: Hebel, Bewertung, Dauer der Erholung und Grenzen der Vorhersage.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:46:00+01:00",
+  "image": "/images/lehren-aus-crashs.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kredit verstärkt Bewegungen in beide Richtungen (1929).</li><li>Hohe Preise und eine gute Geschichte sind nicht dasselbe wie tragfähige Gewinne (Dotcom).</li><li>Probleme in einem Teilmarkt können die ganze Wirtschaft erfassen (2008).</li><li>Erholungen dauerten sehr unterschiedlich lang: Monate bis Jahrzehnte.</li></ul></div><h2>Vier Fälle, vier Beobachtungen</h2><p><b>1929:</b> Kauf auf Kredit mit typisch etwa zehn Prozent Eigenanteil. Der Dow brauchte bis November 1954, um sein Hoch zurückzuholen (Federal Reserve History). <b>2000:</b> Die Nasdaq stieg 1999 um 86 Prozent und lag im Oktober 2002 77 Prozent unter dem Hoch; ein neues Hoch kam im April 2015 (Goldman Sachs History). <b>2007 bis 2009:</b> Der S&amp;P 500 fiel um 57 Prozent, Häuserpreise um etwa 30 Prozent (Federal Reserve History). <b>2020:</b> 34 Prozent Rückgang bis 23. März, dazu dreimal Handelsstopp (New York Fed). Alle Abrufe: 26.10.2026.</p><h2>Was daraus allgemein folgt</h2><p>Aus 1929 nennen die Fed-Autoren zwei Lehren: Blasen zu erkennen und mit Geldpolitik zu bremsen sei schwierig und könne unerwünschte Nebenwirkungen haben, und die Schäden eines Crashs ließen sich eindämmen, wenn die Notenbank dem Muster der New Yorker Fed von 1929 folge. Das sind Lehren für Notenbanken. Für dich als Leserin oder Leser bleiben nüchterne Fragen: Wie viel Kredit steckt in einer Entwicklung? Wie hoch ist der Preis im Verhältnis zu dem, was ein Unternehmen verdient? Wie breit ist ein Portfolio gestreut? Dazu der Glossar-Eintrag <a href=\"/glossar/diversifikation/\">Diversifikation</a> und der Artikel zu <a href=\"/artikel/bullenmaerkte-und-baeren/\">Bullen- und Bärenmärkten</a>.</p><h2>Was sich nicht ableiten lässt</h2><p>Vier Fälle ergeben kein Gesetz. Jede Krise hatte eigene Auslöser. Die Geschichte zeigt, dass es Einbrüche gab und wie sie verliefen, nicht wann der nächste kommt oder wie er endet. Ein Rezept für den richtigen Zeitpunkt von Käufen oder Verkäufen lässt sich daraus nicht belegen. Die Einzelfälle: <a href=\"/artikel/crash-1929/\">1929</a>, <a href=\"/artikel/dotcom-blase/\">Dotcom</a>, <a href=\"/artikel/finanzkrise-2008/\">2008</a>, <a href=\"/artikel/corona-crash-2020/\">2020</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Federal Reserve History: Stock Market Crash of 1929 (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+    },
+    {
+      "title": "Goldman Sachs History: The Late 1990s Dot-Com Bubble (abgerufen 26.10.2026)",
+      "url": "https://www.goldmansachs.com/our-firm/history/moments/2000-dot-com-bubble"
+    },
+    {
+      "title": "Federal Reserve History: The Great Recession (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+    },
+    {
+      "title": "Liberty Street Economics: The COVID-19 Pandemic and the Fed's Response (abgerufen 26.10.2026)",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2020/04/the-covid-19-pandemic-and-the-feds-response/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wiederholt sich Geschichte an der Börse?",
+      "a": "Die Quellen belegen Muster wie Kreditverstärkung, aber keine feste Wiederholung. Jeder Fall hatte eigene Auslöser."
+    },
+    {
+      "q": "Kann man Crashs vorhersagen?",
+      "a": "Die Fed-Autoren schreiben, dass das Erkennen von Blasen schwierig ist. Für einen sicheren Zeitpunkt gibt es in den Quellen keinen Beleg."
+    },
+    {
+      "q": "Was ist die wichtigste Lehre?",
+      "a": "Das hängt von der Frage ab. Als Beobachtung zieht sich Kredit als Verstärker durch den Fall 1929. Eine Handlungsempfehlung ist das nicht."
+    }
+  ]
+}

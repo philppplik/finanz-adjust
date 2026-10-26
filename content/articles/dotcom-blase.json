@@ -1,0 +1,29 @@
+{
+  "slug": "dotcom-blase",
+  "title": "Die Dotcom-Blase: Internet-Hoffnung, Kursrausch und Ernüchterung",
+  "description": "Wie die Kurse von Internetfirmen bis März 2000 stiegen, was danach geschah und was die Nasdaq-Daten über Blasen zeigen. Nach Goldman Sachs History, ohne Wertung.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:42:00+01:00",
+  "image": "/images/dotcom-blase.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Nasdaq stieg 1999 allein um 86 Prozent und erreichte am 10. März 2000 ihr Hoch.</li><li>Am 4. Oktober 2002 stand sie laut Quelle 77 Prozent darunter.</li><li>Ein neues Rekordhoch folgte erst am 23. April 2015.</li><li>Hinter der Blase stand echter technischer Wandel, aber viele Geschäftsmodelle trugen nicht.</li></ul></div><h2>Hintergrund</h2><p>In den Neunzigerjahren wuchsen Informationstechnik und Telekommunikation rasant. Die Kosten für Übertragung und Speicherung fielen, PCs und das World Wide Web veränderten Handel und Dienstleistungen. Nach Goldman Sachs fiel das in die längste Wachstumsphase der USA nach dem Zweiten Weltkrieg. Ab Oktober 1998 wurden Börsengänge von Dotcom-Firmen laut Quelle bejubelt, ohne die Tragfähigkeit der Geschäftsmodelle genau zu prüfen. Viele dieser Firmen erzielten trotz hoher Marktwerte nie Umsatz oder Gewinn (Goldman Sachs History, abgerufen 26.10.2026).</p><h2>Zahlen zur Blase</h2><p>Der Marktwert der Nasdaq-Aktien lag 1990 bei 11 Prozent des NYSE-Werts, im Dezember 1999 bei 80 Prozent. Die Nasdaq stieg 1999 um 86 Prozent und erreichte am 10. März 2000 ihr Hoch bei 5.048 Punkten (Wert laut Quelle; für das Tageshoch nennen andere Quellen einen etwas höheren Wert, weil Tageshoch und Schlussstand verschieden sind). Am 4. Oktober 2002 stand der Index bei 1.139,90 Punkten, 77 Prozent unter dem Hoch. Auch Technologiebörsen in Seoul, Frankfurt (Neuer Markt), London und Paris gerieten laut Quelle unter Druck.</p><h2>Einordnung</h2><p>Die Blase zeigt, dass eine richtige Zukunftsidee (das Internet) und ein überhöhter Preis zusammen auftreten können. Die Nasdaq brauchte nach der Quelle rund 15 Jahre bis zum neuen Hoch. Zum Prüfen von Bewertungen gehört Streuung: Im Glossar findest du <a href=\"/glossar/diversifikation/\">Diversifikation</a> und <a href=\"/glossar/was-bedeutet-volatilitaet/\">Volatilität</a>. Zum Vergleich: <a href=\"/artikel/finanzkrise-2008/\">Finanzkrise 2008</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Goldman Sachs: The Late 1990s Dot-Com Bubble Implodes in 2000 (abgerufen 26.10.2026)",
+      "url": "https://www.goldmansachs.com/our-firm/history/moments/2000-dot-com-bubble"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Blase?",
+      "a": "Eine Phase, in der Preise deutlich über dem steigen, was Gewinne oder Umsätze rechtfertigen, und die danach stark korrigiert. Die Quelle nennt die Dotcom-Zeit ausdrücklich eine Finanzblase."
+    },
+    {
+      "q": "Warum nennt die Quelle 5.048 Punkte, andere einen höheren Wert?",
+      "a": "Der Stand zum Tagesende und das Tageshoch unterscheiden sich. Prüfe bei Indexständen immer, welcher Wert gemeint ist."
+    },
+    {
+      "q": "Haben sich alle Internetfirmen erholt?",
+      "a": "Die Quelle belegt das nicht. Sie sagt nur, dass viele Startups binnen Monaten wertlos wurden und die Nasdaq als Index erst 2015 ein neues Hoch erreichte."
+    }
+  ]
+}

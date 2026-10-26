@@ -1,0 +1,29 @@
+{
+  "slug": "crash-1929",
+  "title": "Der Crash von 1929: Wie ein Boom auf Kredit endete",
+  "description": "Was 1929 an der Wall Street geschah, welche Rolle Kredite spielten und wie lange der Dow Jones brauchte, um sein Hoch wieder zu erreichen. Nach Daten der Federal Reserve.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:41:00+01:00",
+  "image": "/images/crash-1929.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Der Dow Jones stieg von August 1921 bis September 1929 von 63 auf 381 Punkte.</li><li>Am 28. Oktober 1929 fiel der Dow um fast 13 Prozent, am Tag darauf um fast 12 Prozent.</li><li>Der Tiefpunkt lag am 8. Juli 1932 bei 41,22 Punkten, 89 Prozent unter dem Hoch.</li><li>Das Hoch von 1929 wurde erst im November 1954 wieder erreicht.</li></ul></div><h2>Der Boom</h2><p>Nach Angaben der Federal Reserve stieg der Dow Jones Industrial Average von 63 Punkten im August 1921 auf 381 im September 1929. Viele Privatleute kauften Aktien mit geliehenem Geld: Käufer zahlten typischerweise etwa zehn Prozent des Preises an und liehen den Rest, die gekauften Aktien dienten als Sicherheit (Federal Reserve History, abgerufen 26.10.2026). Das nennt man Kauf auf Kredit oder Margin. Steigen die Kurse, wirkt es wie ein Verstärker. Fallen sie, können Zwangsverkäufe entstehen.</p><h2>Der Absturz</h2><p>Das Hoch markierte der Dow am 3. September 1929 mit 381,17 Punkten. Am Schwarzen Montag, dem 28. Oktober 1929, verlor er nahezu 13 Prozent, am Schwarzen Dienstag nahezu 12 Prozent weiter. Bis Mitte November hatte der Index fast die Hälfte seines Wertes verloren. Die Talfahrt setzte sich bis Sommer 1932 fort: Am 8. Juli 1932 schloss der Dow bei 41,22 Punkten, dem niedrigsten Stand des 20. Jahrhunderts und 89 Prozent unter dem Hoch. Erst am 23. November 1954 erreichte er sein altes Niveau wieder (Federal Reserve History).</p><h2>Einordnung</h2><p>Die Fed-Autoren nennen in einer Fußnote zwei Sichtweisen: Nach dem Konsens der Forschung trug der Crash zur folgenden Krise bei, andere Forscher sehen ihn eher als Symptom der beginnenden Krise. Für dich bleibt als Beobachtung: Schulden verstärken Bewegungen in beide Richtungen, und die Erholung nach einem tiefen Einbruch kann Jahrzehnte dauern. Das gilt für 1929, es ist keine Aussage über heute. Mehr im Artikel <a href=\"/artikel/lehren-aus-crashs/\">Lehren aus Crashs</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Federal Reserve History: Stock Market Crash of 1929 (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Hat der Crash die Weltwirtschaftskrise ausgelöst?",
+      "a": "Die Quelle nennt zwei Sichtweisen: den Konsens, dass der Crash zur Krise beitrug, und die Gegenposition, er sei eher ein Symptom gewesen. Die Frage ist in der Forschung diskutiert."
+    },
+    {
+      "q": "Was bedeutet Kauf auf Kredit?",
+      "a": "Du zahlst nur einen Teil des Kaufpreises selbst, den Rest leihst du. 1929 waren es typischerweise etwa zehn Prozent Eigenanteil. Sinken die Kurse, wirkt der Kredit als Verstärker der Verluste."
+    },
+    {
+      "q": "Wie lange dauerte die Erholung?",
+      "a": "Der Dow erreichte sein Hoch von 1929 laut Federal Reserve History am 23. November 1954 wieder, nach rund 25 Jahren."
+    }
+  ]
+}

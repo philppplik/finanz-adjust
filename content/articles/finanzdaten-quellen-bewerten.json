@@ -1,0 +1,33 @@
+{
+  "slug": "finanzdaten-quellen-bewerten",
+  "title": "Finanzdaten-Quellen bewerten: Wer sagt das, wann, womit belegt?",
+  "description": "Wie du Zahlen zu Kursen, Wechselkursen und Wirtschaft nach Herkunft, Aktualität und Zweck prüfst. Mit EZB-Referenzkursen als Beispiel für eine Primärquelle.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:47:00+01:00",
+  "image": "/images/finanzdaten-quellen-bewerten.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Primärquellen (Notenbank, Börse, Emittent, Behörde) stehen näher an den Daten als Zusammenfassungen.</li><li>Jede Zahl braucht Datum, Uhrzeit und Herkunft.</li><li>Der Zweck zählt: Referenzkurse sind nicht für Transaktionen gedacht.</li><li>Aggregatoren wie FA nennen ihre Quellen offen, auch mit Einschränkungen.</li></ul></div><h2>Vier Prüffragen</h2><p><b>1. Herkunft:</b> Wer hat die Zahl erhoben? <b>2. Zeitpunkt:</b> Wann, bei Kursen auf die Minute? <b>3. Zweck:</b> Wofür ist die Zahl gedacht? <b>4. Nachweis:</b> Kannst du sie bei der Quelle selbst finden?</p><h2>Beispiel: EZB-Referenzkurse</h2><p>Die Europäische Zentralbank veröffentlicht Euro-Referenzkurse. Nach ihrer Seite (abgerufen 26.10.2026) werden sie üblicherweise gegen 16:00 Uhr MEZ an jedem Arbeitstag aktualisiert und beruhen auf der täglichen Abstimmung der Zentralbanken in Europa, die normalerweise gegen 14:10 Uhr MEZ stattfindet. Sie werden nur zur Information veröffentlicht, von einer Nutzung für Transaktionen rät die EZB ausdrücklich ab. Am Beispiel siehst du, wie Zeitpunkt und Zweck zur Zahl gehören: Ein Referenzkurs ist kein Kurs, zu dem du tauschen kannst.</p><h2>Wie FA mit Daten umgeht</h2><p>Auf der FA-Seite <a href=\"/quellen/\">Quellen und Daten</a> steht, woher die Kursdaten kommen: Twelve Data (kostenlose Schnittstelle, gegebenenfalls verzögert), ergänzend Yahoo Finance, Kryptowerte von CoinGecko, Wechselkurse von der EZB. Alle Kursdaten sind ohne Gewähr. Dasselbe Prinzip kannst du auf jede Seite anwenden. Zur Verzögerung: <a href=\"/artikel/kursdaten-verzoegerung/\">Kursdaten und Verzögerung</a>. Zu Meldungen: <a href=\"/artikel/finanzmeldungen-pruefen/\">Finanzmeldungen prüfen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "EZB: Euro foreign exchange reference rates (abgerufen 26.10.2026)",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+    },
+    {
+      "title": "finanz-adjust.de: Quellen und Daten (abgerufen 26.10.2026)",
+      "url": "https://finanz-adjust.de/quellen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum die Primärquelle?",
+      "a": "Sie ist näher an der ursprünglichen Zahl. Zusammenfassungen können Zahlen verkürzen oder veralten. Die Primärquelle zeigt Datum und Zweck."
+    },
+    {
+      "q": "Kann ich Referenzkursen für Geldwechsel vertrauen?",
+      "a": "Die EZB schreibt, dass die Kurse nur zur Information veröffentlicht werden und von einer Nutzung für Transaktionen abzuraten ist."
+    },
+    {
+      "q": "Woran erkenne ich veraltete Daten?",
+      "a": "Am fehlenden oder zu alten Zeitstempel. Eine Zahl ohne Datum ist nicht einzuordnen."
+    }
+  ]
+}

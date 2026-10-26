@@ -1,0 +1,154 @@
+{
+  "paket": "R",
+  "pfade": [
+    {
+      "id": "LP-FA-39",
+      "name": "Börsenzyklen & Crashs: was die Geschichte lehrt",
+      "frage": "Wie haben sich große Einbrüche wirklich entwickelt - und was lässt sich daraus belegen?",
+      "intro": "Crashs wirken in der Rückschau eindeutig, in der Gegenwart sind sie es nie. Dieser Pfad ordnet Börsenzyklen, die Einbrüche von 1929, 2000, 2008 und 2020 und die Begriffe Bulle und Bär anhand von Zahlen aus Quellen wie der Federal Reserve ein. Du siehst, wie Kredit Bewegungen verstärkt, wie unterschiedlich lang Erholungen dauerten und warum aus Geschichte keine Prognose wird.",
+      "level": "Fortgeschritten",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 2 Stunden",
+      "voraussetzungen": "Lernpfad 21 (Wirtschaftsdaten) und 03 (Aktien-Basics) helfen; Pflicht ist keiner.",
+      "lernziel": "Du ordnest Crashs, Blasen und Erholungen anhand belegter Daten ein.",
+      "steps": [
+        {
+          "slug": "/artikel/boersenzyklen-erklaert/",
+          "warum": "Der Rahmen: Konjunktur- und Börsenzyklus und warum sie nicht im Gleichschritt laufen."
+        },
+        {
+          "slug": "/artikel/crash-1929/",
+          "warum": "Der klassische Fall: Boom auf Kredit, Absturz und 25 Jahre bis zum alten Hoch."
+        },
+        {
+          "slug": "/artikel/dotcom-blase/",
+          "warum": "Eine Blase um echten technischen Wandel, mit Nasdaq-Zahlen."
+        },
+        {
+          "slug": "/artikel/finanzkrise-2008/",
+          "warum": "Ein Immobilienmarkt-Problem wird zur globalen Krise: Zahlen und Notenbank-Reaktion."
+        },
+        {
+          "slug": "/artikel/corona-crash-2020/",
+          "warum": "Ein Absturz im Zeitraffer und die schnelle Reaktion der Notenbank."
+        },
+        {
+          "slug": "/artikel/bullenmaerkte-und-baeren/",
+          "warum": "Die Begriffe sauber: Definition, 20-Prozent-Konvention, Grenzen."
+        },
+        {
+          "slug": "/artikel/lehren-aus-crashs/",
+          "warum": "Was sich aus den Fällen ableiten lässt - und was ausdrücklich nicht."
+        }
+      ],
+      "terms": [
+        "was-bedeutet-volatilitaet",
+        "diversifikation",
+        "boersenindex"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Ein Bekannter sagt: Nach jedem Crash geht es in zwei Jahren wieder aufwärts. Was antwortest du mit Daten aus diesem Pfad?",
+            "loesung": "Die Fälle unterscheiden sich stark: Der Dow brauchte nach 1929 bis November 1954 für sein altes Hoch, die Nasdaq nach 2000 bis April 2015, der Corona-Einbruch war dagegen ein Absturz von wenigen Wochen. Eine feste Erholungsdauer lässt sich daraus nicht ableiten."
+          },
+          {
+            "frage": "Ein Artikel nennt einen Rückgang von 19 Prozent einen Bärenmarkt, ein anderer nicht. Wie ordnest du das ein?",
+            "loesung": "Die 20-Prozent-Grenze ist eine Konvention von Quellen wie Investor.gov, kein Naturgesetz. Entscheidend ist, welche Definition der Artikel nennt und über welchen Zeitraum und Index er spricht."
+          },
+          {
+            "frage": "Was zeigt der Zyklus 2007 bis 2009 über das Verhältnis von Kursen und Wirtschaft?",
+            "loesung": "Nach Fed-Daten fiel der S&P 500 vom Hoch im Oktober 2007 bis zum Tief im März 2009 um 57 Prozent, die Rezession dauerte von Dezember 2007 bis Juni 2009. Das Kurshoch lag vor Rezessionsbeginn, das Kurstief vor ihrem Ende: Kurse und Wirtschaftsdaten laufen zeitversetzt."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wie stark fiel der Dow Jones laut Federal Reserve History bis zum Tief im Juli 1932 gegenüber dem Hoch?",
+            "loesung": "Um 89 Prozent: von 381,17 Punkten am 3. September 1929 auf 41,22 am 8. Juli 1932."
+          },
+          {
+            "frage": "Wie lautet die übliche Definition eines Bärenmarkts nach Investor.gov?",
+            "loesung": "Ein Rückgang eines breiten Marktindex um 20 Prozent oder mehr über mindestens zwei Monate."
+          }
+        ]
+      },
+      "danach": [
+        {
+          "id": "LP-FA-40",
+          "warum": "Du hast die Geschichte eingeordnet - im letzten Pfad prüfst du, wie du Daten, Meldungen und KI-Antworten selbst bewertest."
+        }
+      ]
+    },
+    {
+      "id": "LP-FA-40",
+      "name": "Finanzdaten & KI-Tools sicher nutzen",
+      "frage": "Woran erkenne ich, ob eine Zahl, Meldung oder KI-Antwort zu Finanzen verlässlich ist?",
+      "intro": "Zahlen, Schlagzeilen und KI-Antworten zu Geld sind überall - und nicht alle halten einer Prüfung stand. Dieser Pfad zeigt dir, wie du Datenquellen nach Herkunft und Zeitpunkt bewertest, warum Kurse verzögert sein können, wie du die FA-Rechner einsetzt, was Aufsicht und Verbraucherschutz zu KI-Antworten sagen, wie du Meldungen prüfst und was du über Datenschutz bei Finanz-Apps wissen solltest.",
+      "level": "Praktiker",
+      "zielgruppe": "Alle",
+      "dauer": "ca. 1,5 Stunden",
+      "voraussetzungen": "Keine; der Pfad eignet sich als Abschluss nach den Grundlagenpfaden.",
+      "lernziel": "Du bewertest Datenquellen, nutzt FA-Werkzeuge klug und prüfst KI-Antworten zu Finanzthemen kritisch.",
+      "steps": [
+        {
+          "slug": "/artikel/finanzdaten-quellen-bewerten/",
+          "warum": "Der Prüfrahmen: Herkunft, Zeitpunkt, Zweck, Nachweis."
+        },
+        {
+          "slug": "/artikel/kursdaten-verzoegerung/",
+          "warum": "Warum Kurse verzögert sein können und wo du den Handelskurs siehst."
+        },
+        {
+          "slug": "/rechner/",
+          "warum": "Das Werkzeug: die FA-Rechner mit sichtbarer Formel, Annahmen und Grenzen - eigene Zahlen einsetzen, Ergebnis als Szenario lesen."
+        },
+        {
+          "slug": "/artikel/ki-und-finanzfragen/",
+          "warum": "KI zum Verstehen nutzen, aber nicht blind darauf entscheiden."
+        },
+        {
+          "slug": "/artikel/finanzmeldungen-pruefen/",
+          "warum": "Schlagzeile, Pflichtmeldung oder Gerücht - der Prüfablauf."
+        },
+        {
+          "slug": "/artikel/datenschutz-bei-finanz-apps/",
+          "warum": "Welche Daten Apps und Tools sammeln und was du einschränken kannst."
+        }
+      ],
+      "terms": [
+        "emittent",
+        "isin",
+        "xetra"
+      ],
+      "abschluss_check": {
+        "szenarien": [
+          {
+            "frage": "Du siehst auf einer Webseite einen Aktienkurs ohne Uhrzeit. Was prüfst du, bevor du ihn nutzt?",
+            "loesung": "Erst den Zeitstempel und ob die Anzeige als verzögert gekennzeichnet ist. Dann die Quelle: Börse, Datenanbieter oder Aggregator. Für eine Order zählt nur der Kurs bei deinem Handelsplatz oder Broker zum Zeitpunkt der Order."
+          },
+          {
+            "frage": "Ein KI-Chatbot nennt dir die Dividendenrendite einer Aktie und einen Tipp. Wie gehst du vor?",
+            "loesung": "Die Zahl bei einer Primärquelle prüfen, zum Beispiel beim Emittenten, und das Datum beachten. Den Tipp als unverbindliche Information behandeln: Die ESMA warnt vor unzutreffenden Antworten und fehlender Aufsicht öffentlicher KI-Tools."
+          },
+          {
+            "frage": "Ein Social-Media-Beitrag verspricht hohe Rendite und nennt keine Risiken. Was sagen BaFin-Hinweise dazu?",
+            "loesung": "Quelle und Identität prüfen, nicht von Likes blenden lassen, mehrere Quellen nutzen und besonders skeptisch sein, wenn nur Chancen genannt werden."
+          }
+        ],
+        "quiz": [
+          {
+            "frage": "Wie viel Verzögerung nennt die Deutsche Börse für ihre kostenlosen Marktdaten nach MiFIR?",
+            "loesung": "15 Minuten."
+          },
+          {
+            "frage": "Wofür sind die EZB-Referenzkurse laut EZB gedacht?",
+            "loesung": "Nur zur Information; von der Nutzung für Transaktionen rät die EZB ab."
+          }
+        ]
+      },
+      "danach": []
+    }
+  ],
+  "stand": "2026-10-26",
+  "welle": 4
+}

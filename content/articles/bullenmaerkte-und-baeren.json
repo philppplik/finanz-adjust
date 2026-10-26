@@ -1,0 +1,37 @@
+{
+  "slug": "bullenmaerkte-und-baeren",
+  "title": "Bullenmarkt und Bärenmarkt: Was die Begriffe bedeuten",
+  "description": "Wie Bullen- und Bärenmärkte definiert werden, warum die 20-Prozent-Regel eine Konvention ist und was sich damit einordnen lässt. Nach Investor.gov und FINRA.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:45:00+01:00",
+  "image": "/images/bullenmaerkte-und-baeren.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Ein Bullenmarkt ist ein Anstieg eines breiten Index um 20 Prozent oder mehr über mindestens zwei Monate.</li><li>Ein Bärenmarkt ist ein Rückgang um 20 Prozent oder mehr über mindestens zwei Monate.</li><li>Die Grenze ist eine Faustregel, kein Naturgesetz.</li><li>Die Begriffe beschreiben Vergangenes, nicht die Richtung danach.</li></ul></div><h2>Die Definitionen</h2><p>Die US-Anlegerschutzseite Investor.gov definiert beide Begriffe: Ein <b>Bullenmarkt</b> ist eine Zeit steigender Kurse und optimistischer Stimmung, grundsätzlich ein Anstieg eines breiten Marktindex um 20 Prozent oder mehr über mindestens zwei Monate. Ein <b>Bärenmarkt</b> ist eine Zeit fallender Kurse und pessimistischer Stimmung, grundsätzlich ein Rückgang um 20 Prozent oder mehr über mindestens zwei Monate (Investor.gov, abgerufen 26.10.2026). Die Aufsichtsorganisation FINRA nennt für Bärenmärkte ebenfalls eine Faustregel von etwa 20 Prozent Rückgang in einem breiten Index.</p><h2>Was die Faustregel kann und was nicht</h2><p>Die Regel macht Phasen vergleichbar: Der S&amp;P 500 fiel 2007 bis 2009 um 57 Prozent (<a href=\"/artikel/finanzkrise-2008/\">Finanzkrise</a>), 2020 um 34 Prozent in wenigen Wochen (<a href=\"/artikel/corona-crash-2020/\">Corona-Einbruch</a>). Beides liegt klar über 20 Prozent, die Dauer war aber sehr verschieden. Die Regel sagt nichts über Ursachen, und sie gilt nur nachträglich: Wer mitten in einer Bewegung steht, weiß nicht, ob sie 20 Prozent erreicht.</p><h2>Börsenphase und Wirtschaft</h2><p>Die Begriffe beziehen sich auf Kurse, nicht auf die Konjunktur. Für die Wirtschaft spricht das NBER von Expansion und Rezession. Beides kann zeitlich auseinanderfallen, siehe <a href=\"/artikel/boersenzyklen-erklaert/\">Börsenzyklen erklärt</a>. Ein Beispiel für einen breiten Index ist der DAX, Hintergrund im Glossar: <a href=\"/glossar/was-ist-der-dax/\">DAX</a> und <a href=\"/glossar/boersenindex/\">Börsenindex</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Investor.gov: Bear Market (abgerufen 26.10.2026)",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/bear-market"
+    },
+    {
+      "title": "Investor.gov: Bull Market (abgerufen 26.10.2026)",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/bull-market"
+    },
+    {
+      "title": "FINRA: Key Terms for Tough Times (abgerufen 26.10.2026)",
+      "url": "https://www.finra.org/investors/insights/key-terms-tough-times-vocabulary-stressed-markets"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher kommen die Namen Bulle und Bär?",
+      "a": "Das ist in den hier genutzten Quellen nicht belegt. Wichtig ist die Definition: Bulle steht für steigende, Bär für fallende Kurse."
+    },
+    {
+      "q": "Ist ein Rückgang von 19 Prozent kein Bärenmarkt?",
+      "a": "Die 20-Prozent-Grenze ist eine Konvention. Die Grenze dient dem Vergleich, nicht der Bewertung."
+    },
+    {
+      "q": "Gilt die Regel auch für einzelne Aktien?",
+      "a": "Investor.gov nennt sie für breite Marktindizes. FINRA nennt auch Anleihenindizes und Rohstoffpreise. Für einzelne Titel ist sie in diesen Quellen nicht definiert."
+    }
+  ]
+}

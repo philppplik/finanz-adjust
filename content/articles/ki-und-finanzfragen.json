@@ -1,0 +1,33 @@
+{
+  "slug": "ki-und-finanzfragen",
+  "title": "KI und Finanzfragen: Hilfreich zum Verstehen, riskant zum Entscheiden",
+  "description": "Was KI-Chatbots bei Finanzthemen leisten, welche Risiken ESMA, BaFin und die Verbraucherzentrale nennen und wie du Antworten gegenprüfst.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:49:00+01:00",
+  "image": "/images/ki-und-finanzfragen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die ESMA warnt, dass KI-Tools unzutreffende oder irreführende Tipps geben können.</li><li>Öffentliche KI-Tools sind nicht beaufsichtigt und nicht verpflichtet, in deinem Interesse zu handeln.</li><li>Nach der Verbraucherzentrale werden Antworten von Chatbots nicht auf Richtigkeit geprüft.</li><li>Nutze KI als eine Quelle unter vielen und prüfe Zahlen am Original.</li></ul></div><h2>Was die Aufsicht schreibt</h2><p>Die ESMA warnt in einer von der BaFin veröffentlichten Fassung: KI-Tools können Tipps geben, die unzutreffend oder irreführend sind und zu schlechten Entscheidungen und erheblichen Verlusten führen können. Öffentliche Online-KI-Tools seien nicht durch Finanzaufsichten zugelassen oder beaufsichtigt und nicht verpflichtet, im bestmöglichen Interesse der Nutzer zu handeln. Ratschläge könnten auf veralteten, falschen oder unvollständigen Informationen beruhen. Die Aufsicht rät, mehrere Sichtweisen einzuholen, bei hohen Renditeversprechen durch KI-Strategien skeptisch zu sein und die Privatsphäre zu schützen (BaFin/ESMA, abgerufen 26.10.2026).</p><h2>Was die Verbraucherzentrale ergänzt</h2><p>Auf die Frage, ob die Informationen eines Chatbots auf Richtigkeit geprüft werden, antwortet die Verbraucherzentrale mit Nein: Antworten könnten ungenau, unvollständig oder unangemessen sein und seien keine verlässliche Quelle oder professionelle Beratung. Anbieter wie Verbraucherzentrale raten, die Informationen zu prüfen, bevor man sie nutzt oder weitergibt (Verbraucherzentrale, abgerufen 26.10.2026).</p><h2>So gehst du praktisch vor</h2><p>Nutze KI, um Begriffe zu erklären, nicht um Zahlen zu liefern. Bitte um Quellen und öffne sie selbst. Prüfe jede Zahl bei einer <a href=\"/artikel/finanzdaten-quellen-bewerten/\">Primärquelle</a> und achte auf das Datum. Gib keine persönlichen Daten wie Depotstände oder Kontonummern ein, siehe <a href=\"/artikel/datenschutz-bei-finanz-apps/\">Datenschutz bei Finanz-Apps</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin/ESMA: Künstliche Intelligenz (KI) bei der Geldanlage nutzen: Was Sie beachten sollten (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Downloads/DE/Anlage/ESMA_KI_Warnung.pdf?__blob=publicationFile&v=1"
+    },
+    {
+      "title": "Verbraucherzentrale: KI-Chatbots im Überblick (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/apps-und-software/kichatbots-im-ueberblick-was-sie-ueber-chatgpt-gemini-copilot-wissen-sollten-89125"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich KI für Finanzfragen nutzen?",
+      "a": "Ja, zum Verstehen und Sammeln von Fragen. Die ESMA rät, sich bei Entscheidungen nicht allein auf KI-Tools zu stützen."
+    },
+    {
+      "q": "Warum kann eine KI falsch liegen?",
+      "a": "Nach ESMA können Antworten auf veralteten, falschen oder unvollständigen Informationen beruhen. Die Verbraucherzentrale weist darauf hin, dass sie nicht auf Richtigkeit geprüft werden."
+    },
+    {
+      "q": "Was prüfe ich zuerst?",
+      "a": "Zahlen, Daten und Quellenangaben, am besten direkt bei der Originalquelle."
+    }
+  ]
+}

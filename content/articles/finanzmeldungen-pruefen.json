@@ -1,0 +1,33 @@
+{
+  "slug": "finanzmeldungen-pruefen",
+  "title": "Finanzmeldungen prüfen: Gerücht, Meldung oder Pflichtveröffentlichung?",
+  "description": "Wie du Schlagzeilen, Social-Media-Posts und Ad-hoc-Mitteilungen unterscheidest, die Quelle prüfst und Tipps nüchtern einordnest. Nach BaFin.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/finanzmeldungen-pruefen.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die BaFin rät: Quelle des Tipps prüfen, nicht von Likes blenden lassen, mehrere Quellen nutzen.</li><li>Ad-hoc-Mitteilungen sind Pflichtveröffentlichungen von Emittenten nach Art. 17 MAR.</li><li>Eine Schlagzeile ist nicht die Meldung selbst: Öffne das Original.</li><li>Wer nur Chancen nennt und Risiken verschweigt, liefert kein vollständiges Bild.</li></ul></div><h2>Drei Arten von Meldungen</h2><p><b>Pflichtveröffentlichung:</b> Nach Art. 17 Abs. 1 MAR hat ein Emittent Insiderinformationen, die den Preis erheblich beeinflussen können, grundsätzlich unverzüglich zu veröffentlichen (BaFin, abgerufen 26.10.2026). <b>Redaktionelle Meldung:</b> Medien berichten, mit Quelle und Einordnung. <b>Social-Media-Beitrag oder Gerücht:</b> Hier gibt es keine vergleichbare Prüfung.</p><h2>Was die BaFin für Social Media rät</h2><p>Die BaFin nennt mehrere Grundsätze. Prüfe die Quelle: Seriöse Autoren erklären, wer sie sind und worauf ihr Fachwissen beruht. Lass dich nicht von Zustimmung blenden: Follower, Likes und Kommentare lassen sich leicht manipulieren. Verschaffe dir ein vollständiges Bild, nutze mehrere Quellen, auch unabhängige Stellen wie Verbraucherzentralen, und sei skeptisch, wenn nur Chancen und keine Risiken genannt werden. Wer Empfehlungen blind folge, riskiere Verluste bis hin zum Totalverlust (BaFin, abgerufen 26.10.2026).</p><h2>Ein einfacher Ablauf</h2><p>Erst die Frage: Was wird behauptet? Dann das Original: Steht es bei Emittent, Behörde oder Börse? Dann Datum und Uhrzeit. Dann ein zweiter Blick: Berichten unabhängige Quellen dasselbe? Bei Zahlen hilft <a href=\"/artikel/finanzdaten-quellen-bewerten/\">Finanzdaten-Quellen bewerten</a>, bei KI-Antworten <a href=\"/artikel/ki-und-finanzfragen/\">KI und Finanzfragen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "BaFin: Anlagetipps in sozialen Medien (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/finanzbetrug-erkennen/anlagebetrug/anlagetipps-soziale-medien/anlagetipps-soziale-medien.html"
+    },
+    {
+      "title": "BaFin: Informationspflichten für Emittenten - Art. 17 MAR (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Transparenz/InformationspflichtenEmittenten/informationspflichten_fuer_emittenten_artikel.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich die Originalmeldung?",
+      "a": "Bei Pflichtmitteilungen meist auf der Investor-Relations-Seite des Emittenten oder über Börse und Aufsicht. Die Schlagzeile verweist oft nur darauf."
+    },
+    {
+      "q": "Sind viele Likes ein Qualitätsmerkmal?",
+      "a": "Nein. Die BaFin schreibt, dass solche Zahlen leicht manipuliert werden können."
+    },
+    {
+      "q": "Was tue ich bei Verdacht auf eine Straftat?",
+      "a": "Die BaFin verweist darauf, bei einer Straftat sofort Anzeige bei Polizei oder Staatsanwaltschaft zu erstatten."
+    }
+  ]
+}

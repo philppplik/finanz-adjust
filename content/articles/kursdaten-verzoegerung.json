@@ -1,0 +1,33 @@
+{
+  "slug": "kursdaten-verzoegerung",
+  "title": "Kursdaten und Verzögerung: Warum der Kurs nicht immer der aktuelle ist",
+  "description": "Was verzögerte Kursdaten bedeuten, welche Fristen Börsen und Datenanbieter nennen und was das für Anzeigen auf Webseiten und in Apps heißt.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:48:00+01:00",
+  "image": "/images/kursdaten-verzoegerung.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Kostenlose Börsendaten kommen oft mit Verzögerung, bei der Deutschen Börse sind es 15 Minuten.</li><li>Die Deutsche Börse stellt nach MiFIR Art. 13 verzögerte Daten kostenlos bereit, Echtzeit läuft über Datenfeeds.</li><li>FA aktualisiert die Seite mehrmals täglich, nicht tickgenau.</li><li>Für schnelle Entscheidungen ist eine verzögerte Anzeige ungeeignet.</li></ul></div><h2>Was „verzögert“ bedeutet</h2><p>Nach der Deutschen Börse stellt der Konzern verzögerte Vor- und Nachhandelsdaten für alle regulierten Börsen der Gruppe laut MiFIR Art. 13 Abs. 1 kostenlos bereit. Die Daten kommen mit 15 Minuten Zeitverzug, einmal pro Minute, die Zeitstempel zeigen UTC (Deutsche Börse Market Data + Services, abgerufen 26.10.2026). Echtzeitdaten werden über Datenfeeds und Vendoren verteilt. Kostenlose Anzeigen im Netz sind deshalb oft verzögert, auch ohne dass es groß dasteht.</p><h2>Was FA dazu sagt</h2><p>FA nennt auf der Seite <a href=\"/quellen/\">Quellen und Daten</a>, dass Kursdaten von einer kostenlosen Schnittstelle stammen, möglicherweise verzögert sind und ohne Gewähr gelten. Die Seite wird mehrmals täglich neu erstellt, sechs Läufe zwischen etwa 7 und 22 Uhr; der Datenstand steht im Footer (finanz-adjust.de, abgerufen 26.10.2026). Ein Kurs auf FA ist also ein Orientierungswert mit Stempel, kein Handelskurs.</p><h2>Folgen für dich</h2><p>Prüfe bei jedem Kurs: Gibt es einen Zeitstempel? Ist die Anzeige als verzögert gekennzeichnet? Für Orders zählt der Kurs, den dein Handelsplatz oder deine Bank zum Zeitpunkt der Order anzeigt. Mehr zur Prüfung von Quellen: <a href=\"/artikel/finanzdaten-quellen-bewerten/\">Finanzdaten-Quellen bewerten</a>. Glossar: <a href=\"/glossar/xetra/\">Xetra</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Deutsche Börse Market Data + Services: Delayed data (abgerufen 26.10.2026)",
+      "url": "https://www.mds.deutsche-boerse.com/mds-en/real-time-data/Delayed-data"
+    },
+    {
+      "title": "finanz-adjust.de: Quellen und Daten (abgerufen 26.10.2026)",
+      "url": "https://finanz-adjust.de/quellen/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind alle kostenlosen Kurse 15 Minuten verzögert?",
+      "a": "Nein. 15 Minuten nennt die Deutsche Börse für ihre kostenlosen Daten nach MiFIR. Andere Anbieter haben eigene Regeln. Lies deren Hinweise."
+    },
+    {
+      "q": "Zeigt FA Echtzeitkurse?",
+      "a": "Nein. FA nennt die Daten möglicherweise verzögert und aktualisiert die Seite mehrmals täglich."
+    },
+    {
+      "q": "Wo sehe ich den aktuellen Handelskurs?",
+      "a": "Bei deiner Bank oder deinem Broker im Handelsbildschirm zum Zeitpunkt der Order."
+    }
+  ]
+}

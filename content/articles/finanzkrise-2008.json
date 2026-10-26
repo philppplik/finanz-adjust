@@ -1,0 +1,33 @@
+{
+  "slug": "finanzkrise-2008",
+  "title": "Die Finanzkrise 2007 bis 2009: Zahlen und Zusammenhänge",
+  "description": "Wie die Krise am US-Immobilienmarkt begann, wie stark Kurse, Häuserpreise und Beschäftigung fielen und wie die Fed reagierte. Nach Daten der Federal Reserve.",
+  "section": "einordnung",
+  "date": "2026-10-26T22:43:00+01:00",
+  "image": "/images/finanzkrise-2008.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Die Rezession dauerte von Dezember 2007 bis Juni 2009, die längste seit dem Zweiten Weltkrieg.</li><li>Der S&amp;P 500 fiel vom Hoch im Oktober 2007 bis zum Tief im März 2009 um 57 Prozent.</li><li>US-Häuserpreise sanken im Schnitt um etwa 30 Prozent.</li><li>Die Arbeitslosenquote stieg von 5 auf 10 Prozent im Oktober 2009.</li></ul></div><h2>Die Eckdaten</h2><p>Nach der Federal Reserve sank das reale US-Bruttoinlandsprodukt vom vierten Quartal 2007 bis zum zweiten Quartal 2009 um 4,3 Prozent, der größte Rückgang der Nachkriegszeit. Die Arbeitslosenquote lag im Dezember 2007 bei 5 Prozent, im Juni 2009 bei 9,5 Prozent und erreichte im Oktober 2009 mit 10 Prozent ihren Höchststand. Die Häuserpreise fielen von Mitte 2006 bis Mitte 2009 im Mittel um etwa 30 Prozent. Das Nettovermögen der privaten Haushalte und Organisationen ging von rund 69 auf rund 55 Billionen US-Dollar zurück (Federal Reserve History, abgerufen 26.10.2026).</p><h2>Die Reaktion der Notenbank</h2><p>Die Fed senkte den Leitzins von 5,25 Prozent im September 2007 auf eine Spanne von 0 bis 0,25 Prozent im Dezember 2008. Danach nutzte sie Forward Guidance, also Aussagen zum erwarteten Zinspfad, sowie Kreditprogramme und große Wertpapierkäufe. Im November 2008 kündigte sie den Kauf von Hypothekenpapieren und Schuldtiteln von Immobilien-Agenturen an. Weltweit kamen Konjunkturprogramme dazu (Federal Reserve History). Den Begriff dazu erklärt der Artikel zur quantitativen Lockerung.</p><h2>Einordnung</h2><p>Die Krise zeigt, wie ein Teilmarkt, hier der Immobilienmarkt, die ganze Wirtschaft erfassen kann. Sie zeigt auch den zeitlichen Abstand von Kursen und Wirtschaftsdaten: Das Kurstief im März 2009 lag vor dem Ende der Rezession im Juni 2009. Zum Rahmen: <a href=\"/artikel/boersenzyklen-erklaert/\">Börsenzyklen</a>, zu den Lehren: <a href=\"/artikel/lehren-aus-crashs/\">Lehren aus Crashs</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Federal Reserve History: The Great Recession (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+    },
+    {
+      "title": "Federal Reserve History: The Great Recession and Its Aftermath (abgerufen 26.10.2026)",
+      "url": "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum heißt es Finanzkrise und nicht nur Immobilienkrise?",
+      "a": "Weil der Immobilienmarkt laut Fed das Zentrum der Krise war, die Folgen aber Wirtschaft und Finanzmärkte insgesamt erfassten."
+    },
+    {
+      "q": "Wie stark fiel der Aktienmarkt?",
+      "a": "Nach Federal Reserve History fiel der S&amp;P 500 vom Hoch im Oktober 2007 bis zum Tief im März 2009 um 57 Prozent."
+    },
+    {
+      "q": "War 2008 der einzige Crash?",
+      "a": "Nein. Der Artikel ordnet nur diese Krise ein. Weitere Fälle: 1929, Dotcom-Blase 2000 bis 2002, Corona-Einbruch 2020."
+    }
+  ]
+}

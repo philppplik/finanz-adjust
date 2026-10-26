@@ -1,0 +1,37 @@
+{
+  "slug": "datenschutz-bei-finanz-apps",
+  "title": "Datenschutz bei Finanz-Apps: Welche Daten gehen wohin?",
+  "description": "Was Apps über dich sammeln können, welche Einstellungen helfen und warum bei Finanzthemen Sparsamkeit mit Daten sinnvoll ist. Nach Verbraucherzentrale und BaFin/ESMA.",
+  "section": "einordnung",
+  "date": "2026-10-26T23:03:00+01:00",
+  "image": "/images/datenschutz-bei-finanz-apps.jpg",
+  "body": "<p><small>Stand: 26.10.2026, Abend</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Apps können Standort, Kontakte und weitere Daten abfragen, oft ohne erkennbaren Zweck.</li><li>Unentgeltlich ist nicht kostenlos: Bei Apps zahlst du häufig mit Daten.</li><li>Nutze die Berechtigungseinstellungen deines Geräts.</li><li>Gib in öffentliche KI-Tools keine persönlichen Finanzdaten ein.</li></ul></div><h2>Welche Daten Apps abfragen</h2><p>Die Verbraucherzentrale beschreibt: Apps verlangen oft Zugriff auf Dienste und Daten des Geräts, etwa Adressbuch, E-Mails, Fotos oder Standort. Für Nutzer sei nicht immer nachvollziehbar, wozu und was damit passiert. Standortdaten ermöglichen laut Quelle Bewegungsprofile, aus denen erkennbar sei, wo du lebst, arbeitest und einkaufst; solche Profile würden vermarktet. Bei einer Navigations-App kann das sinnvoll sein, bei einer Bank-App gebe es dafür häufig keinen erkennbaren Grund (Verbraucherzentrale, abgerufen 26.10.2026).</p><h2>Was du tun kannst</h2><p>Nach der Verbraucherzentrale helfen die Berechtigungseinstellungen deiner Apps, und zu beachten ist, dass unentgeltlich nicht kostenlos heißt, weil man oft mit Daten zahlt. Frage bei jeder Berechtigung: Braucht die App das für ihren Zweck? Bei KI-Tools weist die ESMA darauf hin, dass sie möglicherweise keine angemessenen Sicherheitsvorkehrungen für personenbezogene Daten haben (BaFin/ESMA, abgerufen 26.10.2026).</p><h2>Beispiel FA-Rechner</h2><p>FA beschreibt für seine <a href=\"/rechner/\">Rechner</a>: Eingaben werden nicht an einen Rechendienst gesendet und nicht in Cookies oder Browser-Speichern abgelegt, die Berechnung läuft im Browser. Erst „Szenario-Link erstellen“ schreibt Werte in die URL; Links können in Verlauf, Serverprotokollen und bei Empfängern sichtbar werden, deshalb sollten nur Beispielwerte geteilt werden (finanz-adjust.de, abgerufen 26.10.2026). Das ist die Darstellung des Anbieters, die du selbst nachlesen kannst. Siehe auch <a href=\"/artikel/ki-und-finanzfragen/\">KI und Finanzfragen</a> und die <a href=\"/datenschutz/\">Datenschutzerklärung</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Apps und Datenschutz (abgerufen 26.10.2026)",
+      "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/apps-und-datenschutz-so-schuetzen-sie-ihre-persoenlichen-daten-6431"
+    },
+    {
+      "title": "BaFin/ESMA: KI bei der Geldanlage nutzen (abgerufen 26.10.2026)",
+      "url": "https://www.bafin.de/SharedDocs/Downloads/DE/Anlage/ESMA_KI_Warnung.pdf?__blob=publicationFile&v=1"
+    },
+    {
+      "title": "finanz-adjust.de: Rechner (abgerufen 26.10.2026)",
+      "url": "https://finanz-adjust.de/rechner/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum braucht meine Bank-App Standortdaten?",
+      "a": "Die Verbraucherzentrale schreibt, dass es bei Bank-Apps häufig keinen erkennbaren Grund gibt. Prüfe die Berechtigung und gib sie nur, wenn du den Nutzen siehst."
+    },
+    {
+      "q": "Ist eine kostenlose Finanz-App wirklich gratis?",
+      "a": "Nach der Verbraucherzentrale zahlen Nutzer bei Apps häufig mit Daten statt mit Geld."
+    },
+    {
+      "q": "Was sollte ich nie in öffentliche KI-Tools eingeben?",
+      "a": "Persönliche Finanzdaten wie Kontonummern, Depotstände oder Zugangsdaten. Die ESMA warnt, dass solche Tools möglicherweise keine angemessene Sicherheit bieten."
+    }
+  ]
+}
