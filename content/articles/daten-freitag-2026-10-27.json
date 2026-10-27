@@ -1,0 +1,29 @@
+{
+  "slug": "daten-freitag-2026-10-27",
+  "title": "Daten-Freitag: BIP, Inflation und Arbeitsmarkt kommen am 30. Oktober",
+  "description": "Freitag, 30.10.2026: BIP-Schnellmeldung fürs 3. Quartal um 10:00 Uhr, vorläufige Inflationsdaten, Arbeitsmarkt September. Die Destatis-Wochenvorschau im Überblick.",
+  "section": "einordnung",
+  "date": "2026-10-27T08:06:00+01:00",
+  "image": "/images/daten-freitag-2026-10-27.jpg",
+  "body": "<p><small>Stand: 27.10.2026, früh</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Freitag, 30.10.2026, 10:00 Uhr: BIP-Schnellmeldung zum 3. Quartal 2026.</li><li>Ebenfalls am 30.10.: vorläufiger Verbraucherpreisindex für Oktober (im Laufe des Tages).</li><li>Außerdem: monatliche Arbeitsmarktstatistik (September) und Außenhandelspreise (September).</li><li>Quelle: Wochenvorschau des Statistischen Bundesamts für die 44. Kalenderwoche.</li></ul></div><h2>Was am Freitag kommt</h2><p>Das Statistische Bundesamt listet in seiner Wochenvorschau für die 44. Kalenderwoche (abgerufen 27.10.2026, 07:51 Uhr) einen vollen Daten-Freitag: Um 10:00 Uhr erscheint die Schnellmeldung zum Bruttoinlandsprodukt für das 3. Quartal 2026. Im Laufe desselben Tages folgen die vorläufigen Ergebnisse zum Verbraucherpreisindex für Oktober (inklusive des harmonisierten Verbraucherpreisindex), die monatliche Arbeitsmarktstatistik mit Erwerbstätigen, Erwerbslosen und Erwerbslosenquote für September sowie die Außenhandelspreise für September. Dazu kommt bereits heute, am 27.10., die Zahl der Woche zur Sparquote im internationalen Vergleich.</p><h2>Warum diese drei Blöcke zusammengehören</h2><p>Der Freitag liefert auf einen Schlag drei Ebenen der Konjunktur: die Produktion (BIP), die Preise (VPI) und den Arbeitsmarkt. Genau diese Ebenen tauchen auch in den Definitionen des Konjunkturbegriffs auf - und genau so lassen sie sich einordnen: Was das <a href=\"/artikel/bip-erklaert/\">BIP misst und wie die Varianten zu lesen sind</a>, steht im neuen Lernpfad-Artikel; die zwei Zählweisen der <a href=\"/artikel/arbeitsmarktdaten/\">Arbeitsmarktdaten</a> erklärt ein zweiter. Wer die Schnellmeldung am Freitag liest, weiß damit schon, welche Zahl was aussagt.</p><h2>Schnellmeldung heißt vorläufig</h2><p>Eine Schnellmeldung ist die erste Schätzung - sie kommt schnell, aber nicht endgültig. Dasselbe gilt für den vorläufigen Verbraucherpreisindex. Beide Werte werden später im Regelwerk nachgemeldet; die Einordnung am Freitag startet also mit einer ersten, nicht mit der letzten Zahl. Für den Vergleich lohnt der Blick auf die bisherigen Quartale in der Destatis-Tabelle, die der Artikel zum <a href=\"/artikel/konjunkturzyklus/\">Konjunkturzyklus</a> nutzt. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Wochenvorschau KW 44/2026 (abgerufen 27.10.2026, 07:51 Uhr)",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo stehen die Termine offiziell?",
+      "a": "In der Wochenvorschau des Statistischen Bundesamts - sie führt die festen Veröffentlichungstermine der Kalenderwoche mit Berichtszeitraum und Erscheinungstag."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen VPI und HVPI?",
+      "a": "Der Verbraucherpreisindex ist die nationale Inflationsmessung, der harmonisierte Verbraucherpreisindex die europaweit vergleichbare Variante. Destatis veröffentlicht beide."
+    },
+    {
+      "q": "Sind die Freitags-Zahlen endgültig?",
+      "a": "Nein. BIP-Schnellmeldung und vorläufiger VPI sind erste Schätzungen; die Detailergebnisse folgen später."
+    }
+  ]
+}

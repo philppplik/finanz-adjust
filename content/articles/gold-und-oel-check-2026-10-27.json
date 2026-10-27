@@ -1,0 +1,37 @@
+{
+  "slug": "gold-und-oel-check-2026-10-27",
+  "title": "Gold und Öl am Morgen: Gold bei 4.005,80 USD, WTI bei 101,52 USD",
+  "description": "Gold 4.005,80 US-Dollar (27.10., 07:01 Uhr), WTI 101,52 USD und Brent 115,67 USD (26.10. abends): die Rohstoff-Stände mit Zeitstempel - und warum es drei Öl-Zahlen gibt.",
+  "section": "markt",
+  "date": "2026-10-27T08:06:00+01:00",
+  "image": "/images/gold-und-oel-check-2026-10-27.jpg",
+  "body": "<p><small>Stand: 27.10.2026, früh</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Gold: 4.005,80 US-Dollar je Feinunze, -0,18 Prozent (27.10.2026, 07:01 Uhr).</li><li>In Euro: 3.587,19 (27.10.2026, 07:01 Uhr).</li><li>WTI: 101,52 US-Dollar, -1,69 Prozent (26.10.2026, 21:02 Uhr); Brent: 115,67 US-Dollar, -0,90 Prozent (26.10.2026, 20:52 Uhr).</li><li>Beim Gold lag das Wochenhoch der Vorwoche bei 4.190,37 US-Dollar (19.10.2026).</li></ul></div><h2>Gold: Rückgang auf Wochensicht, ruhiger Morgen</h2><p>Der Goldpreis notierte am 27.10.2026 um 07:01 Uhr bei 4.005,80 US-Dollar je Feinunze (-0,18 Prozent) bzw. 3.587,19 Euro. Die Tagesschau-Übersicht zeigte den Wert am Montagabend noch bei 4.017,08 US-Dollar. Auf Wochensicht liegt ein Rückgang vor: Am 19.10.2026 markierte Gold ein Tageshoch von 4.190,37 US-Dollar, am 22.10. eines von 4.140,20 US-Dollar, der Schlusskurs des 25.10. lag bei 4.002,46 US-Dollar (alle Angaben: finanzen.net, Historientabelle, abgerufen 27.10.2026, 07:51 Uhr). Vom Hoch der Vorwoche bis zum Morgenkurs sind das rund viereinhalb Prozent Abstand - eine sichtbare Bewegung, aber keine Prognose für die Richtung.</p><h2>Öl: zwei Sorten, drei Zahlen</h2><p>Beim Öl kursieren je nach Quelle unterschiedliche Stände - das liegt an den Sorten und Referenzreihen. Finanzen.net zeigte WTI zuletzt bei 101,52 US-Dollar (-1,69 Prozent, Stand 26.10.2026, 21:02 Uhr) und Brent bei 115,67 US-Dollar (-0,90 Prozent, Stand 26.10.2026, 20:52 Uhr). Die Tagesschau führt zusätzlich die Reihe Brent Dated, die beim Abruf am 27.10.2026 bei 112,04 US-Dollar (-3,61 Prozent) stand. Der Grund für die Unterschiede steht bei der Quelle selbst: Brent und WTI entwickelten sich häufig unterschiedlich, da sie an verschiedenen Orten gefördert und über andere Transportwege bewegt würden (finanzen.net). Brent Dated ist wiederum eine eigene Referenz aus dem physischen Markt.</p><h2>Wie du Rohstoff-Meldungen liest</h2><p>Immer drei Angaben prüfen: Welche Sorte oder Referenz ist gemeint, welcher Zeitstempel hängt an der Zahl, und in welcher Währung notiert sie. Erst dann vergleichen - sonst vergleichst du WTI vom Abend mit Brent Dated vom Morgen. Den systematischen Einstieg in Rohstoffe als Anlagethema liefert der Lernpfad <a href=\"/lernpfade/\">Rohstoffe und Gold verstehen</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "finanzen.net: Goldpreis, Stand 27.10.2026, 07:01 Uhr (abgerufen 27.10.2026, 07:51 Uhr)",
+      "url": "https://www.finanzen.net/rohstoffe/goldpreis"
+    },
+    {
+      "title": "finanzen.net: Ölpreis WTI/Brent, Stände 26.10.2026, 21:02 bzw. 20:52 Uhr (abgerufen 27.10.2026, 07:51 Uhr)",
+      "url": "https://www.finanzen.net/rohstoffe/oelpreis"
+    },
+    {
+      "title": "tagesschau.de: Börsenkurse und Charts (abgerufen 27.10.2026, 07:51 Uhr)",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum unterscheiden sich die Ölpreise je nach Quelle?",
+      "a": "Weil WTI, Brent und Brent Dated verschiedene Referenzen sind: eigene Förderregionen, Transportwege und Preisbildung. Dazu kommen unterschiedliche Zeitstempel der Quellen."
+    },
+    {
+      "q": "Woher kommt das Gold-Hoch der Vorwoche?",
+      "a": "Aus der Historientabelle auf finanzen.net: Tageshoch 4.190,37 US-Dollar am 19.10.2026 (abgerufen 27.10.2026, 07:51 Uhr)."
+    },
+    {
+      "q": "Ist das ein Signal zum Kaufen oder Verkaufen?",
+      "a": "Nein. Der Check liefert Kursstände mit Zeitstempel und erklärt die Referenzen - eine Handlungsempfehlung ist das nicht."
+    }
+  ]
+}

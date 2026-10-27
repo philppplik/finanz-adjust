@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-blue-chip",
+  "title": "Glossar: Blue Chip - was hinter dem Namen aus dem Casino steckt",
+  "description": "Blue Chips sind Aktien großer Unternehmen mit hoher Bonität. Woher der Name kommt und was der Begriff leistet - und was nicht.",
+  "section": "glossar",
+  "date": "2026-10-27T08:06:00+01:00",
+  "image": "/images/glossar-blue-chip.jpg",
+  "body": "<p><small>Stand: 27.10.2026, früh</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Blue Chips ist die Bezeichnung für Aktien großer Unternehmen.</li><li>Typische Merkmale: hohe Bonität, Wachstumsperspektiven, regelmäßige Dividendenzahlungen.</li><li>Der Name kommt aus dem Casino Monte Carlo - die blauen Jetons hatten den höchsten Wert.</li><li>Blue Chip ist eine Einordnung, keine Qualitätsgarantie.</li></ul></div><h2>Die Definition</h2><p>Das Börsenlexikon der Wiener Börse definiert Blue Chips (abgerufen 27.10.2026) als Bezeichnung für Aktien großer Unternehmen, die sich durch hohe Bonität, gute Wachstumsperspektiven und regelmäßige Dividendenzahlungen auszeichneten. In Deutschland sind das typischerweise die Schwergewichte im DAX - die Unternehmen mit den größten Börsenwerten und der längsten Börsengeschichte.</p><h2>Die Herkunft des Namens</h2><p>Der Name ist älter als jeder Index: Namensgeber waren die blauen Jetons im Casino Monte Carlo, die den höchsten Wert hatten - so das Börsenlexikon der Wiener Börse. Aus dem höchsten Jeton-Wert am Spieltisch wurde die Chiffre für die größten und etabliertesten Aktien am Markt.</p><h2>Was der Begriff leistet - und was nicht</h2><p>Blue Chip beschreibt Größe, Etabliertheit und Historie - mehr nicht. Auch ein Blue Chip kann Kursverluste hinnehmen, die Dividende kürzen oder aus dem Index fallen; die Merkmale aus der Definition sind Momentbeschreibungen, keine Zusicherung auf Dauer. Für die Einordnung einzelner Aktien bleibt deshalb der Blick auf die Kennzahlen wichtig - den Einstieg dazu liefert der Lernpfad <a href=\"/lernpfade/\">Aktien analysieren</a>. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "Wiener Börse, Börsenlexikon: Blue Chips (abgerufen 27.10.2026, 07:51 Uhr)",
+      "url": "https://www.wienerborse.at/wissen/boersenlexikon/buchstabe-b/blue-chips/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind alle DAX-Aktien Blue Chips?",
+      "a": "Der Begriff meint große, etablierte Unternehmen mit den genannten Merkmalen. Er ist keine amtliche Kategorie mit festen Regeln - sondern eine umgangssprachliche Einordnung."
+    },
+    {
+      "q": "Woher kommt der Name Blue Chip?",
+      "a": "Aus dem Casino Monte Carlo: Dort hatten die blauen Jetons den höchsten Wert - so die Herkunftserklärung im Börsenlexikon der Wiener Börse."
+    },
+    {
+      "q": "Bedeutet Blue Chip sichere Anlage?",
+      "a": "Nein. Die Merkmale beschreiben Größe und Etabliertheit, keine Garantie gegen Kursverluste."
+    }
+  ]
+}

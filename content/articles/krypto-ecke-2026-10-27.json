@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-27",
+  "title": "Krypto-Ecke: Bitcoin bei 79.574 Dollar, Ethereum und Solana leichter",
+  "description": "BTC 79.574 USD, ETH 2.303 USD, SOL 99,69 USD: die Krypto-Kurse am Dienstagmorgen, 27.10.2026, 07:51 Uhr - eigener API-Abruf, ohne Prognose.",
+  "section": "krypto",
+  "date": "2026-10-27T08:06:00+01:00",
+  "image": "/images/krypto-ecke-2026-10-27.jpg",
+  "body": "<p><small>Stand: 27.10.2026, früh</small></p><div class=\"note\"><b>Das Wichtigste in Kürze</b><ul><li>Bitcoin: 79.574 US-Dollar bzw. 71.280 Euro (27.10.2026, 07:51 Uhr).</li><li>Ethereum: 2.303,39 US-Dollar bzw. 2.063,31 Euro.</li><li>Solana: 99,69 US-Dollar bzw. 89,30 Euro.</li><li>24-Stunden-Bewegung in US-Dollar: BTC -0,47 %, ETH -0,47 %, SOL -1,07 %.</li></ul></div><h2>Die Kurse am Morgen</h2><p>Der Bitcoin notierte beim Abruf der CoinGecko-API am 27.10.2026 um 07:51 Uhr bei 79.574 US-Dollar, in Euro bei 71.280. Die Marktkapitalisierung lag bei rund 1,60 Billionen US-Dollar. Ethereum stand bei 2.303,39 US-Dollar (2.063,31 Euro, Marktkapitalisierung rund 281 Milliarden US-Dollar), Solana bei 99,69 US-Dollar (89,30 Euro, rund 59 Milliarden US-Dollar). Alle Angaben: eigener API-Abruf, 27.10.2026, 07:51 Uhr.</p><h2>Die 24-Stunden-Bewegung</h2><p>Auf 24-Stunden-Sicht lag Bitcoin in US-Dollar gerechnet 0,47 Prozent im Minus, Ethereum ebenfalls 0,47 Prozent und Solana 1,07 Prozent. In Euro fiel die Bewegung wegen des kaum veränderten Wechselkurses ähnlich aus: BTC +0,02 Prozent, ETH +0,02 Prozent, SOL -0,58 Prozent. Der Unterschied zwischen beiden Währungsrichtungen ist klein - aber er zeigt, dass die Euro-Sicht nie exakt der Dollar-Sicht entspricht. Wer das Prinzip dahinter vertiefen will: Der Lernpfad zu <a href=\"/lernpfade/\">Währungen und Wechselkursen</a> ist ab dieser Woche online.</p><h2>Einordnung statt Aufregung</h2><p>Ein Viertel bis ein Prozent Bewegung am Tag ist im Krypto-Markt keine Schlagzeile, sondern Alltag - Schwankungen dieser Größenordnung gehören zur Anlageklasse. Entscheidend für die Einordnung bleibt der eigene zeitliche Rahmen und die Positionsgröße, nicht der Tagestick. Keine Anlageberatung.</p>",
+  "sources": [
+    {
+      "title": "CoinGecko API: BTC/ETH/SOL in USD und EUR, eigener Abruf am 27.10.2026, 07:51 Uhr",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher kommen die Krypto-Kurse?",
+      "a": "Aus der CoinGecko-API, abgerufen direkt am 27.10.2026 um 07:51 Uhr. Die Zahlen sind Momentwerte dieses Abrufs."
+    },
+    {
+      "q": "Warum unterscheiden sich Euro- und Dollar-Prozente?",
+      "a": "Weil sich der EUR/USD-Kurs ebenfalls bewegt. Verändert sich der Wechselkurs innerhalb der 24 Stunden, weichen die prozentualen Bewegungen in Euro und Dollar voneinander ab."
+    },
+    {
+      "q": "Ist das eine Kauf- oder Verkaufsempfehlung?",
+      "a": "Nein. Die Krypto-Ecke liefert Kursstände mit Zeitstempel und Einordnung - keine Handlungsempfehlung."
+    }
+  ]
+}
