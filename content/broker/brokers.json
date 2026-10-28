@@ -1,88 +1,209 @@
 {
-  "stand": "2026-10-28",
-  "brokers": [
-    {
-      "id": "comdirect",
-      "name": "comdirect",
-      "typ": "Direktbank (Commerzbank-Gruppe)",
-      "url": "https://www.comdirect.de/depot/comdirect-depot.html",
-      "plv": "https://www.comdirect.de/cms/docs/cori7105.pdf",
-      "fakten": [],
-      "hinweis": "Für comdirect nennen wir keine Zahlen: Die Anbieter-Seite mischt dauerhafte Preise mit befristeten Aktionen, und die Bedingungen hängen vom Depotstart ab. Aktuelle Preise nur im verlinkten Preis- und Leistungsverzeichnis.",
-      "logo": "comdirect.svg"
-    },
-    {
-      "id": "finanzen-net-zero",
-      "name": "finanzen.net ZERO",
-      "typ": "Neobroker",
-      "url": "https://www.finanzen.net/zero/",
-      "plv": "https://www.finanzen.net/zero/wp-content/uploads/2026/10/Preis-Leistungsverzeichnis-V13_Wertpapiere.pdf",
-      "fakten": [
-        "Ordergebühr ab 0 €, zuzüglich Spread (Handel über gettex)",
-        "Ab 500 € Ordervolumen ohne Mindermengenzuschlag, darunter 1 € Zuschlag",
-        "Sparplan ab 1 € Sparrate ohne Mindermengenzuschlag (laut Anbieter-Seite)"
-      ],
-      "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis."
-    },
-    {
-      "id": "flatex",
-      "name": "flatex",
-      "typ": "Direktbroker",
-      "url": "https://www.flatex.de/preise/",
-      "plv": "https://www.flatex.de/preise/",
-      "fakten": [
-        "Orderprovision Aktien: 5,90 €",
-        "Dazu 2,00 € Fremdkostenpauschale pro Order an Handelsplätzen wie Tradegate, gettex, Quotrix, Baader Bank oder Lang & Schwarz",
-        "Xetra und Frankfurt: stattdessen Börsenentgelte laut Preisseite, zusätzlich zur Provision"
-      ],
-      "hinweis": "Gesamtpreis = Orderprovision plus Fremd- oder Börsenkosten. Zusätzliche Entgelte für Auslandsbörsen möglich.",
-      "logo": "flatex.svg"
-    },
-    {
-      "id": "justtrade",
-      "name": "justTRADE",
-      "typ": "Neobroker (Service der Sutor Bank)",
-      "url": "https://www.justtrade.com/",
-      "plv": "https://www.justtrade.com/fileadmin/Formulare/Preis-und-Leistungsverzeichnis.pdf",
-      "fakten": [
-        "Orderprovision laut Preis- und Leistungsverzeichnis (Dateititel: Sept. 2026): 2,90 € für Aktien, ETFs und ETCs, Mindestordervolumen 1 Stück",
-        "Sparpläne in ETFs, ETCs und ETPs: ohne Orderprovision",
-        "Depotführung kostenfrei"
-      ],
-      "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen.",
-      "logo": "justtrade.png"
-    },
-    {
-      "id": "scalable-capital",
-      "name": "Scalable Capital",
-      "typ": "Neobroker mit Bank",
-      "url": "https://de.scalable.capital/",
-      "plv": "https://de.scalable.capital/",
-      "fakten": [],
-      "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter.",
-      "logo": "scalable.png"
-    },
-    {
-      "id": "smartbroker-plus",
-      "name": "SMARTBROKER+",
-      "typ": "Neobroker (Baader Bank)",
-      "url": "https://www.smartbrokerplus.de/de-de/konditionen/",
-      "plv": "https://www.smartbrokerplus.de/de-de/konditionen/",
-      "fakten": [
-        "gettex (Premiumpartner): 0 € ab 500 € Ordervolumen, 1 € bis 499,99 €",
-        "Tradegate, L&S Exchange, Baader Trading: 4 € pro Order",
-        "Xetra: 4 € + 0,01 % vom Volumen, mind. 1,50 € börsenplatzabhängige Entgelte"
-      ],
-      "hinweis": "Derivate und Auslandsbörsen haben eigene Preise, siehe Konditionenseite."
-    },
-    {
-      "id": "trade-republic",
-      "name": "Trade Republic",
-      "typ": "Neobroker mit Bank",
-      "url": "https://traderepublic.com/de-de",
-      "plv": "https://assets.traderepublic.com/documents/DE/FURTHER%5FINFORMATION%5FPRICE%5FLIST%5F20251125091224.pdf",
-      "fakten": [],
-      "hinweis": "Für Trade Republic nennen wir keine Zahlen: Das öffentlich verlinkte Preisverzeichnis trägt den Stand November 2025 und wurde von uns nicht als aktuell bestätigt. Aktuelle Preise in der App oder auf der Anbieter-Seite prüfen."
-    }
-  ]
+ "stand": "2026-10-28",
+ "brokers": [
+  {
+   "id": "activtrades",
+   "name": "ActivTrades",
+   "typ": "CFD-/Forex-Broker (ActivTrades Europe, Luxemburg)",
+   "url": "https://www.activtrades.com/de/",
+   "plv": "https://www.activtrades.com/de/",
+   "fakten": [
+    "Märkte: Forex, Aktien, Indizes, Kryptowährungen, ETFs, Rohstoffe und Anleihen",
+    "Plattformen: ActivTrader, TradingView, MetaTrader 4 und MetaTrader 5",
+    "84 % der Kleinanlegerkonten verlieren Geld beim CFD-Handel mit diesem Anbieter (Anbieterangabe)"
+   ],
+   "hinweis": "Kosten je Instrument und Kontomodell auf der Anbieter-Seite prüfen; die Konditionsübersicht lässt sich dort filtern."
+  },
+  {
+   "id": "capital-com",
+   "name": "Capital.com",
+   "typ": "CFD-Plattform (Capital Com, CySEC)",
+   "url": "https://capital.com/de/",
+   "plv": "https://capital.com/de/gebuehren",
+   "fakten": [
+    "Vergütung über Spreads auf ausgeführte Trades, keine Kommission",
+    "Keine Ein- oder Auszahlungsgebühren laut Gebührenseite",
+    "Übernachtfinanzierung kann je Position anfallen"
+   ],
+   "hinweis": "Zwischen 74 % und 89 % der Kleinanlegerkonten verlieren Geld beim CFD-Handel (Anbieterangabe). Nur CFDs, kein klassisches Aktiendepot."
+  },
+  {
+   "id": "comdirect",
+   "name": "comdirect",
+   "typ": "Direktbank (Commerzbank-Gruppe)",
+   "url": "https://www.comdirect.de/depot/comdirect-depot.html",
+   "plv": "https://www.comdirect.de/cms/docs/cori7105.pdf",
+   "fakten": [],
+   "hinweis": "Für comdirect nennen wir keine Zahlen: Die Anbieter-Seite mischt dauerhafte Preise mit befristeten Aktionen, und die Bedingungen hängen vom Depotstart ab. Aktuelle Preise nur im verlinkten Preis- und Leistungsverzeichnis.",
+   "logo": "comdirect.svg"
+  },
+  {
+   "id": "finanzen-net-zero",
+   "name": "finanzen.net ZERO",
+   "typ": "Neobroker",
+   "url": "https://www.finanzen.net/zero/",
+   "plv": "https://www.finanzen.net/zero/wp-content/uploads/2026/10/Preis-Leistungsverzeichnis-V13_Wertpapiere.pdf",
+   "fakten": [
+    "Ordergebühr ab 0 €, zuzüglich Spread (Handel über gettex)",
+    "Ab 500 € Ordervolumen ohne Mindermengenzuschlag, darunter 1 € Zuschlag",
+    "Sparplan ab 1 € Sparrate ohne Mindermengenzuschlag (laut Anbieter-Seite)"
+   ],
+   "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis.",
+   "logo": "finanzen-net-zero.svg"
+  },
+  {
+   "id": "flatex",
+   "name": "flatex",
+   "typ": "Direktbroker",
+   "url": "https://www.flatex.de/preise/",
+   "plv": "https://www.flatex.de/preise/",
+   "fakten": [
+    "Orderprovision Aktien: 5,90 €",
+    "Dazu 2,00 € Fremdkostenpauschale pro Order an Handelsplätzen wie Tradegate, gettex, Quotrix, Baader Bank oder Lang & Schwarz",
+    "Xetra und Frankfurt: stattdessen Börsenentgelte laut Preisseite, zusätzlich zur Provision"
+   ],
+   "hinweis": "Gesamtpreis = Orderprovision plus Fremd- oder Börsenkosten. Zusätzliche Entgelte für Auslandsbörsen möglich.",
+   "logo": "flatex.svg"
+  },
+  {
+   "id": "freedom24",
+   "name": "Freedom24",
+   "typ": "Online-Broker (Freedom Finance Europe Ltd, CySEC)",
+   "url": "https://freedom24.com/",
+   "plv": "https://freedom24.com/anketa/price?site_lang=de",
+   "fakten": [
+    "Tarif Smart: 0 €/Monat; Aktien und ETFs USA/Europa: 0,02 $/€ je Aktie plus 2 $/€ pro Auftrag",
+    "Tarif All inclusive: 0 €/Monat; 0,5 % plus 0,012 € je Aktie plus 1,2 $/€ pro Auftrag",
+    "Auszahlung: 7 € pro Auftrag laut Tarifblatt"
+   ],
+   "hinweis": "Wertpapierhandel birgt Verlustrisiken; dein Kapital kann gefährdet sein. Alle Gebühren im Tarifblatt des Anbieters prüfen."
+  },
+  {
+   "id": "ig",
+   "name": "IG",
+   "typ": "Broker für CFDs, Knock-outs und Optionen (IG, London)",
+   "url": "https://www.ig.com/de",
+   "plv": "https://www.ig.com/de/handelskosten",
+   "fakten": [
+    "Aktien-CFDs Deutschland: 0,05 % des Volumens, mindestens 5 € (online)",
+    "US-Aktien-CFDs: 2 Cent je Aktie, mindestens 10 $",
+    "Übernachtfinanzierungskosten fallen bei gehebelten Positionen an"
+   ],
+   "hinweis": "74 % der Kleinanlegerkonten verlieren Geld beim CFD-Handel mit diesem Anbieter (Anbieterangabe). Der klassische Aktienkauf ist nicht der Fokus; Kosten je Instrument in der Handelskosten-Übersicht prüfen.",
+   "logo": "ig.svg"
+  },
+  {
+   "id": "justtrade",
+   "name": "justTRADE",
+   "typ": "Neobroker (Service der Sutor Bank)",
+   "url": "https://www.justtrade.com/",
+   "plv": "https://www.justtrade.com/fileadmin/Formulare/Preis-und-Leistungsverzeichnis.pdf",
+   "fakten": [
+    "Orderprovision laut Preis- und Leistungsverzeichnis (Dateititel: Sept. 2026): 2,90 € für Aktien, ETFs und ETCs, Mindestordervolumen 1 Stück",
+    "Sparpläne in ETFs, ETCs und ETPs: ohne Orderprovision",
+    "Depotführung kostenfrei"
+   ],
+   "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen.",
+   "logo": "justtrade.png"
+  },
+  {
+   "id": "plus500",
+   "name": "Plus500",
+   "typ": "CFD-Plattform (Plus500CY Ltd, CySEC)",
+   "url": "https://www.plus500.com/de",
+   "plv": "https://www.plus500.com/de/help/feescharges",
+   "fakten": [
+    "Vergütung vorwiegend über den Kauf-/Verkaufs-Spread, keine Kommission",
+    "Keine Gebühren für Einzahlungen sowie das Öffnen und Schließen von Trades",
+    "Übernachtfinanzierung, Währungsumrechnungsgebühr und Inaktivitätsgebühr (bis 10 USD) können anfallen"
+   ],
+   "hinweis": "80 % der Kleinanlegerkonten verlieren Geld beim CFD-Handel mit diesem Anbieter (Anbieterangabe). Nur CFDs und Futures, kein klassisches Aktiendepot.",
+   "logo": "plus500.svg"
+  },
+  {
+   "id": "scalable-capital",
+   "name": "Scalable Capital",
+   "typ": "Neobroker mit Bank",
+   "url": "https://de.scalable.capital/",
+   "plv": "https://de.scalable.capital/",
+   "fakten": [],
+   "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter.",
+   "logo": "scalable.png"
+  },
+  {
+   "id": "smartbroker-plus",
+   "name": "SMARTBROKER+",
+   "typ": "Neobroker (Baader Bank)",
+   "url": "https://www.smartbrokerplus.de/de-de/konditionen/",
+   "plv": "https://www.smartbrokerplus.de/de-de/konditionen/",
+   "fakten": [
+    "gettex (Premiumpartner): 0 € ab 500 € Ordervolumen, 1 € bis 499,99 €",
+    "Tradegate, L&S Exchange, Baader Trading: 4 € pro Order",
+    "Xetra: 4 € + 0,01 % vom Volumen, mind. 1,50 € börsenplatzabhängige Entgelte"
+   ],
+   "hinweis": "Derivate und Auslandsbörsen haben eigene Preise, siehe Konditionenseite."
+  },
+  {
+   "id": "tickmill",
+   "name": "Tickmill",
+   "typ": "CFD-/Forex-Broker (Tickmill Europe, CySEC)",
+   "url": "https://www.tickmill.com/de/accounts/",
+   "plv": "https://www.tickmill.com/de/accounts/",
+   "fakten": [
+    "Kontomodell Raw: Spreads ab 0,0 Pips plus 3,5 USD Kommission je Lot und Seite",
+    "Kontomodell Classic: Spreads ab 1,6 Pips ohne Kommission",
+    "Mindesteinzahlung 100, je nach Kontowährung (USD, EUR, GBP oder ZAR)"
+   ],
+   "hinweis": "CFDs sind komplexe Hebelinstrumente mit hohem Verlustrisiko; die Anbieterangabe zur Kleinanleger-Verlustrate steht auf der Anbieter-Seite. Konditionen je Kontomodell prüfen."
+  },
+  {
+   "id": "trade-republic",
+   "name": "Trade Republic",
+   "typ": "Neobroker mit Bank",
+   "url": "https://traderepublic.com/de-de",
+   "plv": "https://assets.traderepublic.com/documents/DE/FURTHER%5FINFORMATION%5FPRICE%5FLIST%5F20251125091224.pdf",
+   "fakten": [],
+   "hinweis": "Für Trade Republic nennen wir keine Zahlen: Das öffentlich verlinkte Preisverzeichnis trägt den Stand November 2025 und wurde von uns nicht als aktuell bestätigt. Aktuelle Preise in der App oder auf der Anbieter-Seite prüfen."
+  },
+  {
+   "id": "vs-markets",
+   "name": "VS Markets",
+   "typ": "CFD-/Forex-Broker (VS Markets)",
+   "url": "https://www.vsmarkets.com/de/",
+   "plv": "https://www.vsmarkets.com/de/",
+   "fakten": [
+    "Handel über MetaTrader 5, kostenloses Demokonto",
+    "Märkte: Forex, Kryptowährungen, Indizes und weitere CFDs",
+    "65,12 % der Konten von Kleinanlegern verlieren Geld beim CFD-Handel mit diesem Anbieter (Anbieterangabe)"
+   ],
+   "hinweis": "Für VS Markets nennen wir keine Preise: Auf der öffentlichen Anbieter-Seite fanden wir am Stichtag keine belastbare Konditionsübersicht. Alle Gebühren vor einer Kontoeröffnung direkt beim Anbieter prüfen."
+  },
+  {
+   "id": "wh-selfinvest",
+   "name": "WH Selfinvest",
+   "typ": "Direktbroker (WHS SELF INVEST S.A., Luxemburg)",
+   "url": "https://www.whselfinvest.de/de-de/investieren/broker/alle-instrumente-und-tarife",
+   "plv": "https://www.whselfinvest.de/de-de/investieren/broker/alle-instrumente-und-tarife",
+   "fakten": [
+    "Aktien über Xetra und Frankfurt: 0,09 % des Volumens, mindestens 3,90 € (Xetra max. 89 €)",
+    "Tradegate: 0,09 %, mindestens 1,90 €; US-Aktien: 0,01 USD je Aktie",
+    "CFD-Konto: 76 % der Kleinanlegerkonten verlieren Geld laut Anbieter"
+   ],
+   "hinweis": "Preise je Börse und Instrument unterschiedlich; die Tarifübersicht des Anbieters ist maßgeblich."
+  },
+  {
+   "id": "xtb",
+   "name": "XTB",
+   "typ": "Direktbroker (XTB S.A., Warschau; Niederlassung Deutschland)",
+   "url": "https://www.xtb.com/de/konto-und-gebuehren",
+   "plv": "https://www.xtb.com/de/konto-und-gebuehren",
+   "fakten": [
+    "Aktien und ETFs: 0 % Kommission bis 100.000 € monatlichem Gesamtumsatz, danach 0,2 % (mindestens 10 €)",
+    "Kontoeröffnung und -führung gratis; Mindestanlagesumme für Aktien 1 €",
+    "Währungsumrechnungsgebühr 0,50 %"
+   ],
+   "hinweis": "CFDs (77 % der Kleinanlegerkonten verlieren Geld laut Anbieter) sind ein separates Angebot mit Hebel; Aktien- und ETF-Handel ist davon getrennt. Maßgeblich ist die Kostenübersicht des Anbieters.",
+   "logo": "xtb.svg"
+  }
+ ]
 }

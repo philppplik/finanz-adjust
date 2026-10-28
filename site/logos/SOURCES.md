@@ -233,3 +233,12 @@ Quelle je Datei: Wikimedia Commons, Einzelprüfung der Dateiseite am 28.10.2026 
 - scalable.png — Scalable Capital — offizieller Newsroom, Abschnitt Downloads (SC_Logo.zip, Variante Full_Woodsmoke_Digital_ClearSpace.png, nur zugeschnitten/verkleinert, keine Umfaerbung) — https://de.scalable.capital/presse, abgerufen 28.10.2026
 
 Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter. Keine Logos ohne gepruefte Quelle: SMARTBROKER+ (Pressebereich leitet auf Homepage um, kein Kit; Commons-Datei von 2022 ist Altmarke), Trade Republic (nur Pressekontakt per E-Mail, kein Download) und finanzen.net ZERO (Dachmarke finanzen.net != ZERO-Produktmarke, kein separates offizielles Asset) bleiben Monogramm.
+
+# Broker-Logos 28.10.2026 (Finanztrends-Erweiterung)
+
+- finanzen-net-zero.svg — finanzen.net ZERO — offizielles Produkt-Logo von der Anbieterseite https://www.finanzen.net/zero/ (Datei: /zero/wp-content/uploads/2022/03/logo-zero.svg, abgerufen 28.10.2026), nur zur Identifikation des Produkts, keine Änderung. Ersetzt die frühere irrtümliche Verwendung der Dachmarke finanzen.net. Explizites Pressekit für ZERO existiert nicht (Pressebereich bietet nur Dachmarken-Logos an); Nutzung nur als Herkunftsnachweis der Marke, Markenrecht bleibt unberührt.
+- xtb.svg — XTB — Wikimedia Commons, File:XTB logo.svg, CC BY-SA 4.0 (Namensnennung hier), https://commons.wikimedia.org/wiki/File:XTB_logo.svg, keine Änderungen
+- plus500.svg — Plus500 — Wikimedia Commons, File:Plus500 logo.svg, Public domain, https://commons.wikimedia.org/wiki/File:Plus500_logo.svg, keine Änderungen
+- ig.svg — IG — Wikimedia Commons, File:IG Group logo.svg, Public domain (Urheber: IG Group), https://commons.wikimedia.org/wiki/File:IG_Group_logo.svg, keine Änderungen
+
+Keine Logos ohne gepruefte Quelle: WH Selfinvest, Tickmill, Freedom24, VS Markets, ActivTrades und Capital.com bleiben Monogramm (kein Commons-Asset mit freier Lizenz gefunden, keine öffentlichen Pressekits). Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter.
