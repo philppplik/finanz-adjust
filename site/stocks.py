@@ -27,7 +27,7 @@ def build_stock_pages(page, urls, articles, out, base):
     def search():
         return '''<form class="stock-search" action="/aktien/" role="search"><label for="stock-query">Aktie suchen</label><div class="stock-search-field"><input id="stock-query" name="q" type="search" placeholder="Name, Ticker oder ISIN" autocomplete="off" aria-controls="stock-results"><button type="submit">Suchen</button></div><p class="stock-note">Suche im FA-Verzeichnis. Nicht alle börsennotierten Unternehmen sind enthalten.</p></form>'''
     def mark(stock):
-        if stock.get('logo'):return '<img class="stock-logo" src="/stock-logos/'+e(stock['logo'],quote=True)+'" alt="'+e(stock['name'],quote=True)+' Logo" width="28" height="28">'
+        if stock.get('logo'):return '<img class="stock-logo" src="/stock-logos/'+e(stock['logo'],quote=True)+'" alt="'+e(stock['name'],quote=True)+' Logo" width="40" height="40">'
         return e(stock['ticker'][:2])
     def cards():
         return ''.join('<a class="stock-card" href="/aktien/%s/" data-stock="%s"><span class="stock-monogram" aria-hidden="true">%s</span><span><strong>%s</strong><small>%s · %s%s</small></span><span aria-hidden="true">↗</span></a>' % (s['slug'],e(normalize(' '.join([s['name'],s['ticker'],s.get('isin','')]+s['aliases'])),quote=True),mark(s),e(s['name']),e(s['ticker']),e(s['exchange']),(' · '+e(s['isin'])) if s.get('isin') else '') for s in stocks)

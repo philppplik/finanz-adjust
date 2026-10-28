@@ -53,7 +53,7 @@ def _mark(q):
     s = stock_meta(q)
     t = (s['ticker'] if s else q['sym'])[:2].upper()
     if s and s.get('logo'):
-        return '<img class="mv-logo" src="/stock-logos/%s" alt="" width="28" height="28">' % e(s['logo'], quote=True)
+        return '<img class="mv-logo" src="/stock-logos/%s" alt="" width="36" height="36">' % e(s['logo'], quote=True)
     return '<span class="mv-mono" aria-hidden="true">%s</span>' % e(t)
 
 
