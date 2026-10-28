@@ -18,7 +18,7 @@
   {
    "id": "capital-com",
    "name": "Capital.com",
-   "typ": "CFD-Plattform (Capital Com Online Investments Ltd, Bahamas SCB)",
+   "typ": "CFD-Plattform (Capital.com)",
    "url": "https://capital.com/de/",
    "plv": "https://capital.com/de/gebuehren",
    "fakten": [
@@ -26,7 +26,7 @@
     "Keine Ein- oder Auszahlungsgebühren laut Gebührenseite",
     "Übernachtfinanzierung kann je Position anfallen"
    ],
-   "hinweis": "CFDs sind komplexe Hebelinstrumente mit hohem Verlustrisiko; die Anbieterangabe zur Kleinanleger-Verlustrate (je Instrument unterschiedlich) steht auf der Anbieter-Seite. Nur CFDs, kein klassisches Aktiendepot.",
+   "hinweis": "Vertragspartner und Regulierung hängen vom Wohnsitz ab; die deutsche Anbieter-Seite nennt Capital Com Online Investments Ltd (Bahamas, SCB). Vor einer Kontoeröffnung in den Rechtsdokumenten des Anbieters prüfen, welche Gesellschaft für Deutschland zuständig ist. Nur CFDs, kein klassisches Aktiendepot.",
    "gruppe": "cfd"
   },
   {
