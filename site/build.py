@@ -144,9 +144,13 @@ def pubdate(a):
     dt=adate(a)
     if dt.tzinfo is None: dt=dt.replace(tzinfo=NOW.tzinfo)
     return dt.isoformat()
+def mdate(a):
+    # Wahrheitsgemaess: explizites 'modified'-Feld gewinnt, sonst Publikationsdatum
+    try: return datetime.datetime.fromisoformat(a['modified']).isoformat()
+    except Exception: return pubdate(a)
 def art_ld(a):
     dt=adate(a)
-    ld=[{'@context':'https://schema.org','@type':'NewsArticle','headline':a['title'],'description':a.get('description',''),'datePublished':dt.isoformat(),'dateModified':dt.isoformat(),'inLanguage':'de-DE','mainEntityOfPage':BASE+'/artikel/%s/'%a['slug'],'author':{'@type':'Organization','name':'FA Redaktion','url':BASE+'/redaktion/'},**({'image':[BASE+a['image']]} if a.get('image') else {}),'publisher':{'@type':'NewsMediaOrganization','name':'finanz adjust','url':BASE}}]
+    ld=[{'@context':'https://schema.org','@type':'NewsArticle','headline':a['title'],'description':a.get('description',''),'datePublished':dt.isoformat(),'dateModified':mdate(a),'inLanguage':'de-DE','mainEntityOfPage':BASE+'/artikel/%s/'%a['slug'],'author':{'@type':'Organization','name':'FA Redaktion','url':BASE+'/redaktion/'},**({'image':[BASE+a['image']]} if a.get('image') else {}),'publisher':{'@type':'NewsMediaOrganization','name':'finanz adjust','url':BASE}}]
     if a.get('faq'):
         ld.append({'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':f['q'],'acceptedAnswer':{'@type':'Answer','text':f['a']}} for f in a['faq']]})
     return ld
@@ -281,10 +285,19 @@ try:
 except Exception:
     _sm_stocks=[]
 _sm_img={'%s/aktien/%s/'%(BASE,s['slug']):('%s/og/aktien/%s-logo.png'%(BASE,s['slug']),s['name']+' Logo auf finanz adjust') for s in _sm_stocks if s.get('logo')}
+# lastmod nur wo wahr (vgl. developers.google.com/search/blog/2023/06/sitemaps-lastmod-ping):
+# - Artikel: 'modified'-Feld falls gepflegt, sonst Publikationsdatum
+# - / und /artikel/ aendern sich nachweislich mit jedem neuen Artikel: Datum des neuesten Artikels
+# - alle anderen Seiten: kein lastmod (Render allein ist keine Inhaltsaenderung; weglassen ist laut Google ok)
+_art_lm={BASE+'/artikel/%s/'%a['slug']: mdate(a)[:10] for a in ARTS}
+_newest_art=mdate(ARTS[0])[:10] if ARTS else None
+_list_lm={BASE+'/':_newest_art, BASE+'/artikel/':_newest_art}
 def _sm_url(u):
     img=_sm_img.get(u)
     imgtag='<image:image><image:loc>%s</image:loc><image:title>%s</image:title></image:image>'%(img[0],esc(img[1])) if img else ''
-    return '<url><loc>%s</loc><lastmod>%s</lastmod>%s</url>'%(u,today,imgtag)
+    lm=_art_lm.get(u) or _list_lm.get(u)
+    lmtag='<lastmod>%s</lastmod>'%lm if lm else ''
+    return '<url><loc>%s</loc>%s%s</url>'%(u,lmtag,imgtag)
 open(OUT+'/sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join(_sm_url(u) for u in urls)+'</urlset>')
 recent=[a for a in ARTS if (NOW-adate(a).astimezone()).total_seconds()<172800]
 news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news></url>'%(BASE,a['slug'],pubdate(a),esc(a['title'])) for a in recent)+'</urlset>'
@@ -293,7 +306,23 @@ items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artike
 items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(i['title']),esc(i['url']),esc(i['url']),'',email.utils.format_datetime(datetime.datetime.fromtimestamp(i['ts']).astimezone())) for i in N[:60] if i.get('ts'))
 open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
 json.dump(Q,open(OUT+'/quotes.json','w'))
-print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx))
+# ---------- IndexNow-Export: nur neue/geaenderte Artikel (Status: data/indexnow-state.json) ----------
+# Der Push erfolgt im Deploy-Job NACH erfolgreichem Deployment; erst dann aktualisiert der
+# Workflow data/indexnow-state.json. Schlaegt der Push fehl, werden die URLs beim naechsten
+# Build automatisch erneut exportiert. Erstlauf: nur Artikel der letzten 48h, kein Vollpush.
+try: _inow_state=json.load(open('../data/indexnow-state.json'))
+except Exception: _inow_state={}
+_inow_new=[]
+for a in ARTS:
+    _m=mdate(a)
+    if _inow_state.get(a['slug'])==_m: continue
+    if a['slug'] not in _inow_state and (NOW-adate(a).astimezone()).total_seconds()>=172800: continue
+    _inow_new.append(BASE+'/artikel/%s/'%a['slug'])
+open(OUT+'/indexnow-urls.txt','w').write('\n'.join(sorted(_inow_new))+('\n' if _inow_new else ''))
+_inow_key=os.environ.get('INDEXNOW_KEY','').strip()
+if _inow_key:
+    open(OUT+'/%s.txt'%_inow_key,'w').write(_inow_key+'\n')
+print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx),'indexnow_new',len(_inow_new))
 
 # Rights-gated noindex sources, deliberately excluded from sitemaps and RSS.
 from news_detail import build_details
