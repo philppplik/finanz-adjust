@@ -58,13 +58,21 @@ def source_badge(item):
     return '<span class="source-badge">%s<span>%s</span></span>' % (mark, e(label))
 
 
-def diverse(items, limit=500):
-    """Interleave sources (newest source first per round) so a high-frequency feed cannot crowd out the rest of a visible slice."""
+def diverse(items, limit=500, window=259200):
+    """Recency-honest source mix: within the last `window` seconds, round-robin one item per source
+    (sources ordered by their newest item) so a high-frequency feed cannot hide other sources' fresh items.
+    Older items follow afterwards in plain chronological order; timestamps are never altered."""
+    import time
     from collections import deque
+    cutoff = time.time() - window
+    fresh = [i for i in items if i.get('ts', 0) >= cutoff]
+    rest = [i for i in items if i.get('ts', 0) < cutoff]
+    fresh.sort(key=lambda x: -x.get('ts', 0))
+    rest.sort(key=lambda x: -x.get('ts', 0))
     groups = {}
     order = []
-    for item in sorted(items, key=lambda x: -x.get('ts', 0)):
-        key = item.get('license_key') or item.get('src') or '?'
+    for item in fresh:
+        key = item.get('license_key') or item.get('src') or urllib.parse.urlsplit(item.get('url', '')).hostname or '?'
         if key not in groups:
             groups[key] = deque()
             order.append(key)
@@ -76,6 +84,7 @@ def diverse(items, limit=500):
                 out.append(groups[k].popleft())
                 if len(out) >= limit:
                     break
+    out.extend(rest[: max(0, limit - len(out))])
     return out
 
 def news_cards(items, limit=500):
