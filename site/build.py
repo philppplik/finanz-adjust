@@ -127,7 +127,7 @@ def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None
     h=exit_attach(h,path)
     p=OUT+path+('index.html' if path.endswith('/') else ''); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w').write(h); return url
 def trow(q,selfpage=False):
-    cur={'EUR':'\u20ac','USD':'$'}.get(q['cur'],q['cur'])
+    cur={'EUR':' \u20ac','USD':' $'}.get(q.get('cur') or '','')  # fehlende Waehrung (z. B. Indexpunkte) ohne Einheit
     href=stock_href(q) or crypto_href(q)
     if not href and not selfpage: href=mhref(q)
     nm='<b>%s</b><div class="mut" style="font-size:11px">%s \u00b7 %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
@@ -135,7 +135,7 @@ def trow(q,selfpage=False):
     attr=(' data-href="%s"'%href) if href else ''
     if selfpage: attr+=' id="%s"'%mid(q)
     pl=' <span class="pl">%s</span>'%('24 h' if q['grp']=='Krypto' else '1 T')
-    return '<tr%s><td class="c-sym">%s</td><td class="c-px">%s %s</td><td class="c-chg %s">%s</td><td class="c-pct %s">%s%%%s</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),pl,spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
+    return '<tr%s><td class="c-sym">%s</td><td class="c-px">%s%s</td><td class="c-chg %s">%s</td><td class="c-pct %s">%s%%%s</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),pl,spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
 ROWJS='<script>(function(){if(window.__frow)return;window.__frow=1;document.addEventListener("click",function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;if(e.target.closest&&e.target.closest("a"))return;var r=e.target.closest&&e.target.closest("tr[data-href]");if(r)location.href=r.getAttribute("data-href")})})()</script>'
 def tbl(rows,selfpage=False): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q,selfpage) for q in rows)+'</table></div>'+ROWJS
 def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
