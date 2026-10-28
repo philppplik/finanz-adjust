@@ -38,6 +38,15 @@ def yahoo(sym):
         px=m['regularMarketPrice']; prev=cl[-2] if len(cl)>1 else px
         return dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=cl[-60:],cur=m.get('currency',''),src='Yahoo Finance')
     except Exception as e: print('YF',sym,e); return None
+def coingecko(cid):
+    p=get('https://api.coingecko.com/api/v3/simple/price?ids=%s&vs_currencies=usd&include_24hr_change=true'%cid)
+    h=get('https://api.coingecko.com/api/v3/coins/%s/market_chart?vs_currency=usd&days=90&interval=daily'%cid)
+    try:
+        d=json.loads(p)[cid]; px=d['usd']; pct=d.get('usd_24h_change',0)
+        hist=[x[1] for x in json.loads(h).get('prices',[])][-60:] if h else []
+        prev=px/(1+pct/100) if pct else (hist[-2] if len(hist)>1 else px)
+        return dict(price=px,chg=px-prev,pct=pct,hist=hist,cur='USD',src='CoinGecko')
+    except Exception as e: print('CG',cid,e); return None
 _tdwin=[0.0,0]  # [Fenster-Start, verbrauchte Credits] - Free-Tier: 8 Credits/Minute
 def td_batch(kind,params,credits):
     """kind: 'quote' oder 'time_series'; wartet bis das Credit-Fenster Platz hat"""
@@ -115,13 +124,11 @@ else:
         if cg: continue
         d=yahoo(sym)
         if d: srcs.add('Yahoo Finance'); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src']))
-# Krypto: eigene Kursanzeige pausiert (28.10.2026). CoinGecko free/keyless enthaelt nach
-# aktueller Lizenzhilfe keine kommerzielle Anzeigeerlaubnis; kein Providerwechsel ohne
-# Rechtenachweis. Eintraege bleiben als neutrale Platzhalter OHNE Zahlen bestehen, damit
-# Tabellenstruktur, Anker und Links erhalten bleiben. Reaktivierung erst mit
-# lizenzgeklaerter Quelle.
+# Krypto: CoinGecko primaer (oeffentliche Anzeige mit Attribution erlaubt), Yahoo als Fallback
 for sym,name,grp,tds,ex,cg in SYM:
     if not cg: continue
-    q.append(dict(sym=sym,name=name,grp=grp,cur='USD',price=None,chg=None,pct=None,hist=[],src='pausiert (Quellenklärung)'))
+    d=coingecko(cg) or yahoo(sym)
+    if d:
+        srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src']))
 json.dump(q,open('../data/quotes.json','w'))
 print(len(fin),'news;',len(q),'quotes;',sorted(srcs))
