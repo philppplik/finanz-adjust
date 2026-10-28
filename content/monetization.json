@@ -1,15 +1,72 @@
 {
-  "version": 1,
-  "consentRevision": "2026-10-ga4-live-1",
+  "version": 2,
+  "consentRevision": "2026-11-ga4-rich-1",
   "analytics": {
     "enabled": true,
     "provider": "ga4",
     "measurementId": "G-T2V8C566K9",
     "activationApproved": true,
     "privacyReviewed": true,
-    "eventRetentionMonths": 2,
+    "eventRetentionMonths": 14,
     "cookieLifetimeDays": 180,
-    "resetRetentionOnActivity": false
+    "resetRetentionOnActivity": false,
+    "attribution": "cleaned",
+    "excludePaths": [
+      "^/newsletter/",
+      "^/abmelden",
+      "^/.*-bestaetigt",
+      "^/tagesbericht-anmelden",
+      "^/atlas-daten-anmelden"
+    ],
+    "contentGroups": {
+      "^/aktien/": "aktien",
+      "^/artikel/": "artikel",
+      "^/maerkte/": "maerkte",
+      "^/nachrichten/": "nachrichten",
+      "^/glossar/": "glossar",
+      "^/lernpfade/": "lernpfade",
+      "^/rechner/": "rechner",
+      "^/berichte/": "berichte",
+      "^/vergleiche/": "vergleiche",
+      "^/broker/": "broker",
+      "^/heatmap/": "heatmap"
+    },
+    "downloadAllowlist": [
+      "^/report-archive/"
+    ],
+    "outboundAllowlist": [
+      "^commons\\.wikimedia\\.org$",
+      "^de\\.scalable\\.capital$",
+      "^traderepublic\\.com$",
+      "^comdirect\\.de$",
+      "^finanzen\\.net$",
+      "^flatex\\.de$",
+      "^justtrade\\.com$",
+      "^smartbrokerplus\\.de$"
+    ],
+    "toolUsageAllowlist": [
+      "^/rechner/sparplan/",
+      "^/rechner/zinseszins/",
+      "^/rechner/rendite/",
+      "^/rechner/etf-kosten/",
+      "^/rechner/inflation/",
+      "^/rechner/kredit/",
+      "^/rechner/dividenden/",
+      "^/rechner/entnahmeplan/"
+    ],
+    "campaignValues": {
+      "source": [
+        "newsletter",
+        "rss",
+        "x",
+        "linkedin"
+      ],
+      "medium": [
+        "email",
+        "social"
+      ],
+      "campaign": []
+    }
   },
   "advertising": {
     "enabled": false

@@ -21,9 +21,9 @@ let count = 0; const ok = (v, m) => { if (!v) throw new Error('FAILED: ' + m); c
     for (const theme of (process.env.THEMES || 'light').split(',')) for (const [name, w, h] of [['desktop', 1440, 1100], ['tablet', 1024, 900], ['mobile', 390, 844], ['narrow', 320, 760]]) {
       const ctx = await browser.newContext({ viewport: { width: w, height: h } });
       if (theme === 'dark') await ctx.addInitScript(() => { try { localStorage.setItem('fa-theme', 'dark'); } catch (e) {} });
-      const page = await ctx.newPage(), reqs = []; page.on('request', r => reqs.push(r.url()));
+      const page = await ctx.newPage(), reqs = []; page.on('request', r => reqs.push(r.url())); await ctx.route('https://**/*', r => r.fulfill({ contentType: 'application/javascript', body: '/* intercepted */' }));
       await page.goto(base + werben); await page.waitForSelector('#' + P + '-consent:not([hidden])');
-      ok(await page.locator('#' + P + '-statistics').isDisabled(), 'stats disabled'); ok(await page.locator('#' + P + '-advertising').isDisabled(), 'ads disabled');
+      ok(!(await page.locator('#' + P + '-statistics').isDisabled()), 'stats available'); ok(await page.locator('#' + P + '-advertising').isDisabled(), 'ads disabled');
       ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), 'no overflow ' + name);
       if (name !== 'narrow') await page.screenshot({ path: path.join(shots, P + '-consent-' + theme + '-' + name + '.png') });
       ok(await page.locator('#' + P + '-consent [data-consent="close"], #' + P + '-consent-close').count() === 0, 'no close button'); await page.keyboard.press('Escape'); ok(await page.locator('#' + P + '-consent').isVisible(), 'escape does not dismiss');
@@ -34,8 +34,8 @@ let count = 0; const ok = (v, m) => { if (!v) throw new Error('FAILED: ' + m); c
       await page.reload(); ok(await page.locator('#' + P + '-consent').isHidden(), 'persisted'); ok(await page.evaluate((P) => document.cookie.includes(P + '_consent_v1='), P), 'cookie written'); await page.evaluate(() => localStorage.clear()); await page.reload(); ok(await page.locator('#' + P + '-consent').isHidden(), 'cookie fallback persists without localStorage'); await page.goto(base + '/'); ok(await page.locator('#' + P + '-consent').isHidden(), 'no banner on follow-up page'); await page.goto(base + werben);
       if (name !== 'narrow') await page.screenshot({ path: path.join(shots, P + '-werben-' + theme + '-' + name + '.png'), fullPage: true });
       await page.locator('[data-' + P + '-consent-open]').first().click(); ok(await page.locator('#' + P + '-consent').isVisible(), 'reopen');
-      await page.locator('[data-consent="all"]').click(); s = await page.evaluate((P) => JSON.parse(localStorage.getItem(P + '-consent-v1')), P); ok(s.statistics === false && s.advertising === false, 'all available = nothing (nothing available)');
-      ok(!reqs.some(u => !u.startsWith(base)), 'no external requests ' + reqs.filter(u => !u.startsWith(base)).join(','));
+      await page.locator('[data-consent="all"]').click(); s = await page.evaluate((P) => JSON.parse(localStorage.getItem(P + '-consent-v1')), P); ok(s.statistics === true && s.advertising === false, 'all available = statistics only');
+      ok(!reqs.some(u => !u.startsWith(base) && !u.startsWith('https://www.googletagmanager.com/')), 'nur gtm extern ' + reqs.filter(u => !u.startsWith(base) && !u.startsWith('https://www.googletagmanager.com/')).join(','));
       ok((await page.locator('a[href^="mailto:"]').count()) >= 4, 'mailto links');
       for (const u of ['/', cookies, werbung, ds, '/impressum' + (EXT ? '' : '/')]) { await page.goto(base + u); ok(await page.locator('[data-' + P + '-consent-open]').count() === 1, 'footer button on ' + u); ok(await page.locator('[data-' + P + '-spot]').count() === 0, 'no spot on ' + u); if (!(u === '/' && name === 'narrow')) ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), 'no overflow ' + u + ' ' + name); /* homepage is 390px wide at 320px, pre-existing and not from the consent UI */ }
       await page.goto(base + cookies); ok((await page.locator('h1').innerText()) === 'Cookies & Einstellungen', 'cookies h1');
