@@ -71,4 +71,76 @@ class StocksTest(unittest.TestCase):
         self.assertEqual(len({r['slug'] for r in rows}),len(rows))
         self.assertEqual(len({(r['ticker'],r['exchange']) for r in rows}),len(rows))
         self.assertTrue(all(r.get('tv_symbol') for r in rows))
+
+    def xetra(self):
+        return dict(slug='sap',name='SAP',ticker='SAP',exchange='Xetra',currency='EUR',aliases=['SAP'],api_enabled=False)
+    def yahoo_raw(self, **meta):
+        m=dict(symbol='SAP.DE',exchangeName='GER',currency='EUR',instrumentType='EQUITY',
+               regularMarketPrice=213.15,regularMarketTime=int(time.time()),
+               regularMarketDayHigh=215.25,regularMarketDayLow=211.7,chartPreviousClose=212.0,
+               regularMarketVolume=1762,regularMarketChangePercent=0.54)
+        m.update(meta)
+        return {'chart':{'result':[{'meta':m,'indicators':{'quote':[{'open':[212.75]}]}}]}}
+    def test_yahoo_parse(self):
+        from stock_data import parse_yahoo, yahoo_symbol
+        s=self.xetra()
+        q=parse_yahoo(self.yahoo_raw(),s,yahoo_symbol(s))
+        self.assertEqual(q['price'],213.15);self.assertEqual(q['source'],'Yahoo Finance')
+        self.assertEqual(q['exchange'],'Xetra');self.assertEqual(q['currency'],'EUR')
+        self.assertEqual(q['delay'],'15 Minuten (Anbieterangabe)')
+        self.assertAlmostEqual(q['change'],1.15)
+        html=render_quote(q,s)
+        self.assertIn('213,15 EUR',html);self.assertIn('finance.yahoo.com',html)
+        self.assertIn('Kursdaten: Yahoo Finance',html);self.assertNotIn('Twelve Data',html)
+        self.assertIn('15 Minuten (Anbieterangabe)',html)
+    def test_yahoo_reject_wrong_exchange_currency_symbol(self):
+        from stock_data import parse_yahoo, yahoo_symbol
+        s=self.xetra();sym=yahoo_symbol(s)
+        for meta in [dict(exchangeName='NYQ'),dict(currency='USD'),dict(symbol='SAP'),
+                     dict(regularMarketPrice=0),dict(regularMarketPrice=float('nan')),
+                     dict(regularMarketTime=0),dict(regularMarketTime=int(time.time())+99999),
+                     dict(instrumentType='ETF')]:
+            self.assertIsNone(parse_yahoo(self.yahoo_raw(**meta),s,sym),meta)
+    def test_yahoo_symbol_mapping(self):
+        from stock_data import yahoo_symbol
+        self.assertEqual(yahoo_symbol(self.xetra()),'SAP.DE')
+        self.assertEqual(yahoo_symbol(self.s),'AAPL')
+        self.assertEqual(yahoo_symbol(dict(ticker='BRK-B',exchange='NYSE')),'BRK-B')
+    def test_fallback_chain_and_api_gate(self):
+        from stock_data import TwelveData, Yahoo
+        class TD(TwelveData):
+            def __init__(self): self.seen=[]
+            def quote(self,s): self.seen.append(s['slug']); return None
+        raw=self.raw; base=self.s
+        class YF(Yahoo):
+            def __init__(self): self.seen=[]
+            def quote(self,s):
+                self.seen.append(s['slug'])
+                return parse_quote(raw,{**base,'slug':s['slug']})
+        td,yf=TD(),YF()
+        xetra=self.xetra()
+        with tempfile.TemporaryDirectory() as d, patch.dict(os.environ,{'STOCK_QUOTES_ENABLED':'1'}):
+            cache=refresh([self.s,xetra],Path(d)/'q',[td,yf])
+            self.assertEqual(td.seen,['apple'])       # Twelve Data ueberspringt api_enabled=False
+            self.assertEqual(sorted(yf.seen),['apple','sap'])  # Yahoo faengt beide auf
+            self.assertEqual(cache['sap']['price'],123.45)
+            self.assertIn('apple',cache)
+    def test_yahoo_budget_separate(self):
+        from stock_data import Yahoo
+        class YF(Yahoo):
+            calls=0
+            def quote(self,s): self.calls+=1; return None
+        class TD2:
+            calls=0
+            def quote(self,s): self.calls+=1; return None
+        yf,td=YF(),TD2()
+        stocks=[{**self.s,'slug':str(n)} for n in range(10)]
+        with tempfile.TemporaryDirectory() as d, patch.dict(os.environ,{'STOCK_QUOTES_ENABLED':'1'}):
+            refresh(stocks,Path(d)/'q',[td,yf],max_calls=3,max_fallback_calls=2)
+            self.assertEqual(td.calls,3);self.assertEqual(yf.calls,2)
+    def test_catalogue_xetra_stays_api_disabled(self):
+        rows=json.loads(Path('stocks.json').read_text())
+        xe=[r for r in rows if r['exchange']=='Xetra']
+        self.assertGreaterEqual(len(xe),60)
+        self.assertTrue(all(r.get('api_enabled') is False for r in xe))
 if __name__=='__main__':unittest.main()
