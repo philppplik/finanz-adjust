@@ -55,7 +55,8 @@ def build_crypto_pages(page, urls, articles, out, base, og_png=None):
         assert (ROOT/'logos'/c['logo']).is_file(), c['logo']
     from stocks import related
     quotes = _quotes()
-    assets = '<link rel="stylesheet" href="/stocks.css"><script src="/tradingview.js" defer></script>'
+    assets = ('<link rel="stylesheet" href="/stocks.css"><script src="/tradingview.js" defer></script>'
+            '<style>.crypto-grid .stock-card{grid-template-columns:64px minmax(0,1fr) auto}</style>')
 
     def card(c):
         q = quotes.get(c['sym'])
@@ -73,7 +74,7 @@ def build_crypto_pages(page, urls, articles, out, base, og_png=None):
     body = (assets + '<main class="stock-wrap"><div class="stock-hero"><p class="stock-kicker">FA MARKTDATEN</p>'
             '<h1>Kryptowerte einordnen.</h1><p>Die auf finanz adjust gelisteten Kryptowerte mit Kurs, Verlauf und redaktioneller Einordnung. Keine Anlageberatung.</p></div>'
             '<section aria-labelledby="crypto-title"><div class="stock-heading"><h2 id="crypto-title">Gelistete Kryptowerte</h2><span>%d Werte</span></div>'
-            '<div class="stock-grid">%s</div></section>'
+            '<div class="stock-grid crypto-grid">%s</div></section>'
             '<aside class="stock-info"><h2>Was du hier findest</h2><p>Jeder gelistete Kryptowert hat eine eigene Seite mit Kursdaten, Verlauf und Einordnung der FA Redaktion. Kursdaten kommen nach Verfügbarkeit vom genannten Anbieter; ein interaktiver Chart kann optional per Klick von TradingView geladen werden.</p>'
             '<p>Keine Kaufempfehlungen, keine Kursziele. <a href="/risikohinweis/">Zum Risikohinweis</a></p></aside></main>'
             % (len(coins), ''.join(card(c) for c in coins)))
