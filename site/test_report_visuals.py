@@ -13,8 +13,10 @@ class ReportVisualsTest(unittest.TestCase):
         apple = V.mark({'sym': 'AAPL'})
         self.assertIn('<img', apple)  # Apple hat seit 28.10. ein echtes Logo
         mu = V.mark({'sym': 'MU'})
-        self.assertNotIn('<img', mu)
-        self.assertIn('MU', mu)
+        self.assertIn('<img', mu)  # Micron hat seit 28.10. (zweiter Ausbau) ein echtes Logo
+        bas = V.mark({'sym': 'BAS.DE'})
+        self.assertNotIn('<img', bas)  # BASF bleibt ohne geprueftes aktuelles Logo beim Monogramm
+        self.assertIn('BA', bas)
 
     def test_news_icons_are_local_data_uris(self):
         item = {'url': 'https://www.fool.com/x', 'title': 't', 'ts': 0}
