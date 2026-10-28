@@ -6,8 +6,9 @@ vor dem Klick keine Verbindung zu Dritten. Texte: siehe quellen je Coin.
 """
 from html import escape as e
 import json, re
-from datetime import datetime, timezone
-_NOW = datetime.now(timezone.utc).astimezone().strftime('%d.%m.%Y %H:%M')
+from datetime import datetime
+from zoneinfo import ZoneInfo
+_NOW = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')
 from pathlib import Path
 ROOT = Path(__file__).parent
 
