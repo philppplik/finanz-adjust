@@ -6,6 +6,8 @@ vor dem Klick keine Verbindung zu Dritten. Texte: siehe quellen je Coin.
 """
 from html import escape as e
 import json, re
+from datetime import datetime, timezone
+_NOW = datetime.now(timezone.utc).astimezone().strftime('%d.%m.%Y %H:%M')
 from pathlib import Path
 ROOT = Path(__file__).parent
 
@@ -25,10 +27,10 @@ def _quote_panel(c, q):
     ptxt = ('+' if (pct or 0) >= 0 else '') + _num(pct) + ' %' if pct is not None else 'nicht verfügbar'
     return ('<section id="kurs" class="stock-quote"><div><p class="stock-kicker">LETZTER VERFÜGBARER KURS</p><h2>%s USD</h2>'
             '<p><span class="%s">%s</span> <span class="mut" style="font-size:12px">(24 h, Quelle: %s)</span></p></div>'
-            '<dl><div><dt>Kurszeitpunkt</dt><dd>Liefert die Quelle nicht mit; Abruf beim Seitenaufbau (Stand im Footer)</dd></div><div><dt>Datenquelle</dt><dd>%s</dd></div></dl>'
+            '<dl><div><dt>Kurszeitpunkt</dt><dd>Liefert die Quelle nicht mit; Kursabfrage beim Seitenaufbau am %s</dd></div><div><dt>Datenquelle</dt><dd>%s</dd></div></dl>'
             '<p class="stock-note">Keine Live-Aktualisierung im Browser. Der jeweilige Stand der Seite steht im Footer. '
             '24-Stunden-Angaben beziehen sich auf den rollierenden Tag, nicht auf den Börsenschluss.</p></section>'
-            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), e(q.get('src', 'ohne Angabe'))))
+            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), _NOW, e(q.get('src', 'ohne Angabe'))))
 
 def _spark(q):
     try:

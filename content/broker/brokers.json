@@ -22,8 +22,7 @@
         "Ab 500 € Ordervolumen ohne Mindermengenzuschlag, darunter 1 € Zuschlag",
         "Sparplan ab 1 € Sparrate ohne Mindermengenzuschlag (laut Anbieter-Seite)"
       ],
-      "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis.",
-      "logo": "finanzen-net.svg"
+      "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis."
     },
     {
       "id": "flatex",
