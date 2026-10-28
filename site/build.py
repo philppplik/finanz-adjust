@@ -4,6 +4,7 @@ from common import *
 from news_media import permitted_news, source_badge, news_cards
 from news_policy import destination
 from exit_intent import attach as exit_attach
+from report_visuals import stock_href
 OUT='out'; shutil.rmtree(OUT,ignore_errors=True); os.makedirs(OUT+'/berichte')
 if os.path.isdir('../images'): shutil.copytree('../images',OUT+'/images',dirs_exist_ok=True)
 from zoneinfo import ZoneInfo
@@ -34,7 +35,7 @@ header{background:var(--pA);-webkit-backdrop-filter:blur(14px) saturate(1.5);bac
 .pn{box-shadow:var(--sh);background:var(--p);border:1px solid var(--b);border-radius:14px;padding:18px;margin-bottom:16px}.pn h2{margin:0 0 12px;font-size:15.5px;font-weight:700;letter-spacing:-.01em;color:var(--hd);display:flex;justify-content:space-between;align-items:baseline}.pn h2 a{font-size:12.5px;color:var(--ac);font-weight:600}.pn h2 a:hover{text-decoration:underline;text-underline-offset:3px}
 .idx{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:16px}.ic{box-shadow:var(--sh);background:var(--p);border:1px solid var(--b);border-radius:14px;padding:14px 16px}.tt-txt{display:none}.tt{background:none;border:1px solid var(--b);color:var(--fg);border-radius:9px;width:36px;height:36px;font-size:17px;line-height:1;cursor:pointer;display:grid;place-items:center;flex-shrink:0;transition:background .15s ease,border-color .15s ease}.tt:hover{background:var(--p2);border-color:var(--mut)}.tt:focus-visible,.btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ring);outline-offset:2px;border-radius:6px}
 .ic .n{color:var(--mut);font-size:12px;font-weight:600}.ic .p{font-size:22px;font-weight:800;letter-spacing:-.01em;color:var(--hd);margin:3px 0 5px;font-variant-numeric:tabular-nums}.ic .c,.kpi .c{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12.5px;font-weight:600;font-variant-numeric:tabular-nums}.c.up{background:var(--upbg)}.c.dn{background:var(--dnbg)}
-.tw{overflow-x:auto}table{width:100%;border-collapse:collapse}th{text-align:right;color:var(--mut);font-weight:600;font-size:11.5px;letter-spacing:.01em;padding:8px 10px;border-bottom:1px solid var(--b)}th:first-child,td:first-child{text-align:left}td{text-align:right;padding:10px;border-bottom:1px solid var(--p2);font-variant-numeric:tabular-nums;white-space:nowrap;transition:background-color .12s ease}tr:last-child td{border-bottom:0}tr:hover td{background:var(--p2)}td b{color:var(--hd);font-weight:700}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse}th{text-align:right;color:var(--mut);font-weight:600;font-size:11.5px;letter-spacing:.01em;padding:8px 10px;border-bottom:1px solid var(--b)}th:first-child,td:first-child{text-align:left}td{text-align:right;padding:10px;border-bottom:1px solid var(--p2);font-variant-numeric:tabular-nums;white-space:nowrap;transition:background-color .12s ease}tr:last-child td{border-bottom:0}tr:hover td{background:var(--p2)}td b{color:var(--hd);font-weight:700}.tw tr[data-href]{cursor:pointer}.tw a.rl{color:inherit;text-decoration:none}.tw a.rl:hover b{text-decoration:underline;text-underline-offset:2px}.tk a.tkl{color:inherit;text-decoration:none}.tk a.tkl:hover b{text-decoration:underline;text-underline-offset:2px}
 .nw{list-style:none;margin:0;padding:0}.nw li{padding:11px 0;border-bottom:1px solid var(--p2)}.nw li:last-child{border-bottom:0}.nw a{color:var(--hd);font-weight:500;display:block;line-height:1.4;transition:color .12s ease}.nw a:hover{color:var(--ac)}.nw .m{font-size:12px;color:var(--mut);margin-top:3px}
 .fxr{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--p2)}
 .hero{display:grid;grid-template-columns:1.4fr 1fr;gap:16px;padding:14px 0 24px;align-items:stretch}.hero .hl h1{margin:0 0 8px;font-size:clamp(26px,3.4vw,38px);font-weight:800;color:var(--hd);letter-spacing:-.03em;line-height:1.15}.hero .hl p{margin:0 0 16px;color:var(--mut);font-size:14.5px}.hero .kpis{display:flex;gap:12px;flex-wrap:wrap}.hero .kpi{box-shadow:var(--sh);background:var(--p);border:1px solid var(--b);border-radius:14px;padding:14px 18px;min-width:160px;flex:1}.hero .kpi .n{color:var(--mut);font-size:12px;font-weight:600}.hero .kpi .p{font-size:26px;font-weight:800;letter-spacing:-.02em;color:var(--hd);font-variant-numeric:tabular-nums}.hero .kpi .c{font-size:12.5px}
@@ -95,10 +96,14 @@ def qsrc():
     if 'Yahoo Finance' in s: parts.append('Yahoo Finance (öffentliche Schnittstelle)')
     if 'CoinGecko' in s: parts.append('<a href="https://www.coingecko.com" rel="noopener">Powered by CoinGecko</a>')
     return ', '.join(parts) or 'öffentliche Schnittstellen'
+def tk_item(q):
+    s='<span>%s <b class="%s">%s %s%s%%</b></span>'%(esc(q['name']),cls(q['pct']),num(q['price']),'\u25b2' if q['pct']>=0 else '\u25bc',num(abs(q['pct'])))
+    h=stock_href(q)
+    return '<a class="tkl" href="%s">%s</a>'%(h,s) if h else s
 def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None):
     url=BASE+path
     stock_page=path.startswith('/aktien/')
-    tk=''.join('<span>%s <b class="%s">%s %s%s%%</b></span>'%(esc(q['name']),cls(q['pct']),num(q['price']),'▲' if q['pct']>=0 else '▼',num(abs(q['pct']))) for q in Q)
+    tk=''.join(tk_item(q) for q in Q)
     if stock_page: tk='<span>Aktienverzeichnis · Handelsplatz und Datenstand direkt auf der Aktienseite</span>'
     nav=''.join('<a class="l%s" href="%s">%s</a>'%(' act' if act==h else '',h,t) for h,t in NAV)
     ldj='<script type="application/ld+json">%s</script>'%json.dumps(ld,ensure_ascii=False) if ld else ''
@@ -116,8 +121,12 @@ def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None
     p=OUT+path+('index.html' if path.endswith('/') else ''); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w').write(h); return url
 def trow(q):
     cur={'EUR':'€','USD':'$'}.get(q['cur'],q['cur'])
-    return '<tr><td><b>%s</b><div class="mut" style="font-size:11px">%s · %s</div></td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%(esc(q['name']),esc(q['sym']),q['grp'],num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
-def tbl(rows): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q) for q in rows)+'</table></div>'
+    href=stock_href(q)
+    nm='<b>%s</b><div class="mut" style="font-size:11px">%s · %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
+    if href: nm='<a class="rl" href="%s">%s</a>'%(href,nm)
+    return '<tr%s><td>%s</td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%((' data-href="%s"'%href) if href else '',nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
+ROWJS='<script>(function(){if(window.__frow)return;window.__frow=1;document.addEventListener("click",function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;if(e.target.closest&&e.target.closest("a"))return;var r=e.target.closest&&e.target.closest("tr[data-href]");if(r)location.href=r.getAttribute("data-href")})})()</script>'
+def tbl(rows): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q) for q in rows)+'</table></div>'+ROWJS
 def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
 # ---------- Artikel (content/articles/*.json, Redaktion: FA Redaktion) ----------
 ARTS=[]

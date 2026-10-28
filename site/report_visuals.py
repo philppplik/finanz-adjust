@@ -23,6 +23,12 @@ def stock_meta(q):
     return next((s for s in _stocks() if s['ticker'].upper() == t), None)
 
 
+def stock_href(q):
+    """Web path of the stock page matching a quote row (SAP.DE -> /aktien/sap/), else None."""
+    s = stock_meta(q)
+    return '/aktien/%s/' % s['slug'] if s else None
+
+
 def _uri(path):
     p = Path(path)
     if not p.is_file():
