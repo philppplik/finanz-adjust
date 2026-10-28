@@ -18,7 +18,8 @@ def build_broker(page,urls,out,base):
     cards=''
     for b in brokers:
         facts=''.join('<li>'+e(f)+'</li>' for f in b['fakten']);facts='<ul>'+facts+'</ul>' if facts else ''
-        cards+=('<article class="cmp-broker" id="%s"><h2>%s</h2><p class="cmp-date">%s · Preisstand %s</p>%s<p>%s</p>'
+        head=('<div class="cmp-offer-head">'+('<img class="cmp-logo" src="/stock-logos/%s" alt="%s Logo" height="28" loading="lazy">'%(e(b['logo'],quote=True),e(b['name'],quote=True))) if b.get('logo') else '<div class="cmp-offer-head"><span class="cmp-monogram" aria-hidden="true">'+e(b['name'][0])+'</span>')+'<h2>%s</h2></div>'
+        cards+=('<article class="cmp-broker" id="%s">'+head+'<p class="cmp-date">%s · Preisstand %s</p>%s<p>%s</p>'
           '<p><a href="%s" rel="noopener noreferrer nofollow" target="_blank">Anbieter-Seite ↗</a> · <a href="%s" rel="noopener noreferrer nofollow" target="_blank">Preise und Konditionen ↗</a></p></article>')%(
           e(b['id']),e(b['name']),e(b['typ']),de_date(d['stand']),facts,e(b['hinweis']),e(b['url'],quote=True),e(b['plv'],quote=True))
     crit=''.join('<li><b>%s:</b> %s</li>'%(e(t),e(x)) for t,x in CRITERIA)

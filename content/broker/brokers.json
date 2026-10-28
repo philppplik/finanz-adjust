@@ -1,84 +1,87 @@
 {
- "stand": "2026-10-28",
- "brokers": [
-  {
-   "id": "comdirect",
-   "name": "comdirect",
-   "typ": "Direktbank (Commerzbank-Gruppe)",
-   "url": "https://www.comdirect.de/depot/comdirect-depot.html",
-   "plv": "https://www.comdirect.de/cms/docs/cori7105.pdf",
-   "fakten": [],
-   "hinweis": "Für comdirect nennen wir keine Zahlen: Die Anbieter-Seite mischt dauerhafte Preise mit befristeten Aktionen, und die Bedingungen hängen vom Depotstart ab. Aktuelle Preise nur im verlinkten Preis- und Leistungsverzeichnis."
-  },
-  {
-   "id": "finanzen-net-zero",
-   "name": "finanzen.net ZERO",
-   "typ": "Neobroker",
-   "url": "https://www.finanzen.net/zero/",
-   "plv": "https://www.finanzen.net/zero/wp-content/uploads/2026/10/Preis-Leistungsverzeichnis-V13_Wertpapiere.pdf",
-   "fakten": [
-    "Ordergebühr ab 0 €, zuzüglich Spread (Handel über gettex)",
-    "Ab 500 € Ordervolumen ohne Mindermengenzuschlag, darunter 1 € Zuschlag",
-    "Sparplan ab 1 € Sparrate ohne Mindermengenzuschlag (laut Anbieter-Seite)"
-   ],
-   "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis."
-  },
-  {
-   "id": "flatex",
-   "name": "flatex",
-   "typ": "Direktbroker",
-   "url": "https://www.flatex.de/preise/",
-   "plv": "https://www.flatex.de/preise/",
-   "fakten": [
-    "Orderprovision Aktien: 5,90 €",
-    "Dazu 2,00 € Fremdkostenpauschale pro Order an Handelsplätzen wie Tradegate, gettex, Quotrix, Baader Bank oder Lang & Schwarz",
-    "Xetra und Frankfurt: stattdessen Börsenentgelte laut Preisseite, zusätzlich zur Provision"
-   ],
-   "hinweis": "Gesamtpreis = Orderprovision plus Fremd- oder Börsenkosten. Zusätzliche Entgelte für Auslandsbörsen möglich."
-  },
-  {
-   "id": "justtrade",
-   "name": "justTRADE",
-   "typ": "Neobroker (Service der Sutor Bank)",
-   "url": "https://www.justtrade.com/",
-   "plv": "https://www.justtrade.com/fileadmin/Formulare/Preis-und-Leistungsverzeichnis.pdf",
-   "fakten": [
-    "Orderprovision laut Preis- und Leistungsverzeichnis (Dateititel: Sept. 2026): 2,90 € für Aktien, ETFs und ETCs, Mindestordervolumen 1 Stück",
-    "Sparpläne in ETFs, ETCs und ETPs: ohne Orderprovision",
-    "Depotführung kostenfrei"
-   ],
-   "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen."
-  },
-  {
-   "id": "scalable-capital",
-   "name": "Scalable Capital",
-   "typ": "Neobroker mit Bank",
-   "url": "https://de.scalable.capital/",
-   "plv": "https://de.scalable.capital/",
-   "fakten": [],
-   "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter."
-  },
-  {
-   "id": "smartbroker-plus",
-   "name": "SMARTBROKER+",
-   "typ": "Neobroker (Baader Bank)",
-   "url": "https://www.smartbrokerplus.de/de-de/konditionen/",
-   "plv": "https://www.smartbrokerplus.de/de-de/konditionen/",
-   "fakten": [
-    "gettex (Premiumpartner): 0 € ab 500 € Ordervolumen, 1 € bis 499,99 €",
-    "Tradegate, L&S Exchange, Baader Trading: 4 € pro Order",
-    "Xetra: 4 € + 0,01 % vom Volumen, mind. 1,50 € börsenplatzabhängige Entgelte"
-   ],
-   "hinweis": "Derivate und Auslandsbörsen haben eigene Preise, siehe Konditionenseite."
-  },
-  {
-   "id": "trade-republic",
-   "name": "Trade Republic",
-   "typ": "Neobroker mit Bank",
-   "url": "https://traderepublic.com/de-de",
-   "plv": "https://assets.traderepublic.com/documents/DE/FURTHER%5FINFORMATION%5FPRICE%5FLIST%5F20251125091224.pdf",
-   "fakten": [],
-   "hinweis": "Für Trade Republic nennen wir keine Zahlen: Das öffentlich verlinkte Preisverzeichnis trägt den Stand November 2025 und wurde von uns nicht als aktuell bestätigt. Aktuelle Preise in der App oder auf der Anbieter-Seite prüfen."
-  }
- ]
+  "stand": "2026-10-28",
+  "brokers": [
+    {
+      "id": "comdirect",
+      "name": "comdirect",
+      "typ": "Direktbank (Commerzbank-Gruppe)",
+      "url": "https://www.comdirect.de/depot/comdirect-depot.html",
+      "plv": "https://www.comdirect.de/cms/docs/cori7105.pdf",
+      "fakten": [],
+      "hinweis": "Für comdirect nennen wir keine Zahlen: Die Anbieter-Seite mischt dauerhafte Preise mit befristeten Aktionen, und die Bedingungen hängen vom Depotstart ab. Aktuelle Preise nur im verlinkten Preis- und Leistungsverzeichnis.",
+      "logo": "comdirect.svg"
+    },
+    {
+      "id": "finanzen-net-zero",
+      "name": "finanzen.net ZERO",
+      "typ": "Neobroker",
+      "url": "https://www.finanzen.net/zero/",
+      "plv": "https://www.finanzen.net/zero/wp-content/uploads/2026/10/Preis-Leistungsverzeichnis-V13_Wertpapiere.pdf",
+      "fakten": [
+        "Ordergebühr ab 0 €, zuzüglich Spread (Handel über gettex)",
+        "Ab 500 € Ordervolumen ohne Mindermengenzuschlag, darunter 1 € Zuschlag",
+        "Sparplan ab 1 € Sparrate ohne Mindermengenzuschlag (laut Anbieter-Seite)"
+      ],
+      "hinweis": "Spreads können zusätzlich zu ausgewiesenen Gebühren die Handelskosten beeinflussen. Maßgeblich ist das Preis- und Leistungsverzeichnis.",
+      "logo": "finanzen-net.svg"
+    },
+    {
+      "id": "flatex",
+      "name": "flatex",
+      "typ": "Direktbroker",
+      "url": "https://www.flatex.de/preise/",
+      "plv": "https://www.flatex.de/preise/",
+      "fakten": [
+        "Orderprovision Aktien: 5,90 €",
+        "Dazu 2,00 € Fremdkostenpauschale pro Order an Handelsplätzen wie Tradegate, gettex, Quotrix, Baader Bank oder Lang & Schwarz",
+        "Xetra und Frankfurt: stattdessen Börsenentgelte laut Preisseite, zusätzlich zur Provision"
+      ],
+      "hinweis": "Gesamtpreis = Orderprovision plus Fremd- oder Börsenkosten. Zusätzliche Entgelte für Auslandsbörsen möglich.",
+      "logo": "flatex.svg"
+    },
+    {
+      "id": "justtrade",
+      "name": "justTRADE",
+      "typ": "Neobroker (Service der Sutor Bank)",
+      "url": "https://www.justtrade.com/",
+      "plv": "https://www.justtrade.com/fileadmin/Formulare/Preis-und-Leistungsverzeichnis.pdf",
+      "fakten": [
+        "Orderprovision laut Preis- und Leistungsverzeichnis (Dateititel: Sept. 2026): 2,90 € für Aktien, ETFs und ETCs, Mindestordervolumen 1 Stück",
+        "Sparpläne in ETFs, ETCs und ETPs: ohne Orderprovision",
+        "Depotführung kostenfrei"
+      ],
+      "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen."
+    },
+    {
+      "id": "scalable-capital",
+      "name": "Scalable Capital",
+      "typ": "Neobroker mit Bank",
+      "url": "https://de.scalable.capital/",
+      "plv": "https://de.scalable.capital/",
+      "fakten": [],
+      "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter."
+    },
+    {
+      "id": "smartbroker-plus",
+      "name": "SMARTBROKER+",
+      "typ": "Neobroker (Baader Bank)",
+      "url": "https://www.smartbrokerplus.de/de-de/konditionen/",
+      "plv": "https://www.smartbrokerplus.de/de-de/konditionen/",
+      "fakten": [
+        "gettex (Premiumpartner): 0 € ab 500 € Ordervolumen, 1 € bis 499,99 €",
+        "Tradegate, L&S Exchange, Baader Trading: 4 € pro Order",
+        "Xetra: 4 € + 0,01 % vom Volumen, mind. 1,50 € börsenplatzabhängige Entgelte"
+      ],
+      "hinweis": "Derivate und Auslandsbörsen haben eigene Preise, siehe Konditionenseite."
+    },
+    {
+      "id": "trade-republic",
+      "name": "Trade Republic",
+      "typ": "Neobroker mit Bank",
+      "url": "https://traderepublic.com/de-de",
+      "plv": "https://assets.traderepublic.com/documents/DE/FURTHER%5FINFORMATION%5FPRICE%5FLIST%5F20251125091224.pdf",
+      "fakten": [],
+      "hinweis": "Für Trade Republic nennen wir keine Zahlen: Das öffentlich verlinkte Preisverzeichnis trägt den Stand November 2025 und wurde von uns nicht als aktuell bestätigt. Aktuelle Preise in der App oder auf der Anbieter-Seite prüfen."
+    }
+  ]
 }

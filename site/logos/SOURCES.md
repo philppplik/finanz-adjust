@@ -223,3 +223,11 @@ Quelle je Datei: Wikimedia Commons, Einzelprüfung der Dateiseite am 28.10.2026 
 
 - bitcoin.svg — File:Bitcoin logo.svg — Public domain — Bitboy
 - ethereum.svg — File:Ethereum logo.svg — Public domain — Ethereum Foundation
+
+## Broker-Logos (28.10.2026)
+
+- comdirect.svg — Wikimedia Commons, File:Comdirect Logo 10.2019.svg, Public domain (comdirect bank AG), https://commons.wikimedia.org/wiki/File:Comdirect_Logo_10.2019.svg
+- flatex.svg — Wikimedia Commons, File:Flatex logo.svg, Public domain (Flatex GmbH), https://commons.wikimedia.org/wiki/File:Flatex_logo.svg
+- finanzen-net.svg — Wikimedia Commons, File:Finanzen.net Logo 10.2022.svg, Public domain (finanzen.net GmbH), https://commons.wikimedia.org/wiki/File:Finanzen.net_Logo_10.2022.svg
+
+Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter. Keine Logos ohne gepruefte Quelle (SMARTBROKER+, Trade Republic, Scalable Capital, justTRADE: Monogramm, bis offizielle Medienkit-/Commons-Quelle geklaert).
