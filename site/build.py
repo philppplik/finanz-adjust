@@ -226,6 +226,9 @@ def og_png(png,title,kicker,meta):
     subprocess.run([chrome,'--headless','--no-sandbox','--disable-gpu','--hide-scrollbars','--window-size=1200,630','--screenshot='+os.path.abspath(png),'file://'+os.path.abspath('_og.html')],capture_output=True)
 og_png(OUT+'/og/default.png','Märkte, Kurse und Börsennews live','finanz adjust','DAX · S&P 500 · Nasdaq · Aktien · Gold · Bitcoin · Devisen')
 for a in ARTS: og_png(OUT+'/og/%s.png'%a['slug'],a['title'],a.get('section','Artikel'),'FA Redaktion · '+adate(a).strftime('%d.%m.%Y'))
+
+from og_stocks import build_stock_ogs
+build_stock_ogs(OUT, chrome, LOGO)
 import sys
 sys.path.insert(0,os.path.abspath('../tools'))
 from daily_archive import sync, archive_html
@@ -261,7 +264,16 @@ kor='''<div class="pg"><h1>Korrekturen und Fehlerpolitik</h1><p>Auch mit KI-Unte
 urls.append(page('/korrekturen/','Korrekturen und Fehlerpolitik | finanz adjust','Wie die FA Redaktion mit Fehlern umgeht: Fehler melden, Korrekturvermerke, keine stillen Löschungen.',kor,crumbs=[('/korrekturen/','Korrekturen')]))
 open(OUT+'/robots.txt','w').write('User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\nSitemap: %s/news-sitemap.xml\n'%(BASE,BASE))
 open(OUT+'/CNAME','w').write('finanz-adjust.de\n'); open(OUT+'/.nojekyll','w').write('')
-open(OUT+'/sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>%s</loc><lastmod>%s</lastmod></url>'%(u,today) for u in urls)+'</urlset>')
+try:
+    _sm_stocks=json.loads(open('stocks.json').read())
+except Exception:
+    _sm_stocks=[]
+_sm_img={'%s/aktien/%s/'%(BASE,s['slug']):('%s/og/aktien/%s-logo.png'%(BASE,s['slug']),s['name']+' Logo auf finanz adjust') for s in _sm_stocks if s.get('logo')}
+def _sm_url(u):
+    img=_sm_img.get(u)
+    imgtag='<image:image><image:loc>%s</image:loc><image:title>%s</image:title></image:image>'%(img[0],esc(img[1])) if img else ''
+    return '<url><loc>%s</loc><lastmod>%s</lastmod>%s</url>'%(u,today,imgtag)
+open(OUT+'/sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join(_sm_url(u) for u in urls)+'</urlset>')
 recent=[a for a in ARTS if (NOW-adate(a).astimezone()).total_seconds()<172800]
 news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news></url>'%(BASE,a['slug'],pubdate(a),esc(a['title'])) for a in recent)+'</urlset>'
 open(OUT+'/news-sitemap.xml','w').write(news_sm)

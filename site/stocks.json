@@ -13,7 +13,10 @@
     "isin": "US67066G1040",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:NVDA"
+    "tv_symbol": "NASDAQ:NVDA",
+    "logo": "nvidia.svg",
+    "logo_credit": "NVIDIA Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:NVIDIA_logo.svg"
   },
   {
     "slug": "apple",
@@ -29,7 +32,10 @@
     "isin": "US0378331005",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AAPL"
+    "tv_symbol": "NASDAQ:AAPL",
+    "logo": "apple.svg",
+    "logo_credit": "Apple Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg"
   },
   {
     "slug": "googl",
@@ -45,7 +51,10 @@
     "isin": "US02079K3059",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:GOOGL"
+    "tv_symbol": "NASDAQ:GOOGL",
+    "logo": "googl.svg",
+    "logo_credit": "Alphabet Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Alphabet_Inc_Logo_2015.svg"
   },
   {
     "slug": "msft",
@@ -61,7 +70,10 @@
     "isin": "US5949181045",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MSFT"
+    "tv_symbol": "NASDAQ:MSFT",
+    "logo": "msft.svg",
+    "logo_credit": "Microsoft Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg"
   },
   {
     "slug": "amzn",
@@ -77,7 +89,10 @@
     "isin": "US0231351067",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AMZN"
+    "tv_symbol": "NASDAQ:AMZN",
+    "logo": "amzn.svg",
+    "logo_credit": "Amazon.com, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Amazon_logo.svg"
   },
   {
     "slug": "meta",
@@ -93,7 +108,10 @@
     "isin": "US30303M1027",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:META"
+    "tv_symbol": "NASDAQ:META",
+    "logo": "meta.svg",
+    "logo_credit": "Meta Platforms, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg"
   },
   {
     "slug": "avgo",
@@ -109,7 +127,10 @@
     "isin": "US11135F1012",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AVGO"
+    "tv_symbol": "NASDAQ:AVGO",
+    "logo": "avgo.svg",
+    "logo_credit": "Broadcom Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Broadcom_logo_(2016-present).svg"
   },
   {
     "slug": "tsla",
@@ -125,7 +146,10 @@
     "isin": "US88160R1014",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TSLA"
+    "tv_symbol": "NASDAQ:TSLA",
+    "logo": "tesla.svg",
+    "logo_credit": "Tesla, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Tesla_Motors_Logo.svg"
   },
   {
     "slug": "mu",
@@ -157,7 +181,10 @@
     "isin": "US0079031078",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AMD"
+    "tv_symbol": "NASDAQ:AMD",
+    "logo": "amd.svg",
+    "logo_credit": "Advanced Micro Devices, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:AMD_Logo.svg"
   },
   {
     "slug": "wmt",
@@ -250,7 +277,10 @@
     "isin": "US69608A1088",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:PLTR"
+    "tv_symbol": "NASDAQ:PLTR",
+    "logo": "pltr.svg",
+    "logo_credit": "Palantir Technologies Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Palantir_Technologies_logo.svg"
   },
   {
     "slug": "ko",
@@ -296,7 +326,10 @@
     "isin": "US64110L1061",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:NFLX"
+    "tv_symbol": "NASDAQ:NFLX",
+    "logo": "nflx.svg",
+    "logo_credit": "Netflix, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Netflix_2015_logo.svg"
   },
   {
     "slug": "baba",
@@ -400,7 +433,10 @@
     "isin": "US5949724083",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MSTR"
+    "tv_symbol": "NASDAQ:MSTR",
+    "logo": "mstr.svg",
+    "logo_credit": "Strategy Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Strategy_logo_(2025).svg"
   },
   {
     "slug": "pypl",
@@ -428,7 +464,10 @@
     "source": "https://www.sec.gov/files/company_tickers_exchange.json",
     "verified": "19.10.2026",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:COIN"
+    "tv_symbol": "NASDAQ:COIN",
+    "logo": "coin.svg",
+    "logo_credit": "Coinbase Global, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Coinbase.svg"
   },
   {
     "slug": "bntx",
@@ -472,7 +511,10 @@
     "isin": "DE0007164600",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:SAP"
+    "tv_symbol": "XETR:SAP",
+    "logo": "sap.svg",
+    "logo_credit": "SAP SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg"
   },
   {
     "slug": "rheinmetall",
@@ -488,7 +530,10 @@
     "isin": "DE0007030009",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:RHM"
+    "tv_symbol": "XETR:RHM",
+    "logo": "rheinmetall.svg",
+    "logo_credit": "Rheinmetall AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Rheinmetall_Logo_2021.svg"
   },
   {
     "slug": "allianz",
@@ -504,7 +549,10 @@
     "isin": "DE0008404005",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:ALV"
+    "tv_symbol": "XETR:ALV",
+    "logo": "allianz.svg",
+    "logo_credit": "Allianz SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Allianz_logo.svg"
   },
   {
     "slug": "siemens",
@@ -520,7 +568,10 @@
     "isin": "DE0007236101",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:SIE"
+    "tv_symbol": "XETR:SIE",
+    "logo": "siemens.svg",
+    "logo_credit": "Siemens AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Siemens-logo.svg"
   },
   {
     "slug": "csco",
@@ -1640,7 +1691,10 @@
     "isin": "US21873S1087",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CRWV"
+    "tv_symbol": "NASDAQ:CRWV",
+    "logo": "crwv.svg",
+    "logo_credit": "CoreWeave, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:CoreWeave_logo.svg"
   },
   {
     "slug": "axon",

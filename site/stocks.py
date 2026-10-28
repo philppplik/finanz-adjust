@@ -55,7 +55,13 @@ def build_stock_pages(page, urls, articles, out, base):
             body=body.replace('<div class="stock-columns">',stock_spark_panel(s)+'<div class="stock-columns">',1)
         except ImportError: pass
         if s.get('logo_credit'):
-            body=body.replace('<div class="stock-columns">','<p class="stock-note">Logo: '+e(s['logo_credit'])+'. Nur redaktionelle Kennzeichnung, keine Partnerschaft. <a class="stock-source" href="'+e(s['logo_source'],quote=True)+'" target="_blank" rel="noopener noreferrer">Bildquelle und Nutzungsbedingungen</a></p><div class="stock-columns">')
+            cap='Logo: '+e(s['logo_credit'])+'. Nur redaktionelle Kennzeichnung, keine Partnerschaft. <a class="stock-source" href="'+e(s['logo_source'],quote=True)+'" target="_blank" rel="noopener noreferrer">Bildquelle und Nutzungsbedingungen</a>'
+            if s.get('logo'):
+                ogp='/og/aktien/%s-logo.png'%s['slug']
+                cap_html='<figure class="stock-ogimg"><img src="'+ogp+'" alt="'+e(s['name'],quote=True)+' Logo auf finanz adjust" width="1200" height="630" loading="lazy"><figcaption>'+cap+'</figcaption></figure>'
+            else:
+                cap_html='<p class="stock-note">'+cap+'</p>'
+            body=body.replace('<div class="stock-columns">',cap_html+'<div class="stock-columns">')
         if s.get('isin_source'):
             body=body.replace('<div class="stock-columns">','<p class="stock-note"><a class="stock-source" href="'+e(s['isin_source'],quote=True)+'" target="_blank" rel="noopener noreferrer">ISIN-Quelle</a> · Einzelwerte können sich durch Kapitalmaßnahmen ändern.</p><div class="stock-columns">')
         profile=profiles.get(s['ticker']) if s['currency']=='USD' else None
@@ -63,5 +69,6 @@ def build_stock_pages(page, urls, articles, out, base):
             info='<section class="stock-panel" style="margin-top:24px"><h2>Unternehmen im Überblick</h2><p>'+e(profile['name'])+'</p><dl class="stock-facts">'+''.join('<div><dt>'+e(k)+'</dt><dd>'+e(str(v))+'</dd></div>' for k,v in [('Branche (SEC-Klassifikation)',profile.get('industry')),('SIC-Code',profile.get('sic'))] if v)+'</dl><p class="stock-note">Originalklassifikation des US-Melderegisters, keine aktuelle Unternehmensbewertung. Geprüft: '+e(profile['verified'])+'. <a class="stock-source" href="'+e(profile['source'],quote=True)+'" target="_blank" rel="noopener noreferrer">Quelle: SEC EDGAR</a></p></section>'
             body=body.replace('<div class="stock-columns">',info+'<div class="stock-columns">')
         ld={'@context':'https://schema.org','@type':'WebPage','name':s['name']+' Aktie','url':base+path,'inLanguage':'de-DE','about':{'@type':'Corporation','name':s['name'],'tickerSymbol':s['exchange']+':'+s['ticker']}}
-        urls.append(page(path,s['name']+' Aktie: Ticker, Handelsplatz & Nachrichten | finanz adjust',s['name']+' ('+s['ticker']+'): Kursdaten nach Verfügbarkeit, Stammdaten, Handelsplatz und passende Berichte der FA Redaktion.',body,[ld],act='/aktien/',crumbs=[('/aktien/','Aktien'),(path,s['name'])]))
+        if s.get('logo'): ld['image']=base+'/og/aktien/%s-logo.png'%s['slug']
+        urls.append(page(path,s['name']+' Aktie: Ticker, Handelsplatz & Nachrichten | finanz adjust',s['name']+' ('+s['ticker']+'): Kursdaten nach Verfügbarkeit, Stammdaten, Handelsplatz und passende Berichte der FA Redaktion.',body,[ld],act='/aktien/',crumbs=[('/aktien/','Aktien'),(path,s['name'])],og=('/og/aktien/%s-logo.png'%s['slug']) if s.get('logo') else None))
     return stocks
