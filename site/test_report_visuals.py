@@ -17,8 +17,10 @@ class ReportVisualsTest(unittest.TestCase):
         bas = V.mark({'sym': 'BAS.DE'})
         self.assertIn('<img', bas)  # BASF hat seit 28.10. (dritter Ausbau) ein echtes Logo
         eoan = V.mark({'sym': 'EOAN.DE'})
-        self.assertNotIn('<img', eoan)  # E.ON bleibt ohne geprueftes aktuelles Logo beim Monogramm
-        self.assertIn('EO', eoan)
+        self.assertIn('<img', eoan)  # E.ON hat seit 28.10. (vierter Ausbau) ein echtes Logo
+        nvo = V.mark({'sym': 'NVO'})
+        self.assertNotIn('<img', nvo)  # Novo Nordisk bleibt ohne geprueftes aktuelles Logo beim Monogramm
+        self.assertIn('NV', nvo)
 
     def test_news_icons_are_local_data_uris(self):
         item = {'url': 'https://www.fool.com/x', 'title': 't', 'ts': 0}

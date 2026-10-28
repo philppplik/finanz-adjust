@@ -198,3 +198,21 @@ Quelle je Datei: Wikimedia Commons, Einzelpruefung der Dateiseite am 28.10.2026 
 - xel.svg — File:Xcel-energy.svg — Public domain — Xcel Energy Inc.
 
 <!-- BATCH3-END -->
+
+## Vierter Ausbau, 28.10.2026 (11 Dateien, Rest-21-Recherche)
+
+Aktualitaet jeder Datei visuell gegen die offizielle Unternehmenswebsite geprueft (28.10.2026). Keine Datei veraendert oder eingefaerbt; monster-beverage.png (webp->PNG verlustfrei konvertiert) zurueckgehalten: Klaue identisch, Wortmarke weicht vom Emittenten ab.
+
+- amgen.svg — Amgen — Public domain — https://commons.wikimedia.org/wiki/File:Amgen.svg
+- nxp.svg — NXP Semiconductors — Public domain — https://commons.wikimedia.org/wiki/File:NXP_Semiconductors_logo_2023.svg
+- roper.svg — Roper Technologies — Public domain — https://commons.wikimedia.org/wiki/File:Roper_Technologies_logo.svg
+- eon.svg — E.ON — Public domain — https://commons.wikimedia.org/wiki/File:Logo_E.ON.svg
+- emerson.svg — Emerson Electric — Public domain — https://commons.wikimedia.org/wiki/File:Logo_Emerson.svg
+- united-internet.svg — United Internet — Public domain — https://commons.wikimedia.org/wiki/File:UnitedInternet_logo.svg
+- constellation.svg — Constellation Energy (Dateiname historisch, Design aktuell) — Public domain — https://commons.wikimedia.org/wiki/File:Constellation_Logo_2012.svg
+- linde.png — Linde — Public domain — https://commons.wikimedia.org/wiki/File:Linde_plc_logo.png
+- knorr-bremse.png — Knorr-Bremse — MarilyneB, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons, keine Aenderungen — https://commons.wikimedia.org/wiki/File:Knorr-Bremse_logo.png
+- datadog.png — Datadog — offizielles Press Kit (primaere lila Vertikalvariante, keine Umfaerbung/Verzerrung) — https://www.datadoghq.com/about/resources/
+- alnylam.png — Alnylam Pharmaceuticals — offizielles Media Kit, Abschnitt Corporate Logos — https://www.alnylam.com/media-kit
+
+Nicht uebernommen: APP (Commons-Datei veraltet, aktuelles Logo nicht frei), HONA (eigenes orange Aerospace-Branding, nicht frei), HOT (PD nur US, de.wiki non-free, nicht auf Commons), MNST (Wortmarke weicht vom Emittenten ab), PDD (App-Marke != Holding), NVO/GILD/FANG/ALAB (keine freie Datei), ODFL (nur gegen unterschriebene Nutzungsvereinbarung, keine Anfrage versendet).

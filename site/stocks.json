@@ -784,7 +784,10 @@
     "isin": "US0311621009",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AMGN"
+    "tv_symbol": "NASDAQ:AMGN",
+    "logo": "amgen.svg",
+    "logo_credit": "Amgen Inc. (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Amgen.svg"
   },
   {
     "slug": "lin",
@@ -800,7 +803,10 @@
     "isin": "IE000S9YS762",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:LIN"
+    "tv_symbol": "NASDAQ:LIN",
+    "logo": "linde.png",
+    "logo_credit": "Linde plc (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Linde_plc_logo.png"
   },
   {
     "slug": "mrvl",
@@ -1114,7 +1120,10 @@
     "isin": "US21037T1097",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CEG"
+    "tv_symbol": "NASDAQ:CEG",
+    "logo": "constellation.svg",
+    "logo_credit": "Constellation Energy (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Constellation_Logo_2012.svg"
   },
   {
     "slug": "ddog",
@@ -1130,7 +1139,10 @@
     "isin": "US23804L1035",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:DDOG"
+    "tv_symbol": "NASDAQ:DDOG",
+    "logo": "datadog.png",
+    "logo_credit": "Datadog, Inc. (offizielles Press Kit)",
+    "logo_source": "https://www.datadoghq.com/about/resources/"
   },
   {
     "slug": "mar",
@@ -1574,7 +1586,10 @@
     "isin": "NL0009538784",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:NXPI"
+    "tv_symbol": "NASDAQ:NXPI",
+    "logo": "nxp.svg",
+    "logo_credit": "NXP Semiconductors (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:NXP_Semiconductors_logo_2023.svg"
   },
   {
     "slug": "bkr",
@@ -1885,7 +1900,10 @@
     "isin": "US7766961061",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ROP"
+    "tv_symbol": "NASDAQ:ROP",
+    "logo": "roper.svg",
+    "logo_credit": "Roper Technologies (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Roper_Technologies_logo.svg"
   },
   {
     "slug": "crwv",
@@ -1977,7 +1995,10 @@
     "isin": "US02043Q1076",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ALNY"
+    "tv_symbol": "NASDAQ:ALNY",
+    "logo": "alnylam.png",
+    "logo_credit": "Alnylam Pharmaceuticals (offizielles Media Kit)",
+    "logo_source": "https://www.alnylam.com/media-kit"
   },
   {
     "slug": "cprt",
@@ -2240,7 +2261,10 @@
     "isin": "DE000ENAG999",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:EOAN"
+    "tv_symbol": "XETR:EOAN",
+    "logo": "eon.svg",
+    "logo_credit": "E.ON SE (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Logo_E.ON.svg"
   },
   {
     "slug": "fresenius-medical-care",
@@ -2823,7 +2847,10 @@
     "isin": "DE000KBX1006",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:KBX"
+    "tv_symbol": "XETR:KBX",
+    "logo": "knorr-bremse.png",
+    "logo_credit": "MarilyneB, CC BY-SA 4.0, via Wikimedia Commons",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Knorr-Bremse_logo.png"
   },
   {
     "slug": "krones",
@@ -3086,7 +3113,10 @@
     "isin": "DE0005089031",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:UTDI"
+    "tv_symbol": "XETR:UTDI",
+    "logo": "united-internet.svg",
+    "logo_credit": "United Internet AG (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:UnitedInternet_logo.svg"
   },
   {
     "slug": "wacker-chemie",
@@ -3368,7 +3398,10 @@
     "api_enabled": true,
     "isin": "US2910111044",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:EMR"
+    "tv_symbol": "NYSE:EMR",
+    "logo": "emerson.svg",
+    "logo_credit": "Emerson Electric Co. (Public domain, via Wikimedia Commons)",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Logo_Emerson.svg"
   },
   {
     "slug": "fdx",
