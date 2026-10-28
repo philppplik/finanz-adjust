@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-volatilitaet",
+  "title": "Glossar: Volatilität - was die Schwankungsbreite über dein Investment sagt",
+  "description": "Volatilität misst, wie stark Kurse schwanken. Was historische und implizite Volatilität bedeuten und warum der VDAX-New als Barometer für den DAX gilt.",
+  "section": "glossar",
+  "date": "2026-10-28T07:56:00+01:00",
+  "body": "<p>Kurse stehen selten still. Mal bewegen sie sich in kleinen Schritten, mal springen sie kräftig in beide Richtungen. Genau diese Schwankungsintensität beschreibt ein Begriff, dem du ständig begegnest: die Volatilität.</p><h2>Definition</h2><p>Volatilität ist das Ausmaß der Schwankung von Kursen, Preisen oder Zinssätzen in einem bestimmten Zeitraum. Mathematisch wird sie meist als Standardabweichung der Renditen um ihren Mittelwert berechnet. Je höher die Volatilität, desto stärker weichen die Kurse von ihrem Durchschnitt ab - und desto risikoreicher gilt die Anlage. Das Wort kommt vom lateinischen volatilis, flüchtig.</p><h2>Strukturbeispiel</h2><p>Ein einfaches, frei erfundenes Zahlenbeispiel zur Veranschaulichung: Aktie A bewegt sich in einem Jahr zwischen 48 und 52 Euro, Aktie B zwischen 40 und 60 Euro. Beide starten und enden bei 50 Euro. Aktie B hat die deutlich höhere Volatilität, weil ihre Kursspanne um den Mittelwert viel größer ist - mit entsprechend höherem Risiko, aber auch größeren Chancen auf kurzfristige Gewinne.</p><h2>Historisch und implizit</h2><p>Man unterscheidet zwei Arten: Die historische Volatilität misst die tatsächlichen Schwankungen der Vergangenheit. Die implizite Volatilität wird aus Optionspreisen abgeleitet und zeigt, welche Schwankung der Markt für die Zukunft erwartet. Für den deutschen Markt bildet der VDAX-New die erwartete Schwankung der DAX-Werte über 30 Tage ab, für den Euro Stoxx 50 übernimmt das der VSTOXX, für den S&P 500 der VIX.</p><h2>Warum das für dich wichtig ist</h2><p>Volatilität ist ein Risikomaß, keine Kursprognose. Eine hohe Volatilität bedeutet nicht, dass Kurse fallen - sie sagt nur, dass größere Ausschläge in beide Richtungen üblich sind. Wer das für seine Anlage einordnet, kann besser einschätzen, welche Schwankungen zum gewählten Investment typischerweise gehören.</p>",
+  "image": "/images/glossar-volatilitaet.jpg",
+  "sources": [
+    {
+      "title": "Volatilität - boerse.de Lexikon",
+      "url": "https://www.boerse.de/boersenlexikon/Volatilitaet"
+    },
+    {
+      "title": "Risikokennzahl Volatilität (Deutsche Börse)",
+      "url": "https://live.deutsche-boerse.com/wissen/handeln/volatilitaet"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist hohe Volatilität schlecht?",
+      "a": "Nicht automatisch. Sie bedeutet größere Schwankungen in beide Richtungen - also mehr Risiko und zugleich mehr Bewegungspotenzial. Ob das zu dir passt, hängt von deinem Anlagehorizont und deiner Risikotoleranz ab."
+    },
+    {
+      "q": "Wie wird Volatilität gemessen?",
+      "a": "Üblicherweise als Standardabweichung der Renditen über einen festgelegten Zeitraum (historisch) oder aus Optionspreisen abgeleitet (implizit). Indizes wie VDAX-New oder VIX machen die erwartete Schwankung als Prozentwert ablesbar."
+    }
+  ]
+}
