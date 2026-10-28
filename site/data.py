@@ -27,7 +27,7 @@ def gget(u,q):
 for qi,(q,src) in enumerate([('(dax OR aktie OR börse OR aktienmarkt) sourcelang:german','GDELT'),
               ('(nasdaq OR "s&p 500" OR dow jones OR nvidia OR bitcoin) sourcelang:german','GDELT'),
               ('(federal reserve OR ezb OR zinsen) sourcelang:german','GDELT')]):
-    b,rec=gget('https://api.gdeltproject.org/api/v2/doc/doc?query=%s&mode=artlist&maxrecords=40&format=json&sort=hybridrel'%urllib.parse.quote(q),q)
+    b,rec=gget('https://api.gdeltproject.org/api/v2/doc/doc?query=%s&mode=artlist&maxrecords=40&format=json&sort=hybridrel&timespan=1d'%urllib.parse.quote(q),q)
     if qi<2: time.sleep(6)  # GDELT-Limit: max 1 Request / 5s
     if not b: continue
     rec['body_len']=len(b)
