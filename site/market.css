@@ -18,3 +18,4 @@ a.mv-card:hover{border-color:var(--ac)}a.mv-card:focus-visible{outline:2px solid
 .mv-tile.strong{color:#fff}a.mv-tile:hover{outline:2px solid var(--ac)}a.mv-tile:focus-visible{outline:3px solid var(--ring)}
 .mv-spark{width:100%;height:auto;display:block;margin:8px 0}
 @media(max-width:650px){.mv-two{grid-template-columns:1fr}.mv-heat{grid-template-columns:repeat(2,1fr)}}
+.mv-breadth small a{color:inherit}

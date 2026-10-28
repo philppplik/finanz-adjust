@@ -5,6 +5,11 @@ from news_media import permitted_news, source_badge, news_cards
 from news_policy import destination
 from exit_intent import attach as exit_attach
 from report_visuals import stock_href
+def mid(q): return 'm-'+re.sub(r'[^a-z0-9]','',q['sym'].lower())
+def mhref(q):
+    h=stock_href(q)
+    if h: return h
+    return '/maerkte/#devisen' if q['grp']=='FX' else '/maerkte/#%s'%mid(q)
 OUT='out'; shutil.rmtree(OUT,ignore_errors=True); os.makedirs(OUT+'/berichte')
 if os.path.isdir('../images'): shutil.copytree('../images',OUT+'/images',dirs_exist_ok=True)
 from zoneinfo import ZoneInfo
@@ -37,7 +42,7 @@ header{background:var(--pA);-webkit-backdrop-filter:blur(14px) saturate(1.5);bac
 .ic .n{color:var(--mut);font-size:12px;font-weight:600}.ic .p{font-size:22px;font-weight:800;letter-spacing:-.01em;color:var(--hd);margin:3px 0 5px;font-variant-numeric:tabular-nums}.ic .c,.kpi .c{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12.5px;font-weight:600;font-variant-numeric:tabular-nums}.c.up{background:var(--upbg)}.c.dn{background:var(--dnbg)}
 .tw{overflow-x:auto}table{width:100%;border-collapse:collapse}th{text-align:right;color:var(--mut);font-weight:600;font-size:11.5px;letter-spacing:.01em;padding:8px 10px;border-bottom:1px solid var(--b)}th:first-child,td:first-child{text-align:left}td{text-align:right;padding:10px;border-bottom:1px solid var(--p2);font-variant-numeric:tabular-nums;white-space:nowrap;transition:background-color .12s ease}tr:last-child td{border-bottom:0}tr:hover td{background:var(--p2)}td b{color:var(--hd);font-weight:700}.tw tr[data-href]{cursor:pointer}.tw a.rl{color:inherit;text-decoration:none}.tw a.rl:hover b{text-decoration:underline;text-underline-offset:2px}.tk a.tkl{color:inherit;text-decoration:none}.tk a.tkl:hover b{text-decoration:underline;text-underline-offset:2px}
 .nw{list-style:none;margin:0;padding:0}.nw li{padding:11px 0;border-bottom:1px solid var(--p2)}.nw li:last-child{border-bottom:0}.nw a{color:var(--hd);font-weight:500;display:block;line-height:1.4;transition:color .12s ease}.nw a:hover{color:var(--ac)}.nw .m{font-size:12px;color:var(--mut);margin-top:3px}
-.fxr{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--p2)}
+.fxr{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--p2)}.idx a.ic,.kpis a.kpi{display:block;color:inherit;text-decoration:none}.idx a.ic:hover .n,.kpis a.kpi:hover .n{text-decoration:underline;text-underline-offset:2px}a.fxr{color:inherit;text-decoration:none}a.fxr:hover span{text-decoration:underline;text-underline-offset:2px}
 .hero{display:grid;grid-template-columns:1.4fr 1fr;gap:16px;padding:14px 0 24px;align-items:stretch}.hero .hl h1{margin:0 0 8px;font-size:clamp(26px,3.4vw,38px);font-weight:800;color:var(--hd);letter-spacing:-.03em;line-height:1.15}.hero .hl p{margin:0 0 16px;color:var(--mut);font-size:14.5px}.hero .kpis{display:flex;gap:12px;flex-wrap:wrap}.hero .kpi{box-shadow:var(--sh);background:var(--p);border:1px solid var(--b);border-radius:14px;padding:14px 18px;min-width:160px;flex:1}.hero .kpi .n{color:var(--mut);font-size:12px;font-weight:600}.hero .kpi .p{font-size:26px;font-weight:800;letter-spacing:-.02em;color:var(--hd);font-variant-numeric:tabular-nums}.hero .kpi .c{font-size:12.5px}
 .kpi .spk{margin:8px -4px -2px}.kpi .spk svg{display:block;width:100%;height:auto}.hero .hl{background:radial-gradient(farthest-corner at 0% 0%,var(--acbg),transparent 72%);border-radius:14px;padding:6px 10px 6px 0}
 .hero .pn{margin-bottom:0}.hero .nw li:first-child a{font-size:15px;font-weight:700;color:var(--hd)}
@@ -98,8 +103,8 @@ def qsrc():
     return ', '.join(parts) or 'öffentliche Schnittstellen'
 def tk_item(q):
     s='<span>%s <b class="%s">%s %s%s%%</b></span>'%(esc(q['name']),cls(q['pct']),num(q['price']),'\u25b2' if q['pct']>=0 else '\u25bc',num(abs(q['pct'])))
-    h=stock_href(q)
-    return '<a class="tkl" href="%s">%s</a>'%(h,s) if h else s
+    h=mhref(q)
+    return '<a class="tkl" href="%s">%s</a>'%(h,s)
 def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None):
     url=BASE+path
     stock_page=path.startswith('/aktien/')
@@ -119,14 +124,16 @@ def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None
         h=h.replace('Kursdaten: %s, ggf. verzögert und ohne Gewähr.'%qsrc(), 'Kursdaten nur bei freigeschalteter Datenquelle; Quelle und Zeit direkt auf der Aktienseite.').replace('<div class="tk"><div>%s%s</div></div>'%(tk,tk), '')
     h=exit_attach(h,path)
     p=OUT+path+('index.html' if path.endswith('/') else ''); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w').write(h); return url
-def trow(q):
-    cur={'EUR':'€','USD':'$'}.get(q['cur'],q['cur'])
+def trow(q,selfpage=False):
+    cur={'EUR':'\u20ac','USD':'$'}.get(q['cur'],q['cur'])
     href=stock_href(q)
-    nm='<b>%s</b><div class="mut" style="font-size:11px">%s · %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
+    if not href and not selfpage: href=mhref(q)
+    nm='<b>%s</b><div class="mut" style="font-size:11px">%s \u00b7 %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
     if href: nm='<a class="rl" href="%s">%s</a>'%(href,nm)
-    return '<tr%s><td>%s</td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%((' data-href="%s"'%href) if href else '',nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
+    attr=(' data-href="%s"'%href) if href else (' id="%s"'%mid(q) if selfpage else '')
+    return '<tr%s><td>%s</td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
 ROWJS='<script>(function(){if(window.__frow)return;window.__frow=1;document.addEventListener("click",function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;if(e.target.closest&&e.target.closest("a"))return;var r=e.target.closest&&e.target.closest("tr[data-href]");if(r)location.href=r.getAttribute("data-href")})})()</script>'
-def tbl(rows): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q) for q in rows)+'</table></div>'+ROWJS
+def tbl(rows,selfpage=False): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q,selfpage) for q in rows)+'</table></div>'+ROWJS
 def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
 # ---------- Artikel (content/articles/*.json, Redaktion: FA Redaktion) ----------
 ARTS=[]
@@ -185,10 +192,14 @@ def artlist(k):
     return '<ul class="nw">'+''.join(out)+'</ul>' if out else '<p class="mut">Die ersten Artikel der FA Redaktion erscheinen in Kürze.</p>'
 # ---------- Startseite: Hero mit Kursen + Schlagzeilen ----------
 idx=[q for q in Q if q['grp']=='Index'][:4]
-cards=''.join('<div class="ic"><div class="n">%s</div><div class="p">%s</div><div class="%s">%s (%s%%)</div>%s</div>'%(esc(q['name']),num(q['price']),cls(q['pct']),sg(q['chg']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,200,40)) for q in idx)
-kpis=''.join('<div class="kpi"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s%%</div><div class="spk">%s</div></div>'%(esc(q['name']),num(q['price']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,150,34)) for q in idx[:3])
+cards=''.join('<a class="ic" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="%s">%s (%s%%)</div>%s</a>'%(mid(q),esc(q['name']),num(q['price']),cls(q['pct']),sg(q['chg']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,200,40)) for q in idx)
+kpis=''.join('<a class="kpi" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s%%</div><div class="spk">%s</div></a>'%(mid(q),esc(q['name']),num(q['price']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,150,34)) for q in idx[:3])
 sorted_q=sorted([q for q in Q if q['grp'] in('US','DE')],key=lambda q:-q['pct'])
-fxbox=''.join('<div class="fxr"><span>EUR/%s</span><b>%s</b></div>'%(k,num(v,4)) for k,v in [(k,fx[k]) for k in ['USD','GBP','CHF','JPY','CNY'] if k in fx])
+def fx_rows(link=True):
+    rows=[(k,fx[k]) for k in ['USD','GBP','CHF','JPY','CNY'] if k in fx]
+    if link: return ''.join('<a class="fxr" href="/maerkte/#devisen"><span>EUR/%s</span><b>%s</b></a>'%(k,num(v,4)) for k,v in rows)
+    return ''.join('<div class="fxr"><span>EUR/%s</span><b>%s</b></div>'%(k,num(v,4)) for k,v in rows)
+fxbox=fx_rows()
 fxbox=fxbox or '<p class="mut">Aktuell nicht verfügbar.</p>'
 home='''<div class="w"><div class="hero"><div class="hl"><h1>Märkte und Börsennews im Überblick</h1><p>Kurse, Schlagzeilen und Einordnungen der FA Redaktion. Aktualisiert %s.</p><div class="kpis">%s</div><div class="pn" style="margin:16px 0 0"><h2>Neueste Artikel <a href="/artikel/">Alle →</a></h2>%s</div></div><div class="pn"><h2>Aktien-Schlagzeilen <a href="/nachrichten/">Alle →</a></h2>%s</div></div><div class="idx">%s</div><div class="g"><div><div class="pn"><h2>Watchlist <a href="/maerkte/">Alle Märkte →</a></h2>%s</div></div><div><div class="pn"><h2>Top-Gewinner</h2>%s</div><div class="pn"><h2>Top-Verlierer</h2>%s</div><div class="pn"><h2>Devisen (EZB-Referenzkurse)</h2>%s</div></div></div><div class="g"><div class="pn"><h2>Aktuelle Nachrichten <a href="/nachrichten/">Archiv →</a></h2>%s</div><div class="pn cta"><h2>Tagesbericht als PDF</h2><p>Der Marktbericht mit Indizes, Gewinnern, Verlierern, Devisen und Schlagzeilen als PDF zum Herunterladen und Weitergeben.</p><a class="b" href="/berichte/">Berichte ansehen</a></div></div></div>'''%(NOW.strftime('%d.%m.%Y %H:%M'),kpis,artlist(3),news(N,6),cards,tbl([q for q in Q if q['grp']!='Index']),tbl(sorted_q[:4]),tbl(sorted_q[-4:][::-1]),fxbox,news(N,12))
 import market_visuals as MV
@@ -199,7 +210,7 @@ if _MU: urls.append(page('/heatmap/','Aktien-Heatmap: Tagesveränderung auf eine
 urls.append(page('/','finanz adjust: Märkte, Kurse und Börsennews live','Aktuelle Kurse zu DAX, S&P 500, Nasdaq, Aktien, Gold, Bitcoin und Devisen, Börsen-Schlagzeilen und Einordnungen der FA Redaktion. Kostenlos, ohne Anmeldung, keine Anlageberatung.',home,[org,site_ld]))
 urls+=arturls
 urls.append(page('/artikel/','Artikel der FA Redaktion | finanz adjust','Marktüberblicke, Einordnungen und Erklärungen der FA Redaktion: verständlich, quellenbasiert und ohne Anlageempfehlungen.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Artikel der FA Redaktion</h1><p>Einordnungen statt Empfehlungen: Was die Märkte bewegt, verständlich erklärt und mit Quellen belegt.</p></div></div><div class="pn">%s</div></div>'%artlist(60),act='/artikel/',crumbs=[('/artikel/','Artikel')]))
-urls.append(page('/maerkte/','Märkte: Indizes, Aktien, Rohstoffe, Krypto | finanz adjust','Live-Kurse und 3-Monats-Verlauf für DAX, S&P 500, Nasdaq, Apple, NVIDIA, SAP, Gold, Rohöl, Bitcoin und mehr.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Märkte</h1><p>Kurse mit 3-Monats-Verlauf. Quellen: %s, Stand %s. Alle Angaben ohne Gewähr, ggf. verzögert.</p></div></div><div class="pn">%s</div></div>'%(qsrc(),NOW.strftime('%d.%m.%Y %H:%M'),tbl(Q)),act='/maerkte/',crumbs=[('/maerkte/','Märkte')]))
+urls.append(page('/maerkte/','Märkte: Indizes, Aktien, Rohstoffe, Krypto | finanz adjust','Live-Kurse und 3-Monats-Verlauf für DAX, S&P 500, Nasdaq, Apple, NVIDIA, SAP, Gold, Rohöl, Bitcoin und mehr.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Märkte</h1><p>Kurse mit 3-Monats-Verlauf. Quellen: %s, Stand %s. Alle Angaben ohne Gewähr, ggf. verzögert.</p></div></div><div class="pn">%s</div><div class="pn"><h2 id="devisen">Devisen (EZB-Referenzkurse)</h2>%s</div></div>'%(qsrc(),NOW.strftime('%d.%m.%Y %H:%M'),tbl(Q,True),fx_rows(False)),act='/maerkte/',crumbs=[('/maerkte/','Märkte')]))
 urls.append(page('/nachrichten/','Börsennews und Finanznachrichten: Archiv | finanz adjust','Börsen- und Wirtschaftsnachrichten mit Quellenkennzeichnung und Links zu den Originalmeldungen.','<div class="w"><div class="news-intro"><div><span class="news-kicker">Nachrichten · Quellen im Blick</span><h1>Was die Märkte bewegt.</h1><p>Börsennews aus externen Quellen. Die wichtigsten Schlagzeilen im Überblick, die ganze Geschichte beim Original.</p></div><div class="news-count"><b>%d</b> Meldungen im Archiv</div></div>%s<p class="news-disclosure">Gezeigt werden die neuesten %d Meldungen. Quellen-Icons sind lokal gespeichert. Grafische Quellenkarten sind keine Artikelfotos. Fremde Vorschaubilder erscheinen nur mit dokumentierter Nutzungsfreigabe und Bildnachweis. <a href="/quellen/">Mehr zu den Quellen</a></p></div>'%(len(N),news_cards(N,500),min(len(N),500)),act='/nachrichten/',crumbs=[('/nachrichten/','Nachrichten')]))
 # ---------- Source-linked glossary ----------
 from glossary import build_glossary

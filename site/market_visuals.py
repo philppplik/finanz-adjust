@@ -42,7 +42,7 @@ def breadth(stocks):
     dn = sum(1 for q in stocks if q['pct'] < 0)
     flat = n - up - dn
     seg = lambda c, k: '<i class="%s" style="width:%.1f%%"></i>' % (c, 100.0 * k / n) if k else ''
-    return ('<section class="mv-breadth" aria-label="Marktbreite"><h2>Marktbreite <small>%d Aktien</small></h2>'
+    return ('<section class="mv-breadth" aria-label="Marktbreite"><h2>Marktbreite <small><a href="/aktien/">%d Aktien</a></small></h2>'
             '<div class="mv-bar" role="img" aria-label="%d im Plus, %d unverändert, %d im Minus">%s%s%s</div>'
             '<div class="mv-bl"><span class="up"><b>%d</b> im Plus</span><span class="mut"><b>%d</b> unverändert</span><span class="dn"><b>%d</b> im Minus</span></div>'
             '<p class="mv-note">Zählung der Tagesveränderung, keine Prognose und keine Empfehlung.</p></section>') % (
