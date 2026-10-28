@@ -59,7 +59,7 @@ jobs:
       - id: d
         uses: actions/deploy-pages@v4
       # IndexNow erst NACH erfolgreichem Deployment: Key-Datei oeffentlich pruefen,
-      # nur neue/geaenderte Artikel-URLs melden, Status erst bei HTTP 200 committen.
+      # nur neue/geaenderte Artikel-URLs melden, Status erst bei HTTP 200/202 committen.
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
@@ -96,7 +96,7 @@ jobs:
               print('IndexNow HTTP', r.status, '- gemeldet:', len(urls))
           except urllib.error.HTTPError as e:
               print('IndexNow HTTP-Fehler', e.code, '- Statusdatei bleibt, Retry beim naechsten Build'); raise SystemExit(0)
-          if r.status != 200:
+          if r.status not in (200, 202):  # IndexNow beantwortet angenommene Meldungen mit 200 oder 202
               raise SystemExit(0)
           # Erfolg: gemeldete Artikel in der Statusdatei vermerken (slug -> modified)
           import subprocess, glob
