@@ -86,7 +86,7 @@ html[data-theme=dark] .stock-search input:focus-visible{border-color:#66b3ff;box
 .stock-facts>div{transition:background-color .12s ease}
 '''
 open(OUT+'/polish.css','w').write(POLISH)
-NAV=[('/aktien/','Aktien'),('/maerkte/','Märkte'),('/artikel/','Artikel'),('/nachrichten/','Nachrichten'),('/glossar/','Glossar'),('/lernpfade/','Lernpfade'),('/rechner/','Rechner'),('/berichte/','Berichte'),('/risikohinweis/','Risikohinweis')]
+NAV=[('/aktien/','Aktien'),('/maerkte/','Märkte'),('/broker/','Broker'),('/artikel/','Artikel'),('/nachrichten/','Nachrichten'),('/glossar/','Glossar'),('/lernpfade/','Lernpfade'),('/rechner/','Rechner'),('/berichte/','Berichte'),('/risikohinweis/','Risikohinweis')]
 def num(x,d=2): return f"{x:,.{d}f}".replace(',','X').replace('.',',').replace('X','.')
 def spark(h,up,w=90,hh=26):
     if len(h)<2: return ''
