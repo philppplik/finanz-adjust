@@ -1,4 +1,5 @@
 import json,os,re,time,urllib.parse
+from zoneinfo import ZoneInfo
 from common import *
 from news_media import permitted_news
 os.makedirs('../data',exist_ok=True)
@@ -118,17 +119,17 @@ if TD_KEY:
                 if d and not d['hist'] and y['hist']: d['hist']=y['hist']
                 elif not d: d=y
         if d:
-            srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src']))
+            srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 else:
     for sym,name,grp,tds,ex,cg in SYM:
         if cg: continue
         d=yahoo(sym)
-        if d: srcs.add('Yahoo Finance'); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src']))
+        if d: srcs.add('Yahoo Finance'); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 # Krypto: CoinGecko primaer (oeffentliche Anzeige mit Attribution erlaubt), Yahoo als Fallback
 for sym,name,grp,tds,ex,cg in SYM:
     if not cg: continue
     d=coingecko(cg) or yahoo(sym)
     if d:
-        srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src']))
+        srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 json.dump(q,open('../data/quotes.json','w'))
 print(len(fin),'news;',len(q),'quotes;',sorted(srcs))

@@ -19,7 +19,11 @@ def _num(x):
     s = ('%.2f' % x)
     return s.replace(',', 'X').replace('.', ',').replace('X', '.')
 
-def _quote_panel(c, q, now):
+def _fetched_label(q):
+    fa = q.get('fetched_at')
+    return ('Quelle liefert keinen eigenen Kurszeitpunkt mit; Kursabfrage am %s (Seitenaufbau)' % e(fa)) if fa else 'Liefert die Quelle nicht mit; Stand der Seite im Footer'
+
+def _quote_panel(c, q, now=None):
     if not q or q.get('price') is None:
         return '<section id="kurs" class="stock-quote"><div><p class="stock-kicker">KURSDATEN</p><h2>Kurs derzeit nicht verfügbar</h2><p>Die Datenquelle liefert aktuell keinen nutzbaren Kurs. Der Chart unten kann optional direkt von TradingView geladen werden.</p></div><p class="stock-note">Keine geschätzten Kurse. Fehlende Daten sind kein Kurs von null.</p></section>'
     pct = q.get('pct')
@@ -27,10 +31,10 @@ def _quote_panel(c, q, now):
     ptxt = ('+' if (pct or 0) >= 0 else '') + _num(pct) + ' %' if pct is not None else 'nicht verfügbar'
     return ('<section id="kurs" class="stock-quote"><div><p class="stock-kicker">LETZTER VERFÜGBARER KURS</p><h2>%s USD</h2>'
             '<p><span class="%s">%s</span> <span class="mut" style="font-size:12px">(24 h, Quelle: %s)</span></p></div>'
-            '<dl><div><dt>Kurszeitpunkt</dt><dd>Liefert die Quelle nicht mit; Kursabfrage beim Seitenaufbau am %s</dd></div><div><dt>Datenquelle</dt><dd>%s</dd></div></dl>'
+            '<dl><div><dt>Kurszeitpunkt</dt><dd>%s</dd></div><div><dt>Datenquelle</dt><dd>%s</dd></div></dl>'
             '<p class="stock-note">Keine Live-Aktualisierung im Browser. Der jeweilige Stand der Seite steht im Footer. '
             '24-Stunden-Angaben beziehen sich auf den rollierenden Tag, nicht auf den Börsenschluss.</p></section>'
-            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), now, e(q.get('src', 'ohne Angabe'))))
+            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), _fetched_label(q), e(q.get('src', 'ohne Angabe'))))
 
 def _spark(q):
     try:
