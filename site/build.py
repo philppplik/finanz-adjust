@@ -6,8 +6,10 @@ from news_policy import destination
 from exit_intent import attach as exit_attach
 from report_visuals import stock_href
 def mid(q): return 'm-'+re.sub(r'[^a-z0-9]','',q['sym'].lower())
+CRYPTO_HREF={c['sym']:'/krypto/%s/'%c['slug'] for c in json.load(open('crypto.json'))}
+def crypto_href(q): return CRYPTO_HREF.get(q['sym'],'')
 def mhref(q):
-    h=stock_href(q)
+    h=stock_href(q) or crypto_href(q)
     if h: return h
     return '/maerkte/#devisen' if q['grp']=='FX' else '/maerkte/#%s'%mid(q)
 OUT='out'; shutil.rmtree(OUT,ignore_errors=True); os.makedirs(OUT+'/berichte')
@@ -57,7 +59,7 @@ header{background:var(--pA);-webkit-backdrop-filter:blur(14px) saturate(1.5);bac
 .gl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.gc{box-shadow:var(--sh);background:var(--p);border:1px solid var(--b);border-radius:14px;padding:16px;display:block;transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease}.gc:hover{border-color:var(--ac);transform:translateY(-2px);box-shadow:var(--sh-lg)}.gc b{color:var(--hd);font-weight:700;display:block;margin-bottom:4px}.gc span{color:var(--mut);font-size:13px}
 footer{background:var(--p);border-top:1px solid var(--b);margin-top:36px;padding:28px 20px;color:var(--mut);font-size:13px}footer .c{max-width:1500px;margin:0 auto}footer a{margin-right:16px;color:var(--fg);font-weight:500;transition:color .15s ease}footer a:hover{color:var(--ac)}.warn{font-size:12px;color:var(--mut);margin-top:10px;max-width:900px}.warn a{color:var(--mut);text-decoration:underline}
 .cta{background:linear-gradient(135deg,#1A6ACD,#0086F5 60%,#00A7F8);border:0;box-shadow:var(--sh-lg)}.cta h2,.cta a{color:#fff}.cta a.b{color:#1A6ACD}.cta p{margin:0 0 12px;color:#dbe9ff}.cta a.b{background:#fff;color:#1A6ACD;padding:9px 15px;border-radius:9px;font-weight:700;display:inline-block;box-shadow:0 1px 2px rgba(0,0,0,.15);transition:transform .15s ease}.cta a.b:hover{transform:translateY(-1px)}
-@media(max-width:900px){.g{grid-template-columns:1fr}.idx{grid-template-columns:repeat(2,minmax(0,1fr))}.ic svg{width:100%}.idx{gap:8px}.ic .p{font-size:18px}.hero{grid-template-columns:1fr}.gl{grid-template-columns:1fr}.links{display:flex;position:fixed;top:0;right:0;height:100vh;height:100dvh;width:min(320px,86vw);background:var(--p);border-left:1px solid var(--b);box-shadow:var(--sh-lg);flex-direction:column;align-items:stretch;gap:0;padding:72px 22px 24px;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;visibility:hidden;transform:translateX(105%);transition:transform .25s ease,visibility 0s linear .25s;z-index:8}.links a.l{font-size:16px;padding:13px 0;width:100%}.links a.btn{width:100%;text-align:center;padding:12px 15px;margin:10px 0 4px}.links a.l::after{display:none}.mt:checked~.links{transform:none;visibility:visible;transition:transform .25s ease}header:has(.mt:checked){position:fixed;top:0;left:0;right:0;-webkit-backdrop-filter:none;backdrop-filter:none;background:var(--p)}.bg{position:relative;z-index:10}.mt:focus-visible~.bg{outline:3px solid var(--ring);outline-offset:2px;border-radius:9px}.mt:checked~.bg span:nth-child(1){transform:translateY(7px) rotate(45deg)}.mt:checked~.bg span:nth-child(2){opacity:0}.mt:checked~.bg span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}.ovl{display:none}.mt:checked~.ovl{display:block;position:fixed;top:0;left:0;right:0;height:100vh;height:100dvh;background:rgba(10,14,22,.45);z-index:7}.links .tt{display:flex;align-items:center;gap:12px;width:100%;height:auto;padding:13px 0;background:none;border:0;border-radius:0;font-size:16px;font-weight:500;color:var(--mut)}.links .tt:hover{background:none;color:var(--hd)}.links .tt .tt-txt{display:inline}.links .tt .tt-ic{font-size:18px}.bg{display:flex}.nav{gap:14px}.hide{display:none}.hero .hl h1{font-size:24px}.art h1{font-size:24px}}
+@media(max-width:900px){.g{grid-template-columns:1fr}.idx{grid-template-columns:repeat(2,minmax(0,1fr))}.ic svg{width:100%}.idx{gap:8px}.ic .p{font-size:18px}.hero{grid-template-columns:1fr}.gl{grid-template-columns:1fr}.links{display:flex;position:fixed;top:0;right:0;height:100vh;height:100dvh;width:min(320px,86vw);background:var(--p);border-left:1px solid var(--b);box-shadow:var(--sh-lg);flex-direction:column;align-items:stretch;gap:0;padding:72px 22px 24px;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;visibility:hidden;transform:translateX(105%);transition:transform .25s ease,visibility 0s linear .25s;z-index:8}.links a.l{font-size:16px;padding:13px 0;width:100%}.links a.btn{width:100%;text-align:center;padding:12px 15px;margin:10px 0 4px}.links a.l::after{display:none}.mt:checked~.links{transform:none;visibility:visible;transition:transform .25s ease}header:has(.mt:checked){position:fixed;top:0;left:0;right:0;-webkit-backdrop-filter:none;backdrop-filter:none;background:var(--p)}.bg{position:relative;z-index:10}.mt:focus-visible~.bg{outline:3px solid var(--ring);outline-offset:2px;border-radius:9px}.mt:checked~.bg span:nth-child(1){transform:translateY(7px) rotate(45deg)}.mt:checked~.bg span:nth-child(2){opacity:0}.mt:checked~.bg span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}.ovl{display:none}.mt:checked~.ovl{display:block;position:fixed;top:0;left:0;right:0;height:100vh;height:100dvh;background:rgba(10,14,22,.45);z-index:7}.pl{display:none}@media(max-width:640px){.tw{overflow-x:visible}.tw table,.tw tbody,.tw tr{display:block;width:100%}.tw th{display:none}.tw td{display:block;border:0;padding:0;text-align:left;white-space:normal;width:100%}.tw td.hide{display:none}.tw tr{display:grid;grid-template-columns:1fr auto;gap:1px 12px;padding:10px 2px;border-bottom:1px solid var(--b)}.tw tr:last-child{border-bottom:0}.tw td.c-px{grid-column:2;grid-row:1;text-align:right;align-self:end;width:auto}.tw td.c-pct{grid-column:2;grid-row:2;text-align:right;align-self:start;width:auto}.tw td.c-chg{display:none}.tw .pl{display:inline;color:var(--mut);font-size:10.5px;font-weight:400}.tw a.rl{display:inline-block;min-height:44px;padding-top:4px}.tw td.c-sym{grid-column:1;grid-row:1/3}}.links .tt{display:flex;align-items:center;gap:12px;width:100%;height:auto;padding:13px 0;background:none;border:0;border-radius:0;font-size:16px;font-weight:500;color:var(--mut)}.links .tt:hover{background:none;color:var(--hd)}.links .tt .tt-txt{display:inline}.links .tt .tt-ic{font-size:18px}.bg{display:flex}.nav{gap:14px}.hide{display:none}.hero .hl h1{font-size:24px}.art h1{font-size:24px}}
 '''
 CSS+=SHARE_CSS
 open(OUT+'/style.css','w').write(CSS)
@@ -126,12 +128,14 @@ def page(path,title,desc,body,ld=None,act='',otype='website',crumbs=None,og=None
     p=OUT+path+('index.html' if path.endswith('/') else ''); os.makedirs(os.path.dirname(p),exist_ok=True); open(p,'w').write(h); return url
 def trow(q,selfpage=False):
     cur={'EUR':'\u20ac','USD':'$'}.get(q['cur'],q['cur'])
-    href=stock_href(q)
+    href=stock_href(q) or crypto_href(q)
     if not href and not selfpage: href=mhref(q)
     nm='<b>%s</b><div class="mut" style="font-size:11px">%s \u00b7 %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
     if href: nm='<a class="rl" href="%s">%s</a>'%(href,nm)
-    attr=(' data-href="%s"'%href) if href else (' id="%s"'%mid(q) if selfpage else '')
-    return '<tr%s><td>%s</td><td>%s %s</td><td class="%s">%s</td><td class="%s">%s%%</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
+    attr=(' data-href="%s"'%href) if href else ''
+    if selfpage: attr+=' id="%s"'%mid(q)
+    pl=' <span class="pl">%s</span>'%('24 h' if q['grp']=='Krypto' else '1 T')
+    return '<tr%s><td class="c-sym">%s</td><td class="c-px">%s %s</td><td class="c-chg %s">%s</td><td class="c-pct %s">%s%%%s</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),pl,spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
 ROWJS='<script>(function(){if(window.__frow)return;window.__frow=1;document.addEventListener("click",function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;if(e.target.closest&&e.target.closest("a"))return;var r=e.target.closest&&e.target.closest("tr[data-href]");if(r)location.href=r.getAttribute("data-href")})})()</script>'
 def tbl(rows,selfpage=False): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q,selfpage) for q in rows)+'</table></div>'+ROWJS
 def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
@@ -276,6 +280,8 @@ urls.append(page('/kontakt/','Kontakt | finanz adjust','Kontakt zur FA Redaktion
 # ---------- Aktienverzeichnis ----------
 from stocks import build_stock_pages
 build_stock_pages(page,urls,ARTS,OUT,BASE)
+from crypto import build_crypto_pages
+build_crypto_pages(page,urls,ARTS,OUT,BASE,og_png)
 from broker import build_broker
 build_broker(page,urls,OUT,BASE)
 # ---------- Assets, Sitemaps, Feed ----------

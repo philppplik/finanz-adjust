@@ -216,3 +216,10 @@ Aktualitaet jeder Datei visuell gegen die offizielle Unternehmenswebsite gepruef
 - alnylam.png — Alnylam Pharmaceuticals — offizielles Media Kit, Abschnitt Corporate Logos — https://www.alnylam.com/media-kit
 
 Nicht uebernommen: APP (Commons-Datei veraltet, aktuelles Logo nicht frei), HONA (eigenes orange Aerospace-Branding, nicht frei), HOT (PD nur US, de.wiki non-free, nicht auf Commons), MNST (Wortmarke weicht vom Emittenten ab), PDD (App-Marke != Holding), NVO/GILD/FANG/ALAB (keine freie Datei), ODFL (nur gegen unterschriebene Nutzungsvereinbarung, keine Anfrage versendet).
+
+# Krypto-Logos 28.10.2026 (Wikimedia Commons)
+
+Quelle je Datei: Wikimedia Commons, Einzelprüfung der Dateiseite am 28.10.2026 über die Commons-API (Lizenzfeld aus extmetadata). Beide Dateien dort als "Public domain" geführt. Markenrecht bleibt unberührt: die Logos dienen nur der redaktionellen Kennzeichnung des jeweiligen Kryptowerts auf dessen Marktseite und in Marktübersichten, ohne behauptete Partnerschaft oder Empfehlung. Keine Datei verändert oder eingefärbt. Credits stehen je Eintrag in site/crypto.json (logo_credit/logo_source); Anzeige des Credits auf der Marktseite im Steckbrief.
+
+- bitcoin.svg — File:Bitcoin logo.svg — Public domain — Bitboy
+- ethereum.svg — File:Ethereum logo.svg — Public domain — Ethereum Foundation

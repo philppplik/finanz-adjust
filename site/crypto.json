@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "unit": "BTC",
+    "sym": "BTC-USD",
+    "tv_symbol": "BITSTAMP:BTCUSD",
+    "logo": "bitcoin.svg",
+    "logo_credit": "Bitcoin-Logo: Bitboy, Public domain, via Wikimedia Commons",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg",
+    "aliases": ["Bitcoin", "BTC"],
+    "einordnung": [
+      "Bitcoin ist ein dezentrales digitales Zahlungsnetzwerk ohne zentrale Instanz. Die Werteinheit des Netzwerks heißt Bitcoin (Kürzel BTC). Transaktionen werden in einer öffentlichen Datenkette (Blockchain) festgehalten und von den Teilnehmern gemeinsam bestätigt. Die Gesamtmenge ist im Protokoll auf 21 Millionen BTC begrenzt.",
+      "Der Kurs von BTC entsteht an Handelsplätzen weltweit und schwankt historisch stark; Verluste bis zum Totalverlust sind möglich. Die BaFin weist auf verbreitete Fehlvorstellungen bei Krypto-Anlagen hin, etwa beim vermeintlichen Schutz vor Inflation oder bei der Preisstabilität.",
+      "Wer BTC selbst verwahrt, trägt die Verantwortung für Zugangsdaten und Backups; Phishing und der Verlust von Zugängen sind häufige Verlustursachen. Diese Seite ersetzt keine Beratung: Keine Kauf- oder Verkaufsempfehlung."
+    ],
+    "quellen": [
+      ["bitcoin.org — Häufige Fragen (FAQ)", "https://bitcoin.org/en/faq"],
+      ["BaFin — Wissenslücken bei Krypto-Anlegerinnen und -Anlegern", "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2026/fa_260825_kryptowissen.html"]
+    ]
+  },
+  {
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "unit": "ETH",
+    "sym": "ETH-USD",
+    "tv_symbol": "BITSTAMP:ETHUSD",
+    "logo": "ethereum.svg",
+    "logo_credit": "Ethereum-Logo: Ethereum Foundation, Public domain, via Wikimedia Commons",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg",
+    "aliases": ["Ethereum", "Ether", "ETH"],
+    "einordnung": [
+      "Ethereum ist eine offene Blockchain-Plattform, auf der Anwendungen mit sogenannten Smart Contracts laufen — zum Beispiel digitale Verträge, Token und Finanzanwendungen. Das Netzwerk heißt Ethereum; seine Werteinheit heißt Ether (Kürzel ETH).",
+      "ETH wird unter anderem benötigt, um Transaktionen und Anwendungen im Ethereum-Netzwerk zu bezahlen (sogenannte Gas-Gebühren). Der Kurs von ETH entsteht an Handelsplätzen weltweit und schwankt historisch stark; Verluste bis zum Totalverlust sind möglich.",
+      "Die BaFin weist auf verbreitete Fehlvorstellungen bei Krypto-Anlagen hin, etwa beim vermeintlichen Schutz vor Inflation oder beim Vermögensaufbau. Diese Seite ersetzt keine Beratung: Keine Kauf- oder Verkaufsempfehlung."
+    ],
+    "quellen": [
+      ["ethereum.org — Was ist Ethereum?", "https://ethereum.org/en/what-is-ethereum/"],
+      ["BaFin — Wissenslücken bei Krypto-Anlegerinnen und -Anlegern", "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2026/fa_260825_kryptowissen.html"]
+    ]
+  }
+]
