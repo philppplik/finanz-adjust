@@ -10,37 +10,46 @@ fin=[]
 GDELT_STATUS=[]
 import urllib.error
 def gget(u,q):
+    rec={'query':q}
+    GDELT_STATUS.append(rec)
     try:
         r=urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=15)
-        GDELT_STATUS.append({'query':q,'status':r.status})
-        return r.read()
+        rec['status']=r.status
+        return r.read(),rec
     except urllib.error.HTTPError as e:
         # Throttling respektieren: Status + Retry-After nur protokollieren, kein Retry/Umgehung
-        GDELT_STATUS.append({'query':q,'status':e.code,'retry_after':e.headers.get('Retry-After') or ''})
+        rec.update(status=e.code,retry_after=e.headers.get('Retry-After') or '')
         print('GDELT HTTP',e.code,'retry-after',e.headers.get('Retry-After'))
-        return None
+        return None,rec
     except Exception as e:
-        GDELT_STATUS.append({'query':q,'status':'ERR','error':str(e)[:120]})
-        print('GDELT',e); return None
+        rec.update(status='ERR',error=str(e)[:120])
+        print('GDELT',e); return None,rec
 for qi,(q,src) in enumerate([('(dax OR aktie OR börse OR aktienmarkt) sourcelang:german','GDELT'),
               ('(nasdaq OR "s&p 500" OR dow jones OR nvidia OR bitcoin) sourcelang:german','GDELT'),
               ('(federal reserve OR ezb OR zinsen) sourcelang:german','GDELT')]):
-    b=gget('https://api.gdeltproject.org/api/v2/doc/doc?query=%s&mode=artlist&maxrecords=40&format=json&sort=hybridrel'%urllib.parse.quote(q),q)
+    b,rec=gget('https://api.gdeltproject.org/api/v2/doc/doc?query=%s&mode=artlist&maxrecords=40&format=json&sort=hybridrel'%urllib.parse.quote(q),q)
     if qi<2: time.sleep(6)  # GDELT-Limit: max 1 Request / 5s
     if not b: continue
+    rec['body_len']=len(b)
     try:
         arts=json.loads(b).get('articles',[])
+        rec['parse_ok']=True; rec['articles']=len(arts); usable=0; newest=0
         for a in arts:
             sd=a.get('seendate','')
             try: ts=datetime.datetime.strptime(sd,'%Y%m%dT%H%M%SZ').replace(tzinfo=datetime.timezone.utc).timestamp()
             except: ts=0
             dom=a.get('domain','')
+            if a.get('title') and a.get('url'): usable+=1; newest=max(newest,ts)
             fin.append(dict(title=strip(a.get('title','')),url=(a.get('url') or '').strip(),sum='',ts=ts,src='%s · %s'%(src,dom)))
-    except Exception as e: print('GDELT',e)
+        rec['usable']=usable; rec['newest_seendate']=newest
+    except Exception as e:
+        rec['parse_ok']=False; rec['parse_error']=str(e)[:120]; print('GDELT',e)
 fin=[f for f in fin if f['title'] and f['url']]
 # Fetch-Fehler sichtbar machen: Status ins Archiv-Verzeichnis schreiben (wird vom Workflow mitcommittet)
-json.dump({'ts':int(time.time()),'archive_newest':max([f['ts'] for f in json.load(open('../data/fin_archive.json'))] or [0]) if os.path.exists('../data/fin_archive.json') else 0,'queries':GDELT_STATUS},open('../data/gdelt-status.json','w'),ensure_ascii=False)
-json.dump(permitted_news(merge_archive('../data/fin_archive.json',permitted_news(fin))),open('../data/fin_archive.json','w'),ensure_ascii=False)
+_before=len(json.load(open('../data/fin_archive.json'))) if os.path.exists('../data/fin_archive.json') else 0
+_merged=permitted_news(merge_archive('../data/fin_archive.json',permitted_news(fin)))
+json.dump(_merged,open('../data/fin_archive.json','w'),ensure_ascii=False)
+json.dump({'ts':int(time.time()),'archive_newest':max([f['ts'] for f in _merged] or [0]),'archive_before':_before,'archive_after':len(_merged),'queries':GDELT_STATUS},open('../data/gdelt-status.json','w'),ensure_ascii=False)
 # ---------- Kurse ----------
 # sym, name, gruppe, twelvedata-symbol (None = kein TD), td-exchange, coingecko-id
 SYM=[('^GDAXI','DAX','Index',None,None,None),('^GSPC','S&P 500','Index',None,None,None),('^IXIC','Nasdaq','Index',None,None,None),('^STOXX50E','Euro Stoxx 50','Index',None,None,None),
