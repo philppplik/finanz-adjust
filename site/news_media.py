@@ -57,11 +57,32 @@ def source_badge(item):
             if icon else '<span class="source-mono" aria-hidden="true">%s</span>' % e(mono))
     return '<span class="source-badge">%s<span>%s</span></span>' % (mark, e(label))
 
+
+def diverse(items, limit=500):
+    """Interleave sources (newest source first per round) so a high-frequency feed cannot crowd out the rest of a visible slice."""
+    from collections import deque
+    groups = {}
+    order = []
+    for item in sorted(items, key=lambda x: -x.get('ts', 0)):
+        key = item.get('license_key') or item.get('src') or '?'
+        if key not in groups:
+            groups[key] = deque()
+            order.append(key)
+        groups[key].append(item)
+    out = []
+    while len(out) < limit and any(groups[k] for k in order):
+        for k in order:
+            if groups[k]:
+                out.append(groups[k].popleft())
+                if len(out) >= limit:
+                    break
+    return out
+
 def news_cards(items, limit=500):
     from news_policy import destination, has_detail
     e = lambda s: html.escape(str(s), quote=True)
     cards = []
-    for item in permitted_news(items)[:limit]:
+    for item in diverse(permitted_news(items), limit):
         host, label, mono, color, icon = identity(item)
         thumb = approved_thumbnail(item)
         if thumb:

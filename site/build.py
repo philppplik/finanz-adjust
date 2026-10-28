@@ -20,6 +20,7 @@ Q=json.load(open('../data/quotes.json')); N=permitted_news(json.load(open('../da
 import sys
 sys.path.insert(0,str(__import__('pathlib').Path(__file__).resolve().parent.parent/'tools'))
 from licensed_news import collect, merge_current
+from news_media import diverse as _feed_diverse
 from share import share_block, SHARE_CSS
 licensed_archive=collect('..','fa',N)
 N=merge_current(N,licensed_archive)
@@ -138,7 +139,7 @@ def trow(q,selfpage=False):
     return '<tr%s><td class="c-sym">%s</td><td class="c-px">%s%s</td><td class="c-chg %s">%s</td><td class="c-pct %s">%s%%%s</td><td class="hide">%s</td></tr>'%(attr,nm,num(q['price']),cur,cls(q['chg']),sg(q['chg']),cls(q['pct']),sg(q['pct']),pl,spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True))
 ROWJS='<script>(function(){if(window.__frow)return;window.__frow=1;document.addEventListener("click",function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;if(e.target.closest&&e.target.closest("a"))return;var r=e.target.closest&&e.target.closest("tr[data-href]");if(r)location.href=r.getAttribute("data-href")})})()</script>'
 def tbl(rows,selfpage=False): return '<div class="tw"><table><tr><th>Symbol</th><th>Kurs</th><th>Änd.</th><th>Änd. %</th><th class="hide">3 Monate</th></tr>'+''.join(trow(q,selfpage) for q in rows)+'</table></div>'+ROWJS
-def news(n,k): return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in n[:k])+'</ul>'
+def news(n,k): from news_media import diverse as _dv; return '<ul class="nw">'+''.join('<li><a href="%s" target="_blank" rel="noopener nofollow">%s</a><div class="m">%s · %s</div></li>'%(esc(destination(i)),esc(i['title']),source_badge(i),fmtd(i['ts'])) for i in _dv(n,k))+'</ul>'
 # ---------- Artikel (content/articles/*.json, Redaktion: FA Redaktion) ----------
 ARTS=[]
 os.makedirs('../content/articles',exist_ok=True)
@@ -320,7 +321,7 @@ recent=[a for a in ARTS if (NOW-adate(a).astimezone()).total_seconds()<172800]
 news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news></url>'%(BASE,a['slug'],pubdate(a),esc(a['title'])) for a in recent)+'</urlset>'
 open(OUT+'/news-sitemap.xml','w').write(news_sm)
 items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artikel/%s/</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(a['title']),BASE,a['slug'],BASE,a['slug'],esc(a.get('description','')),email.utils.format_datetime(adate(a).astimezone())) for a in ARTS[:20])
-items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(i['title']),esc(i['url']),esc(i['url']),'',email.utils.format_datetime(datetime.datetime.fromtimestamp(i['ts']).astimezone())) for i in N[:60] if i.get('ts'))
+items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(i['title']),esc(i['url']),esc(i['url']),'',email.utils.format_datetime(datetime.datetime.fromtimestamp(i['ts']).astimezone())) for i in _feed_diverse(N,60) if i.get('ts'))
 open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
 json.dump(Q,open(OUT+'/quotes.json','w'))
 # ---------- IndexNow-Export: nur neue/geaenderte Artikel (Status: data/indexnow-state.json) ----------
