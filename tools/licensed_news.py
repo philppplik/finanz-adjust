@@ -23,6 +23,59 @@ FEEDS = {
  'destatis': 'https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=3624',
  'ecb': 'https://www.ecb.europa.eu/rss/press.html',
 }
+RIGHTS_CHECKED = '2026-10-28'
+# FinanzNachrichten.de erlaubt (widerruflich) die Uebernahme der News-Ueberschriften mit
+# aktivem Link auf den Originalbeitrag: https://www.finanznachrichten.de/service/rss.htm
+# Nur Ueberschrift + Link - die mitgelieferte <description> wird immer verworfen.
+# Kategorie-Feeds gegen Rolling-Window-Verlust; Deutschland entfaellt (deckt sich mit Konjunktur).
+FN_FEEDS = {
+ 'aktien': 'https://www.finanznachrichten.de/rss-aktien-nachrichten',
+ 'analysen': 'https://www.finanznachrichten.de/rss-aktien-analysen',
+ 'adhoc': 'https://www.finanznachrichten.de/rss-aktien-adhoc',
+ 'europa': 'https://www.finanznachrichten.de/rss-nachrichten-aktien-europa',
+ 'usa': 'https://www.finanznachrichten.de/rss-nachrichten-aktien-usa',
+ 'asien': 'https://www.finanznachrichten.de/rss-nachrichten-aktien-asien',
+ 'konjunktur': 'https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur',
+ 'anleihen': 'https://www.finanznachrichten.de/rss-anleihen-nachrichten-101',
+}
+# Finanzbezug ist Pflicht; Politik, Polizei, Sport, Promi und Regionales sind ausgeschlossen.
+FIN_INCLUDE = re.compile(r'''(?ix)\b(
+ aktie[n]?|aktien\w*|b[oö]rse[n]?|b[oö]rsengang|b[oö]rsen\w*|dax|mdax|sdax|tecdax|nasdaq|s&p|dow\s*jones|
+ stoxx|ezb|ecb|fed\b|zentralbank|zins(?:en|es|satz|ent|schritt|entscheid\w*)?|rendite|anleihe[n]?|
+ schatzanweisung|bund(?:es)?(?:-|\s)*(?:anleihe|obligation|future)|konjunktur|inflation|deflation|
+ wirtschaft\w*|bip|arbeitsmarkt\w*|ifo\w*|diw\w*|zew\w*|einkaufsmanager\w*|verbraucherpreise\w*|erzeugerpreise\w*|
+ export\w*|import\w*|handelsbilanz|euro|dollar|yen|yuan|franken|pfund|devisen|w[aä]hrung\w*|
+ roh[oö]l|[oö]lpreis|gold|silber|kupfer|rohstoff\w*|bitcoin|ethereum|krypto\w*|ipo|dividende[n]?|
+ quartal\w*|halbjahr|bilanz\w*|gewinn\w*|umsatz|ergebnis|prognose\w*|[uü]bernahme\w*|fusion|
+ kapitalerh[oö]hung|aktienr[uü]ckkauf|rating|stuft\w*|hochgestuft|abgestuft|kursziel|kursziele|
+ unternehmen|konzern\w*|bank(?:en|krise|gruppe)?|versicherung\w*|fonds|etf|derivat\w*|future[s]?|
+ option\w*|markt|m[aä]rkte|kurs(?:e|es|verlust|gewinn|sprung|rutsch|ziel)?\w*|rally|recession|
+ rezession|handel(?:s|n)?(?:streit|spolitik|skrieg|sabkommen|stag)?|zoll|z[oö]lle|tarif\w*|
+ energiepreise?|strompreis|gaspreis|immobilien|kredit\w*|liquidit[aä]t|mindestreserve|
+ aktienindex|indizes|index|streubesitz|obligo|anleger|investor\w*|investition\w*|sparen|konsumklima\w*|verbrauchervertrauen\w*|gesch[aä]ftsklima\w*|mindestreserve\w*|
+ tagesgeld|festgeld|depot|verbrauchervertrauen|konsumklima|gesch[aä]ftsklima|auftrags\w*|
+ auftragseingang|stellen\w*|besch[aä]ftig\w*|l[oö]hne|lohn\w*|tarifverhandlung\w*|
+ wachstum|w[aä]chst|erwerb\w*|[uü]bernimmt|kauft\b|verkauft\b|millionen|milliarden|
+ vereinbarung\w*|kooperation\w*|auftr[aä]ge|vorstand|ceo|zahlen|ausblick|guidance|
+ kapital\w*|finanzier\w*|emittier\w*|platzier\w*|b[oö]rsendeb[uü]t|notier\w*|investiert|
+ produktion\w*|werk\s|rente\w*|pension\w*|briefing|roundup|marktbericht|tagesvorschau|
+ pressespiegel|eurex|hauptversammlung|eigengesch[aä]fte|ad-?hoc|eqs|pta|dgap|
+ quartalsergebnis|rekord\w*|schulden|defizit|haushalt\w*(?!.*politik)|
+ quarter|earnings|revenue|profit|guidance|upgrade|downgrade|tender|acquisition|merger|
+ stake|shares|investor|financial|covenant|agm\b|buyback|outlook|raises|cuts\b|beats|misses|
+ bond\w*|yield\w*|stocks|markets|nasdaq|wall\s*street
+)\b''')
+FIN_EXCLUDE = re.compile(r'''(?ix)\b(
+ politik|politisch\w*|bundestag|bundesrat|bundestagswahl|landtagswahl|europawahl|kommunalwahl|
+ wahlkampf|parteitag|partei(?:en|tag|spitze)?|koalitions\w*|abgeordnete?\w*|fraktion\w*|
+ wahlsieg|wahl\s|polizei|verhaft\w*|festnahme\w*|ermittlung\w*|straftat|anzeige\s+erstattet|
+ unfall|[uü]ngl[uü]ck|t[oö]dlich|tote[nr]?\b|feuer\b|brand\s|fu[sß]ball|bundesliga|
+ champions\s*league|tischtennis|olympia\w*|formel\s*1|tennis|ski\s|promi\w*|schauspiel\w*|
+ kinofilm|musik(?:er|festival)|konzert\s|lotto|gewinnspiel|wetter|sturmflut|k[oö]nig(?:in)?\b|
+ schloss\s|adel\w*|royal\w*
+)\b''')
+def finance_relevant(title):
+ return bool(FIN_INCLUDE.search(title or '')) and not FIN_EXCLUDE.search(title or '')
 AI = re.compile(r'\b(?:KI|AI|LLMs?|GPT|ChatGPT|OpenAI|Claude|Gemini|Nvidia|Anthropic|DeepSeek|Robotik|Machine Learning)\b|künstlich.{0,3}Intelligenz', re.I)
 MODE = {'fa': {'destatis', 'ecb', 'fn'}, 'iw': {'heise'}, 'kfb': {'heise'}}
 
@@ -57,7 +110,8 @@ def detail_path(i):
  slug=unicodedata.normalize('NFKD',i['title']).encode('ascii','ignore').decode().lower()
  slug=re.sub('[^a-z0-9]+','-',slug).strip('-')[:76].rstrip('-') or 'meldung'
  return '/'+('nachrichten' if i.get('license_key') in ('fn','destatis','ecb') else 'news')+'/'+slug+'-'+hashlib.sha256(i['url'].encode()).hexdigest()[:12]+'/'
-def parse_feed(data,key):
+def parse_feed(data,key,feed_url=None):
+ feed_url=feed_url or FEEDS[key]
  root=ET.fromstring(data);ns='{http://www.w3.org/2005/Atom}'
  rows=root.findall('.//item') if key!='heise' else root.findall(ns+'entry');out=[]
  for row in rows:
@@ -67,13 +121,18 @@ def parse_feed(data,key):
    title=text(row.findtext('title'));link=(row.findtext('link') or '').strip();summary=row.findtext('description') or '';stamp=row.findtext('pubDate') or ''
   # Only direct official feeds can supply a teaser. Existing aggregator snippets never enter this archive.
   if not matches(key,link) or not title or (key=='heise' and (not AI.search(title) or re.search(r'heise-Angebot|Webinar|Anzeige|Gesponsert|Rabatt',title,re.I))):continue
+  if key=='fn' and not finance_relevant(title):continue
   if row.findtext('author') or row.find('{http://purl.org/dc/elements/1.1/}creator') is not None:continue
-  try:ts=(datetime.datetime.fromisoformat(stamp.replace('Z','+00:00')) if key=='heise' else email.utils.parsedate_to_datetime(stamp)).timestamp()
+  try:
+   try:dt=datetime.datetime.fromisoformat(stamp.replace('Z','+00:00')) if key=='heise' else email.utils.parsedate_to_datetime(stamp)
+   except (ValueError,TypeError):dt=datetime.datetime.fromisoformat(stamp.replace('Z','+00:00'))  # FinanzNachrichten nutzt ISO 8601
+   ts=dt.timestamp()
   except (ValueError,TypeError,AttributeError):continue
-  teaser=text(summary)
+  # FinanzNachrichten erlaubt nur Ueberschrift+Link: gelieferte Beschreibung verwerfen.
+  teaser='' if key=='fn' else text(summary)
   if len(teaser)>5000:continue
   now=datetime.datetime.now(datetime.timezone.utc).isoformat()
-  out.append(dict(title=title,url=link,ts=ts,src=RIGHTS[key][0],sum='',teaser=teaser,license_key=key,feed_url=FEEDS[key],captured_at=now,rights_checked='2026-10-19'))
+  out.append(dict(title=title,url=link,ts=ts,src=RIGHTS[key][0],sum='',teaser=teaser,license_key=key,feed_url=feed_url,captured_at=now,rights_checked=RIGHTS_CHECKED))
  return out
 
 def collect(root,mode,existing=(),fetch=True):
@@ -86,16 +145,18 @@ def collect(root,mode,existing=(),fetch=True):
  by_url={i['url']:i for i in old};fresh=[]
  if mode=='fa':
   for i in existing:
-   if matches('fn',i.get('url','')):
-    fresh.append(dict(title=i['title'],url=i['url'],ts=i.get('ts',0),src='FinanzNachrichten',sum='',teaser='',license_key='fn',captured_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),rights_checked='2026-10-19'))
+   if matches('fn',i.get('url','')) and finance_relevant(i.get('title','')):
+    fresh.append(dict(title=i['title'],url=i['url'],ts=i.get('ts',0),src='FinanzNachrichten',sum='',teaser='',license_key='fn',captured_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),rights_checked=RIGHTS_CHECKED))
  if fetch:
-  for key in sorted(MODE[mode]-{'fn'}):
+  feed_list=[(key,FEEDS[key]) for key in sorted(MODE[mode]-{'fn'})]
+  if mode=='fa':feed_list+=[('fn',url) for url in FN_FEEDS.values()]
+  for key,url in feed_list:
    try:
-    req=urllib.request.Request(FEEDS[key],headers={'User-Agent':'Mozilla/5.0 (compatible; LicensedNewsPilot/1.0)'})
+    req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; LicensedNewsPilot/1.0)'})
     with urllib.request.urlopen(req,timeout=20) as r:data=r.read(2_000_001)
     if len(data)>2_000_000:raise ValueError('RSS response too large')
-    fresh+=parse_feed(data,key)
-   except Exception as e:print('::warning::Licensed RSS '+key+' unavailable; keeping saved source-info pages: '+type(e).__name__)
+    fresh+=parse_feed(data,key,url)
+   except Exception as e:print('::warning::Licensed RSS '+key+' '+url+' unavailable; keeping saved source-info pages: '+type(e).__name__)
  for i in fresh:
   if valid(i,mode) and i['url'] not in by_url:by_url[i['url']]=i
  rows=sorted(by_url.values(),key=lambda x:(-x['ts'],x['url']))
@@ -117,10 +178,11 @@ def body(i,brand,archive_url='/news/'):
  original='<a class="ln-original" href="%s" target="_blank" rel="noopener noreferrer nofollow">Original bei %s lesen <span aria-hidden="true">↗</span></a>'%(url,e(name))
  return '''<link rel="stylesheet" href="/licensed-news.css"><main class="ln-wrap" id="main"><a class="ln-back" href="%s">← Zum Quellenarchiv</a><section class="ln-card"><p class="ln-kicker">EXTERNE MELDUNG / QUELLENINFO</p><p class="ln-source">%s</p><h1>%s</h1><p class="ln-disclosure">Eine externe Meldung, kein eigener Artikel von %s. Den vollständigen Beitrag findest du beim Originalanbieter.</p><aside class="ln-leaving"><span aria-hidden="true">↗</span><p>Beim Klick auf den Original-Link verlässt du %s und wechselst zu <strong>%s</strong>. Der Beitrag öffnet sich in einem neuen Tab.</p></aside>%s%s%s</section><aside class="ln-report"><p class="ln-kicker">DER TAGESÜBERBLICK</p><h2>Dein Tagesbericht als PDF.</h2><p>Kostenlos, ohne Anmeldung und ohne E-Mail.</p><a href="/berichte/">Zum Tagesbericht und PDF-Archiv →</a></aside><section class="ln-card ln-bottom"><h2>Zur vollständigen Meldung</h2>%s<p>Es gelten die Bedingungen des Anbieters. %s ist nicht mit der Quelle verbunden.</p></section></main>'''%(archive_url,e(name),e(i['title']),e(brand),e(brand),e(host(i['url'])),original,('<p class="ln-teaser">'+e(i['teaser'])+'</p>') if i.get('teaser') else '',evidence(i),original,e(brand))
 
-def archive_body(rows,brand):
+def archive_body(rows,brand,limit=500):
  e=lambda s:html.escape(str(s),quote=True)
- cards=''.join('<li><p>%s · %s</p><h2><a href="%s">%s →</a></h2><a class="ln-direct" href="%s" target="_blank" rel="noopener noreferrer nofollow">Direkt zum Original ↗</a></li>'%(e(RIGHTS[i['license_key']][0]),datetime.datetime.fromtimestamp(i['ts'],datetime.timezone.utc).strftime('%d.%m.%Y'),detail_path(i),e(i['title']),e(i['url'])) for i in rows)
- return '<link rel="stylesheet" href="/licensed-news.css"><main class="ln-wrap" id="main"><section class="ln-card"><p class="ln-kicker">QUELLENARCHIV / TEXT-PILOT</p><h1>KI-News aus externen Quellen.</h1><p>Schlagzeilen und erlaubte RSS-Anrisstexte von heise online. Mit direktem Original-Link, ohne übernommene Bilder. Die Quelleninfos bleiben unter ihrer festen Adresse gespeichert.</p><a href="/">← Zur Startseite</a></section><ul class="ln-list">'+cards+'</ul></main>'
+ shown=rows[:limit]
+ cards=''.join('<li><p>%s · %s</p><h2><a href="%s">%s →</a></h2><a class="ln-direct" href="%s" target="_blank" rel="noopener noreferrer nofollow">Direkt zum Original ↗</a></li>'%(e(RIGHTS[i['license_key']][0]),datetime.datetime.fromtimestamp(i['ts'],datetime.timezone.utc).strftime('%d.%m.%Y'),detail_path(i),e(i['title']),e(i['url'])) for i in shown)
+ return '<link rel="stylesheet" href="/licensed-news.css"><main class="ln-wrap" id="main"><section class="ln-card"><p class="ln-kicker">QUELLENARCHIV / TEXT-PILOT</p><h1>KI-News aus externen Quellen.</h1><p>Schlagzeilen und erlaubte RSS-Anrisstexte von heise online. Mit direktem Original-Link, ohne übernommene Bilder. Die Quelleninfos bleiben unter ihrer festen Adresse gespeichert.</p><a href="/">← Zur Startseite</a></section>'+('<p class="ln-count">Gezeigt werden die neuesten %d von %d dauerhaft gesicherten Quelleninfos.</p>'%(len(shown),len(rows)) if len(rows)>limit else '<p class="ln-count">%d dauerhaft gesicherte Quelleninfos.</p>'%len(rows))+'<ul class="ln-list">'+cards+'</ul></main>'
 
 CSS='''
 .ln-wrap{--ln-ac:var(--ac,#7454b9);--ln-bg:var(--p,#fff);--ln-soft:var(--p2,#f6f5f9);--ln-ink:var(--hd,#1d1925);--ln-mut:var(--mut,#686473);--ln-line:var(--b,#e1dee8);max-width:980px;margin:auto;padding:36px 24px 64px;color:var(--ln-ink)}
