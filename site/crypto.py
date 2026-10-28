@@ -8,7 +8,6 @@ from html import escape as e
 import json, re
 from datetime import datetime
 from zoneinfo import ZoneInfo
-_NOW = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')
 from pathlib import Path
 ROOT = Path(__file__).parent
 
@@ -20,7 +19,7 @@ def _num(x):
     s = ('%.2f' % x)
     return s.replace(',', 'X').replace('.', ',').replace('X', '.')
 
-def _quote_panel(c, q):
+def _quote_panel(c, q, now):
     if not q or q.get('price') is None:
         return '<section id="kurs" class="stock-quote"><div><p class="stock-kicker">KURSDATEN</p><h2>Kurs derzeit nicht verfügbar</h2><p>Die Datenquelle liefert aktuell keinen nutzbaren Kurs. Der Chart unten kann optional direkt von TradingView geladen werden.</p></div><p class="stock-note">Keine geschätzten Kurse. Fehlende Daten sind kein Kurs von null.</p></section>'
     pct = q.get('pct')
@@ -31,7 +30,7 @@ def _quote_panel(c, q):
             '<dl><div><dt>Kurszeitpunkt</dt><dd>Liefert die Quelle nicht mit; Kursabfrage beim Seitenaufbau am %s</dd></div><div><dt>Datenquelle</dt><dd>%s</dd></div></dl>'
             '<p class="stock-note">Keine Live-Aktualisierung im Browser. Der jeweilige Stand der Seite steht im Footer. '
             '24-Stunden-Angaben beziehen sich auf den rollierenden Tag, nicht auf den Börsenschluss.</p></section>'
-            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), _NOW, e(q.get('src', 'ohne Angabe'))))
+            % (_num(q['price']), pcls, ptxt, e(q.get('src', 'ohne Angabe')), now, e(q.get('src', 'ohne Angabe'))))
 
 def _spark(q):
     try:
@@ -50,7 +49,9 @@ def _tv_panel(c):
             '<p class="stock-note">Falls für dieses Symbol keine Widgetdaten verfügbar sind, bleibt der Chart leer. Keine geschätzten Werte.</p></section>'
             % (e(c['tv_symbol'], quote=True), e(c['tv_symbol'])))
 
-def build_crypto_pages(page, urls, articles, out, base, og_png=None):
+def build_crypto_pages(page, urls, articles, out, base, og_png=None, now=None):
+    if now is None:
+        now = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')
     coins = json.loads((ROOT/'crypto.json').read_text())
     assert len({c['slug'] for c in coins}) == len(coins)
     for c in coins:
@@ -111,7 +112,7 @@ def build_crypto_pages(page, urls, articles, out, base, og_png=None):
                 '<h3>Quellen für diese Einordnung</h3><ul class="stock-news">%s</ul>'
                 '<p>Diese Seite dient der Information, nicht der Anlageberatung. <a href="/risikohinweis/">Risiken verstehen</a></p></section></main>'
                 % (e(c['name']), e(c['logo'], quote=True), e(c['name'], quote=True),
-                   _quote_panel(c, q), _spark(q), _tv_panel(c),
+                   _quote_panel(c, q, now), _spark(q), _tv_panel(c),
                    ''.join('<div><dt>%s</dt><dd>%s</dd></div>' % (e(k), e(v)) for k, v in facts),
                    e(c['logo_source'], quote=True), news, ein, quel))
         urls.append(page(path, '%s (%s): Kurs, Verlauf und Einordnung | finanz adjust' % (c['name'], c['unit']),

@@ -281,7 +281,7 @@ urls.append(page('/kontakt/','Kontakt | finanz adjust','Kontakt zur FA Redaktion
 from stocks import build_stock_pages
 build_stock_pages(page,urls,ARTS,OUT,BASE)
 from crypto import build_crypto_pages
-build_crypto_pages(page,urls,ARTS,OUT,BASE,og_png)
+build_crypto_pages(page,urls,ARTS,OUT,BASE,og_png,NOW.strftime('%d.%m.%Y %H:%M'))
 from broker import build_broker
 build_broker(page,urls,OUT,BASE)
 # ---------- Assets, Sitemaps, Feed ----------
