@@ -229,4 +229,7 @@ Quelle je Datei: Wikimedia Commons, Einzelprüfung der Dateiseite am 28.10.2026 
 - comdirect.svg — Wikimedia Commons, File:Comdirect Logo 10.2019.svg, Public domain (comdirect bank AG), https://commons.wikimedia.org/wiki/File:Comdirect_Logo_10.2019.svg
 - flatex.svg — Wikimedia Commons, File:Flatex logo.svg, Public domain (Flatex GmbH), https://commons.wikimedia.org/wiki/File:Flatex_logo.svg
 
-Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter. Keine Logos ohne gepruefte Quelle (SMARTBROKER+, Trade Republic, Scalable Capital, justTRADE, finanzen.net ZERO: Monogramm, bis offizielle Medienkit-/Markenquelle geklaert (finanzen.net-Dachmarke != ZERO-Produktmarke)).
+- justtrade.png — justTRADE — offizielles Pressekit (Logos_justTRADE.zip, Variante justTRADE_RZ@4x.png, nur zugeschnitten/verkleinert, keine Umfaerbung) — https://www.justtrade.com/presse/ (Direktlink: https://www.justtrade.com/fileadmin/Presse/Logos_justTRADE.zip), abgerufen 28.10.2026
+- scalable.png — Scalable Capital — offizieller Newsroom, Abschnitt Downloads (SC_Logo.zip, Variante Full_Woodsmoke_Digital_ClearSpace.png, nur zugeschnitten/verkleinert, keine Umfaerbung) — https://de.scalable.capital/presse, abgerufen 28.10.2026
+
+Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter. Keine Logos ohne gepruefte Quelle: SMARTBROKER+ (Pressebereich leitet auf Homepage um, kein Kit; Commons-Datei von 2022 ist Altmarke), Trade Republic (nur Pressekontakt per E-Mail, kein Download) und finanzen.net ZERO (Dachmarke finanzen.net != ZERO-Produktmarke, kein separates offizielles Asset) bleiben Monogramm.

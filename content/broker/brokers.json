@@ -49,7 +49,8 @@
         "Sparpläne in ETFs, ETCs und ETPs: ohne Orderprovision",
         "Depotführung kostenfrei"
       ],
-      "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen."
+      "hinweis": "Die Preisliste nennt Ausgleichszahlungen einiger Handelspartner, die die Gesamtkosten senken können. Handelsplatzabhängige Kosten im PLV prüfen.",
+      "logo": "justtrade.png"
     },
     {
       "id": "scalable-capital",
@@ -58,7 +59,8 @@
       "url": "https://de.scalable.capital/",
       "plv": "https://de.scalable.capital/",
       "fakten": [],
-      "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter."
+      "hinweis": "Für Scalable nennen wir keine Zahlen: Kosten hängen vom Tarif (mit oder ohne Abo) und vom Handelsplatz ab, die Anbieter-Seite verweist auf mehrere Varianten. Aktuelle Preise nur direkt beim Anbieter.",
+      "logo": "scalable.png"
     },
     {
       "id": "smartbroker-plus",
