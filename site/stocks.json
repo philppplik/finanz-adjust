@@ -670,7 +670,10 @@
     "isin": "US5128073062",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:LRCX"
+    "tv_symbol": "NASDAQ:LRCX",
+    "logo": "lrcx.svg",
+    "logo_credit": "Lam Research Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Lam_Research_logo.svg"
   },
   {
     "slug": "amat",
@@ -686,7 +689,10 @@
     "isin": "US0382221051",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AMAT"
+    "tv_symbol": "NASDAQ:AMAT",
+    "logo": "amat.svg",
+    "logo_credit": "Applied Materials, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AApplied_Materials_Logo.svg"
   },
   {
     "slug": "panw",
@@ -702,7 +708,10 @@
     "isin": "US6974351057",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:PANW"
+    "tv_symbol": "NASDAQ:PANW",
+    "logo": "panw.svg",
+    "logo_credit": "Palo Alto Networks, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:PaloAltoNetworks_2020_Logo.svg"
   },
   {
     "slug": "txn",
@@ -718,7 +727,10 @@
     "isin": "US8825081040",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TXN"
+    "tv_symbol": "NASDAQ:TXN",
+    "logo": "txn.svg",
+    "logo_credit": "Texas Instruments Incorporated",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_logo_2024.svg"
   },
   {
     "slug": "crwd",
@@ -734,7 +746,10 @@
     "isin": "US22788C1053",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CRWD"
+    "tv_symbol": "NASDAQ:CRWD",
+    "logo": "crwd.svg",
+    "logo_credit": "CrowdStrike Holdings, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ACrowdStrike_logo.svg"
   },
   {
     "slug": "klac",
@@ -750,7 +765,10 @@
     "isin": "US4824801009",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:KLAC"
+    "tv_symbol": "NASDAQ:KLAC",
+    "logo": "klac.svg",
+    "logo_credit": "KLA Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:KLA_Corp._logo.svg"
   },
   {
     "slug": "amgn",
@@ -798,7 +816,10 @@
     "isin": "US5738741041",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MRVL"
+    "tv_symbol": "NASDAQ:MRVL",
+    "logo": "mrvl.svg",
+    "logo_credit": "Marvell Technology, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Marvell_Logo.svg"
   },
   {
     "slug": "shop",
@@ -814,7 +835,10 @@
     "isin": "CA82509L1076",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:SHOP"
+    "tv_symbol": "NASDAQ:SHOP",
+    "logo": "shop.svg",
+    "logo_credit": "Shopify Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Shopify_logo_2018.svg"
   },
   {
     "slug": "sndk",
@@ -830,7 +854,10 @@
     "isin": "US80004C2008",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:SNDK"
+    "tv_symbol": "NASDAQ:SNDK",
+    "logo": "sndk.svg",
+    "logo_credit": "Sandisk Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:SanDisk_2024_logo.svg"
   },
   {
     "slug": "adi",
@@ -846,7 +873,10 @@
     "isin": "US0326541051",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ADI"
+    "tv_symbol": "NASDAQ:ADI",
+    "logo": "adi.svg",
+    "logo_credit": "Analog Devices, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AAnalog_Devices_Logo.svg"
   },
   {
     "slug": "gild",
@@ -878,7 +908,10 @@
     "isin": "US8725901040",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TMUS"
+    "tv_symbol": "NASDAQ:TMUS",
+    "logo": "tmus.svg",
+    "logo_credit": "T-Mobile US, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:T-Mobile_logo_2022.svg"
   },
   {
     "slug": "stx",
@@ -894,7 +927,10 @@
     "isin": "IE00BKVD2N49",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:STX"
+    "tv_symbol": "NASDAQ:STX",
+    "logo": "stx.svg",
+    "logo_credit": "Seagate Technology Holdings plc",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Seagate_logo.svg"
   },
   {
     "slug": "isrg",
@@ -910,7 +946,10 @@
     "isin": "US46120E6023",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ISRG"
+    "tv_symbol": "NASDAQ:ISRG",
+    "logo": "isrg.svg",
+    "logo_credit": "Intuitive Surgical, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Intuitive_Surgical_logo.svg"
   },
   {
     "slug": "wdc",
@@ -926,7 +965,10 @@
     "isin": "US9581021055",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:WDC"
+    "tv_symbol": "NASDAQ:WDC",
+    "logo": "wdc.svg",
+    "logo_credit": "Western Digital Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Western_Digital_logo.svg"
   },
   {
     "slug": "ftnt",
@@ -942,7 +984,10 @@
     "isin": "US34959E1091",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:FTNT"
+    "tv_symbol": "NASDAQ:FTNT",
+    "logo": "ftnt.svg",
+    "logo_credit": "Fortinet, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Fortinet_logo.svg"
   },
   {
     "slug": "vrtx",
@@ -958,7 +1003,10 @@
     "isin": "US92532F1003",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:VRTX"
+    "tv_symbol": "NASDAQ:VRTX",
+    "logo": "vrtx.svg",
+    "logo_credit": "Vertex Pharmaceuticals Incorporated",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Vertex_logo.svg"
   },
   {
     "slug": "bkng",
@@ -974,7 +1022,10 @@
     "isin": "US09857L1089",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:BKNG"
+    "tv_symbol": "NASDAQ:BKNG",
+    "logo": "bkng.svg",
+    "logo_credit": "Booking Holdings Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Booking_Holdings_Inc._Logo.svg"
   },
   {
     "slug": "pdd",
@@ -1006,7 +1057,10 @@
     "isin": "US0530151036",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ADP"
+    "tv_symbol": "NASDAQ:ADP",
+    "logo": "adp.svg",
+    "logo_credit": "Automatic Data Processing, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Automatic_Data_Processing_(logo).svg"
   },
   {
     "slug": "sbux",
@@ -1022,7 +1076,10 @@
     "isin": "US8552441094",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:SBUX"
+    "tv_symbol": "NASDAQ:SBUX",
+    "logo": "sbux.svg",
+    "logo_credit": "Starbucks Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Starbucks-wordmark-green.svg"
   },
   {
     "slug": "abnb",
@@ -1038,7 +1095,10 @@
     "isin": "US0090661010",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ABNB"
+    "tv_symbol": "NASDAQ:ABNB",
+    "logo": "abnb.svg",
+    "logo_credit": "Airbnb, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Airbnb_Logo_Bélo.svg"
   },
   {
     "slug": "ceg",
@@ -1086,7 +1146,10 @@
     "isin": "US5719032022",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MAR"
+    "tv_symbol": "NASDAQ:MAR",
+    "logo": "mar.svg",
+    "logo_credit": "Marriott International, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Marriott_International.svg"
   },
   {
     "slug": "meli",
@@ -1102,7 +1165,10 @@
     "isin": "US58733R1023",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MELI"
+    "tv_symbol": "NASDAQ:MELI",
+    "logo": "meli.svg",
+    "logo_credit": "MercadoLibre, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Mercado_Libre_wordmark_(Spanish_version).svg"
   },
   {
     "slug": "snps",
@@ -1118,7 +1184,10 @@
     "isin": "US8716071076",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:SNPS"
+    "tv_symbol": "NASDAQ:SNPS",
+    "logo": "snps.svg",
+    "logo_credit": "Synopsys, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Synopsys_Logo.svg"
   },
   {
     "slug": "mrna",
@@ -1134,7 +1203,10 @@
     "isin": "US60770K1079",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MRNA"
+    "tv_symbol": "NASDAQ:MRNA",
+    "logo": "mrna.svg",
+    "logo_credit": "Moderna, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Moderna_logo.svg"
   },
   {
     "slug": "csx",
@@ -1150,7 +1222,10 @@
     "isin": "US1264081035",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CSX"
+    "tv_symbol": "NASDAQ:CSX",
+    "logo": "csx.svg",
+    "logo_credit": "CSX Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ACSX_transp_logo.svg"
   },
   {
     "slug": "app",
@@ -1198,7 +1273,10 @@
     "isin": "US1729081059",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CTAS"
+    "tv_symbol": "NASDAQ:CTAS",
+    "logo": "ctas.svg",
+    "logo_credit": "Cintas Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Cintas_logo.svg"
   },
   {
     "slug": "intu",
@@ -1214,7 +1292,10 @@
     "isin": "US4612021034",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:INTU"
+    "tv_symbol": "NASDAQ:INTU",
+    "logo": "intu.svg",
+    "logo_credit": "Intuit Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Intuit_Logo.svg"
   },
   {
     "slug": "lite",
@@ -1230,7 +1311,10 @@
     "isin": "US55024U1097",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:LITE"
+    "tv_symbol": "NASDAQ:LITE",
+    "logo": "lite.svg",
+    "logo_credit": "Lumentum Holdings Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Lumentum_logo_dark_2015.svg"
   },
   {
     "slug": "regn",
@@ -1246,7 +1330,10 @@
     "isin": "US75886F1075",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:REGN"
+    "tv_symbol": "NASDAQ:REGN",
+    "logo": "regn.svg",
+    "logo_credit": "Regeneron Pharmaceuticals, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Regeneron_logo.svg"
   },
   {
     "slug": "mdlz",
@@ -1262,7 +1349,10 @@
     "isin": "US6092071058",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MDLZ"
+    "tv_symbol": "NASDAQ:MDLZ",
+    "logo": "mdlz.svg",
+    "logo_credit": "Mondelez International, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Mondelez_International.svg"
   },
   {
     "slug": "dash",
@@ -1278,7 +1368,10 @@
     "isin": "US25809K1051",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:DASH"
+    "tv_symbol": "NASDAQ:DASH",
+    "logo": "dash.svg",
+    "logo_credit": "DoorDash, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:DoorDash_Logo.svg"
   },
   {
     "slug": "cmcsa",
@@ -1294,7 +1387,10 @@
     "isin": "US20030N1019",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CMCSA"
+    "tv_symbol": "NASDAQ:CMCSA",
+    "logo": "cmcsa.svg",
+    "logo_credit": "Comcast Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AComcast_Logo.svg"
   },
   {
     "slug": "rost",
@@ -1310,7 +1406,10 @@
     "isin": "US7782961038",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ROST"
+    "tv_symbol": "NASDAQ:ROST",
+    "logo": "rost.svg",
+    "logo_credit": "Ross Stores, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Ross_Stores_logo.svg"
   },
   {
     "slug": "orly",
@@ -1326,7 +1425,10 @@
     "isin": "US67103H1077",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ORLY"
+    "tv_symbol": "NASDAQ:ORLY",
+    "logo": "orly.svg",
+    "logo_credit": "O'Reilly Automotive, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:O'Reilly_Auto_Parts_Logo.svg"
   },
   {
     "slug": "aep",
@@ -1342,7 +1444,10 @@
     "isin": "US0255371017",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AEP"
+    "tv_symbol": "NASDAQ:AEP",
+    "logo": "aep.svg",
+    "logo_credit": "American Electric Power Company, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AAEP_logo.svg"
   },
   {
     "slug": "hon",
@@ -1358,7 +1463,10 @@
     "isin": "US4385162056",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:HON"
+    "tv_symbol": "NASDAQ:HON",
+    "logo": "hon.svg",
+    "logo_credit": "Honeywell International Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Honeywell_logo.svg"
   },
   {
     "slug": "mpwr",
@@ -1374,7 +1482,10 @@
     "isin": "US6098391054",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MPWR"
+    "tv_symbol": "NASDAQ:MPWR",
+    "logo": "mpwr.svg",
+    "logo_credit": "Monolithic Power Systems, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Monolithic_Power_Systems_Logo.svg"
   },
   {
     "slug": "fast",
@@ -1390,7 +1501,10 @@
     "isin": "US3119001044",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:FAST"
+    "tv_symbol": "NASDAQ:FAST",
+    "logo": "fast.svg",
+    "logo_credit": "Fastenal Company",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Fastenal_logo.svg"
   },
   {
     "slug": "pcar",
@@ -1406,7 +1520,10 @@
     "isin": "US6937181088",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:PCAR"
+    "tv_symbol": "NASDAQ:PCAR",
+    "logo": "pcar.svg",
+    "logo_credit": "PACCAR Inc",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:PACCAR-logo.svg"
   },
   {
     "slug": "ter",
@@ -1422,7 +1539,10 @@
     "isin": "US8807701029",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TER"
+    "tv_symbol": "NASDAQ:TER",
+    "logo": "ter.svg",
+    "logo_credit": "Teradyne, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Teradyne_logo_2014.svg"
   },
   {
     "slug": "fang",
@@ -1470,7 +1590,10 @@
     "isin": "US05722G1004",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:BKR"
+    "tv_symbol": "NASDAQ:BKR",
+    "logo": "bkr.svg",
+    "logo_credit": "Baker Hughes Company",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ABaker_Hughes_logo.svg"
   },
   {
     "slug": "alab",
@@ -1518,7 +1641,10 @@
     "isin": "US0527691069",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:ADSK"
+    "tv_symbol": "NASDAQ:ADSK",
+    "logo": "adsk.svg",
+    "logo_credit": "Autodesk, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Autodesk_Logo_2021.svg"
   },
   {
     "slug": "xel",
@@ -1534,7 +1660,10 @@
     "isin": "US98389B1008",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:XEL"
+    "tv_symbol": "NASDAQ:XEL",
+    "logo": "xel.svg",
+    "logo_credit": "Xcel Energy Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Xcel-energy.svg"
   },
   {
     "slug": "ccep",
@@ -1550,7 +1679,10 @@
     "isin": "GB00BDCPN049",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CCEP"
+    "tv_symbol": "NASDAQ:CCEP",
+    "logo": "ccep.svg",
+    "logo_credit": "Coca-Cola Europacific Partners plc",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_Europacific_Partners_Logo_2021.svg"
   },
   {
     "slug": "tri",
@@ -1566,7 +1698,10 @@
     "isin": "CA8849038812",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TRI"
+    "tv_symbol": "NASDAQ:TRI",
+    "logo": "tri.svg",
+    "logo_credit": "Thomson Reuters Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Thomson_Reuters_logo.svg"
   },
   {
     "slug": "kdp",
@@ -1582,7 +1717,10 @@
     "isin": "US49271V1008",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:KDP"
+    "tv_symbol": "NASDAQ:KDP",
+    "logo": "kdp.svg",
+    "logo_credit": "Keurig Dr Pepper Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Keurig_Dr_Pepper.svg"
   },
   {
     "slug": "wday",
@@ -1598,7 +1736,10 @@
     "isin": "US98138H1014",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:WDAY"
+    "tv_symbol": "NASDAQ:WDAY",
+    "logo": "wday.svg",
+    "logo_credit": "Workday, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Workday_logo.svg"
   },
   {
     "slug": "exc",
@@ -1614,7 +1755,10 @@
     "isin": "US30161N1019",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:EXC"
+    "tv_symbol": "NASDAQ:EXC",
+    "logo": "exc.svg",
+    "logo_credit": "Exelon Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Exelon_logo.svg"
   },
   {
     "slug": "idxx",
@@ -1630,7 +1774,10 @@
     "isin": "US45168D1046",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:IDXX"
+    "tv_symbol": "NASDAQ:IDXX",
+    "logo": "idxx.svg",
+    "logo_credit": "IDEXX Laboratories, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:IDEXX_Labs.svg"
   },
   {
     "slug": "mchp",
@@ -1646,7 +1793,10 @@
     "isin": "US5950171042",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:MCHP"
+    "tv_symbol": "NASDAQ:MCHP",
+    "logo": "mchp.svg",
+    "logo_credit": "Microchip Technology Incorporated",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Microchip_Technology_logo.svg"
   },
   {
     "slug": "payx",
@@ -1662,7 +1812,10 @@
     "isin": "US7043261079",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:PAYX"
+    "tv_symbol": "NASDAQ:PAYX",
+    "logo": "payx.svg",
+    "logo_credit": "Paychex, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Paychex_logo.svg"
   },
   {
     "slug": "odfl",
@@ -1694,7 +1847,10 @@
     "isin": "US8740541094",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:TTWO"
+    "tv_symbol": "NASDAQ:TTWO",
+    "logo": "ttwo.svg",
+    "logo_credit": "Take-Two Interactive Software, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Take-Two_Interactive_Logo.svg"
   },
   {
     "slug": "rklb",
@@ -1710,7 +1866,10 @@
     "isin": "US7731211089",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:RKLB"
+    "tv_symbol": "NASDAQ:RKLB",
+    "logo": "rklb.svg",
+    "logo_credit": "Rocket Lab Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_logo.svg"
   },
   {
     "slug": "rop",
@@ -1761,7 +1920,10 @@
     "isin": "US05464C1018",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:AXON"
+    "tv_symbol": "NASDAQ:AXON",
+    "logo": "axon.svg",
+    "logo_credit": "Axon Enterprise, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:AXON_Company_logo.svg"
   },
   {
     "slug": "dxcm",
@@ -1777,7 +1939,10 @@
     "isin": "US2521311074",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:DXCM"
+    "tv_symbol": "NASDAQ:DXCM",
+    "logo": "dxcm.svg",
+    "logo_credit": "DexCom, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Dexcom_logo.svg"
   },
   {
     "slug": "gehc",
@@ -1793,7 +1958,10 @@
     "isin": "US36266G1076",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:GEHC"
+    "tv_symbol": "NASDAQ:GEHC",
+    "logo": "gehc.svg",
+    "logo_credit": "GE HealthCare Technologies Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:GE_HealthCare_logo_2023.svg"
   },
   {
     "slug": "alny",
@@ -1825,7 +1993,10 @@
     "isin": "US2172041061",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:CPRT"
+    "tv_symbol": "NASDAQ:CPRT",
+    "logo": "cprt.svg",
+    "logo_credit": "Copart, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ACopart_logo.svg"
   },
   {
     "slug": "goog",
@@ -1841,7 +2012,10 @@
     "isin": "US02079K1079",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-Nasdaq-100-UCITS-ETF",
     "api_enabled": true,
-    "tv_symbol": "NASDAQ:GOOG"
+    "tv_symbol": "NASDAQ:GOOG",
+    "logo": "googl.svg",
+    "logo_credit": "Alphabet Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Alphabet_Inc_Logo_2015.svg"
   },
   {
     "slug": "adidas",
@@ -1876,7 +2050,10 @@
     "isin": "DE000BASF111",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:BAS"
+    "tv_symbol": "XETR:BAS",
+    "logo": "basf.svg",
+    "logo_credit": "BASF SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ABASF-Logo_bw.svg"
   },
   {
     "slug": "bayer",
@@ -2098,7 +2275,10 @@
     "isin": "DE0006602006",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:G1A"
+    "tv_symbol": "XETR:G1A",
+    "logo": "gea-group.svg",
+    "logo_credit": "GEA Group AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:GEA_Logo_2022.svg"
   },
   {
     "slug": "hannover-re",
@@ -2247,7 +2427,10 @@
     "isin": "DE000A12DM80",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-DAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:G24"
+    "tv_symbol": "XETR:G24",
+    "logo": "scout24.svg",
+    "logo_credit": "Scout24 SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Scout24_Logo_2020.svg"
   },
   {
     "slug": "siemens-energy",
@@ -2377,7 +2560,10 @@
     "isin": "DE000A0WMPJ6",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:AIXA"
+    "tv_symbol": "XETR:AIXA",
+    "logo": "aixtron.svg",
+    "logo_credit": "AIXTRON SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Aixtron_Logo.svg"
   },
   {
     "slug": "aroundtown",
@@ -2393,7 +2579,10 @@
     "isin": "LU1673108939",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:AT1"
+    "tv_symbol": "XETR:AT1",
+    "logo": "aroundtown.svg",
+    "logo_credit": "Aroundtown SA",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AAroundtown_SA_logo.svg"
   },
   {
     "slug": "aurubis",
@@ -2409,7 +2598,10 @@
     "isin": "DE0006766504",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:NDA"
+    "tv_symbol": "XETR:NDA",
+    "logo": "aurubis.svg",
+    "logo_credit": "Aurubis AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Aurubis-Logo.svg"
   },
   {
     "slug": "bechtle",
@@ -2425,7 +2617,10 @@
     "isin": "DE0005158703",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:BC8"
+    "tv_symbol": "XETR:BC8",
+    "logo": "bechtle.svg",
+    "logo_credit": "Bechtle AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ABechtle_Logo.svg"
   },
   {
     "slug": "bilfinger",
@@ -2441,7 +2636,10 @@
     "isin": "DE0005909006",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:GBF"
+    "tv_symbol": "XETR:GBF",
+    "logo": "bilfinger.svg",
+    "logo_credit": "Bilfinger SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Bilfinger_Logo_Wordmark.svg"
   },
   {
     "slug": "cts-eventim",
@@ -2457,7 +2655,10 @@
     "isin": "DE0005470306",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:EVD"
+    "tv_symbol": "XETR:EVD",
+    "logo": "cts-eventim.svg",
+    "logo_credit": "CTS Eventim AG & Co. KGaA",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Eventim_4c_pos.svg"
   },
   {
     "slug": "delivery-hero",
@@ -2473,7 +2674,10 @@
     "isin": "DE000A2E4K43",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:DHER"
+    "tv_symbol": "XETR:DHER",
+    "logo": "delivery-hero.svg",
+    "logo_credit": "Delivery Hero SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Delivery_Hero_logo.svg"
   },
   {
     "slug": "lufthansa",
@@ -2508,7 +2712,10 @@
     "isin": "DE000A0Z2ZZ5",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:FNTN"
+    "tv_symbol": "XETR:FNTN",
+    "logo": "freenet.svg",
+    "logo_credit": "freenet AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Freenet_AG_Logo.svg"
   },
   {
     "slug": "hensoldt",
@@ -2524,7 +2731,10 @@
     "isin": "DE000HAG0005",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:HAG"
+    "tv_symbol": "XETR:HAG",
+    "logo": "hensoldt.svg",
+    "logo_credit": "HENSOLDT AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Hensoldt_Logo_2020.svg"
   },
   {
     "slug": "hochtief",
@@ -2556,7 +2766,10 @@
     "isin": "DE000A2NB601",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:JEN"
+    "tv_symbol": "XETR:JEN",
+    "logo": "jenoptik.svg",
+    "logo_credit": "Jenoptik AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Jenoptik-Logo_(Blue).svg"
   },
   {
     "slug": "k-s",
@@ -2572,7 +2785,10 @@
     "isin": "DE000KSAG888",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:SDF"
+    "tv_symbol": "XETR:SDF",
+    "logo": "k-s.svg",
+    "logo_credit": "K+S AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Kpluss-logo.svg"
   },
   {
     "slug": "kion-group",
@@ -2588,7 +2804,10 @@
     "isin": "DE000KGX8881",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:KGX"
+    "tv_symbol": "XETR:KGX",
+    "logo": "kion-group.svg",
+    "logo_credit": "KION GROUP AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Kion_Group_logo.svg"
   },
   {
     "slug": "knorr-bremse",
@@ -2620,7 +2839,10 @@
     "isin": "DE0006335003",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:KRN"
+    "tv_symbol": "XETR:KRN",
+    "logo": "krones.svg",
+    "logo_credit": "Krones AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Krones_Logo.svg"
   },
   {
     "slug": "lanxess",
@@ -2636,7 +2858,10 @@
     "isin": "DE0005470405",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:LXS"
+    "tv_symbol": "XETR:LXS",
+    "logo": "lanxess.svg",
+    "logo_credit": "LANXESS AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:LanXess-Logo.svg"
   },
   {
     "slug": "leg-immobilien",
@@ -2652,7 +2877,10 @@
     "isin": "DE000LEG1110",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:LEG"
+    "tv_symbol": "XETR:LEG",
+    "logo": "leg-immobilien.svg",
+    "logo_credit": "LEG Immobilien SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:LEG_Immobilien_Logo_2021.svg"
   },
   {
     "slug": "nemetschek",
@@ -2668,7 +2896,10 @@
     "isin": "DE0006452907",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:NEM"
+    "tv_symbol": "XETR:NEM",
+    "logo": "nemetschek.svg",
+    "logo_credit": "Nemetschek SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Nemetschek_AG_Logo.svg"
   },
   {
     "slug": "nordex",
@@ -2684,7 +2915,10 @@
     "isin": "DE000A0D6554",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:NDX1"
+    "tv_symbol": "XETR:NDX1",
+    "logo": "nordex.svg",
+    "logo_credit": "Nordex SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Nordex_Group_Logo.svg"
   },
   {
     "slug": "puma",
@@ -2719,7 +2953,10 @@
     "isin": "DE0007010803",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:RAA"
+    "tv_symbol": "XETR:RAA",
+    "logo": "rational.svg",
+    "logo_credit": "RATIONAL AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Rational_AG_201x_logo.svg"
   },
   {
     "slug": "rtl-group",
@@ -2735,7 +2972,10 @@
     "isin": "LU0061462528",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:RRTL"
+    "tv_symbol": "XETR:RRTL",
+    "logo": "rtl-group.svg",
+    "logo_credit": "RTL Group S.A.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:RTL_Group_2021.svg"
   },
   {
     "slug": "siltronic",
@@ -2751,7 +2991,10 @@
     "isin": "DE000WAF3001",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:WAF"
+    "tv_symbol": "XETR:WAF",
+    "logo": "siltronic.svg",
+    "logo_credit": "Siltronic AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Siltronic_Logo.svg"
   },
   {
     "slug": "talanx",
@@ -2767,7 +3010,10 @@
     "isin": "DE000TLX1005",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:TLX"
+    "tv_symbol": "XETR:TLX",
+    "logo": "talanx.svg",
+    "logo_credit": "Talanx AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Talanx.svg"
   },
   {
     "slug": "thyssenkrupp",
@@ -2783,7 +3029,10 @@
     "isin": "DE0007500001",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:TKA"
+    "tv_symbol": "XETR:TKA",
+    "logo": "thyssenkrupp.svg",
+    "logo_credit": "thyssenkrupp AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Thyssenkrupp_AG_Logo_2015.svg"
   },
   {
     "slug": "traton",
@@ -2799,7 +3048,10 @@
     "isin": "DE000TRAT0N7",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:8TRA"
+    "tv_symbol": "XETR:8TRA",
+    "logo": "traton.svg",
+    "logo_credit": "TRATON SE",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Traton_SE_logo.svg"
   },
   {
     "slug": "tui",
@@ -2815,7 +3067,10 @@
     "isin": "DE000TUAG505",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:TUI1"
+    "tv_symbol": "XETR:TUI1",
+    "logo": "tui.svg",
+    "logo_credit": "TUI AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:TUI_Logo_2016.svg"
   },
   {
     "slug": "united-internet",
@@ -2847,7 +3102,10 @@
     "isin": "DE000WCH8881",
     "isin_source": "https://www.deka-etf.de/etfs/Deka-MDAX-UCITS-ETF/composition_data",
     "api_enabled": false,
-    "tv_symbol": "XETR:WCH"
+    "tv_symbol": "XETR:WCH",
+    "logo": "wacker-chemie.svg",
+    "logo_credit": "Wacker Chemie AG",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Wacker_Chemie.svg"
   },
   {
     "slug": "abbv",
@@ -2863,7 +3121,10 @@
     "api_enabled": true,
     "isin": "US00287Y1091",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:ABBV"
+    "tv_symbol": "NYSE:ABBV",
+    "logo": "abbv.svg",
+    "logo_credit": "AbbVie Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AAbbVie_logo.svg"
   },
   {
     "slug": "abt",
@@ -2879,7 +3140,10 @@
     "api_enabled": true,
     "isin": "US0028241000",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:ABT"
+    "tv_symbol": "NYSE:ABT",
+    "logo": "abt.svg",
+    "logo_credit": "Abbott Laboratories",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AAbbott_Laboratories_logo.svg"
   },
   {
     "slug": "acn",
@@ -2971,7 +3235,10 @@
     "api_enabled": true,
     "isin": "US1101221083",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:BMY"
+    "tv_symbol": "NYSE:BMY",
+    "logo": "bmy.svg",
+    "logo_credit": "Bristol-Myers Squibb Company",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3ABristol-Myers_Squibb_logo.svg"
   },
   {
     "slug": "brk-b",
@@ -3006,7 +3273,10 @@
     "api_enabled": true,
     "isin": "US1729674242",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:C"
+    "tv_symbol": "NYSE:C",
+    "logo": "c.svg",
+    "logo_credit": "Citigroup Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Citi_logo_March_2023.svg"
   },
   {
     "slug": "cat",
@@ -3041,7 +3311,10 @@
     "api_enabled": true,
     "isin": "US20825C1045",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:COP"
+    "tv_symbol": "NYSE:COP",
+    "logo": "cop.svg",
+    "logo_credit": "ConocoPhillips",
+    "logo_source": "https://commons.wikimedia.org/wiki/File%3AConocoPhillips_Logo.svg"
   },
   {
     "slug": "cvs",
@@ -3057,7 +3330,10 @@
     "api_enabled": true,
     "isin": "US1266501006",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:CVS"
+    "tv_symbol": "NYSE:CVS",
+    "logo": "cvs.svg",
+    "logo_credit": "CVS Health Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:CVS_Health_logo.svg"
   },
   {
     "slug": "cvx",
@@ -3108,7 +3384,10 @@
     "api_enabled": true,
     "isin": "US31428X1063",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:FDX"
+    "tv_symbol": "NYSE:FDX",
+    "logo": "fdx.svg",
+    "logo_credit": "FedEx Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:FedEx_Express.svg"
   },
   {
     "slug": "gd",
@@ -3124,7 +3403,10 @@
     "api_enabled": true,
     "isin": "US3695501086",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:GD"
+    "tv_symbol": "NYSE:GD",
+    "logo": "gd.svg",
+    "logo_credit": "General Dynamics Corporation",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:General_Dynamics_logo.svg"
   },
   {
     "slug": "gm",
@@ -3140,7 +3422,10 @@
     "api_enabled": true,
     "isin": "US37045V1008",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:GM"
+    "tv_symbol": "NYSE:GM",
+    "logo": "gm.svg",
+    "logo_credit": "General Motors Company",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:General_Motors_2021_gloss.svg"
   },
   {
     "slug": "gs",
@@ -3213,7 +3498,10 @@
     "api_enabled": true,
     "isin": "US02209S1033",
     "isin_source": "https://markets.businessinsider.com/index/market-capitalization/s&p_100",
-    "tv_symbol": "NYSE:MO"
+    "tv_symbol": "NYSE:MO",
+    "logo": "mo.svg",
+    "logo_credit": "Altria Group, Inc.",
+    "logo_source": "https://commons.wikimedia.org/wiki/File:Altria_logo.svg"
   },
   {
     "slug": "t",
