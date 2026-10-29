@@ -1,0 +1,29 @@
+{
+  "slug": "oel-check-2026-10-29",
+  "title": "Öl-Check: Brent legt zu, WTI bleibt knapp über 100 US-Dollar",
+  "description": "WTI bei 101,98 US-Dollar, Brent bei 115,32 US-Dollar - die Ölpreise vom Abend des 28. Oktober 2026 und warum sich die beiden Sorten unterscheiden.",
+  "section": "markt",
+  "date": "2026-10-29T07:59:30+01:00",
+  "body": "<p>Beim Ölpreis bewegten sich die beiden Referenzsorten zuletzt in unterschiedliche Richtungen. Die US-Sorte WTI notierte am Abend des 28. Oktober 2026 bei 101,98 US-Dollar je Barrel, ein Minus von 0,78 Prozent (Stand finanzen.net: 23:37 Uhr). Die Nordsee-Sorte Brent lag zur gleichen Zeit bei 115,32 US-Dollar, ein Plus von 1,26 Prozent (Stand: 23:00 Uhr). In der Kursübersicht der tagesschau.de stand die Sorte Brent Dated am 28. Oktober um 17:50 Uhr bei 112,30 US-Dollar (plus 2,39 Prozent).</p><h2>Blick auf die Woche</h2><p>Die historische Kurstabelle auf finanzen.net zeigt für WTI zuletzt einen Schlusskurs von 103,27 US-Dollar am 23. Oktober; Brent schloss an diesem Tag bei 116,72 US-Dollar. Beide Sorten bewegen sich damit weiter deutlich über der 100-Dollar-Marke (WTI) beziehungsweise 110-Dollar-Marke (Brent).</p><h2>Warum zwei Preise?</h2><p>Brent und WTI entwickeln sich häufig unterschiedlich, weil sie an verschiedenen Orten gefördert und über andere Transportwege bewegt werden. Auch unterschiedliche Handelszeiten und regionale Marktbedingungen sorgen für Abweichungen - so erklärt es finanzen.net auf seiner Ölpreisseite. Brent stammt aus der Nordsee und ist die wichtigste Referenz für Europa, WTI (West Texas Intermediate) ist die maßgebliche US-Sorte. Die Differenz zwischen beiden liegt aktuell bei gut 13 US-Dollar je Barrel.</p><h2>Einordnung</h2><p>Ölpreise reagieren empfindlich auf Nachrichten zu Angebot und Nachfrage - Tagesbewegungen in beide Richtungen sind üblich. Alle Zahlen hier tragen Datum und Uhrzeit ihrer Quelle; sie sind Schnappschüsse, keine Prognosen.</p>",
+  "image": "/images/oel-check-2026-10-29.jpg",
+  "sources": [
+    {
+      "title": "Ölpreis WTI Brent (finanzen.net), Stand 28.10.2026, 23:37 Uhr",
+      "url": "https://www.finanzen.net/rohstoffe/oelpreis"
+    },
+    {
+      "title": "Börsenkurse und Charts (tagesschau.de), Stand 28.10.2026, 17:50 Uhr",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Barrel Öl gerade?",
+      "a": "Am Abend des 28. Oktober 2026 notierte WTI bei 101,98 US-Dollar (23:37 Uhr) und Brent bei 115,32 US-Dollar (23:00 Uhr), jeweils laut finanzen.net."
+    },
+    {
+      "q": "Warum ist Brent teurer als WTI?",
+      "a": "Die Sorten werden an unterschiedlichen Orten gefördert und gehandelt; Transportwege, Handelszeiten und regionale Marktbedingungen führen zu Preisunterschieden. Zum genannten Zeitpunkt lag die Differenz bei gut 13 US-Dollar je Barrel."
+    }
+  ]
+}
