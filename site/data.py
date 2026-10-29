@@ -12,14 +12,25 @@ import urllib.error
 def gget(u,q):
     rec={'query':q}
     GDELT_STATUS.append(rec)
+    def rl(h):
+        # Rate-Limit-Metadaten protokollieren (nur Header, keine Payloads)
+        out={}
+        for k in ('Retry-After','X-RateLimit-Limit','X-RateLimit-Remaining','X-RateLimit-Reset','RateLimit-Limit','RateLimit-Remaining','RateLimit-Reset'):
+            v=h.get(k)
+            if v: out[k]=str(v)[:60]
+        return out
     try:
         r=urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=15)
         rec['status']=r.status
+        h=rl(r.headers)
+        if h: rec['rate_headers']=h
         return r.read(),rec
     except urllib.error.HTTPError as e:
-        # Throttling respektieren: Status + Retry-After nur protokollieren, kein Retry/Umgehung
+        # Throttling respektieren: Status + Header nur protokollieren, kein Retry/Umgehung
         rec.update(status=e.code,retry_after=e.headers.get('Retry-After') or '')
-        print('GDELT HTTP',e.code,'retry-after',e.headers.get('Retry-After'))
+        h=rl(e.headers)
+        if h: rec['rate_headers']=h
+        print('GDELT HTTP',e.code,'retry-after',e.headers.get('Retry-After'),h)
         return None,rec
     except Exception as e:
         rec.update(status='ERR',error=str(e)[:120])
