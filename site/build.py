@@ -52,7 +52,7 @@ header{background:var(--pA);-webkit-backdrop-filter:blur(14px) saturate(1.5);bac
 .badge{display:inline-block;background:var(--p2);border:1px solid var(--b);color:var(--mut);font-size:11px;font-weight:600;padding:3px 10px;border-radius:999px;margin-left:8px;vertical-align:middle;letter-spacing:.01em}
 .pg{max-width:800px;margin:0 auto;padding:30px 20px}.pg h1{color:var(--hd);letter-spacing:-.02em}.pg h2{color:var(--hd);margin-top:26px;letter-spacing:-.01em}.pg p{line-height:1.7}
 .crumbs{font-size:12px;color:var(--mut);max-width:1500px;margin:14px auto 0;padding:0 20px}.crumbs a{color:var(--mut);text-decoration:underline;text-underline-offset:2px}
-.artimg{margin:0 0 18px}.artimg img{width:100%;height:auto;border-radius:14px;display:block;box-shadow:var(--sh)}
+.artimg{margin:0 0 18px}.artimg img{width:100%;height:auto;border-radius:14px;display:block;box-shadow:var(--sh)}.artimg figcaption{font-size:12px;color:var(--mut);margin-top:6px}
 .art{max-width:820px;margin:0 auto;padding:24px 20px}.art h1{color:var(--hd);font-size:clamp(26px,3.2vw,34px);font-weight:800;line-height:1.22;margin:0 0 10px;letter-spacing:-.025em}.art .by{color:var(--mut);font-size:13px;margin-bottom:18px}.art .body{font-size:16.5px;line-height:1.78}.art .body h2{color:var(--hd);font-size:22px;font-weight:800;letter-spacing:-.02em;margin:32px 0 10px}.art .body h3{color:var(--hd);font-size:17px;font-weight:700;margin:24px 0 8px}.art .body p{margin:0 0 14px}.art .body ul,.art .body ol{margin:0 0 14px;padding-left:22px}.art .body li{margin-bottom:6px}.art .body a{color:var(--ac);text-decoration:underline;text-underline-offset:3px}
 .note{background:var(--acbg);border:1px solid var(--b);border-radius:10px;padding:13px 16px;font-size:13px;color:var(--mut);margin:18px 0}.note b{color:var(--fg)}
 .faq{border-top:1px solid var(--b);margin-top:22px;padding-top:14px}.faq h2{color:var(--hd);font-size:19px;margin:0 0 10px;letter-spacing:-.01em}.faq details{border:1px solid var(--b);border-radius:10px;padding:11px 15px;margin-bottom:8px;background:var(--p);transition:border-color .15s ease}.faq details:hover{border-color:var(--mut)}.faq summary{cursor:pointer;font-weight:600;color:var(--hd)}.faq p{color:var(--fg);margin:8px 0 0;line-height:1.6}
@@ -172,7 +172,8 @@ def _art_body(a):
     if a.get('image'):
         im=a['image']; im8=im[:-4]+'-800.jpg' if im.endswith('.jpg') else ''
         srcset=' srcset="%s 800w, %s 1600w" sizes="(max-width: 860px) 100vw, 820px"'%(esc(im8),esc(im)) if im8 and os.path.exists('../images/'+im8.split('/')[-1]) else ''
-        img='<figure class="artimg"><img src="%s"%s alt="%s" width="1600" height="900" loading="lazy"></figure>'%(esc(im),srcset,esc(a['title']))
+        cap='<figcaption>%s</figcaption>'%esc(a['image_caption']) if a.get('image_caption') else ''
+        img='<figure class="artimg"><img src="%s"%s alt="%s" width="1600" height="900" loading="lazy">%s</figure>'%(esc(im),srcset,esc(a['title']),cap)
     chip='<span class="badge">%s</span>'%esc(a.get('section','Artikel'))
     faq=''
     if a.get('faq'):
