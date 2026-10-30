@@ -1,0 +1,39 @@
+{
+  "slug": "dax-wochenrueckblick-2026-10-30",
+  "title": "DAX-Wochenrückblick: Vier Handelstage, vier Tagesgewinne",
+  "description": "Der DAX ist diese Woche an allen vier Handelstagen gestiegen und hat die 26.000 zurückerobert - die Wochenbilanz vom 30. Oktober 2026.",
+  "section": "markt",
+  "date": "2026-10-30T07:56:00+01:00",
+  "body": "<p>Vier Handelstage, vier Tagesgewinne: Der DAX geht mit einer durchgehend positiven Woche ins Wochenende. Die Schlusskurse aus der Kursübersicht der tagesschau.de (jeweils Stand 17:50 Uhr): Montag, 26. Oktober: 25.410,84 Punkte (plus 0,91 Prozent). Dienstag, 27. Oktober: 25.590,77 Punkte (plus 0,71 Prozent). Mittwoch, 28. Oktober: 25.704,02 Punkte (plus 0,44 Prozent). Donnerstag, 29. Oktober: 26.039,68 Punkte (plus 1,31 Prozent).</p><h2>Rechnerische Wochenbilanz</h2><p>Vom Schlusskurs der Vorwoche (Freitag, 23. Oktober: 25.181,65 Punkte) bis zum Schlusskurs am Donnerstag (26.039,68 Punkte) ergibt sich ein rechnerisches Wochenplus von rund 3,4 Prozent - Bezugsbasis und Werte aus der Historientabelle unter finanzen.net/index/dax. Damit steht der Index wieder über der Marke von 26.000 Punkten, die er in der Vorwoche noch unterboten hatte. Heute, am letzten Handelstag der Woche, ist der Kurs zum Redaktionszeitpunkt noch nicht festgestellt - die Wochenbilanz gilt daher bis einschließlich Donnerstag.</p><h2>Was die Woche geprägt hat</h2><p>Im Mittelpunkt standen die Zentralbanken: Die Fed ließ am Mittwoch ihren Leitzins-Korridor unverändert bei 3,75 bis 4,0 Prozent, die EZB folgte am Donnerstag mit unveränderten Sätzen von 2,50, 2,65 und 2,90 Prozent. Auffällig in der Einzelwert-Schau: Am Mittwoch fiel Boeing in den USA zweistellig (minus 10,69 Prozent), am Donnerstag verlor Alphabet 12,64 Prozent, während im DAX Adidas (plus 5,76 Prozent) und die Deutsche Bank (plus 3,78 Prozent) oben standen. In Deutschland fiel am Dienstag Symrise mit minus 10,24 Prozent auf.</p><h2>Einordnung</h2><p>Vier Plus-Tage in Folge sind eine solide Woche, aber keine Richtungsaussage für die Zukunft. Alle Zahlen hier stammen aus den genannten Quellen mit ihren jeweiligen Zeitstempeln; die Wochenveränderung ist aus Vorwochens- und Donnerstags-Schlusskurs gerechnet.</p>",
+  "image": "/images/dax-wochenrueckblick-2026-10-30.jpg",
+  "sources": [
+    {
+      "title": "Börsenkurse und Charts (tagesschau.de), tägliche Stände 26.-29.10.2026, jeweils 17:50 Uhr",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement (28.10.2026)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "title": "Geldpolitische Beschlüsse der EZB (29.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.de.html"
+    },
+    {
+      "title": "DAX - Historische Kurse",
+      "publisher": "finanzen.net",
+      "url": "https://www.finanzen.net/index/dax",
+      "accessed": "2026-10-30"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lief der DAX diese Woche?",
+      "a": "Alle vier Handelstage endeten im Plus: 25.410,84 (Mo), 25.590,77 (Di), 25.704,02 (Mi) und 26.039,68 Punkte (Do). Rechnerisch ergibt das rund 3,4 Prozent Wochenplus bis einschließlich Donnerstag."
+    },
+    {
+      "q": "Was waren die Themen der Woche?",
+      "a": "Die Zinsentscheide von Fed (Mittwoch) und EZB (Donnerstag), beide ohne Veränderung, sowie kräftige Einzelbewegungen wie Boeing, Alphabet (beide zweistellig im Minus) und Adidas im Plus."
+    }
+  ]
+}

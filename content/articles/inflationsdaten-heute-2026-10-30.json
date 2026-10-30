@@ -1,0 +1,37 @@
+{
+  "slug": "inflationsdaten-heute-2026-10-30",
+  "title": "Inflation und BIP: Welche Daten heute kommen - und wie du sie liest",
+  "description": "Heute erscheinen die vorläufige Oktober-Inflation und die BIP-Schnellmeldung. Was die Zahlen bedeuten, was vorläufig heißt und wo sie erscheinen.",
+  "section": "einordnung",
+  "date": "2026-10-30T07:56:00+01:00",
+  "body": "<p>Heute ist Daten-Freitag: Das Statistische Bundesamt veröffentlicht laut seiner Wochenvorschau um 10:00 Uhr die Schnellmeldung zum Bruttoinlandsprodukt (BIP) im dritten Quartal 2026 und im Laufe des Tages die vorläufigen Verbraucherpreise für Oktober. Dazu kommen die Arbeitsmarktstatistik und die Außenhandelspreise für September. Die konkreten Zahlen sind zum Redaktionszeitpunkt am Morgen noch nicht draußen.</p><h2>Was der Verbraucherpreisindex misst</h2><p>Der Verbraucherpreisindex (VPI) misst monatlich, wie sich die Preise aller Waren und Dienstleistungen entwickeln, die private Haushalte in Deutschland kaufen. Grundlage ist ein Warenkorb mit rund 700 Güterarten. Die Veränderung gegenüber dem Vorjahresmonat ist die Inflationsrate. Zuletzt lag sie im September 2026 bei 3,3 Prozent; Energie verteuerte sich um 14,9 Prozent, Nahrungsmittel nur um 0,4 Prozent (jeweils gegenüber dem Vorjahresmonat). Für den europäischen Vergleich gibt es zusätzlich den Harmonisierten Verbraucherpreisindex (HVPI), der nach einheitlichen EU-Regeln berechnet wird.</p><h2>Was heißt vorläufig?</h2><p>Die heutige Oktober-Zahl ist eine Schnellschätzung: Destatis veröffentlicht sie auf Basis der bis dahin vorliegenden Daten und rechnet sie später mit dem vollständigen Datenstand fort. Die endgültigen Oktober-Werte folgen daher zu einem späteren Termin. Bei der BIP-Schnellmeldung gilt Ähnliches: Sie liefert die erste Schätzung des Wirtschaftswachstums im Quartal; Detailergebnisse kommen später.</p><h2>Warum diese Daten wichtig sind</h2><p>Die Inflationsrate ist die zentrale Zielgröße der Geldpolitik: Die EZB will die Teuerung mittelfristig bei 2 Prozent stabilisieren - erst gestern hat sie ihre Leitzinsen mit Verweis auf die Datenlage unverändert gelassen. Das BIP wiederum zeigt, ob die Wirtschaft wächst oder schrumpft. Beide Veröffentlichungen findest du im Original auf den Seiten des Statistischen Bundesamts (Quellen unten).</p>",
+  "image": "/images/inflationsdaten-heute-2026-10-30.jpg",
+  "sources": [
+    {
+      "title": "Wochenvorschau (destatis.de)",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    },
+    {
+      "title": "Verbraucherpreisindex und Inflationsrate (destatis.de)",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html"
+    },
+    {
+      "title": "Geldpolitische Beschlüsse der EZB (29.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann kommen die heutigen Zahlen?",
+      "a": "Die BIP-Schnellmeldung für das 3. Quartal erscheint um 10:00 Uhr, die vorläufigen Verbraucherpreise für Oktober im Laufe des Tages (Destatis-Wochenvorschau)."
+    },
+    {
+      "q": "Wie hoch war die Inflation zuletzt?",
+      "a": "Im September 2026 lag die Inflationsrate in Deutschland bei 3,3 Prozent gegenüber dem Vorjahresmonat; Energie kostete 14,9 Prozent mehr, Nahrungsmittel 0,4 Prozent mehr (Destatis)."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen VPI und HVPI?",
+      "a": "Der VPI misst die Preisentwicklung für deutsche Haushalte nach nationaler Methodik. Der HVPI wird nach einheitlichen EU-Regeln berechnet und dient dem europäischen Vergleich."
+    }
+  ]
+}

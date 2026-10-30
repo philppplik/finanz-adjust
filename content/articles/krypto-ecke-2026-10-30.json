@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-30",
+  "title": "Krypto-Ecke: Bitcoin, Ethereum und Solana am Morgen des 30. Oktober",
+  "description": "Bitcoin bei 78.324 US-Dollar, Ethereum bei 2.242 US-Dollar, Solana bei 97,82 US-Dollar - die Kurse vom 30. Oktober 2026, 07:50 Uhr, im Überblick.",
+  "section": "krypto",
+  "date": "2026-10-30T07:56:00+01:00",
+  "body": "<p>Kurzer Blick auf die großen Kryptowährungen am Morgen. Die folgenden Kurse stammen aus der CoinGecko-API, abgerufen von uns am 30. Oktober 2026 um 07:50 Uhr (MEZ):</p><p>Bitcoin (BTC) notierte bei 78.324 US-Dollar beziehungsweise 70.042 Euro. Gegenüber dem Vortag ist das ein Minus von rund 1,9 Prozent in US-Dollar und rund 2,3 Prozent in Euro. Ethereum (ETH) stand bei 2.241,64 US-Dollar beziehungsweise 2.004,63 Euro, ein Minus von rund 2,9 Prozent in US-Dollar. Solana (SOL) lag bei 97,82 US-Dollar beziehungsweise 87,47 Euro, ein Minus von rund 2,1 Prozent in US-Dollar.</p><h2>Was bedeutet die 24-Stunden-Veränderung?</h2><p>Die Prozentangaben beziehen sich auf den Kurs vor 24 Stunden zum Abrufzeitpunkt. Kryptowährungen werden rund um die Uhr gehandelt - es gibt keinen offiziellen Schlusskurs wie an der Börse. Jede Angabe ist deshalb nur ein Schnappschuss. Unterschiede zwischen der Veränderung in US-Dollar und in Euro entstehen durch den Wechselkurs, der sich im gleichen Zeitraum ebenfalls bewegt.</p><h2>Einordnung</h2><p>Zum Wochenschluss zeigen alle drei Werte im Tagesvergleich nach unten - den dritten Handelstag in Folge mit Tagesminus zum jeweiligen Abrufzeitpunkt unserer Morgenabfragen. Ob daraus eine längere Bewegung wird, ist offen; einzelne Tageswerte sagen dazu nichts aus. Wer Kurse verfolgt, sollte immer den Zeitpunkt der Abfrage und die Quelle kennen - beides findest du in diesem Artikel.</p><p>Kursdaten: CoinGecko (coingecko.com), API-Abruf am 30.10.2026, 07:50 Uhr (MEZ).</p>",
+  "image": "/images/krypto-ecke-2026-10-30.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko API, Simple Price (Abruf 30.10.2026, 07:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    },
+    {
+      "title": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher kommen die Kurse?",
+      "a": "Aus der öffentlichen CoinGecko-API, die wir am 30. Oktober 2026 um 07:50 Uhr (MEZ) selbst abgefragt haben. Der genaue Abruf-Link steht in den Quellen."
+    },
+    {
+      "q": "Warum unterscheiden sich Prozentwerte in Dollar und Euro?",
+      "a": "Weil sich auch der EUR/USD-Wechselkurs bewegt. Die 24-Stunden-Veränderung in Euro enthält deshalb neben der Kursbewegung der Kryptowährung auch die Bewegung des Wechselkurses."
+    }
+  ]
+}
