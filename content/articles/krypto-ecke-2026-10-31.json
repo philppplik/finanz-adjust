@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-10-31",
+  "title": "Krypto-Ecke: Bitcoin, Ethereum und Solana am Morgen des 31. Oktober",
+  "description": "Bitcoin bei 77.273 US-Dollar, Ethereum bei 2.245 US-Dollar, Solana bei 96,04 US-Dollar - die Kurse vom 31. Oktober 2026, 07:50 Uhr, im Überblick.",
+  "section": "krypto",
+  "date": "2026-10-31T07:00:00+01:00",
+  "body": "<p>Kurzer Blick auf die großen Kryptowährungen am Samstagmorgen. Die folgenden Kurse stammen aus der CoinGecko-API, abgerufen von uns am 31. Oktober 2026 um 07:50 Uhr (MEZ):</p><p>Bitcoin (BTC) notierte bei 77.273 US-Dollar beziehungsweise 68.997 Euro. Gegenüber dem Vortag ist das ein Minus von rund 1,4 Prozent in US-Dollar und rund 1,5 Prozent in Euro. Ethereum (ETH) stand bei 2.245,16 US-Dollar beziehungsweise 2.004,69 Euro - nahezu unverändert (plus 0,08 Prozent in US-Dollar, minus 0,08 Prozent in Euro). Solana (SOL) lag bei 96,04 US-Dollar beziehungsweise 85,76 Euro, ein Minus von rund 1,9 Prozent in US-Dollar.</p><h2>Was bedeutet die 24-Stunden-Veränderung?</h2><p>Die Prozentangaben beziehen sich auf den Kurs vor 24 Stunden zum Abrufzeitpunkt. Kryptowährungen werden rund um die Uhr gehandelt - auch am Wochenende, während die klassischen Börsen geschlossen sind. Es gibt keinen offiziellen Schlusskurs; jede Angabe ist ein Schnappschuss. Unterschiede zwischen der Veränderung in US-Dollar und in Euro entstehen durch den Wechselkurs.</p><h2>Einordnung</h2><p>Bitcoin und Solana setzten zum Wochenende ihre Tagesverluste der vergangenen Morgenabfragen fort, Ethereum hielt sich seitwärts. Solche Wochenendbewegungen entstehen oft bei dünnerem Handel - sie sind keine Richtungsaussage für die kommende Woche. Wer Kurse verfolgt, sollte immer den Zeitpunkt der Abfrage und die Quelle kennen - beides findest du in diesem Artikel.</p><p>Kursdaten: CoinGecko (coingecko.com), API-Abruf am 31.10.2026, 07:50 Uhr (MEZ).</p>",
+  "image": "/images/krypto-ecke-2026-10-31.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko API, Simple Price (Abruf 31.10.2026, 07:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    },
+    {
+      "title": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher kommen die Kurse?",
+      "a": "Aus der öffentlichen CoinGecko-API, die wir am 31. Oktober 2026 um 07:50 Uhr (MEZ) selbst abgefragt haben. Der genaue Abruf-Link steht in den Quellen."
+    },
+    {
+      "q": "Wird Krypto auch am Wochenende gehandelt?",
+      "a": "Ja. Im Gegensatz zu Aktienbörsen läuft der Handel mit Kryptowährungen rund um die Uhr, auch samstags und sonntags. Das Volumen ist am Wochenende aber oft geringer, was Bewegungen verstärken kann."
+    }
+  ]
+}
