@@ -1,0 +1,33 @@
+{
+  "slug": "wochenvorschau-kw45-2026-11-01",
+  "title": "Wochenvorschau KW 45: Diese Konjunkturdaten kommen aus Wiesbaden",
+  "description": "Einzelhandel, Industrieaufträge und Produktionsindex: Die Statistik-Termine der 45. Kalenderwoche 2026 im Überblick.",
+  "section": "einordnung",
+  "date": "2026-11-01T07:55:00+01:00",
+  "body": "<p>Neue Woche, neue Daten: Das Statistische Bundesamt hat seine Veröffentlichungstermine für die 45. Kalenderwoche (bis 6. November 2026) bekannt gegeben. Für Finanzleser sind vor allem drei Termine relevant - die Meldungen erscheinen in der Regel um 8:00 Uhr (MEZ).</p><h2>Montag, 2. November: Einzelhandel</h2><p>Zum Wochenstart kommen die Umsatzzahlen des Einzelhandels für September 2026. Der Einzelhandelsumsatz gilt als wichtiger Indikator für die Konsumstimmung der privaten Haushalte - gerade vor dem Hintergrund, dass der Konsum im dritten Quartal laut BIP-Schnellmeldung nur leicht positiv war.</p><h2>Donnerstag, 5. November: Industrie-Aufträge und -Umsatz</h2><p>Destatis veröffentlicht Auftragseingang und Umsatz im verarbeitenden Gewerbe für September. Der Auftragseingang zeigt, wie gefüllt die Auftragsbücher der Industrie sind - ein Frühindikator für die Produktion der kommenden Monate. Am selben Tag erscheinen außerdem die Dienstleistungsumsätze für August und die Arbeitskostenerhebung für 2024.</p><h2>Freitag, 6. November: Produktionsindex</h2><p>Die Woche endet mit dem Produktionsindex für September - der gemessenen Produktion der Industrie. Nach den Auftragsdaten vom Donnerstag ergibt sich damit am Freitag ein vollständigeres Bild der Industriekonjunktur. International steht am selben Tag der US-Arbeitsmarktbericht für Oktober an (14:30 Uhr deutscher Zeit laut BLS-Kalender).</p><h2>Einordnung</h2><p>Nach der Zentralbank-Woche rückt jetzt die reale Wirtschaft in den Fokus: Konsum, Aufträge, Produktion. Alle drei Bausteine beziehen sich auf den September und ergänzen das Bild, das die BIP-Schnellmeldung fürs dritte Quartal gezeichnet hat. Wie die Zahlen ausfallen, ist offen - wir berichten, sobald sie draußen sind.</p>",
+  "image": "/images/wochenvorschau-kw45-2026-11-01.jpg",
+  "sources": [
+    {
+      "title": "Wochenvorschau KW 45 (destatis.de), Stand 30.10.2026",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    },
+    {
+      "title": "Pressemitteilung Nr. 381 vom 30.10.2026: BIP (destatis.de)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_381_811.html"
+    },
+    {
+      "title": "Schedule of Releases for the Employment Situation (bls.gov)",
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welcher Statistik-Termin ist der wichtigste?",
+      "a": "Für die Industriekonjunktur der Auftragseingang am Donnerstag (5.11.) und der Produktionsindex am Freitag (6.11.); für die Konsumseite der Einzelhandelsumsatz am Montag (2.11.). Alle erscheinen um 8:00 Uhr (MEZ)."
+    },
+    {
+      "q": "Kommt auch was aus den USA?",
+      "a": "Ja: Am Freitag, 6. November, veröffentlicht das Bureau of Labor Statistics den Arbeitsmarktbericht für Oktober um 08:30 Uhr New Yorker Zeit - 14:30 Uhr in Deutschland."
+    }
+  ]
+}

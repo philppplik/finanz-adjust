@@ -1,0 +1,29 @@
+{
+  "slug": "zinsen-usa-eurozone-2026-11-01",
+  "title": "Zinsen im Vergleich: 3,75 bis 4,0 Prozent in den USA, 2,65 Prozent im Euroraum",
+  "description": "Fed und EZB haben diese Woche beide nichts geändert - aber auf unterschiedlichem Niveau. Der neutrale Vergleich der Leitzinsen.",
+  "section": "einordnung",
+  "body": "<p>Beide großen Zentralbanken haben diese Woche ihre Leitzinsen unverändert gelassen - aber auf deutlich unterschiedlichem Niveau. Zeit für den neutralen Zahlenvergleich.</p><h2>Die Stände im Überblick</h2><p>In den USA liegt der Zielkorridor für den Federal Funds Rate nach dem FOMC-Beschluss vom 28. Oktober 2026 bei 3,75 bis 4,0 Prozent. Im Euroraum gelten nach dem EZB-Beschluss vom 29. Oktober 2026: Einlagefazilität 2,50 Prozent, Hauptrefinanzierungsgeschäfte 2,65 Prozent, Spitzenrefinanzierungsfazilität 2,90 Prozent. Die Differenz zwischen dem US-Korridor und dem europäischen Hauptrefinanzierungssatz beträgt damit gut 1,1 bis 1,35 Prozentpunkte.</p><h2>Warum die Niveaus unterschiedlich sind</h2><p>Leitzinsen spiegeln die jeweilige Wirtschafts- und Inflationslage wider - und beide Notenbanken begründen ihre Kurse unterschiedlich. Die Fed beschreibt in ihrer Mitteilung eine stark wachsende Wirtschaft bei weiterhin erhöhter Inflation. Die EZB verweist auf steigende Energiepreise mit Risiken für Inflation und Wachstum zugleich und auf verschärfte Finanzierungsbedingungen. Beide betonen ihr 2-Prozent-Inflationsziel; die EZB legt sich nicht im Voraus auf einen Zinspfad fest, die Fed macht ihren Kurs von den kommenden Daten abhängig.</p><h2>Was der Unterschied bedeutet - und was nicht</h2><p>Unterschiedliche Zinsniveaus wirken auf Wechselkurse, Anleiherenditen und die Konditionen für Kredite und Einlagen in beiden Währungsräumen. Was sie nicht sind: ein Gütezeichen. Ein höherer Leitzins bedeutet nicht automatisch bessere Renditen für Anleger - Inflation, Währungsrisiko und Anlageform spielen mit hinein. Dieser Artikel stellt die dokumentierten Stände gegenüber und gibt keine Bewertung ab.</p>",
+  "image": "/images/zinsen-usa-eurozone-2026-11-01.jpg",
+  "sources": [
+    {
+      "title": "Federal Reserve issues FOMC statement (28.10.2026)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "title": "Geldpolitische Beschlüsse der EZB (29.10.2026)",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.de.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hoch sind die Leitzinsen in USA und Eurozone?",
+      "a": "USA: Zielkorridor 3,75 bis 4,0 Prozent (Fed, 28.10.2026). Euroraum: Einlage 2,50, Hauptrefinanzierung 2,65, Spitzenrefinanzierung 2,90 Prozent (EZB, 29.10.2026)."
+    },
+    {
+      "q": "Warum sind US-Zinsen höher als europäische?",
+      "a": "Die Notenbanken reagieren auf unterschiedliche Ausgangslagen: Die Fed sieht starkes Wachstum bei erhöhter Inflation, die EZB steigende Energiepreise bei verschärften Finanzierungsbedingungen. Beide zielen mittelfristig auf 2 Prozent Inflation."
+    }
+  ],
+  "date": "2026-11-01T07:55:00+01:00"
+}

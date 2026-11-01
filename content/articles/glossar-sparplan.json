@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-sparplan",
+  "title": "Glossar: Sparplan - wie regelmäßiges Investieren funktioniert",
+  "description": "Ein Sparplan investiert automatisch feste Beträge in regelmäßigen Abständen. Was dahintersteckt und was der Cost-Average-Effekt bedeutet.",
+  "section": "glossar",
+  "body": "<p>Passend zum Weltspartag-Wochenende, aber das Thema ist das ganze Jahr aktuell: der Sparplan. Gerade hast du gelesen, dass deutsche Haushalte 18,9 Prozent ihres Einkommens sparen - ein Sparplan ist eine der Formen, wie das Gesparte angelegt werden kann.</p><h2>Definition</h2><p>Ein Sparplan ist eine Vereinbarung, bei der in regelmäßigen Abständen - etwa monatlich oder vierteljährlich - ein fester Betrag in ein Finanzprodukt eingezahlt wird. Das können Aktien, Fonds, ETFs oder zinsbasierte Produkte wie Tages- oder Festgeld sein. Rate und Produkt lassen sich in der Regel anpassen.</p><h2>Der Cost-Average-Effekt</h2><p>Weil die Rate fest bleibt, kaufst du bei niedrigen Kursen automatisch mehr Anteile und bei hohen Kursen weniger. Über viele Käufe entsteht so ein Durchschnittspreis - der sogenannte Cost-Average-Effekt (Durchschnittskosteneffekt). Er glättet den Einstiegspreis, schützt aber nicht vor Verlusten: Fällt der Kurs dauerhaft, ist auch ein Sparplan im Minus.</p><h2>Strukturbeispiel</h2><p>Ein einfaches, frei erfundenes Zahlenbeispiel: Du zahlst drei Monate lang je 100 Euro ein. Im ersten Monat kostet ein Anteil 50 Euro - du bekommst 2 Anteile. Im zweiten Monat kostet er 25 Euro - du bekommst 4 Anteile. Im dritten Monat wieder 50 Euro - 2 Anteile. Insgesamt 300 Euro für 8 Anteile, also im Schnitt 37,50 Euro pro Anteil. Ohne Schwankung, bei immer 50 Euro, wären es nur 6 Anteile gewesen. Das Beispiel zeigt den Mechanismus, nicht mehr.</p><h2>Einordnung</h2><p>Sparpläne sind ein Werkzeug für regelmäßiges Anlegen - ob und welcher Plan zu dir passt, hängt von deinen Zielen, deinem Horizont und deiner Risikotragfähigkeit ab. Kosten und Gebühren wirken über die Jahre auf das Ergebnis. Dieser Artikel erklärt das Konzept und ist keine Empfehlung.</p>",
+  "image": "/images/glossar-sparplan.jpg",
+  "sources": [
+    {
+      "title": "Sparplan - boerse.de Lexikon",
+      "url": "https://www.boerse.de/boersenlexikon/Sparplan"
+    },
+    {
+      "title": "Zahl der Woche Nr. 44 vom 27.10.2026: Bruttosparquote (destatis.de)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_44_p002.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Cost-Average-Effekt?",
+      "a": "Bei einer festen Rate kaufst du bei niedrigen Kursen mehr Anteile und bei hohen weniger. Über viele Käufe entsteht ein Durchschnittspreis. Er glättet den Einstieg, schützt aber nicht vor Verlusten."
+    },
+    {
+      "q": "In was kann ein Sparplan einzahlen?",
+      "a": "Je nach Angebot in Aktien, Fonds, ETFs oder in zinsbasierte Produkte wie Tages- und Festgeld. Rate und Produkt lassen sich meist anpassen."
+    }
+  ],
+  "date": "2026-11-01T07:55:00+01:00"
+}

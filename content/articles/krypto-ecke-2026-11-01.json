@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-11-01",
+  "title": "Krypto-Ecke: Bitcoin, Ethereum und Solana am Morgen des 1. November",
+  "description": "Bitcoin bei 77.830 US-Dollar, Ethereum bei 2.267 US-Dollar, Solana bei 95,50 US-Dollar - die Kurse vom 1. November 2026, 07:50 Uhr, im Überblick.",
+  "section": "krypto",
+  "date": "2026-11-01T07:55:00+01:00",
+  "body": "<p>Kurzer Blick auf die großen Kryptowährungen am Sonntagmorgen. Die folgenden Kurse stammen aus der CoinGecko-API, abgerufen von uns am 1. November 2026 um 07:50 Uhr (MEZ):</p><p>Bitcoin (BTC) notierte bei 77.830 US-Dollar beziehungsweise 69.494 Euro. Gegenüber dem Vortag ist das ein Plus von rund 0,7 Prozent. Ethereum (ETH) stand bei 2.267,29 US-Dollar beziehungsweise 2.024,46 Euro, ein Plus von rund 1,0 Prozent. Solana (SOL) lag bei 95,50 US-Dollar beziehungsweise 85,27 Euro, ein Minus von rund 0,5 Prozent.</p><h2>Was bedeutet die 24-Stunden-Veränderung?</h2><p>Die Prozentangaben beziehen sich auf den Kurs vor 24 Stunden zum Abrufzeitpunkt. Kryptowährungen werden rund um die Uhr gehandelt - auch am Wochenende. Es gibt keinen offiziellen Schlusskurs; jede Angabe ist ein Schnappschuss aus unserer Abfrage mit festem Zeitpunkt. Unterschiede zwischen der Veränderung in US-Dollar und in Euro entstehen durch den Wechselkurs.</p><h2>Einordnung</h2><p>Nach drei Tagen mit Tagesverlusten bei unseren Morgenabfragen zeigen Bitcoin und Ethereum heute wieder leicht nach oben, Solana leicht nach unten - ein gemischtes Wochenendbild ohne klare Richtung. Einzelne Tageswerte sagen nichts über die weitere Entwicklung aus. Wer Kurse verfolgt, sollte immer den Zeitpunkt der Abfrage und die Quelle kennen - beides findest du in diesem Artikel.</p><p>Kursdaten: CoinGecko (coingecko.com), API-Abruf am 01.11.2026, 07:50 Uhr (MEZ).</p>",
+  "image": "/images/krypto-ecke-2026-11-01.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko API, Simple Price (Abruf 01.11.2026, 07:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    },
+    {
+      "title": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher kommen die Kurse?",
+      "a": "Aus der öffentlichen CoinGecko-API, die wir am 1. November 2026 um 07:50 Uhr (MEZ) selbst abgefragt haben. Der genaue Abruf-Link steht in den Quellen."
+    },
+    {
+      "q": "Warum bewegt sich Krypto auch am Sonntag?",
+      "a": "Der Handel läuft rund um die Uhr, sieben Tage die Woche. Am Wochenende ist das Volumen oft geringer, wodurch einzelne Orders den Kurs stärker bewegen können."
+    }
+  ]
+}
