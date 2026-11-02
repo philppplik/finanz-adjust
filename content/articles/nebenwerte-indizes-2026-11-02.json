@@ -1,0 +1,29 @@
+{
+  "slug": "nebenwerte-indizes-2026-11-02",
+  "title": "MDAX und Euro STOXX 50 zum Wochenstart: Der Blick neben den DAX",
+  "description": "MDAX bei 30.472 Punkten, Euro STOXX 50 bei 6.119 Punkten (Stand 30.10., 17:50 Uhr). Was die Nebenwerte-Indizes zeigen und wie sie aufgebaut sind.",
+  "section": "markt",
+  "date": "2026-11-02T07:00:00+01:00",
+  "body": "<p>Neben dem DAX lohnt der Blick auf die kleineren Indizes. Laut tagesschau-Börsenübersicht stand der MDAX zuletzt bei 30.472,32 Punkten (-1,06 Prozent) und der Euro STOXX 50 bei 6.118,62 Punkten (-1,34 Prozent) - jeweils Stand 30.10.2026, 17:50 Uhr, dem letzten Handelstag vor dem Wochenende. Der DAX notierte zum selben Zeitpunkt bei 25.818,21 Punkten (-0,85 Prozent).</p><h2>Was steckt im MDAX?</h2><p>Der MDAX bildet mittelgroße deutsche börsennotierte Unternehmen ab, die sogenannten Mid Caps. Er umfasst seit dem 24. September 2018 60 Werte (Wikipedia-Artikel zum DAX). Während der DAX die 40 größten und liquidesten Unternehmen bündelt, zeigt der MDAX, wie es den Unternehmen eine Größenklasse darunter geht.</p><h2>Was ist der Euro STOXX 50?</h2><p>Der Euro STOXX 50 fasst 50 große Unternehmen aus der Eurozone zusammen und gilt als Leitindex für die Eurozone insgesamt. Im Unterschied zum DAX wird er üblicherweise als Kursindex geführt, also ohne rechnerisch reinvestierte Dividenden.</p><h2>Einordnung</h2><p>Alle drei Indizes gingen am Freitag, dem letzten Handelstag der Woche, im Minus aus dem Handel. Dass DAX, MDAX und Euro STOXX 50 sich tageweise unterschiedlich stark bewegen, ist normal: Sie enthalten verschiedene Unternehmen und Branchenmischungen. Für dich ist der Vergleich vor allem ein Stimmungsbild über den deutschen Leitindex hinaus.</p>",
+  "image": "/images/nebenwerte-indizes-2026-11-02.jpg",
+  "sources": [
+    {
+      "title": "tagesschau.de: Aktuelle Börsenkurse im Überblick",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    },
+    {
+      "title": "Wikipedia: DAX",
+      "url": "https://de.wikipedia.org/wiki/DAX"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo stand der MDAX zuletzt?",
+      "a": "Bei 30.472,32 Punkten, Stand 30.10.2026, 17:50 Uhr (tagesschau-Börsenübersicht)."
+    },
+    {
+      "q": "Was unterscheidet MDAX und DAX?",
+      "a": "Der DAX enthält die 40 größten deutschen Aktien, der MDAX die 60 mittelgroßen Unternehmen der nächsten Größenklasse."
+    }
+  ]
+}

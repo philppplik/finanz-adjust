@@ -1,0 +1,33 @@
+{
+  "slug": "wochenstart-dax-2026-11-02",
+  "title": "DAX zum Wochenstart: Schlusskurs 25.818 Punkte, Terminwoche mit Konjunkturdaten",
+  "description": "Der DAX startet von 25.818,21 Punkten (Schluss 30.10.) in die neue Woche. Einzelhandel, Auftragseingang und Produktion stehen auf dem Terminplan.",
+  "section": "markt",
+  "date": "2026-11-02T07:00:00+01:00",
+  "body": "<p>Der DAX geht von einem Schlussstand von 25.818,21 Punkten am Freitag, 30.10.2026, in die neue Handelswoche. Das geht aus der Historien-Tabelle von finanzen.net hervor, die den Wert ausdrücklich als Schlusskurs ausweist. Gegenüber dem Vortag (26.039,68 Punkte Schluss am 29.10.) war das ein Rückgang; die tagesschau-Börsenübersicht beziffert ihn auf -0,85 Prozent (Stand 30.10., 17:50 Uhr).</p><h2>Die Woche im Rückblick</h2><p>Gegenüber dem Montagsschluss legte der Index im Wochenverlauf zu: von 25.410,84 Punkten (Schluss 26.10.) auf 25.818,21 Punkte (Schluss 30.10.), ein Plus von rund 1,6 Prozent seit dem Montagsschluss - jeweils auf Basis der ausgewiesenen Schlusskurse. Das Jahreshoch liegt laut finanzen.net bei 26.618,74 Punkten, das Jahrestief bei 21.863,81 Punkten. Die auf einen Monat bezogene Volatilität gibt die Seite mit 4,15 Prozent an (Abruf 2.11., früher Morgen).</p><h2>Termine der Woche</h2><p>Datenreich wird es: Das Statistische Bundesamt hat laut Wochenvorschau für heute, 2.11., 8:00 Uhr, den Umsatz im Einzelhandel für September angekündigt, am 5.11. Auftragseingang und Umsatz im verarbeitenden Gewerbe sowie die Arbeitskostenerhebung 2024 und am 6.11. den Produktionsindex für September. Am Freitag, 6.11., erscheint zudem der US-Arbeitsmarktbericht für Oktober (14:30 Uhr MEZ, Zeitplan des Bureau of Labor Statistics).</p><h2>Einordnung</h2><p>Für dich heißt das: Die Woche bringt mehrere Konjunkturdaten, auf die der Markt reagieren kann. Kursschwankungen um Veröffentlichungstermine sind normal und keine Nachricht an sich.</p>",
+  "image": "/images/wochenstart-dax-2026-11-02.jpg",
+  "sources": [
+    {
+      "title": "finanzen.net: DAX - Historische Kurse und Kennzahlen",
+      "url": "https://www.finanzen.net/index/dax"
+    },
+    {
+      "title": "tagesschau.de: Aktuelle Börsenkurse im Überblick",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    },
+    {
+      "title": "Statistisches Bundesamt: Wochenvorschau KW 45/2026",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo stand der DAX zum Wochenstart?",
+      "a": "Der letzte ausgewiesene Schlusskurs ist 25.818,21 Punkte vom Freitag, 30.10.2026 (finanzen.net-Historientabelle)."
+    },
+    {
+      "q": "Welche Daten erscheinen diese Woche?",
+      "a": "Heute Einzelhandel September, am 5.11. Auftragseingang und Arbeitskosten, am 6.11. der Produktionsindex - jeweils 8:00 Uhr, dazu der US-Arbeitsmarktbericht am Freitag 14:30 Uhr."
+    }
+  ]
+}

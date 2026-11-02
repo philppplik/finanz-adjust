@@ -1,0 +1,25 @@
+{
+  "slug": "glossar-kgv",
+  "title": "Glossar: KGV - was das Kurs-Gewinn-Verhältnis aussagt",
+  "description": "Das KGV setzt den Aktienkurs ins Verhältnis zum Gewinn je Aktie. Wie man es berechnet, was es zeigt - und wo seine Grenzen liegen.",
+  "section": "glossar",
+  "date": "2026-11-02T07:00:00+01:00",
+  "body": "<p>Das Kurs-Gewinn-Verhältnis, kurz KGV (englisch price-to-earnings ratio, P/E), ist eine Kennzahl der Aktienanalyse. Es stellt den Börsenkurs einer Aktie dem Gewinn je Aktie gegenüber (Wikipedia).</p><h2>Wie wird das KGV berechnet?</h2><p>Die Formel ist einfach: KGV = Aktienkurs geteilt durch Gewinn je Aktie. Der Gewinn je Aktie (EPS, earnings per share) ist der Jahresüberschuss des Unternehmens geteilt durch die Zahl der umlaufenden Aktien. Ein Beispiel aus der Quelle: Kostet eine Aktie 50 Euro und hat das Unternehmen zuletzt 4 Euro je Aktie verdient, liegt das KGV bei 12,5.</p><h2>Was sagt das KGV aus?</h2><p>Das KGV gibt an, mit welchem Vielfachen des Jahresgewinns eine Aktie an der Börse bewertet wird - anders gelesen: wie viele Jahre das Unternehmen denselben Gewinn erzielen müsste, bis der aktuelle Kurswert rechnerisch erreicht ist. Ein niedriges KGV kann auf eine vergleichsweise günstige Bewertung hindeuten, ein hohes auf hohe Gewinnerwartungen.</p><h2>Wo liegen die Grenzen?</h2><p>Das KGV blickt auf bereits erzielte Gewinne zurück und sagt nichts über künftige Gewinnchancen aus. Branchen haben zudem typischerweise unterschiedliche KGV-Niveaus, deshalb ist der Vergleich vor allem innerhalb einer Branche sinnvoll. Als Variante existiert das Shiller-KGV, das auf durchschnittliche Gewinne mehrerer Jahre setzt. Für dich ist das KGV ein Baustein unter vielen, keine Kauf- oder Verkaufsregel.</p>",
+  "image": "/images/glossar-kgv.jpg",
+  "sources": [
+    {
+      "title": "Wikipedia: Kurs-Gewinn-Verhältnis",
+      "url": "https://de.wikipedia.org/wiki/Kurs-Gewinn-Verh%C3%A4ltnis"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet ein KGV von 12,5?",
+      "a": "Die Aktie wird mit dem 12,5-Fachen des Jahresgewinns je Aktie bewertet (Kurs 50 Euro, Gewinn 4 Euro je Aktie)."
+    },
+    {
+      "q": "Ist ein niedriges KGV automatisch gut?",
+      "a": "Nein. Es kann auf eine günstige Bewertung hindeuten, aber auch auf geringe Gewinnerwartungen. Die Kennzahl allein erlaubt keine Kaufentscheidung."
+    }
+  ]
+}
