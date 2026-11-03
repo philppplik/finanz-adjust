@@ -1,0 +1,33 @@
+{
+  "slug": "dax-tagesbilanz-2026-11-03",
+  "title": "DAX-Tagesbilanz: 25.981 Punkte zum Wochenauftakt",
+  "description": "Der DAX schloss am Montag, 2.11.2026, bei 25.981,09 Punkten - 0,63 Prozent ueber dem Freitagsschluss. Die Tagesbilanz mit den wichtigsten Kennzahlen.",
+  "section": "markt",
+  "date": "2026-11-03T07:58:00",
+  "body": "<p>Der DAX hat die neue Handelswoche mit einem Plus begonnen: Am Montag, 2.11.2026, schloss er bei 25.981,09 Punkten. Das geht aus der Historien-Tabelle von finanzen.net hervor, die den Wert ausdrücklich als Schlusskurs ausweist. Gegenüber dem Freitagsschluss (25.818,21 Punkte, 30.10.) ist das ein Plus von 0,63 Prozent - passend zum Stand der tagesschau-Börsenübersicht (2.11., 17:50 Uhr). Die Eröffnung lag am Montag bei 25.802,74 Punkten.</p><h2>Kennzahlen im Überblick</h2><p>Das Jahreshoch liegt laut finanzen.net bei 26.618,74 Punkten, das Jahrestief bei 21.863,81 Punkten (Abruf 3.11., früher Morgen). Die auf einen Monat bezogene Volatilität gibt die Seite mit 4,04 Prozent an.</p><h2>Der weitere Wochenverlauf</h2><p>Datenreich geht es weiter: Am Mittwoch, 5.11., veröffentlicht das Statistische Bundesamt laut Wochenvorschau Auftragseingang und Umsatz im verarbeitenden Gewerbe sowie die Arbeitskostenerhebung 2024, am Freitag, 6.11., den Produktionsindex für September - jeweils um 8:00 Uhr. Am Freitag erscheint zudem der US-Arbeitsmarktbericht für Oktober (14:30 Uhr MEZ, Zeitplan des Bureau of Labor Statistics).</p><h2>Einordnung</h2><p>Ein Plus von gut einem halben Prozent zum Wochenauftakt ist eine normale Tagesschwankung. Für dich zählt weniger der einzelne Tag als die Frage, wie der Index auf die Konjunkturdaten der Woche reagiert.</p>",
+  "image": "/images/dax-tagesbilanz-2026-11-03.jpg",
+  "sources": [
+    {
+      "title": "finanzen.net: DAX - Historische Kurse und Kennzahlen",
+      "url": "https://www.finanzen.net/index/dax"
+    },
+    {
+      "title": "tagesschau.de: Aktuelle Börsenkurse im Überblick",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    },
+    {
+      "title": "Statistisches Bundesamt: Wochenvorschau KW 45/2026",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo schloss der DAX am Montag, 2.11.2026?",
+      "a": "Bei 25.981,09 Punkten (finanzen.net-Historientabelle, ausgewiesener Schlusskurs), 0,63 Prozent über dem Freitagsschluss."
+    },
+    {
+      "q": "Welche Daten stehen diese Woche noch an?",
+      "a": "Am 5.11. Auftragseingang und Arbeitskosten, am 6.11. der Produktionsindex (je 8:00 Uhr) sowie der US-Arbeitsmarktbericht am Freitag um 14:30 Uhr MEZ."
+    }
+  ]
+}

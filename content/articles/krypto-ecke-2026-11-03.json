@@ -1,0 +1,25 @@
+{
+  "slug": "krypto-ecke-2026-11-03",
+  "title": "Krypto-Ecke: Bitcoin rutscht unter 77.000 Dollar (Stand 3.11., 7:50 Uhr)",
+  "description": "Bitcoin 76.466 US-Dollar, Ethereum 2.243 Dollar, Solana 91,40 Dollar - die Krypto-Kurse am Dienstagmorgen, Stand 3.11.2026, 7:50 Uhr.",
+  "section": "krypto",
+  "date": "2026-11-03T07:58:00",
+  "body": "<p>Der Kryptomarkt gibt am Dienstagmorgen nach. Stand 3.11.2026, 7:50 Uhr MEZ (eigener Abruf bei CoinGecko): Bitcoin 76.466 US-Dollar (68.334 Euro, -2,1 Prozent in 24 Stunden), Ethereum 2.243,00 US-Dollar (2.004,45 Euro, -1,8 Prozent), Solana 91,40 US-Dollar (81,68 Euro, -3,1 Prozent).</p><h2>Vergleich zum Wochenstart</h2><p>Gegenüber dem Montagmorgen (2.11., 7:50 Uhr: Bitcoin 78.099 US-Dollar) liegt Bitcoin gut zwei Prozent tiefer. Solana verliert von allen drei Werten am stärksten. Tägliche Schwankungen dieser Größenordnung sind bei Kryptowährungen üblich.</p><h2>Einordnung</h2><p>Alle Werte stammen aus einem einzigen Abruf mit festem Zeitstempel und sind eine Momentaufnahme. Kryptokurse laufen rund um die Uhr; wer Kurse vergleicht, sollte deshalb immer auf den angegebenen Zeitpunkt und die Quelle achten.</p>",
+  "image": "/images/krypto-ecke-2026-11-03.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko: Simple Price API (Abruf 3.11.2026, 7:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Bitcoin am Dienstagmorgen?",
+      "a": "76.466 US-Dollar beziehungsweise 68.334 Euro, Stand 3.11.2026, 7:50 Uhr MEZ (CoinGecko)."
+    },
+    {
+      "q": "Warum schwankt Solana stärker als Bitcoin?",
+      "a": "Kleinere Kryptowährungen haben oft geringere Handelsvolumina und reagieren damit empfindlicher auf Käufe und Verkäufe. Das ist eine allgemeine Beobachtung, keine Prognose."
+    }
+  ]
+}

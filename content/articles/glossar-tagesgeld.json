@@ -1,0 +1,33 @@
+{
+  "slug": "glossar-tagesgeld",
+  "title": "Glossar: Tagesgeld - verzinst und täglich verfügbar",
+  "description": "Ein Tagesgeldkonto ist ein verzinstes Konto ohne feste Laufzeit. Wie es funktioniert, wie die Zinsen entstehen und was es vom Festgeld unterscheidet.",
+  "section": "glossar",
+  "date": "2026-11-03T07:58:00",
+  "body": "<p>Ein Tagesgeldkonto ist im Bankwesen ein verzinstes Konto ohne festgelegte Laufzeit, das ausschließlich der Geldanlage dient. Über das Guthaben kann der Kontoinhaber täglich in beliebiger Höhe verfügen (Wikipedia). Das Konto wird als reines Guthabenkonto geführt, kann nicht überzogen werden und ist nicht für den allgemeinen Zahlungsverkehr vorgesehen.</p><h2>Wie entstehen die Zinsen?</h2><p>Der Zinssatz ist beim Tagesgeld nicht für einen bestimmten Zeitraum festgeschrieben - anders als beim Festgeld. Er ist variabel und kann sich mit der Marktentwicklung ändern. Angegeben wird er üblicherweise pro Jahr (per annum, p. a.). Gutgeschrieben werden die Zinsen je nach Anbieter monatlich, quartalsweise oder jährlich; bei kürzeren Intervallen wirkt der Zinseszins-Effekt etwas stärker. Die Höhe der Tagesgeldzinsen hängt wesentlich vom Leitzins der Europäischen Zentralbank ab, genauer vom Hauptrefinanzierungssatz; dieser liegt seit dem 16. September 2026 bei 2,65 Prozent (EZB, bestätigt in der Rates-Entscheidung vom 29.10.2026).</p><h2>Tagesgeld oder Festgeld?</h2><p>Beim Festgeld legst du dein Geld für eine vereinbarte Laufzeit fest und bekommst dafür einen fixen Zinssatz. Beim Tagesgeld bleibst du flexibel, akzeptierst dafür aber, dass die Bank den Zinssatz jederzeit ändern kann. Beide Varianten gelten als konservative Anlageformen; die gesetzliche Einlagensicherung schützt Einlagen bei deutschen Kreditinstituten bis 100.000 Euro (§ 8 Abs. 1 EinSiG); viele Banken sind darüber hinaus freiwilligen Sicherungssystemen ihrer Verbände angeschlossen.</p><h2>Einordnung</h2><p>Für dich ist Tagesgeld vor allem ein Parkplatz für Geld, das du kurzfristig brauchen könntest - mit etwas Zins, aber ohne Renditeversprechen.</p>",
+  "image": "/images/glossar-tagesgeld.jpg",
+  "sources": [
+    {
+      "title": "Wikipedia: Tagesgeldkonto",
+      "url": "https://de.wikipedia.org/wiki/Tagesgeldkonto"
+    },
+    {
+      "title": "Europäische Zentralbank: Zinsentscheidung 29.10.2026",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.de.html"
+    },
+    {
+      "title": "Einlagensicherungsgesetz § 8 (gesetze-im-internet.de)",
+      "url": "https://www.gesetze-im-internet.de/einsig/__8.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist mein Geld auf dem Tagesgeldkonto sicher?",
+      "a": "Einlagen bei deutschen Kreditinstituten sind laut Wikipedia über die gesetzliche Einlagensicherung bis 100.000 Euro gesichert (§ 4 Abs. 2 Nr. 1 EAEG), häufig ergänzt durch freiwillige Sicherungssysteme der Bankenverbände."
+    },
+    {
+      "q": "Kann die Bank den Tagesgeldzins ändern?",
+      "a": "Ja. Der Zinssatz ist variabel und folgt der Marktentwicklung, er hängt wesentlich am Leitzins der EZB. Nur beim Festgeld ist der Zins für die Laufzeit festgeschrieben."
+    }
+  ]
+}
