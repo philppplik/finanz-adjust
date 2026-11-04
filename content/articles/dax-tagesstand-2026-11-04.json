@@ -3,7 +3,7 @@
   "title": "DAX am Mittwochmorgen: 25.865 Punkte nach leichtem Minus",
   "description": "Der DAX steht in der tagesschau-Übersicht bei 25.864,62 Punkten, Stand 3.11., 17:50 Uhr (-0,45 Prozent). Dazu die Termine der Restwoche.",
   "section": "markt",
-  "date": "2026-11-04T07:55:00+01:00",
+  "date": "2026-11-04T08:09:00+01:00",
   "body": "<p>Der letzte datierte DAX-Stand der tagesschau-Börsenübersicht liegt leicht im Minus: Die tagesschau-Börsenübersicht weist ihn zuletzt mit 25.864,62 Punkten aus, minus 0,45 Prozent - Stand 3.11.2026, 17:50 Uhr.</p><h2>Nebenwerte und Eurozone</h2><p>Die Kurzliste derselben Übersicht nennt den MDAX mit 30.743,36 Punkten (-0,36 Prozent), der Euro STOXX 50 bei 6.130,95 Punkten (-0,19 Prozent). Hinweis: 17:50 Uhr ist beim DAX ausgewiesen. Für die Nebenwerte nennt die Kurzliste keinen eigenen Zeitstempel; sie sind kein bestätigter zeitgleicher Schlussstand.</p><h2>Die Termine der Restwoche</h2><p>Morgen, Donnerstag, 5.11., veröffentlicht das Statistische Bundesamt um 8:00 Uhr Auftragseingang und Umsatz im verarbeitenden Gewerbe für September, die Dienstleistungsumsätze für August und die Arbeitskostenerhebung 2024. Am Freitag, 6.11., folgen der Produktionsindex (8:00 Uhr) und der US-Arbeitsmarktbericht für Oktober (14:30 Uhr MEZ).</p><h2>Einordnung</h2><p>Ein Minus von knapp einem halben Prozent ist eine gewöhnliche Tagesschwankung. Für dich ist interessanter, wie der Markt die Konjunkturdaten am Donnerstag und Freitag aufnimmt.</p>",
   "image": "/images/dax-tagesstand-2026-11-04.jpg",
   "sources": [
@@ -30,5 +30,6 @@
       "a": "Die tagesschau-Übersicht zeigt einen Stand um 17:50 Uhr, keinen offiziell gelabelten Schlusskurs. Wir übernehmen die Bezeichnung der Quelle."
     }
   ],
-  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe."
+  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe.",
+  "modified": "2026-11-04T08:09:00+01:00"
 }

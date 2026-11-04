@@ -3,7 +3,7 @@
   "title": "Krypto-Ecke: Bitcoin erholt sich auf 77.800 Dollar (Stand 4.11., 7:50 Uhr)",
   "description": "Bitcoin 77.846 US-Dollar, Ethereum 2.292 Dollar, Solana 92,80 Dollar - die Krypto-Kurse am Mittwochmorgen, Stand 4.11.2026, 7:50 Uhr.",
   "section": "krypto",
-  "date": "2026-11-04T07:55:00+01:00",
+  "date": "2026-11-04T08:09:00+01:00",
   "body": "<p>Die drei erfassten Kryptowährungen zeigen im Abruf positive 24-Stunden-Veränderungen in US-Dollar. Stand 4.11.2026, 7:50 Uhr MEZ (eigener Abruf bei CoinGecko): Bitcoin 77.846 US-Dollar (69.303 Euro, +1,8 Prozent in 24 Stunden in US-Dollar), Ethereum 2.292,41 US-Dollar (2.040,84 Euro, +2,2 Prozent), Solana 92,80 US-Dollar (82,62 Euro, +1,6 Prozent).</p><h2>Einordnung</h2><p>Auf- und Abwärtsbewegungen von zwei Prozent innerhalb eines Tages sind im Kryptomarkt normal. Alle Werte hier stammen aus einem einzigen Abruf mit festem Zeitstempel; sie sind eine Momentaufnahme, keine Trendaussage.</p>",
   "image": "/images/krypto-ecke-2026-11-04.jpg",
   "sources": [
@@ -22,5 +22,6 @@
       "a": "Sie stammen aus einem Abruf um 7:50 Uhr MEZ am 4.11.2026. Kryptokurse ändern sich sekündlich; der aktuelle Kurs kann bereits abweichen."
     }
   ],
-  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe."
+  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe.",
+  "modified": "2026-11-04T08:09:00+01:00"
 }
