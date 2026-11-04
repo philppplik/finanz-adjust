@@ -1,5 +1,101 @@
 [
   {
+    "title": "JEFFERIES stuft Siltronic auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028121-jefferies-stuft-siltronic-auf-buy-322.htm",
+    "ts": 1793778840.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346215+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "JPMORGAN stuft SANOFI auf 'Neutral'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028122-jpmorgan-stuft-sanofi-auf-neutral-322.htm",
+    "ts": 1793778840.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346272+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "RBC stuft Heidelberg Materials auf 'Outperform'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028124-rbc-stuft-heidelberg-materials-auf-outperform-322.htm",
+    "ts": 1793778840.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346311+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "BERENBERG stuft UNITED INTERNET AG auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028125-berenberg-stuft-united-internet-ag-auf-buy-322.htm",
+    "ts": 1793778840.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346345+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Trump greift ein: Oracle kippt Milliarden-Deal mit Tencent",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028111-trump-greift-ein-oracle-kippt-milliarden-deal-mit-tencent-049.htm",
+    "ts": 1793778780.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346398+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "MÄRKTE ASIEN/Uneinheitlich - Shanghai und Hongkong mit PBoC-Hilfe sehr fest",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028103-maerkte-asien-uneinheitlich-shanghai-und-hongkong-mit-pboc-hilfe-sehr-fest-015.htm",
+    "ts": 1793778660.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346448+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Apple-Schock trotz Rekord: Jetzt Crash-Gefahr? Droht jetzt der Absturz unter 300 US-Dollar?",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028036-apple-schock-trotz-rekord-jetzt-crash-gefahr-droht-jetzt-der-absturz-unter-300-us-dollar-012.htm",
+    "ts": 1793778360.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346670+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "MORNING BRIEFING - USA/Asien -2-",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028010-morning-briefing-usa-asien-2-015.htm",
+    "ts": 1793778300.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.346770+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "JEFFERIES stuft Biontech auf 'Buy'",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70027955-jefferies-stuft-biontech-auf-buy-322.htm",
     "ts": 1793778120.0,
@@ -21,6 +117,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
     "captured_at": "2026-11-04T07:45:40.676727+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Deutsche Börse-News: Europa gefragt, Bitcoin unter Druck (ETF-Handel)",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70028014-deutsche-boerse-news-europa-gefragt-bitcoin-unter-druck-etf-handel-016.htm",
+    "ts": 1793778000.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-04T07:59:58.347052+00:00",
     "rights_checked": "2026-10-28"
   },
   {
