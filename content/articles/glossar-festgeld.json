@@ -1,0 +1,30 @@
+{
+  "slug": "glossar-festgeld",
+  "title": "Glossar: Festgeld - fester Zins für eine feste Laufzeit",
+  "description": "Beim Festgeld legst du Geld für eine vereinbarte Laufzeit an und bekommst dafür einen fixen Zinssatz. Wie es funktioniert und was es vom Tagesgeld unterscheidet.",
+  "section": "glossar",
+  "date": "2026-11-04T07:55:00+01:00",
+  "body": "<p>Beim Festgeld vereinbarst du mit der Bank eine feste Laufzeit und einen festen Zinssatz. Während dieser Zeit steht das Geld normalerweise nicht zur Verfügung. Das unterscheidet Festgeld vom täglich verfügbaren Tagesgeld mit variablem Zins.</p><h2>Welche Bedingungen zählen?</h2><p>Vor dem Abschluss sind die konkreten Vertragsbedingungen entscheidend: Mindestanlage, Zinstermine, Fälligkeit und eine mögliche automatische Verlängerung. Ein allgemeiner Mindestbetrag von 5.000 Euro lässt sich nicht auf alle Angebote übertragen. Auch die Zinsen müssen nicht bei jedem Produkt ausschließlich am Laufzeitende ausgezahlt werden.</p><h2>Vorzeitig an das Geld?</h2><p>Laut BaFin ist eine vorzeitige Verfügung in der Regel nicht möglich. Erlaubt die Bank eine Ausnahme, können Zinsverluste oder eine Vorfälligkeitsentschädigung anfallen. Festgeld ist deshalb kein Ersatz für eine jederzeit verfügbare Reserve.</p><h2>Was passiert am Laufzeitende?</h2><p>Je nach Vereinbarung erfolgt die Auszahlung auf das Referenzkonto oder eine Verlängerung. Die Verbraucherzentrale warnt vor Angeboten, die ohne rechtzeitige Kündigung automatisch verlängert werden. Prüfe deshalb die Frist und die dann geltenden Zinsen.</p><h2>Einlagensicherung</h2><p>Für geschützte Einlagen bei Banken in Deutschland und der EU gilt grundsätzlich eine gesetzliche Sicherungsgrenze von 100.000 Euro pro Person und Bank. Maßgeblich sind das zuständige Sicherungssystem und die Bank, nicht die Zahl deiner Konten. Bei Anlagen außerhalb der EU darf diese Absicherung nicht vorausgesetzt werden.</p><h2>Einordnung</h2><p>Festgeld tauscht Verfügbarkeit gegen Zinssicherheit. Ob es zu einer geplanten Ausgabe passt, hängt von der Laufzeit und den konkreten Vertragsbedingungen ab.</p>",
+  "image": "/images/glossar-festgeld.jpg",
+  "sources": [
+    {
+      "title": "BaFin: Festgeld",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/spareinlagen/festgeld/festgeld.html"
+    },
+    {
+      "title": "Verbraucherzentrale: Tagesgeld und Festgeld",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/zinsen-fuer-tagesgeld-und-festgeld-so-finden-sie-sicher-das-beste-angebot-102422"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Komme ich vorzeitig an mein Festgeld?",
+      "a": "In der Regel ist eine vorzeitige Verfügung nicht möglich. Erlaubt die Bank eine Ausnahme, können Zinsverluste oder eine Vorfälligkeitsentschädigung anfallen."
+    },
+    {
+      "q": "Was passiert am Ende der Laufzeit?",
+      "a": "Das regelt der Vertrag. Möglich sind Auszahlung oder Verlängerung. Achte besonders auf Kündigungsfristen bei automatischer Verlängerung."
+    }
+  ],
+  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe."
+}

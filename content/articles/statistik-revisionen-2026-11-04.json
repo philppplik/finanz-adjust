@@ -1,0 +1,34 @@
+{
+  "slug": "statistik-revisionen-2026-11-04",
+  "title": "Warum Statistikdaten nachträglich korrigiert werden - und warum das normal ist",
+  "description": "Vorläufige Werte werden oft revidiert: Der Einzelhandel im August von +1,3 auf +1,2 Prozent, der Auftragseingang im Juli von +2,5 auf +3,2. Wie Revisionen entstehen.",
+  "section": "einordnung",
+  "date": "2026-11-04T07:55:00+01:00",
+  "body": "<p>Wenn das Statistische Bundesamt neue Konjunkturdaten veröffentlicht, steht oft 'vorläufig' dabei - und im Kleingedruckten die korrigierte Zahl vom Vormonat. Zwei aktuelle Beispiele: Beim Einzelhandel wurde der August-Umsatz von vorläufig plus 1,3 Prozent auf plus 1,2 Prozent real revidiert (Pressemitteilung Nr. 383 vom 2.11.2026). Beim Auftragseingang im verarbeitenden Gewerbe wurde der Juli von plus 2,5 auf plus 3,2 Prozent nach oben korrigiert (Pressemitteilung Nr. 354 vom 6.10.2026).</p><h2>Warum gibt es Revisionen?</h2><p>Die Statistiker müssen schnell liefern: Die ersten Ergebnisse beruhen auf den bis zum Redaktionsschluss eingegangenen Meldungen der Unternehmen. Danach trudeln weitere Antworten ein, verspätete oder korrigierte Meldungen fließen in die nächste Berechnung ein - und der Wert ändert sich leicht. Auch neu geschätzte Saison- und Kalenderfaktoren können bereinigte Reihen verändern. Destatis beschreibt Revisionen als normales Verfahren zur Verbesserung der Datenqualität. Das bedeutet nicht, dass jede einzelne Korrektur gering ausfällt.</p><h2>Wie gehst du mit vorläufigen Zahlen um?</h2><p>Drei einfache Regeln helfen: Erstens auf das Wort 'vorläufig' achten. Zweitens bei der Folgeveröffentlichung nachsehen, ob der Vorwert revidiert wurde - Die beiden hier verwendeten Destatis-Mitteilungen weisen den revidierten Vorwert aus. Drittens die Richtung und die Größe der Korrektur prüfen: In diesen beiden Beispielen bleibt das Vorzeichen positiv. Das lässt sich nicht auf alle Revisionen übertragen.</p><h2>Einordnung</h2><p>Für dich heißt das: Vorläufige Daten sind ein guter erster Eindruck, aber keine endgültige Wahrheit. Seriöse Berichte kennzeichnen den Stand - genau wie wir es hier bei finanz-adjust mit Zeitstempeln und Vorläufigkeits-Hinweisen halten.</p>",
+  "image": "/images/statistik-revisionen-2026-11-04.jpg",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Pressemitteilung Nr. 383 vom 2.11.2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_383_45212.html"
+    },
+    {
+      "title": "Statistisches Bundesamt: Pressemitteilung Nr. 354 vom 6.10.2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_354_421.html"
+    },
+    {
+      "title": "Destatis: Analyse der Revisionen ausgewählter Konjunkturindikatoren (Methodenbeitrag 2009)",
+      "url": "https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2009/05/revision-konjukturindikatoren-052009.pdf?__blob=publicationFile"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet 'vorläufig' bei Statistikdaten?",
+      "a": "Der Wert beruht auf den bis zum Redaktionsschluss eingegangenen Unternehmensmeldungen. Später eingehende oder korrigierte Meldungen können ihn noch leicht ändern."
+    },
+    {
+      "q": "Wie groß sind Revisionen typischerweise?",
+      "a": "Das hängt vom Indikator und der Revision ab. In den zwei Beispielen beträgt die Korrektur 0,1 beziehungsweise 0,7 Prozentpunkte. Daraus lässt sich keine allgemeine typische Größe ableiten."
+    }
+  ],
+  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "rohstoffe-devisen-2026-11-04",
+  "title": "Gold, Brent und Euro: Warum der Zeitstempel beim Kursvergleich zählt",
+  "description": "Die tagesschau-Übersicht zeigt verschiedene Kursstände. Gold und Euro haben eigene Zeitstempel; für Brent Dated ist die Kurszeit im Abruf nicht ausgewiesen.",
+  "section": "markt",
+  "date": "2026-11-04T07:55:00+01:00",
+  "body": "<p>Die tagesschau-Börsenübersicht zeigt beim Abruf am 4.11.2026 um 7:54 Uhr MEZ unterschiedliche Kursstände. Der DAX-Zeitstempel 3.11., 17:50 Uhr gilt nicht automatisch für Rohstoffe und Devisen.</p><h2>Die einzeln ausgewiesenen Stände</h2><p>Im Gold-Detailblock stehen 3.935,2650 US-Dollar je Feinunze und +0,13 Prozent, mit dem Quellenzeitstempel 4.11.2026, 01:14:56 Uhr. Der Euro-Dollar-Detailblock nennt 1,1206 US-Dollar je Euro und +0,18 Prozent mit demselben ausgewiesenen Zeitstempel. Die Weltmärkte-Kurzliste zeigte beim Gold einen leicht anderen Wert. Wir verwenden hier ausdrücklich den datierten Detailblock, nicht eine Mischung beider Anzeigen.</p><p>Für Brent Dated nennt die Weltmärkte-Liste 103,18 US-Dollar je Barrel und -1,99 Prozent. Ein eigener Kurszeitstempel und die genaue Bezugsbasis der Prozentänderung sind dort im Abruf nicht ausgewiesen. Der Wert darf deshalb nicht als bestätigter Stand vom Vorabend um 17:50 Uhr gelesen werden. Auch die Prozentwerte für Gold und Euro geben wir als Anzeige der Quelle wieder, nicht als selbst berechnete Veränderung.</p><h2>Was die Einheiten bedeuten</h2><p>Gold wird hier in US-Dollar je Feinunze angegeben, Brent Dated in US-Dollar je Barrel. EUR/USD nennt die Zahl der US-Dollar je Euro. Ein Vergleich braucht neben der Einheit auch einen passenden Zeitpunkt.</p><h2>Einordnung</h2><p>Diese Angaben sind eine dokumentierte Momentaufnahme aus einer Übersicht, keine Live-Kurse und kein Trendnachweis. Vor einem Vergleich sollten Instrument, Zeitpunkt und Bezugsbasis übereinstimmen.</p>",
+  "image": "/images/rohstoffe-devisen-2026-11-04.jpg",
+  "sources": [
+    {
+      "title": "tagesschau.de: Aktuelle Börsenkurse im Überblick",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der Goldpreis hier ein Live-Kurs?",
+      "a": "Nein. Der Detailblock der Quelle trägt den Zeitstempel 4.11.2026, 01:14:56 Uhr und nennt 3.935,2650 US-Dollar je Feinunze. Der Abruf erfolgte um 7:54 Uhr MEZ."
+    },
+    {
+      "q": "Gilt 17:50 Uhr auch für Brent Dated?",
+      "a": "Nein. Diese Uhrzeit ist beim DAX ausgewiesen. Für Brent Dated war im abgerufenen Kurzblock kein eigener Kurszeitstempel erkennbar."
+    }
+  ],
+  "image_caption": "KI-generierte Illustration. Keine Darstellung tatsächlicher Kursverläufe."
+}
