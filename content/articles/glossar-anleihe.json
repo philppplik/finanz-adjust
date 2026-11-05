@@ -1,0 +1,30 @@
+{
+  "slug": "glossar-anleihe",
+  "title": "Glossar: Anleihe - verzinstes Wertpapier mit Rückzahlungsversprechen",
+  "description": "Eine Anleihe ist ein zinstragendes Wertpapier: Der Emittent schuldet Zinsen und Rückzahlung. Wer Anleihen ausgibt, wie sie funktionieren und welche Arten es gibt.",
+  "section": "glossar",
+  "date": "2026-11-05T08:04:00+01:00",
+  "body": "<p>Eine Anleihe - auch Rentenpapier, Schuldverschreibung oder Obligation genannt - ist ein zinstragendes Wertpapier. Sie räumt dem Gläubiger das Recht auf Rückzahlung des Nennwerts sowie auf Zahlung vereinbarter Zinsen ein (Wikipedia). Aus Sicht des Emittenten ist die Anleihe ein Instrument der meist langfristigen Fremdfinanzierung, aus Sicht des Anlegers eine Kapitalanlage.</p><h2>Wer gibt Anleihen heraus?</h2><p>Zur Gattung zählen Staatsanleihen (inklusive Kommunal- und Landesanleihen), Unternehmensanleihen und Pfandbriefe. Nicht dazu gehören Kredite wie Privatkredite oder Schuldscheindarlehen. Bei Kuponanleihen sind die Zinsen fest oder variabel. Nullkuponanleihen zahlen dagegen keine laufenden Kupons; ihr Ertrag ergibt sich aus der Differenz zwischen Kaufpreis und Rückzahlung.</p><h2>Wie verdient man an einer Anleihe?</h2><p>Zwei Wege: über die laufenden Zinszahlungen (Kupon) und über Kursänderungen. Anleihen können an der Börse oder außerbörslich gehandelt werden, ihr Kurs schwankt - vor allem wenn sich das Zinsniveau oder die Einschätzung der Bonität des Emittenten ändert. Steigen die Marktzinsen, fallen typischerweise die Kurse älterer Anleihen mit niedrigerem Kupon, und umgekehrt. Hältst du eine Anleihe bis zur Fälligkeit, bekommst du den Nennwert zurück - sofern der Emittent zahlen kann.</p><h2>Einordnung</h2><p>Anleihen sind Forderungen gegen einen Emittenten, Aktien dagegen Unternehmensanteile. Das Risiko einer Anleihe hängt unter anderem von Bonität, Laufzeit und Ausgestaltung ab. Zins- und Rückzahlungsversprechen sind keine Zahlungsgarantie; bei einem Ausfall können Verluste entstehen. Das ist eine Begriffserklärung, keine Anlageempfehlung.</p>",
+  "image": "/images/glossar-anleihe.jpg",
+  "sources": [
+    {
+      "title": "Wikipedia: Anleihe",
+      "url": "https://de.wikipedia.org/wiki/Anleihe"
+    },
+    {
+      "title": "Deutsche Bundesbank: Stripping von Bundesanleihen, Nullkuponanleihen",
+      "url": "https://www.bundesbank.de/resource/blob/691450/1352fe321b31f9437e0f94a670601700/mL/1997-07-stripping-data.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Anleihe einfach erklärt?",
+      "a": "Eine Anleihe ist eine handelbare Schuldverschreibung: Anleger haben vertragliche Ansprüche auf die vereinbarten Zahlungen. Kuponanleihen zahlen laufende Zinsen, Nullkuponanleihen nicht. Die Rückzahlung hängt von Bedingungen und Zahlungsfähigkeit des Emittenten ab."
+    },
+    {
+      "q": "Warum schwankt der Kurs einer Anleihe?",
+      "a": "Weil sich Zinsniveau und Bonitätseinschätzung ändern. Steigende Marktzinsen drücken typischerweise die Kurse älterer Anleihen mit niedrigerem Kupon - und umgekehrt."
+    }
+  ],
+  "image_caption": "Symbolische Illustration (Redaktion, KI-markiert), keine Darstellung gemessener Kurs- oder Datenverläufe."
+}

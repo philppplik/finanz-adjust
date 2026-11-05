@@ -1,0 +1,26 @@
+{
+  "slug": "krypto-ecke-2026-11-05",
+  "title": "Krypto-Ecke: Bitcoin bei 80.600 Dollar (Stand 5.11., 7:50 Uhr)",
+  "description": "Bitcoin 80.598 US-Dollar, Ethereum 2.429 Dollar, Solana 96,17 Dollar - die Krypto-Kurse am Donnerstagmorgen, Stand 5.11.2026, 7:50 Uhr.",
+  "section": "krypto",
+  "date": "2026-11-05T08:04:00+01:00",
+  "body": "<p>Die Krypto-Kurse am Donnerstagmorgen im Überblick. Stand 5.11.2026, 7:50:28 Uhr MEZ (Redaktionsabruf bei CoinGecko): Bitcoin 80.598 US-Dollar (71.578 Euro, +3,5 Prozent in 24 Stunden), Ethereum 2.428,92 US-Dollar (2.157,08 Euro, +5,9 Prozent), Solana 96,17 US-Dollar (85,41 Euro, +3,6 Prozent).</p><h2>So liest du die Angaben</h2><p>Die Prozentwerte beziehen sich auf die US-Dollar-Notierungen und deren Veränderung in den letzten 24 Stunden zum Abrufzeitpunkt, wie CoinGecko sie ausweist. Alle Euro- und Dollarwerte stammen aus demselben Abruf mit festem Zeitstempel - sie sind eine Momentaufnahme. Kryptokurse handeln rund um die Uhr und können sich minütlich ändern.</p><h2>Einordnung</h2><p>Tagesveränderungen von mehreren Prozent kommen bei Kryptowährungen häufig vor. Für einen belastbaren Vergleich brauchst du immer denselben Zeitpunkt und dieselbe Quelle - ein einzelner Morgenstand sagt nichts über die Richtung der nächsten Tage aus.</p>",
+  "image": "/images/krypto-ecke-2026-11-05.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko: Simple Price API (Abruf 5.11.2026, 7:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Bitcoin am Donnerstagmorgen?",
+      "a": "80.598 US-Dollar beziehungsweise 71.578 Euro, Stand 5.11.2026, 7:50 Uhr MEZ (CoinGecko)."
+    },
+    {
+      "q": "Was bedeutet die Prozentangabe beim Kurs?",
+      "a": "Sie zeigt die Veränderung in den letzten 24 Stunden zum Abrufzeitpunkt, wie die Quelle sie ausweist - keinen Schlusskurs und keine Prognose."
+    }
+  ],
+  "image_caption": "Symbolische Illustration (Redaktion, KI-markiert), keine Darstellung gemessener Kurs- oder Datenverläufe."
+}

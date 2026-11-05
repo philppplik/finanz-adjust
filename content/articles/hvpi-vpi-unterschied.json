@@ -1,0 +1,26 @@
+{
+  "slug": "hvpi-vpi-unterschied",
+  "title": "VPI und HVPI: Warum es zwei Inflationsraten gibt",
+  "description": "Deutschland misst Inflation mit VPI und HVPI. Was die Indizes unterscheidet, wofür sie gebraucht werden und was sich 2026 geändert hat.",
+  "section": "einordnung",
+  "date": "2026-11-05T08:04:00+01:00",
+  "body": "<p>Wenn von Inflation die Rede ist, sind in Deutschland oft zwei Werte gemeint: der nationale Verbraucherpreisindex (VPI) und der Harmonisierte Verbraucherpreisindex (HVPI). Für Oktober 2026 liegen beide vorläufig bei plus 2,8 Prozent zum Vorjahresmonat - das ist nicht immer so, denn die Indizes messen leicht unterschiedlich.</p><h2>Wofür welcher Index?</h2><p>Der VPI ist das nationale Maß für die Teuerung in Deutschland. Der HVPI wird für Vergleiche im Euroraum berechnet und ist laut Statistischem Bundesamt das zentrale Maß zur Quantifizierung von Preisstabilität im Rahmen der europäischen Geldpolitik - die EZB richtet sich danach. Beide werden aus demselben Datenmaterial abgeleitet, unterscheiden sich aber in Verwendung, Erfassungsbereich, Methodik und Gewichtung.</p><h2>Was sich 2026 geändert hat</h2><p>Seit Januar 2026 sind im HVPI erhebliche Änderungen bei Methodik und Klassifikation umgesetzt; das Ergebnis wird seitdem auf der Indexbasis 2025 = 100 ausgewiesen. Details dokumentiert Destatis auf der Themenseite zum Harmonisierten Verbraucherpreisindex.</p><h2>Einordnung</h2><p>Für dich heißt das: In Schlagzeilen aus Deutschland ist meist der VPI gemeint, bei Meldungen zur EZB oder im europäischen Vergleich der HVPI. Kleine Abweichungen zwischen den beiden Raten sind normal und methodisch erklärt - keine Widersprüche.</p>",
+  "image": "/images/hvpi-vpi-unterschied.jpg",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt: Pressemitteilung Nr. 382 vom 30.10.2026 (Methodische Hinweise)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen VPI und HVPI?",
+      "a": "Der VPI ist die nationale Inflationsmessung Deutschlands, der HVPI die harmonisierte Variante für den Euroraum-Vergleich und die Geldpolitik der EZB. Beide nutzen dasselbe Datenmaterial, unterscheiden sich aber in Erfassungsbereich, Methodik und Gewichtung."
+    },
+    {
+      "q": "Welche Inflationsrate gilt für die EZB?",
+      "a": "Für die Geldpolitik ist der Harmonisierte Verbraucherpreisindex (HVPI) das zentrale Maß der Preisstabilität im Euroraum."
+    }
+  ],
+  "image_caption": "Symbolische Illustration (Redaktion, KI-markiert), keine Darstellung gemessener Kurs- oder Datenverläufe."
+}
