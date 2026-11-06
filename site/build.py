@@ -318,12 +318,37 @@ def _sm_url(u):
     lmtag='<lastmod>%s</lastmod>'%lm if lm else ''
     return '<url><loc>%s</loc>%s%s</url>'%(u,lmtag,imgtag)
 open(OUT+'/sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join(_sm_url(u) for u in urls)+'</urlset>')
+def _article_image(a):
+    image=a.get('image','')
+    if image.startswith('/images/') and os.path.isfile('..'+image):
+        return esc(BASE+image)
+    return esc('%s/og/%s.png'%(BASE,a['slug']))
 recent=[a for a in ARTS if (NOW-adate(a).astimezone()).total_seconds()<172800]
-news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news></url>'%(BASE,a['slug'],pubdate(a),esc(a['title'])) for a in recent)+'</urlset>'
+news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news><image:image><image:loc>%s</image:loc><image:title>%s</image:title></image:image></url>'%(BASE,a['slug'],pubdate(a),esc(a['title']),_article_image(a),esc(a['title'])) for a in recent)+'</urlset>'
 open(OUT+'/news-sitemap.xml','w').write(news_sm)
-items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artikel/%s/</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(a['title']),BASE,a['slug'],BASE,a['slug'],esc(a.get('description','')),email.utils.format_datetime(adate(a).astimezone())) for a in ARTS[:20])
+items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artikel/%s/</guid><description>%s</description><pubDate>%s</pubDate><media:content url="%s" medium="image"/></item>'%(esc(a['title']),BASE,a['slug'],BASE,a['slug'],esc(a.get('description','')),email.utils.format_datetime(adate(a).astimezone()),_article_image(a)) for a in ARTS[:20])
 items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(i['title']),esc(i['url']),esc(i['url']),'',email.utils.format_datetime(datetime.datetime.fromtimestamp(i['ts']).astimezone())) for i in _feed_diverse(N,60) if i.get('ts'))
-open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
+open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
+# llms.txt: optionaler Inhaltsindex nach dem llmstxt.org-Vorschlag, kein Wirkungsversprechen.
+_llms=['# finanz adjust','',
+'> Deutschsprachiges Finanzmagazin: Märkte, Kurse, Börsennews und Einordnungen der FA Redaktion. Kostenlos, ohne Anmeldung. Alle Inhalte dienen ausschließlich der Information und sind keine Anlageberatung, Anlageempfehlung oder Kauf- bzw. Verkaufsempfehlung. Erstellt mit KI-Unterstützung.','',
+'## Bereiche','',
+'- [Artikel](%s/artikel/): Marktüberblicke, Einordnungen und Erklärungen der FA Redaktion'%BASE,
+'- [Lernpfade](%s/lernpfade/): Geführte Lernpfade durch Finanzwissen, vom Einstieg bis zur Vertiefung'%BASE,
+'- [Rechner](%s/rechner/): Finanzrechner (Zins, Sparplan, Kredit und mehr)'%BASE,
+'- [Vergleiche](%s/vergleiche/): Tagesgeld, Depot und EZB-Zinsmonitor'%BASE,
+'- [Glossar](%s/glossar/): Finanzbegriffe verständlich erklärt'%BASE,
+'- [Broker](%s/broker/): Broker-Übersicht mit Einzelprofilen'%BASE,
+'- [Aktien](%s/aktien/): Steckbriefe zu einzelnen Aktien'%BASE,
+'- [Krypto](%s/krypto/): Bitcoin, Ethereum und weitere Coins im Profil'%BASE,
+'- [Märkte](%s/maerkte/): Indizes, Devisen und Rohstoffe im Überblick'%BASE,
+'- [Tagesbericht](%s/berichte/): täglicher PDF-Marktbericht'%BASE,
+'- [Quellen](%s/quellen/): genutzte Daten- und Nachrichtenquellen'%BASE,'',
+'## Artikel','']
+for a in ARTS:
+    _llms.append('- [%s](%s/artikel/%s/): %s'%(a['title'].replace('[','(').replace(']',')'),BASE,a['slug'],a.get('description','').replace('\n',' ')))
+open(OUT+'/llms.txt','w',encoding='utf-8').write('\n'.join(_llms)+'\n')
+
 json.dump(Q,open(OUT+'/quotes.json','w'))
 # ---------- IndexNow-Export: nur neue/geaenderte Artikel (Status: data/indexnow-state.json) ----------
 # Der Push erfolgt im Deploy-Job NACH erfolgreichem Deployment; erst dann aktualisiert der
