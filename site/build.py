@@ -191,6 +191,17 @@ site_ld={'@context':'https://schema.org','@type':'WebSite','name':'finanz adjust
 arturls=[]
 for a in ARTS:
     arturls.append(page('/artikel/%s/'%a['slug'],'%s | finanz adjust'%a['title'],a.get('description',a['title']),art_body(a),art_ld(a),act='/artikel/',otype='article',crumbs=[('/artikel/','Artikel'),('/artikel/%s/'%a['slug'],a['title'])],og='/og/%s.png'%a['slug']))
+def artarchiv():
+    monate=['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
+    gruppen={}
+    for a in ARTS:
+        d=adate(a)
+        gruppen.setdefault((d.year,d.month),[]).append(a)
+    teile=[]
+    for (jahr,monat) in sorted(gruppen,reverse=True):
+        items=''.join('<li><a href="/artikel/%s/">%s</a><div class="m">%s · FA Redaktion</div></li>'%(a['slug'],esc(a['title']),adate(a).strftime('%d.%m.%Y')) for a in gruppen[(jahr,monat)])
+        teile.append('<h3 style="margin:18px 0 8px">%s %d</h3><ul class="nw">%s</ul>'%(monate[monat-1],jahr,items))
+    return ''.join(teile)
 def artlist(k):
     out=[]
     for a in ARTS[:k]:
@@ -215,7 +226,7 @@ shutil.copyfile('market.css',OUT+'/market.css')
 if _MU: urls.append(page('/heatmap/','Aktien-Heatmap: Tagesveränderung auf einen Blick | finanz adjust','Heatmap mit der Tagesveränderung von über 60 Aktien. Kursdaten von Twelve Data und Yahoo Finance, ggf. verzögert, keine Anlageberatung.',MV.heatmap_page(_MU,NOW.strftime("%d.%m.%Y %H:%M")),act="/maerkte/",crumbs=[("/heatmap/","Heatmap")]))
 urls.append(page('/','finanz adjust: Märkte, Kurse und Börsennews live','Aktuelle Kurse zu DAX, S&P 500, Nasdaq, Aktien, Gold, Bitcoin und Devisen, Börsen-Schlagzeilen und Einordnungen der FA Redaktion. Kostenlos, ohne Anmeldung, keine Anlageberatung.',home,[org,site_ld]))
 urls+=arturls
-urls.append(page('/artikel/','Artikel der FA Redaktion | finanz adjust','Marktüberblicke, Einordnungen und Erklärungen der FA Redaktion: verständlich, quellenbasiert und ohne Anlageempfehlungen.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Artikel der FA Redaktion</h1><p>Einordnungen statt Empfehlungen: Was die Märkte bewegt, verständlich erklärt und mit Quellen belegt.</p></div></div><div class="pn">%s</div></div>'%artlist(60),act='/artikel/',crumbs=[('/artikel/','Artikel')]))
+urls.append(page('/artikel/','Artikel der FA Redaktion | finanz adjust','Marktüberblicke, Einordnungen und Erklärungen der FA Redaktion: verständlich, quellenbasiert und ohne Anlageempfehlungen.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Artikel der FA Redaktion</h1><p>Einordnungen statt Empfehlungen: Was die Märkte bewegt, verständlich erklärt und mit Quellen belegt.</p></div></div><div class="pn">%s</div><div class="pn"><h2>Archiv: alle Artikel nach Monat</h2>%s</div></div>'%(artlist(60),artarchiv()),act='/artikel/',crumbs=[('/artikel/','Artikel')]))
 urls.append(page('/maerkte/','Märkte: Indizes, Aktien, Rohstoffe, Krypto | finanz adjust','Live-Kurse und 3-Monats-Verlauf für DAX, S&P 500, Nasdaq, Apple, NVIDIA, SAP, Gold, Rohöl, Bitcoin und mehr.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Märkte</h1><p>Kurse mit 3-Monats-Verlauf. Quellen: %s. Seite neu erstellt %s; ein gesicherter Datenstand der Kurse liegt nicht vor - Werte können verzögert oder veraltet sein. Alle Angaben ohne Gewähr.</p></div></div><div class="pn">%s</div><div class="pn"><h2 id="devisen">Devisen (EZB-Referenzkurse)</h2>%s</div></div>'%(qsrc(),NOW.strftime('%d.%m.%Y %H:%M'),tbl(Q,True),fx_rows(False)),act='/maerkte/',crumbs=[('/maerkte/','Märkte')]))
 urls.append(page('/nachrichten/','Börsennews und Finanznachrichten: Archiv | finanz adjust','Börsen- und Wirtschaftsnachrichten mit Quellenkennzeichnung und Links zu den Originalmeldungen.','<div class="w"><div class="news-intro"><div><span class="news-kicker">Nachrichten · Quellen im Blick</span><h1>Was die Märkte bewegt.</h1><p>Börsennews aus externen Quellen. Die wichtigsten Schlagzeilen im Überblick, die ganze Geschichte beim Original.</p></div><div class="news-count"><b>%d</b> Meldungen im Archiv</div></div>%s<p class="news-disclosure">Gezeigt werden die neuesten %d Meldungen. Quellen-Icons sind lokal gespeichert. Grafische Quellenkarten sind keine Artikelfotos. Fremde Vorschaubilder erscheinen nur mit dokumentierter Nutzungsfreigabe und Bildnachweis. <a href="/quellen/">Mehr zu den Quellen</a></p></div>'%(len(N),news_cards(N,500),min(len(N),500)),act='/nachrichten/',crumbs=[('/nachrichten/','Nachrichten')]))
 # ---------- Source-linked glossary ----------
