@@ -3,7 +3,7 @@
   "title": "DAX-Zwischenbilanz: bis Donnerstag knapp zwei Prozent Plus",
   "description": "Vom 30. Oktober bis zum 5. November stieg der DAX zwischen den belegten 17:50-Ständen um 1,96 Prozent. Eine vorläufige Bilanz vor dem Freitagshandel.",
   "section": "markt",
-  "date": "2026-11-06T08:07:00+01:00",
+  "date": "2026-11-06T08:28:00+01:00",
   "body": "<p>Vor dem Freitagshandel steht eine vorläufige DAX-Zwischenbilanz: Zuletzt stand er bei 26.325,01 Punkten (Stand 5.11.2026, 17:50 Uhr), nach 25.818,21 Punkten am Freitag davor (30.10., 17:50 Uhr). Verglichen werden die täglichen 17:50-Stände derselben Quelle (tagesschau-Börsenübersicht), mit dem jeweils angegebenen Instrumentzeitstempel dokumentiert - das ergibt ein Plus von 1,96 Prozent seit dem Freitagsstand der Vorwoche.</p><h2>Der Verlauf im Einzelnen</h2><p>Montag, 2.11.: 25.981,09 Punkte (+0,63 Prozent). Dienstag, 3.11.: 25.864,62 Punkte (-0,45 Prozent). Mittwoch, 4.11.: 26.437,67 Punkte (+2,22 Prozent) - der stärkste Tag der Woche. Donnerstag, 5.11.: 26.325,01 Punkte (-0,43 Prozent). Alle Werte Stand 17:50 Uhr des jeweiligen Tages.</p><h2>Neue Konjunkturdaten</h2><p>Destatis meldete am Donnerstag für den Dienstleistungssektor im August einen realen Umsatzzuwachs von 0,9 Prozent zum Vormonat. Am Freitag folgten die Produktionsdaten für September: plus 0,7 Prozent zum Vormonat, im dritten Quartal aber minus 0,4 Prozent zum Vorquartal. Die Monatswerte sind vorläufig und kalender- beziehungsweise saisonbereinigt; sie beziehen sich auf unterschiedliche Berichtsmonate.</p><h2>Einordnung</h2><p>Für dich heißt das: Bis Donnerstag brachte der betrachtete Zeitraum fast zwei Prozent Zuwachs - den Ausschlag gab der Mittwoch. Das ist keine abgeschlossene Wochenbilanz: Der Freitagshandel ist noch nicht enthalten. Der kurze Ausschnitt erlaubt keine verlässliche Aussage über die nächsten Wochen.</p>",
   "image": "/images/dax-wochenbilanz-2026-11-06.jpg",
   "sources": [
@@ -30,6 +30,6 @@
       "a": "Wir nutzen nur Werte mit eigenem belegten Zeitstempel aus derselben Quelle und derselben Tageszeit. Die tagesschau-Übersicht weist den DAX mit Stand 17:50 Uhr aus, nicht als gelabelten Schlusskurs."
     }
   ],
-  "modified": "2026-11-06T08:07:00+01:00",
+  "modified": "2026-11-06T08:28:00+01:00",
   "image_caption": "Abstrakte Symbolgrafik, keine Kurs- oder Messdaten. Mit KI-Unterstützung erstellt."
 }

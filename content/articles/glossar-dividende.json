@@ -3,7 +3,7 @@
   "title": "Glossar: Dividende - Ausschüttung an Aktionäre",
   "description": "Die Dividende ist die Gewinnausschüttung an Aktionäre. Wer sie beschließt, wann sie gezahlt wird und was Vorzugsaktien damit zu tun haben.",
   "section": "glossar",
-  "date": "2026-11-06T08:07:00+01:00",
+  "date": "2026-11-06T08:28:00+01:00",
   "body": "<p>Eine Dividende ist eine Ausschüttung an Aktionäre. Bei einer deutschen Aktiengesellschaft entscheidet die Hauptversammlung über die Verwendung des Bilanzgewinns (§ 174 AktG). Dieser Artikel erläutert die gesetzlichen Grundregeln in Deutschland, nicht die Besteuerung oder Regelungen anderer Länder.</p><h2>Wer beschließt die Dividende?</h2><p>Vorstand und Aufsichtsrat machen der Hauptversammlung einen Vorschlag zur Verwendung des Bilanzgewinns (§ 124 Abs. 3 AktG). Die Hauptversammlung beschließt darüber. Grundsätzlich genügt die Mehrheit der abgegebenen Stimmen, soweit Gesetz oder Satzung keine größere Mehrheit oder weitere Anforderungen vorsehen (§ 133 Abs. 1 AktG). Nicht der gesamte Bilanzgewinn muss ausgeschüttet werden: Beträge können etwa in Gewinnrücklagen eingestellt oder vorgetragen werden (§ 58 Abs. 3 AktG).</p><h2>Wann wird der Anspruch fällig?</h2><p>Nach § 58 Abs. 4 Satz 2 AktG ist der Anspruch am dritten auf den Hauptversammlungsbeschluss folgenden Geschäftstag fällig. Hauptversammlungsbeschluss oder Satzung können eine spätere Fälligkeit festlegen. Die gesetzliche Fälligkeit ist nicht mit einer Garantie gleichzusetzen, dass eine Depotbank den Betrag exakt an diesem Tag sichtbar gutschreibt.</p><h2>Was bedeutet der Vorzug bei Vorzugsaktien?</h2><p>Bei Aktien mit einem Vorzug bei der Gewinnverteilung kann das Stimmrecht ausgeschlossen werden. Der Vorzug kann insbesondere ein vorab ausgezahlter Gewinnanteil oder ein erhöhter Gewinnanteil sein (§ 139 Abs. 1 AktG). Nicht jede Vorzugsaktie bedeutet deshalb pauschal eine höhere reguläre Dividende.</p><h2>Einordnung</h2><p>Eine Dividende ist kein fester Zins. Entscheidend sind der ausschüttbare Bilanzgewinn und der Beschluss über dessen Verwendung. Eine Ausschüttung kann ausbleiben. Aus vergangenen Dividenden folgt keine Garantie für künftige Zahlungen.</p>",
   "image": "/images/glossar-dividende.jpg",
   "sources": [
@@ -38,6 +38,6 @@
       "a": "Am dritten auf den Hauptversammlungsbeschluss folgenden Geschäftstag (§ 58 Abs. 4 AktG). Beschluss oder Satzung können eine spätere Fälligkeit festlegen."
     }
   ],
-  "modified": "2026-11-06T08:07:00+01:00",
+  "modified": "2026-11-06T08:28:00+01:00",
   "image_caption": "Abstrakte Symbolgrafik, keine Kurs- oder Messdaten. Mit KI-Unterstützung erstellt."
 }
