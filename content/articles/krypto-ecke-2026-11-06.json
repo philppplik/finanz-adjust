@@ -1,0 +1,27 @@
+{
+  "slug": "krypto-ecke-2026-11-06",
+  "title": "Krypto-Ecke: Bitcoin bei 75.700 Dollar (Stand 6.11., 7:50 Uhr)",
+  "description": "Bitcoin 75.691 US-Dollar, Ethereum 2.230 Dollar, Solana 89,76 Dollar - die Krypto-Kurse am Freitagmorgen, Stand 6.11.2026, 7:50 Uhr.",
+  "section": "krypto",
+  "date": "2026-11-06T08:07:00+01:00",
+  "body": "<p>Die Krypto-Kurse am Freitagmorgen im Überblick. Stand 6.11.2026, 7:50 Uhr MEZ (eigener Abruf bei CoinGecko): Bitcoin 75.691 US-Dollar (67.648 Euro), Ethereum 2.230,43 US-Dollar (1.993,43 Euro), Solana 89,76 US-Dollar (80,22 Euro).</p><h2>24-Stunden-Veränderung</h2><p>Auf US-Dollar-Basis weist CoinGecko zum Abrufzeitpunkt aus: Bitcoin -6,1 Prozent, Ethereum -8,2 Prozent, Solana -6,7 Prozent in den letzten 24 Stunden. Die Euro-Kurse stammen aus demselben API-Abruf; die Prozentangaben beziehen sich auf die Dollar-Kurse.</p><h2>Einordnung</h2><p>Tagesveränderungen von sechs bis acht Prozent sind auch im Kryptomarkt heftig. Alle Werte sind eine Momentaufnahme mit festem Zeitstempel - Kryptokurse handeln rund um die Uhr und können sich minütlich ändern.</p>",
+  "image": "/images/krypto-ecke-2026-11-06.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko: Simple Price API (Abruf 6.11.2026, 7:50 Uhr MEZ)",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Bitcoin am Freitagmorgen?",
+      "a": "75.691 US-Dollar beziehungsweise 67.648 Euro, Stand 6.11.2026, 7:50 Uhr MEZ (CoinGecko)."
+    },
+    {
+      "q": "Auf welcher Basis stehen die Prozentangaben?",
+      "a": "Auf US-Dollar-Basis, wie CoinGecko sie ausweist. Die Euro-Kurse stammen aus demselben API-Abruf; sie sind keine eigene Umrechnung der Redaktion."
+    }
+  ],
+  "modified": "2026-11-06T08:07:00+01:00",
+  "image_caption": "Abstrakte Symbolgrafik, keine Kurs- oder Messdaten. Mit KI-Unterstützung erstellt."
+}
