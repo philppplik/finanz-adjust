@@ -1,0 +1,45 @@
+{
+  "slug": "konjunktur-wochenrueckblick-2026-11-07",
+  "title": "Konjunkturwoche im Rückblick: Aufträge und Produktion steigen, Einzelhandel fällt",
+  "description": "Aufträge und Produktion steigen, Einzelhandel fällt: Destatis-Meldungen vom 2. bis 6. November, ergänzt um BIP und Inflation vom 30. Oktober.",
+  "section": "einordnung",
+  "date": "2026-11-07T07:56:00+01:00",
+  "body": "<p>Die Woche vom 2. bis 6. November brachte neue Destatis-Zahlen zu Einzelhandel, Industrie und Dienstleistungen. Für den Kontext ziehen wir außerdem zwei bereits am Freitag der Vorwoche, dem 30. Oktober, veröffentlichte Meldungen zu BIP und Inflation heran.</p><h2>Vorwochen-Kontext: BIP und Inflation</h2><p>Das Statistische Bundesamt meldete am 30. Oktober: Die Wirtschaftsleistung ist im dritten Quartal 2026 um 0,2 Prozent gegenüber dem Vorquartal gewachsen (preis-, saison- und kalenderbereinigt). Zum Vorjahresquartal lag das Bruttoinlandsprodukt preisbereinigt 1,3 Prozent höher. Die Konsumausgaben entwickelten sich leicht positiv, die Investitionen gingen zurück, die Exportdynamik schwächte sich ab (Pressemitteilung Nr. 381 vom 30.10.2026).</p><h2>Preise aus der Vorwoche, neue Konsumdaten</h2><p>Die Inflationsrate lag im Oktober voraussichtlich bei 2,8 Prozent zum Vorjahresmonat, die Kerninflation ohne Nahrungsmittel und Energie bei 2,1 Prozent. Energie verteuerte sich um 12,2 Prozent zum Vorjahr (Nr. 382 vom 30.10.). Der Einzelhandel setzte im September real 2,0 Prozent weniger um als im August (kalender- und saisonbereinigt, vorläufig), zum Vorjahresmonat real 2,3 Prozent weniger (Nr. 383 vom 2.11.).</p><h2>Industrie mit Gegenwind und Rückenwind</h2><p>Der Auftragseingang im Verarbeitenden Gewerbe stieg im September saison- und kalenderbereinigt um 4,4 Prozent zum Vormonat - nach einem revidierten Minus von 10,1 Prozent im August. Getragen wurde der Anstieg vor allem von der Automobilindustrie (plus 10,5 Prozent) und dem Maschinenbau (plus 8,3 Prozent); ohne Großaufträge betrug das Plus 5,1 Prozent (Nr. 385 vom 5.11.). Die Produktion im Produzierenden Gewerbe legte im September um 0,7 Prozent zu (Nr. 389 vom 6.11.), die Dienstleistungsumsätze waren im August real 0,9 Prozent höher als im Juli (Nr. 387 vom 5.11.).</p><h2>Einordnung</h2><p>Das Bild der Woche ist gemischt: Industrieaufträge und Produktion drehten nach der Sommerflaute - nennenswert getrieben von der Autoindustrie nach Produktionsumstellungen und Werksferien. Der Konsum blieb dagegen schwach, und die Energiepreise halten die Inflation hoch. Wichtig für alle Zahlen: Es sind vorläufige Werte, und Destatis revidiert regelmäßig - so wurde der August-Auftragseingang von minus 10,6 auf minus 10,1 Prozent und der August-Produktionswert von plus 2,0 auf plus 1,0 Prozent korrigiert.</p>",
+  "image": "/images/konjunktur-wochenrueckblick-2026-11-07.jpg",
+  "sources": [
+    {
+      "title": "Destatis PM Nr. 381 vom 30.10.2026: Bruttoinlandsprodukt 3. Quartal 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_381_811.html"
+    },
+    {
+      "title": "Destatis PM Nr. 382 vom 30.10.2026: Verbraucherpreisindex Oktober 2026 (vorläufig)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+    },
+    {
+      "title": "Destatis PM Nr. 383 vom 2.11.2026: Einzelhandelsumsatz September 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_383_45212.html"
+    },
+    {
+      "title": "Destatis PM Nr. 385 vom 5.11.2026: Auftragseingang Verarbeitendes Gewerbe September 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_385_421.html"
+    },
+    {
+      "title": "Destatis PM Nr. 387 vom 5.11.2026: Umsatz im Dienstleistungsbereich August 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_387_474.html"
+    },
+    {
+      "title": "Destatis PM Nr. 389 vom 6.11.2026: Produktionsindex September 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_389_421.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Daten erschienen diese Woche, welche schon am 30. Oktober?",
+      "a": "Vom 2. bis 6. November erschienen Einzelhandel September (real minus 2,0 Prozent zum Vormonat), Auftragseingang September (plus 4,4 Prozent), Dienstleistungsumsätze August (real plus 0,9 Prozent) und Produktion September (plus 0,7 Prozent). BIP im dritten Quartal (plus 0,2 Prozent zum Vorquartal) und vorläufige Oktober-Inflation (2,8 Prozent zum Vorjahr) wurden bereits am 30. Oktober veröffentlicht."
+    },
+    {
+      "q": "Sind die Zahlen endgültig?",
+      "a": "Nein, es handelt sich überwiegend um vorläufige Werte. Destatis revidiert regelmäßig - Beispiele aus dieser Woche: Auftragseingang August von minus 10,6 auf minus 10,1 Prozent, Produktion August von plus 2,0 auf plus 1,0 Prozent."
+    }
+  ]
+}

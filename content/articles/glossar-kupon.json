@@ -1,0 +1,33 @@
+{
+  "slug": "glossar-kupon",
+  "title": "Glossar: Was ist ein Kupon?",
+  "description": "Kupon, Zinsschein, Nominalzins - was der Begriff aus der Anleihewelt bedeutet, woher er kommt und was die Nullkuponanleihe damit zu tun hat.",
+  "section": "glossar",
+  "date": "2026-11-07T07:56:00+01:00",
+  "body": "<p>Ein Kupon (auch Coupon, von französisch couper - schneiden) ist ursprünglich der Abschnitt eines Wertpapiers, der zur Einlösung eines Zinses (Zinsschein oder Zinskupon) oder eines Gewinnanteils (Dividendenschein) berechtigt.</p><h2>Woher der Name kommt</h2><p>Früher bestanden Aktien und Anleihen aus der eigentlichen Urkunde, dem Mantel, und einem Bogen mit vielen einzelnen Kupons. Zum jeweiligen Zins- oder Dividendentermin schnitt der Inhaber einen Kupon ab und tauschte ihn gegen Bargeld oder eine Gutschrift ein - daher der Name. War der Bogen aufgebraucht, gab es mit einem Erneuerungsschein (Talon) einen neuen.</p><h2>Wie es heute läuft</h2><p>Aktien und Anleihen werden in der Regel nicht mehr als physische Urkunden verwahrt, sondern stückelos als Wertrechte in einer Globalurkunde (Girosammelverwahrung). Zinsen und Dividenden werden automatisch zum vorgesehenen Termin gutgeschrieben - abschneiden musst du nichts mehr.</p><h2>Kupon als Nominalzins</h2><p>Im Börsenjargon steht Kupon auch als Synonym für den Nominalzins einer Anleihe: Ein Kupon von 4 Prozent bedeutet, dass es zum Zinstermin zeitanteilig 4 Prozent des Nennwerts als Zins gibt - bei den meisten Anleihen einmal im Jahr.</p><h2>Die Ausnahme: Nullkuponanleihe</h2><p>Eine Nullkuponanleihe (Zero-Bond) zahlt keine laufenden Zinsen und hat entsprechend keine Zinskupons. Die Verzinsung steckt stattdessen komplett im Unterschied zwischen dem niedrigeren Ausgabekurs und dem höheren Rückzahlungskurs am Ende der Laufzeit.</p><h2>Rechtliches in Kürze</h2><p>Für Zins-, Renten- und Gewinnanteilscheine beträgt die Vorlegungsfrist nach § 801 Absatz 2 BGB grundsätzlich vier Jahre, gerechnet ab dem Schluss des Fälligkeitsjahres. Ohne rechtzeitige Vorlegung erlischt der Anspruch; wird die Urkunde rechtzeitig zur Einlösung vorgelegt oder der Anspruch gerichtlich geltend gemacht, verjährt er nach Absatz 1 in zwei Jahren ab Ende der Vorlegungsfrist. Absatz 3 erlaubt dem Aussteller, Dauer und Beginn der Vorlegungsfrist in der Urkunde anders zu bestimmen. Die Regel betrifft verbriefte Ansprüche aus solchen Scheinen, nicht pauschal jede heutige Depotzinszahlung.</p>",
+  "image": "/images/glossar-kupon.jpg",
+  "sources": [
+    {
+      "title": "Wikipedia: Kupon",
+      "url": "https://de.wikipedia.org/wiki/Kupon"
+    },
+    {
+      "title": "Wikipedia: Nullkuponanleihe",
+      "url": "https://de.wikipedia.org/wiki/Nullkuponanleihe"
+    },
+    {
+      "title": "BGB § 801: Erlöschen; Verjährung (geltender Gesetzestext)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__801.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist ein Kupon bei einer Anleihe?",
+      "a": "Ursprünglich der abtrennbare Zinsschein der Urkunde. Heute meint man damit meist den Nominalzins: Ein Kupon von 4 Prozent bringt 4 Prozent des Nennwerts pro Jahr, zeitanteilig zum Zinstermin."
+    },
+    {
+      "q": "Was ist eine Nullkuponanleihe?",
+      "a": "Eine Anleihe ohne laufende Zinszahlungen. Die Verzinsung ergibt sich allein aus dem Unterschied zwischen dem niedrigeren Ausgabekurs und dem höheren Rückzahlungskurs am Laufzeitende."
+    }
+  ]
+}
