@@ -3,7 +3,7 @@
   "title": "DAX-Wochenbilanz: Nach starkem Mittwoch fast unverändert",
   "description": "Vergleich der DAX-Stände jeweils 17:50 Uhr: 25.820,36 Punkte am 6. November nach 25.818,21 am 30. Oktober. Rechnerisch plus 0,01 Prozent, keine Schlusskursreihe.",
   "section": "markt",
-  "date": "2026-11-07T07:56:00+01:00",
+  "date": "2026-11-07T08:15:00+01:00",
   "body": "<p>Der DAX hat die Handelswoche vom 2. bis 6. November 2026 praktisch unverändert beendet: Am Freitag stand er um 17:50 Uhr bei 25.820,36 Punkten - rechnerisch 0,01 Prozent über dem Stand vom Freitag zuvor (25.818,21 Punkte, 30.10., 17:50 Uhr). Grundlage sind die täglichen 17:50-Stände von tagesschau.de. Für 30. Oktober sowie 2. bis 4. November verwenden wir wiedergewonnene Quellenausschnitte der damaligen Abrufe am jeweiligen Folgemorgen; historische Roh-HTML-Dateien liegen dafür nicht vor. Der 5. November ist im erhaltenen Seitenabruf vom 6. November belegt, der 6. November wurde am 7. November erneut an der aktuellen Quelle geprüft. Es handelt sich bei den älteren Werten nicht um einen heutigen historischen Originalabruf. Es handelt sich um Stand-Meldungen, nicht um offizielle Schlusskurse.</p><h2>Die Woche Tag für Tag</h2><p>Montag: 25.981,09 Punkte (plus 0,63 Prozent). Dienstag: 25.864,62 Punkte (minus 0,45 Prozent). Mittwoch: 26.437,67 Punkte (plus 2,22 Prozent) - der höchste 17:50-Stand der Woche. Donnerstag: 26.325,01 Punkte (minus 0,43 Prozent). Freitag: 25.820,36 Punkte (minus 1,92 Prozent) und damit der niedrigste Stand der Woche.</p><h2>Einordnung</h2><p>Die Woche zeigt ein Bild mit zwei Gesichtern: Der deutliche Mittwochssprung schob den Index kurzzeitig über 26.400 Punkte, am Donnerstag und Freitag gab er die Gewinne wieder ab. Unterm Strich blieb eine Seitwärtsbewegung. Für die Einordnung einzelner Tagesbewegungen hilft der Blick auf die Methode: Die Tagesprozente sind die Änderungen der Quelle zum Vortag, die Wochenänderung wurde aus den beiden Freitagsständen berechnet. Die Instrumentzeit 17:50 Uhr ist von der jeweiligen Abrufzeit am Folgemorgen zu unterscheiden.</p>",
   "image": "/images/dax-wochenbilanz-2026-11-07.jpg",
   "sources": [
@@ -21,5 +21,6 @@
       "q": "Nach welcher Methode wird die Wochenbilanz berechnet?",
       "a": "Stand-zu-Stand: Vergleich der von tagesschau.de mit 17:50 Uhr ausgewiesenen DAX-Stände. Ältere Werte stammen aus erhaltenen damaligen Seitenabrufen beziehungsweise daraus wiedergewonnenen Quellenausschnitten, nicht aus einem heutigen historischen Originalabruf. Es sind keine offiziellen Schlusskurse."
     }
-  ]
+  ],
+  "modified": "2026-11-07T08:15:00+01:00"
 }

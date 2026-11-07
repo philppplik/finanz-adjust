@@ -3,7 +3,7 @@
   "title": "DAX am Freitag: 25.820 Punkte, minus 1,92 Prozent",
   "description": "Der DAX notierte am Freitag um 17:50 Uhr bei 25.820,36 Punkten, 1,92 Prozent im Minus. Der Tagesstand im Überblick.",
   "section": "markt",
-  "date": "2026-11-07T07:56:00+01:00",
+  "date": "2026-11-07T08:15:00+01:00",
   "body": "<p>Der DAX stand am Freitag, 6. November 2026, um 17:50 Uhr bei 25.820,36 Punkten. Das sind 504,65 Punkte oder 1,92 Prozent weniger als am Vortag zur selben Zeit. Die Angaben stammen von tagesschau.de; wir übernehmen ausdrücklich den Zeitstempel der Stand-Meldung und leiten daraus keinen offiziell ausgewiesenen Schlusskurs ab.</p><h2>Der Tag im Kontext</h2><p>Damit gab der Index den Sprung vom Mittwoch (plus 2,22 Prozent auf 26.437,67 Punkte, Stand 4.11., 17:50 Uhr) größtenteils wieder ab. Schon am Donnerstag ging es um 0,43 Prozent abwärts. Die komplette Wochenbilanz mit allen Tagesständen findest du im separaten Wochenrückblick auf finanz-adjust.de.</p><h2>Woher die Zahl kommt</h2><p>Der Stand stammt von der Börsenkurs-Seite der tagesschau (Abruf am 7.11.2026 morgens). Für diesen Artikel wurde ausschließlich der gesondert mit Datum und Uhrzeit ausgewiesene DAX-Stand verwendet; andere Instrumente oder deren Zeitstempel werden nicht übertragen.</p>",
   "image": "/images/dax-tagesstand-2026-11-07.jpg",
   "sources": [
@@ -21,5 +21,6 @@
       "q": "Ist das der offizielle Schlusskurs?",
       "a": "Wir geben hier keinen amtlichen Schlusskurs an, sondern den von tagesschau.de mit 17:50 Uhr ausgewiesenen DAX-Stand. Aus der Uhrzeit allein lässt sich keine Schlusskurs-Kennzeichnung ableiten."
     }
-  ]
+  ],
+  "modified": "2026-11-07T08:15:00+01:00"
 }
