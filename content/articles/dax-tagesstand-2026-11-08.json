@@ -1,0 +1,29 @@
+{
+ "slug": "dax-tagesstand-2026-11-08",
+ "title": "DAX am Sonntag: Letzter Stand 25.820 Punkte vom Freitag",
+ "description": "An Wochenenden findet kein Börsenhandel statt: Der letzte ausgewiesene DAX-Stand ist der von Freitag, 17:50 Uhr - 25.820,36 Punkte.",
+ "section": "markt",
+ "date": "2026-11-08T07:56:00+01:00",
+ "body": "<p>Am Sonntag ändert sich am DAX nichts: Auf Xetra und an der Börse Frankfurt findet samstags und sonntags kein regulärer Handel statt. Der letzte von tagesschau.de ausgewiesene DAX-Stand stammt von Freitag, 6. November 2026, 17:50 Uhr: 25.820,36 Punkte. Das waren 504,65 Punkte oder 1,92 Prozent weniger als am Vortag zur selben Zeit. Es handelt sich um eine Stand-Meldung der Quelle, nicht um einen offiziell ausgewiesenen Schlusskurs.</p><h2>Warum der Stand am Wochenende einfriert</h2><p>Der Handel auf Xetra läuft laut Deutsche Börse montags bis freitags von 9:00 bis 17:30 Uhr. An Wochenenden und an den im Handelskalender gelisteten Feiertagen wird nicht gehandelt. Ohne laufenden Handel entstehen keine neuen Kurse - der zuletzt gemeldete Stand bleibt bis zum nächsten Handelstag sichtbar. Der nächste Handelstag ist Montag, 9. November 2026.</p><h2>Der Stand im Wochenkontext</h2><p>Die komplette Übersicht mit allen Tagesständen steht in der DAX-Wochenbilanz vom 7. November auf finanz-adjust.de.</p>",
+ "image": "/images/dax-tagesstand-2026-11-08.jpg",
+ "sources": [
+  {
+   "title": "tagesschau.de: Börsenkurse und Charts (DAX-Stand 06.11.2026, 17:50 Uhr; Seitenabruf 08.11.2026 morgens)",
+   "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+  },
+  {
+   "title": "Deutsche Börse: Handelskalender und -zeiten Xetra und Frankfurt",
+   "url": "https://www.cashmarket.deutsche-boerse.com/cash-de/Handel/handelskalender-und-zeiten"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wo steht der DAX am Sonntag, 8. November 2026?",
+   "a": "Der letzte ausgewiesene Stand ist der von Freitag, 6. November, 17:50 Uhr: 25.820,36 Punkte, minus 1,92 Prozent zum Vortag (tagesschau). Am Wochenende wird nicht gehandelt."
+  },
+  {
+   "q": "Warum ändert sich der DAX-Stand am Wochenende nicht?",
+   "a": "Weil an Samstagen und Sonntagen kein Handel stattfindet. Der Xetra-Handel läuft montags bis freitags von 9:00 bis 17:30 Uhr; ohne Handel gibt es keine neuen Kurse."
+  }
+ ]
+}

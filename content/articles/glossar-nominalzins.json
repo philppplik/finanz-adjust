@@ -1,0 +1,25 @@
+{
+ "slug": "glossar-nominalzins",
+ "title": "Glossar: Was ist der Nominalzins?",
+ "description": "Nominalzins einfach erklärt: der Zinssatz auf den Nennwert - und warum der Realzins nach Abzug der Inflation die ehrlichere Zahl ist.",
+ "section": "glossar",
+ "date": "2026-11-08T07:56:00+01:00",
+ "body": "<p>Der Nominalzins ist der Zinssatz, der auf den Nominalwert - also den Nennwert - eines zinstragenden Finanzinstruments bezogen wird. Das können Anleihen, Bankguthaben oder Kredite sein. Bei einer Anleihe entspricht der Nominalzins dem Kupon: Ein Kupon von 4 Prozent bedeutet 4 Prozent des Nennwerts pro Jahr, wie wir gestern im Glossar zum Kupon erklärt haben.</p><h2>Nominal ist nicht real</h2><p>Das Gegenstück ist der Realzins. Er berücksichtigt, dass Geld durch Inflation an Kaufkraft verliert. Als Faustformel (Fisher-Gleichung) gilt: Realzins ungefähr gleich Nominalzins minus Inflationsrate.</p><h2>Ein Rechenbeispiel</h2><p>Wikipedia rechnet es vor: Bekommst du auf ein Guthaben 5 Prozent Zinsen im Jahr und liegt die Inflation gleichzeitig bei 2,5 Prozent, ergibt sich exakt gerechnet ein Realzins von etwa 2,44 Prozent. Die Faustformel liefert mit 5 minus 2,5 die Näherung 2,5 Prozent.</p><h2>Warum der Unterschied wichtig ist</h2><p>Entscheidend für dein Geld ist die Kaufkraft, nicht die Zahl auf dem Kontoauszug. Liegt die Inflationsrate über dem Nominalzins, wird der Realzins negativ: Das Guthaben wächst zwar nominal, verliert aber real an Wert. Wer nur auf den Nominalzins schaut, unterliegt der sogenannten Zinsillusion.</p>",
+ "image": "/images/glossar-nominalzins.jpg",
+ "sources": [
+  {
+   "title": "Wikipedia: Nominalzins",
+   "url": "https://de.wikipedia.org/wiki/Nominalzins"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Unterschied zwischen Nominalzins und Realzins?",
+   "a": "Der Nominalzins ist der ausgewiesene Zinssatz auf den Nennwert. Der Realzins zieht die Inflation ab und zeigt, wie stark die Kaufkraft des Geldes tatsächlich wächst."
+  },
+  {
+   "q": "Was hat der Nominalzins mit dem Kupon einer Anleihe zu tun?",
+   "a": "Bei Anleihen wird der Nominalzins als Kupon bezeichnet: Ein Kupon von 4 Prozent bringt 4 Prozent des Nennwerts pro Jahr, zeitanteilig zum Zinstermin."
+  }
+ ]
+}
