@@ -1,0 +1,29 @@
+{
+ "slug": "lkw-maut-index-2026-11-09",
+ "title": "Lkw-Maut-Index im Oktober: minus 1,6 Prozent - was der Frühindikator aussagt",
+ "description": "Der Lkw-Maut-Fahrleistungsindex fiel im Oktober 2026 um 1,6 Prozent zum Vormonat. Was der Indikator misst und warum er früh vor der Industrieproduktion liegt.",
+ "section": "einordnung",
+ "date": "2026-11-09T08:07:00+01:00",
+ "body": "<p>Der Lkw-Maut-Fahrleistungsindex ist im Oktober 2026 kalender- und saisonbereinigt um 1,6 Prozent gegenüber dem September gesunken. Gegenüber dem Vorjahresmonat Oktober 2025 lag der kalenderbereinigte Index um 0,5 Prozent höher. Das teilen das Bundesamt für Logistik und Mobilität (BALM) und das Statistische Bundesamt heute früh mit.</p><h2>Was der Index misst</h2><p>Der Index zeichnet die Fahrleistung mautpflichtiger Lastkraftwagen mit mindestens vier Achsen auf Bundesautobahnen nach. Grundlage sind digitale Prozessdaten aus der Mauterhebung. Das BALM hat den Index entwickelt, Destatis bereitet ihn als saisonbereinigten Konjunkturindikator auf.</p><h2>Warum er als Frühindikator gilt</h2><p>Wirtschaftliche Aktivität erzeugt und benötigt Verkehrsleistungen - darum besteht ein deutlicher Zusammenhang zwischen dem Mautindex und der Industrieproduktion. Da der Index etwa einen Monat früher verfügbar ist als der Produktionsindex, gibt er einen frühen Hinweis auf die Konjunkturentwicklung. Eine Untergliederung nach Wirtschaftszweigen ist allerdings nicht möglich.</p><h2>Einordnung</h2><p>Zum Vergleich: Die Industrieproduktion selbst war im September um 0,7 Prozent gestiegen (Destatis PM Nr. 389 vom 6.11.2026). Ob sich das im Mautindex angelegte Oktober-Minus auch in der Produktion niederschlägt, zeigt die nächste Produktionsmeldung. Der Index ist ein früher Hinweis, keine Garantie - einzelne Monatswerte allein tragen keine Trendwende.</p>",
+ "image": "/images/lkw-maut-index-2026-11-09.jpg",
+ "sources": [
+  {
+   "title": "Destatis PM Nr. 391 vom 9.11.2026: Lkw-Maut-Fahrleistungsindex im Oktober 2026: -1,6 % zum Vormonat",
+   "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_391_421.html"
+  },
+  {
+   "title": "Destatis PM Nr. 389 vom 6.11.2026: Produktionsindex September 2026",
+   "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_389_421.html"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Lkw-Maut-Fahrleistungsindex?",
+   "a": "Ein Konjunkturindikator, der die Fahrleistung mautpflichtiger Lkw ab vier Achsen auf Bundesautobahnen misst - erhoben von BALM und Destatis aus den Maut-Prozessdaten."
+  },
+  {
+   "q": "Warum gilt der Mautindex als Frühindikator?",
+   "a": "Weil er etwa einen Monat früher verfügbar ist als der Produktionsindex und deutlich mit der Industrieproduktion zusammenhängt. Eine Untergliederung nach Branchen ist nicht möglich."
+  }
+ ]
+}

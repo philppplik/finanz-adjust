@@ -1,0 +1,25 @@
+{
+ "slug": "glossar-rendite",
+ "title": "Glossar: Was ist die Rendite?",
+ "description": "Rendite einfach erklärt: Ertrag im Verhältnis zum Kapitaleinsatz - mit Rechenbeispiel, Brutto versus Netto und Nominal versus Real.",
+ "section": "glossar",
+ "date": "2026-11-09T08:07:00+01:00",
+ "body": "<p>Die Rendite ist eine Kennzahl, die den Ertrag einer Geldanlage ins Verhältnis zum eingesetzten Kapital setzt - ausgewiesen als Prozentsatz für einen bestimmten Zeitraum. Sie macht unterschiedliche Anlagen miteinander vergleichbar, etwa eine Aktie mit einer Anleihe oder einem Sparkonto.</p><h2>Grundformel und Beispiel</h2><p>Die Grundformel: Gewinn geteilt durch eingesetztes Kapital. Ein Beispiel: Du setzt 50 Euro ein und erhältst am Ende 70 Euro zurück. Der Gewinn beträgt 20 Euro, die Rendite also 20 geteilt durch 50 - das sind 40 Prozent.</p><h2>Brutto und Netto</h2><p>Bei der Nettorendite werden die Kosten abgezogen, die den Ertrag schmälern - etwa Orderentgelte oder Depotgebühren. Für dich ist die Nettorendite die aussagekräftigere Zahl, weil sie zeigt, was am Ende tatsächlich bei dir ankommt.</p><h2>Nominal und Real</h2><p>Die Nominalrendite ignoriert die Inflation, die Realrendite rechnet sie heraus. Ob dein Geld real an Kaufkraft gewinnt, siehst du erst an der Realrendite. Wie das mit Nominalzins und Realzins zusammenhängt, erklärt unser Glossar zum Nominalzins auf finanz-adjust.de.</p><h2>Rendite und Risiko</h2><p>Rendite allein misst das Risiko nicht. Höhere erwartete Renditen gehen häufig mit höheren Risiken einher; eine hohe vergangene Rendite beweist dagegen weder Sicherheit noch einen künftigen Ertrag. Verluste bis hin zum Totalverlust sind je nach Anlage möglich. Deshalb vergleichen Profis Anlagen über die risikoadjustierte Rendite. Keine Kennzahl ersetzt eine eigene Prüfung - das hier ist keine Anlageberatung.</p>",
+ "image": "/images/glossar-rendite.jpg",
+ "sources": [
+  {
+   "title": "Wikipedia: Rendite",
+   "url": "https://de.wikipedia.org/wiki/Rendite"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie berechnet man die Rendite?",
+   "a": "Gewinn geteilt durch eingesetztes Kapital, mal 100. Beispiel: Aus 50 Euro werden 70 Euro - der Gewinn von 20 Euro entspricht einer Rendite von 40 Prozent."
+  },
+  {
+   "q": "Was ist der Unterschied zwischen Brutto- und Nettorendite?",
+   "a": "Die Nettorendite zieht Kosten wie Order- und Depotgebühren von der Bruttorendite ab. Sie zeigt, was tatsächlich beim Anleger ankommt, und ist damit aussagekräftiger."
+  }
+ ]
+}
