@@ -1,0 +1,42 @@
+{
+  "slug": "glossar-insolvenz",
+  "title": "Glossar: Was bedeutet Insolvenz?",
+  "description": "Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung - die drei Insolvenzgründe der Insolvenzordnung einfach erklärt.",
+  "section": "glossar",
+  "date": "2026-11-10T07:58:00+01:00",
+  "body": "<p>Von Insolvenz spricht man umgangssprachlich, wenn ein Unternehmen oder eine Person seine Rechnungen nicht mehr bezahlen kann. Rechtlich ist das genauer geregelt: Die Insolvenzordnung (InsO) kennt drei Gründe, nach denen ein Insolvenzverfahren eröffnet werden kann.</p><h2>Zahlungsunfähigkeit (§ 17 InsO)</h2><p>Der allgemeine Eröffnungsgrund: Ein Schuldner ist zahlungsunfähig, wenn er nicht in der Lage ist, die fälligen Zahlungspflichten zu erfüllen. Hat er seine Zahlungen eingestellt, wird die Zahlungsunfähigkeit in der Regel angenommen.</p><h2>Drohende Zahlungsunfähigkeit (§ 18 InsO)</h2><p>Dieser Grund gilt nur, wenn der Schuldner selbst das Verfahren beantragt: Er droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, bestehende Zahlungspflichten bei Fälligkeit zu erfüllen. In aller Regel ist dabei ein Prognosezeitraum von 24 Monaten zugrunde zu legen.</p><h2>Überschuldung (§ 19 InsO)</h2><p>Bei juristischen Personen - etwa einer GmbH oder AG - ist auch die Überschuldung ein Eröffnungsgrund. Unter den Voraussetzungen des § 19 Absatz 3 gilt das entsprechend für bestimmte rechtsfähige Personengesellschaften ohne natürliche Person als persönlich haftenden Gesellschafter: Das Vermögen deckt die bestehenden Verbindlichkeiten nicht mehr. Ausnahme: Die Fortführung des Unternehmens in den nächsten zwölf Monaten ist nach den Umständen überwiegend wahrscheinlich.</p><h2>Aktueller Anlass</h2><p>Am Freitag, 13. November 2026, veröffentlicht das Statistische Bundesamt die Insolvenzzahlen für August 2026 - in der Regel um 8:00 Uhr. Die Statistik zählt nicht nur eröffnete Verfahren, sondern auch mangels Masse abgewiesene Anträge und angenommene gerichtliche Schuldenbereinigungspläne.</p>",
+  "image": "/images/glossar-insolvenz.jpg",
+  "sources": [
+    {
+      "title": "Insolvenzordnung § 17: Zahlungsunfähigkeit (geltender Gesetzestext)",
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html"
+    },
+    {
+      "title": "Insolvenzordnung § 18: Drohende Zahlungsunfähigkeit",
+      "url": "https://www.gesetze-im-internet.de/inso/__18.html"
+    },
+    {
+      "title": "Insolvenzordnung § 19: Überschuldung",
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html"
+    },
+    {
+      "title": "Statistisches Bundesamt: Wochenvorschau, 46. Kalenderwoche 2026",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    },
+    {
+      "title": "Destatis: Statistik über beantragte Insolvenzverfahren - Erhebungsumfang",
+      "url": "https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Unternehmen/insolvenzen.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Zahlungsunfähigkeit und Überschuldung?",
+      "a": "Zahlungsunfähigkeit betrifft die Fähigkeit, fällige Zahlungspflichten zu erfüllen. Überschuldung betrifft die Deckung der Verbindlichkeiten durch das Vermögen, mit der gesetzlichen Fortführungs-Ausnahme. § 19 InsO gilt für juristische Personen und unter Absatz 3 auch für bestimmte Personengesellschaften."
+    },
+    {
+      "q": "Wann erscheinen die nächsten Insolvenzzahlen?",
+      "a": "Am Freitag, 13. November 2026, veröffentlicht Destatis die Insolvenzzahlen für August 2026, in der Regel um 8:00 Uhr."
+    }
+  ],
+  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten."
+}

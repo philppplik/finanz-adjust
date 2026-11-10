@@ -1,0 +1,42 @@
+{
+  "slug": "glossar-broker",
+  "title": "Glossar: Was macht ein Broker?",
+  "description": "Broker vermitteln oder führen Wertpapierorders aus. Was Depot, Aufsicht, Kosten und Handel ohne Beratung für private Anleger bedeuten.",
+  "section": "glossar",
+  "date": "2026-11-10T07:58:00+01:00",
+  "body": "<p>Ein Broker vermittelt oder führt Kauf- und Verkaufsaufträge für Wertpapiere aus. Für den privaten Handel an Xetra oder Frankfurt benötigst du ein Depot bei einer Bank oder einem Online-Broker, die diese Handelsplätze anbieten. Dein Auftrag heißt Order.</p><h2>Erlaubnis und Aufsicht</h2><p>Wer in Deutschland Wertpapierdienstleistungen erbringen will, benötigt grundsätzlich eine Erlaubnis. Welche Erlaubnis nötig ist, hängt von den konkreten Tätigkeiten ab. Für Anbieter aus anderen EWR-Staaten kann stattdessen das Notifikationsverfahren über den Europäischen Pass gelten. In der Unternehmensdatenbank der BaFin lassen sich erlaubte und notifizierte Anbieter sowie deren Tätigkeiten nachschlagen. Ein Eintrag ist keine Renditegarantie.</p><h2>Online- und Discountbroker</h2><p>Onlinebroker wickeln den Zugang vor allem digital ab. Discountbroker werben häufig mit niedrigen Gebühren und verzichten oft auf Beratung. Die tatsächlichen Leistungen und Gesamtkosten unterscheiden sich; nicht jeder Anbieter ist für jede Ordergröße am günstigsten.</p><h2>Ohne Beratung heißt nicht ohne Regeln</h2><p>Wertpapierdienstleistungen ohne Beratung und das reine Ausführungsgeschäft sind nicht dasselbe. Nach den ESMA-Leitlinien kann bei Dienstleistungen ohne Beratung eine Angemessenheitsprüfung nötig sein. Die Ausnahme für reine Ausführungsgeschäfte greift nur unter bestimmten Bedingungen, unter anderem für geeignete nichtkomplexe Produkte. Ein Onlinekonto allein schafft diese Ausnahme nicht.</p><h2>Was du vergleichen kannst</h2><p>Vergleiche Order- und Depotgebühren, angebotene Handelsplätze, Produktumfang und Beratungsleistungen. Kosten gehen zulasten der Nettorendite. Dieser Überblick ist keine Empfehlung für einen bestimmten Anbieter und keine Anlageberatung.</p>",
+  "image": "/images/glossar-broker.jpg",
+  "sources": [
+    {
+      "title": "Deutsche Börse: Zugang zum Handel über Bank oder Online-Broker",
+      "url": "https://www.boerse-frankfurt.de/widgets/startseite/boerse-frankfurt"
+    },
+    {
+      "title": "Deutsche Börse: Depot eröffnen - Leistungen und Kosten vergleichen",
+      "url": "https://www.boerse-frankfurt.de/einstieg/depot-eroeffnen-ein-selbstversuch"
+    },
+    {
+      "title": "BaFin: Wertpapierdienstleistungen und Erlaubnispflicht",
+      "url": "https://www.bafin.de/DE/unternehmen-maerkte/erlaubnis-registrierung/wertpapierdienstleistungen/wertpapierdienstleistungen_node.html"
+    },
+    {
+      "title": "BaFin: Unternehmensdatenbank und Europäischer Pass",
+      "url": "https://www.bafin.de/DE/die-bafin/publikationen-daten/datenbanken-uebersichten/unternehmenssuche/unternehmenssuche_node.html"
+    },
+    {
+      "title": "ESMA: Leitlinien zu Angemessenheit und reinem Ausführungsgeschäft",
+      "url": "https://www.esma.europa.eu/sites/default/files/library/esma35-43-3006_gls_on_certain_aspects_of_the_mifid_ii_appropriateness_and_execution-only_requirements_de.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich einen Broker, um Aktien zu kaufen?",
+      "a": "Für privaten Wertpapierhandel an Xetra oder Frankfurt brauchst du ein Depot bei einer Bank oder einem Online-Broker, die diese Handelsplätze anbieten."
+    },
+    {
+      "q": "Was ist ein Discountbroker?",
+      "a": "Ein häufig auf niedrige Gebühren ausgerichteter Broker, oft mit eingeschränkter oder ohne Beratung. Ob er tatsächlich günstiger ist, hängt unter anderem von Ordergröße, Häufigkeit und Zusatzkosten ab."
+    }
+  ],
+  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten."
+}
