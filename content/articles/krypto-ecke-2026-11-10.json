@@ -3,7 +3,7 @@
   "title": "Krypto-Kurse am Dienstag: Bitcoin 74.585 US-Dollar",
   "description": "Bitcoin 74.585 US-Dollar, Ethereum 2.115 Dollar, Solana 85,93 Dollar - die Krypto-Kurse am Dienstagmorgen, Stand 10.11.2026, 7:50 Uhr.",
   "section": "krypto",
-  "date": "2026-11-10T07:58:00+01:00",
+  "date": "2026-11-10T08:21:00+01:00",
   "body": "<p>Die Krypto-Kurse am Dienstagmorgen im Überblick. Stand 10.11.2026, 7:50:06 Uhr MEZ (eigener Abruf bei CoinGecko): Bitcoin 74.585 US-Dollar (66.427 Euro), Ethereum 2.114,69 US-Dollar (1.883,41 Euro), Solana 85,93 US-Dollar (76,53 Euro).</p><h2>24-Stunden-Veränderung</h2><p>Auf US-Dollar-Basis weist CoinGecko zum Abrufzeitpunkt aus: Bitcoin plus 0,6 Prozent, Ethereum plus 0,2 Prozent, Solana nahezu unverändert in den letzten 24 Stunden. Die Euro-Werte liefert derselbe Abruf; die Prozentangaben beziehen sich auf die Dollar-Kurse.</p><h2>Einordnung</h2><p>Alle Angaben sind eine Momentaufnahme mit festem Zeitstempel - Kryptokurse handeln rund um die Uhr und können sich minütlich ändern.</p>",
   "image": "/images/krypto-ecke-2026-11-10.jpg",
   "sources": [
@@ -26,5 +26,6 @@
       "a": "Aus einem eigenen Abruf der CoinGecko-API um 7:50 Uhr MEZ. US-Dollar- und Euro-Werte kommen direkt aus diesem Abruf, die 24-Stunden-Prozente beziehen sich auf die Dollar-Kurse."
     }
   ],
-  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten."
+  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten.",
+  "modified": "2026-11-10T08:21:00+01:00"
 }

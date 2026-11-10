@@ -3,7 +3,7 @@
   "title": "Inflation: Morgen kommen die endgültigen Oktober-Werte",
   "description": "Am Mittwoch um 8:00 Uhr veröffentlicht Destatis die endgültigen Verbraucherpreise für Oktober - nach vorläufig 2,8 Prozent. Was dann wichtig wird.",
   "section": "einordnung",
-  "date": "2026-11-10T07:58:00+01:00",
+  "date": "2026-11-10T08:21:00+01:00",
   "body": "<p>Am Mittwoch, 11. November 2026, veröffentlicht das Statistische Bundesamt die endgültigen Verbraucherpreise für Oktober. Das geht aus der Destatis-Wochenvorschau hervor; dort gilt 8:00 Uhr MEZ als allgemeine Veröffentlichungszeit, nicht als einzeln garantierter Termin. Die Schätzung vom 30. Oktober lag bei 2,8 Prozent zum Vorjahresmonat; gegenüber September sanken die Preise demnach um 0,2 Prozent.</p><h2>Der Stand der Schätzung</h2><p>Nach den vorläufigen Werten stieg Energie um 12,2 Prozent zum Vorjahresmonat (September: 14,9 Prozent), Nahrungsmittel um 0,4 Prozent, Dienstleistungen um 2,5 Prozent und Waren insgesamt um 3,0 Prozent. Die Kerninflation ohne Nahrungsmittel und Energie lag bei 2,1 Prozent. Der Harmonisierte Verbraucherpreisindex (HVPI), der für Vergleiche im Euroraum genutzt wird, wurde vorläufig ebenfalls mit plus 2,8 Prozent ausgewiesen.</p><h2>Was die Endwerte bringen</h2><p>Die endgültige Veröffentlichung enthält die Detailergebnisse nach Gütergruppen - etwa einzelne Nahrungsmittel, Mieten oder Verkehrsdienstleistungen - und ersetzt die vorläufige Schätzung durch endgültige Ergebnisse. Die Schätzung basiert auf den bis zum Stichtag vorliegenden Ergebnissen und kann von den Endwerten abweichen. Beim HVPI ist zudem zu beachten, dass Destatis seit Januar 2026 Methodik und Klassifikation geändert hat und das Ergebnis auf der Indexbasis 2025 ausweist.</p><h2>Einordnung</h2><p>Relevant ist vor allem die Kerninflation: Sie lag in den Monaten Juli bis September stabil bei 2,4 Prozent und wäre mit 2,1 Prozent spürbar gesunken. Ob sich das bestätigt, zeigen die Endwerte am Mittwochmorgen.</p>",
   "image": "/images/inflation-oktober-endwerte-vorschau.jpg",
   "sources": [
@@ -26,5 +26,6 @@
       "a": "Der VPI ist der nationale Verbraucherpreisindex. Der HVPI dient Vergleichen im Euroraum und ist das zentrale Maß der europäischen Preisstabilität. Beide unterscheiden sich in Erfassungsbereich, Methodik und Gewichtung."
     }
   ],
-  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten."
+  "image_caption": "Schematische redaktionelle Illustration, keine gemessenen Daten.",
+  "modified": "2026-11-10T08:21:00+01:00"
 }
