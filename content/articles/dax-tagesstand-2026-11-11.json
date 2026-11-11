@@ -1,0 +1,38 @@
+{
+  "slug": "dax-tagesstand-2026-11-11",
+  "title": "DAX am Dienstag: Plus 0,31 Prozent auf 26.347 Punkte",
+  "description": "Der DAX notierte am Dienstag um 17:50 Uhr bei 26.347,45 Punkten, 0,31 Prozent im Plus. Der Tagesstand im Überblick.",
+  "section": "markt",
+  "date": "2026-11-11T08:07:00+01:00",
+  "body": "<p>Der DAX stand am Dienstag, 10. November 2026, um 17:50 Uhr bei 26.347,45 Punkten. Das sind 80,26 Punkte oder 0,31 Prozent mehr als zum Montagsschluss. Die Angaben stammen von tagesschau.de; dpa-AFX meldet den Handelsschluss mit denselben Werten.</p><h2>Der Tag im Kontext</h2><p>Im Tagesverlauf fehlten dem Index laut tagesschau-Marktbericht zeitweise nur noch rund 60 Punkte auf sein Rekordhoch vom vergangenen Donnerstag bei 26.692 Punkten. Zum Handelsende blieb ein moderates Plus; der MDAX der mittleren Werte gab dagegen um 0,12 Prozent auf 31.034,35 Punkte nach (dpa-AFX).</p><h2>Was den Tag geprägt hat</h2><p>Laut den Marktberichten stützte der gesunkene Ölpreis die Kurse, während schwächelnde US-Börsen bremsten. Am Nachmittag sorgten höher als erwartete US-Inflationsdaten für einen Dämpfer: Die US-Verbraucherpreise stiegen im Oktober um 0,4 Prozent zum Vormonat, erwartet waren 0,3 Prozent. An den Finanzmärkten wird eine Leitzinserhöhung der US-Notenbank Fed im Dezember nach dpa-Angaben bereits eingepreist.</p><h2>Woher die Zahl kommt</h2><p>Der Stand stammt von der Börsenkurs-Seite der tagesschau (Abruf am 11.11.2026 morgens); der Schlusswert ist zusätzlich über den dpa-AFX-Schlussbericht belegt.</p>",
+  "image": "/images/dax-tagesstand-2026-11-11.jpg",
+  "sources": [
+    {
+      "title": "tagesschau.de: Börsenkurse und Charts (DAX-Stand 10.11.2026, 17:50 Uhr)",
+      "url": "https://www.tagesschau.de/wirtschaft/boersenkurse/"
+    },
+    {
+      "title": "dpa-AFX: Aktien Frankfurt Schluss 10.11.2026 (onvista.de)",
+      "url": "https://www.onvista.de/news/2026/11-10-aktien-frankfurt-schluss-dax-daemmt-gewinne-ein-0-10-26574758"
+    },
+    {
+      "title": "tagesschau.de: Marktbericht 10.11.2026",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
+    },
+    {
+      "title": "BLS: Consumer Price Index, Oktober 2026 (saisonbereinigte Monatsrate)",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo stand der DAX am Dienstag, 10. November 2026?",
+      "a": "Bei 26.347,45 Punkten, plus 0,31 Prozent zum Montag, Stand 17:50 Uhr (tagesschau; Schlusswert auch laut dpa-AFX)."
+    },
+    {
+      "q": "Wie weit ist der DAX vom Rekordhoch entfernt?",
+      "a": "Das Rekordhoch vom Donnerstag liegt bei 26.692 Punkten. Der Dienstagsschluss bei 26.347 Punkten liegt rund 1,3 Prozent darunter; im Tagesverlauf fehlten zeitweise nur rund 60 Punkte (tagesschau-Marktbericht)."
+    }
+  ],
+  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe."
+}
