@@ -3,7 +3,7 @@
   "title": "Krypto-Kurse am Mittwoch: Bitcoin 73.485 US-Dollar",
   "description": "Bitcoin 73.485 US-Dollar, Ethereum 2.051,26 Dollar, Solana 82,40 Dollar: CoinGecko-Momentaufnahme vom 11.11.2026 um 08:06 Uhr MEZ.",
   "section": "krypto",
-  "date": "2026-11-11T08:07:00+01:00",
+  "date": "2026-11-11T08:27:00+01:00",
   "body": "<p>Die Krypto-Kurse am Mittwochmorgen im Überblick. Eigener Abruf bei CoinGecko am 11.11.2026 um 08:06 Uhr MEZ: Bitcoin 73.485 US-Dollar (65.872 Euro), Ethereum 2.051,26 US-Dollar (1.838,77 Euro), Solana 82,40 US-Dollar (73,86 Euro).</p><h2>24-Stunden-Veränderung</h2><p>Auf US-Dollar-Basis weist CoinGecko zum Abrufzeitpunkt aus: Bitcoin minus 1,6 Prozent, Ethereum minus 3,2 Prozent und Solana minus 4,4 Prozent in den letzten 24 Stunden. Die Euro-Werte liefert derselbe Abruf; die Prozentangaben beziehen sich auf die Dollar-Kurse.</p><h2>Einordnung</h2><p>Alle drei ausgewiesenen Dollar-Kurse liegen unter ihrem Stand 24 Stunden zuvor. Die Angaben sind eine Momentaufnahme mit festem Abrufzeitpunkt, keine Kauf- oder Verkaufsempfehlung. Kryptokurse handeln rund um die Uhr und können sich minütlich ändern.</p>",
   "image": "/images/krypto-ecke-2026-11-11.jpg",
   "sources": [
@@ -26,5 +26,6 @@
       "a": "Aus einem eigenen Abruf der CoinGecko-API am 11.11.2026 um 08:06 Uhr MEZ. US-Dollar- und Euro-Werte kommen direkt aus demselben Abruf; die 24-Stunden-Prozente beziehen sich auf die Dollar-Kurse."
     }
   ],
-  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe."
+  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe.",
+  "modified": "2026-11-11T08:27:00+01:00"
 }

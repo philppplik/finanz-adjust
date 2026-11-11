@@ -3,7 +3,7 @@
   "title": "Weltmärkte am Dienstag: Europa fest, US-Inflation bremst",
   "description": "Euro STOXX 50 6.328 Punkte, SMI 15.038, FTSE 100 leichter - die Indizes zum Handelsschluss am Dienstag, 10.11.2026.",
   "section": "markt",
-  "date": "2026-11-11T08:07:00+01:00",
+  "date": "2026-11-11T08:27:00+01:00",
   "body": "<p>Die europäischen Aktienmärkte haben am Dienstag, 10.11.2026, überwiegend zugelegt. Der Euro STOXX 50 stieg zum Handelsende um 0,59 Prozent auf 6.327,87 Punkte und erreichte zwischenzeitlich den höchsten Stand seit zwei Monaten. Der Schweizer SMI gewann 0,61 Prozent auf 15.037,94 Punkte, der Pariser CAC 40 legte um 0,55 Prozent auf 8.278,59 Punkte zu. Der Londoner FTSE 100 schloss dagegen 0,29 Prozent tiefer bei 10.751,59 Punkten.</p><h2>US-Inflation als Dämpfer</h2><p>Am Nachmittag bremsten US-Inflationsdaten: Die Verbraucherpreise stiegen im Oktober saisonbereinigt um 0,4 Prozent zum Vormonat, nach plus 0,6 Prozent im September und über der Markterwartung von 0,3 Prozent. Die Kernrate ohne Nahrungsmittel und Energie lag bei plus 0,3 Prozent zum Vormonat. Für den Gesamtindex und die Kernrate veröffentlicht das BLS diesmal keine Jahresraten, weil die nötigen Daten für Oktober 2025 fehlen. Einzelne Teilindizes haben dagegen einen verfügbaren Vorjahresvergleich. </p><h2>Einordnung</h2><p>Getragen wurde Europa laut Marktberichten vom weiter fallenden Ölpreis und von der Erholung der Halbleiterwerte. Der Euro STOXX 50 notiert damit nahe an Mehrmonatshochs, während die Zinserwartungen in den USA steigen - eine Leitzinserhöhung der Fed im Dezember wird laut dpa-AFX an den Märkten eingepreist. Ein einzelner Handelstag sagt nichts über die weitere Richtung aus.</p>",
   "image": "/images/weltmaerkte-2026-11-11.jpg",
   "sources": [
@@ -34,5 +34,6 @@
       "a": "Das BLS veröffentlicht für den Gesamtindex und den Index ohne Nahrungsmittel und Energie keine Zwölf-Monats-Raten, weil die nötigen Oktober-2025-Vergleichsdaten fehlen. Saisonbereinigt stiegen die Preise im Oktober gegenüber September um 0,4 Prozent insgesamt und 0,3 Prozent ohne Nahrungsmittel und Energie. Für einzelne Teilindizes sind Jahresvergleiche verfügbar."
     }
   ],
-  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe."
+  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe.",
+  "modified": "2026-11-11T08:27:00+01:00"
 }

@@ -3,7 +3,7 @@
   "title": "Glossar: Was ist ein Aktienrückkauf?",
   "description": "Aktienrückkauf einfach erklärt: Wenn ein Unternehmen eigene Aktien kauft - was das Aktiengesetz erlaubt und was es für dich ändert.",
   "section": "glossar",
-  "date": "2026-11-11T08:07:00+01:00",
+  "date": "2026-11-11T08:27:00+01:00",
   "body": "<p>Von einem Aktienrückkauf spricht man, wenn ein Unternehmen eigene Aktien zurückkauft, etwa über die Börse. Die gekauften Stücke nennt man eigene Aktien. In Deutschland ist das nur unter bestimmten Voraussetzungen erlaubt - das Aktiengesetz (§ 71 AktG) zählt sie auf.</p><h2>Was das Gesetz erlaubt</h2><p>Der in der Praxis wichtigste Fall: Die Hauptversammlung erteilt dem Vorstand eine Ermächtigung zum Erwerb eigener Aktien. Diese Ermächtigung gilt höchstens fünf Jahre und legt den niedrigsten und höchsten Kaufpreis fest. Auf die erworbenen Aktien dürfen - zusammen mit Aktien, die das Unternehmen bereits besitzt - höchstens zehn Prozent des Grundkapitals entfallen. Der bloße Handel in eigenen Aktien darf nicht Zweck dieser Ermächtigung sein. Zusätzlich gelten die Kapitalerhaltungsbedingungen des §71 Absatz 2 AktG.</p><h2>Eigene Aktien haben keine Rechte</h2><p>Aus eigenen Aktien stehen dem Unternehmen keine Rechte zu (§ 71b AktG): keine Dividende, kein Stimmrecht, kein Bezugsrecht. Dividenden- und Stimmrechte verteilen sich damit auf die verbleibenden ausstehenden Aktien.</p><h2>Was sich für dich ändert</h2><p>Weil nach einem Rückkauf weniger Aktien ausstehen, entfällt der Unternehmensgewinn rechnerisch auf weniger Stücke - der Gewinn je Aktie steigt dadurch, ohne dass das Unternehmen mehr verdient hat. Das Unternehmen kann eigene Aktien auch einziehen, also endgültig vernichten; je nach Verfahren sinkt dabei das Grundkapital oder der Anteil der übrigen Stückaktien daran erhöht sich (§237 AktG). Ein Rückkaufprogramm ist für sich genommen keine Aussage über die Qualität des Unternehmens - es verwendet liquide Mittel und kann Kapitalstruktur und Kennzahlen verändern. Eine höhere Dividende oder ein höherer Aktienkurs sind dadurch nicht garantiert.</p>",
   "image": "/images/glossar-aktienrueckkauf.jpg",
   "sources": [
@@ -34,5 +34,6 @@
       "a": "Nein. Aus eigenen Aktien stehen dem Unternehmen keine Rechte zu - weder Dividende noch Stimm- oder Bezugsrecht (§ 71b AktG)."
     }
   ],
-  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe."
+  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe.",
+  "modified": "2026-11-11T08:27:00+01:00"
 }

@@ -3,7 +3,7 @@
   "title": "Glossar: Was ist die Hauptversammlung?",
   "description": "Hauptversammlung einfach erklärt: die jährliche Versammlung aller Aktionäre - was dort beschlossen wird und wie dein Stimmrecht funktioniert.",
   "section": "glossar",
-  "date": "2026-11-11T08:07:00+01:00",
+  "date": "2026-11-11T08:27:00+01:00",
   "body": "<p>Die Hauptversammlung (HV) ist eines der drei Organe einer Aktiengesellschaft - neben Vorstand und Aufsichtsrat. Sie ist die Versammlung aller Aktionäre und dient der Information und der Beschlussfassung über das Unternehmen. Die ordentliche Hauptversammlung findet einmal im Jahr statt; das Gesetz sieht vor, dass sie in den ersten acht Monaten des Geschäftsjahrs unter anderem über die Entlastung von Vorstand und Aufsichtsrat beschließt (§ 120 AktG).</p><h2>Was die Hauptversammlung beschließt</h2><p>Auf der Tagesordnung stehen typischerweise die Verwendung des Gewinns - also ob und wie viel Dividende ausgeschüttet wird -, die Entlastung von Vorstand und Aufsichtsrat, die Wahl der von den Aktionären zu bestimmenden Aufsichtsratsmitglieder und die Wahl des Abschlussprüfers. Mit der Entlastung billigt die HV die Verwaltung des Unternehmens; sie enthält keinen Verzicht auf Schadensersatzansprüche (§ 120 AktG). Grundsatzbeschlüsse wie Satzungsänderungen oder Kapitalerhöhungen brauchen in der Regel drei Viertel des bei der Beschlussfassung vertretenen Grundkapitals, sonst genügt grundsätzlich die einfache Mehrheit der abgegebenen Stimmen. Gesetz und Satzung können abweichende oder zusätzliche Anforderungen vorsehen (§§133, 179 und 182 AktG).</p><h2>Dein Stimmrecht als Anleger</h2><p>Auch Kleinanleger können mit stimmberechtigten Aktien abstimmen oder einen Vertreter bevollmächtigen (§134 AktG). Maßgeblich sind die Anmeldung und Nachweise aus der Einladung. Bei Inhaberaktien börsennotierter Gesellschaften muss sich der Anteilsbesitznachweis auf den Geschäftsschluss des 22. Tages vor der Versammlung beziehen. Bei Namensaktien ist dagegen die Eintragung im Aktienregister maßgeblich (§123 Absätze 4 und 5 AktG). Der Nachweisstichtag ist keine Haltepflicht bis zum Versammlungstag; Teilnahme- und Dividendenberechtigung sind unterschiedliche Fragen.</p>",
   "image": "/images/glossar-hauptversammlung.jpg",
   "sources": [
@@ -46,5 +46,6 @@
       "a": "Ja, mit stimmberechtigten Aktien und unter Einhaltung der Anmeldung und Nachweise aus der Einladung. Bei Inhaberaktien börsennotierter Gesellschaften ist der Geschäftsschluss des 22. Tages vor der HV für den Besitznachweis maßgeblich; bei Namensaktien die Eintragung im Aktienregister. Eine Vertretung per Vollmacht ist möglich."
     }
   ],
-  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe."
+  "image_caption": "Symbolbild der FA Redaktion, keine Kurs- oder Messreihe.",
+  "modified": "2026-11-11T08:27:00+01:00"
 }
