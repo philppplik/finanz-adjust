@@ -1,5 +1,6 @@
 import urllib.parse as _up
-def share_block(url, title, brand, top=False):
+from html import escape as _esc
+def share_block(url, title, brand, top=False, label="Artikel teilen"):
     q = _up.quote
     u, t = q(url, safe=''), q(title, safe='')
     def svg(inner): return '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">%s</svg>' % inner
@@ -15,13 +16,13 @@ def share_block(url, title, brand, top=False):
     items += ('<li><button type="button" class="sh-b" data-copy="%s" aria-label="Link kopieren" title="Link kopieren">%s<span class="sh-label">Link kopieren</span></button></li>'
               % (url, svg('<path d="M10 14a4 4 0 0 0 5.700 0l3-3a4 4 0 0 0-5.700-5.700l-1 1M14 10a4 4 0 0 0-5.700 0l-3 3a4 4 0 0 0 5.700 5.700l1-1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>')))
     items += ('<li><button type="button" class="sh-b sh-native" hidden data-share-url="%s" data-share-title="%s" aria-label="Teilen über das Gerät" title="Teilen">%s<span class="sh-label">Teilen</span></button></li>'
-              % (url, title.replace('"', '&quot;'), svg('<circle cx="6" cy="12" r="2.200" fill="currentColor"/><circle cx="17.500" cy="6" r="2.200" fill="currentColor"/><circle cx="17.500" cy="18" r="2.200" fill="currentColor"/><path d="M7.800 11l8-4M7.800 13l8 4" stroke="currentColor" stroke-width="1.6"/>')))
+              % (url, _esc(title, quote=True), svg('<circle cx="6" cy="12" r="2.200" fill="currentColor"/><circle cx="17.500" cy="6" r="2.200" fill="currentColor"/><circle cx="17.500" cy="18" r="2.200" fill="currentColor"/><path d="M7.800 11l8-4M7.800 13l8 4" stroke="currentColor" stroke-width="1.6"/>')))
     js = ("<script>(function(){var s=document.currentScript.parentNode,n=s.querySelector('.sh-native'),c=s.querySelector('[data-copy]');"
           "if(navigator.share&&n){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:n.dataset.shareTitle,url:n.dataset.shareUrl}).catch(function(){})})}"
           "c.addEventListener('click',function(){var u=c.dataset.copy,l=c.querySelector('span'),o=l.textContent;"
           "function ok(){l.textContent='Kopiert';setTimeout(function(){l.textContent=o},2000)}"
           "if(navigator.clipboard){navigator.clipboard.writeText(u).then(ok,function(){})}else{var i=document.createElement('input');i.value=u;document.body.appendChild(i);i.select();try{document.execCommand('copy');ok()}catch(e){}i.remove()}})})();</script>")
-    return '<div class="share%s" role="group" aria-label="Artikel teilen"><b>Artikel teilen</b><ul>%s</ul>%s</div>' % (' share-top' if top else '', items, js)
+    return '<div class="share%s" role="group" aria-label="%s"><b>%s</b><ul>%s</ul>%s</div>' % (' share-top' if top else '', _esc(label, quote=True), _esc(label), items, js)
 SHARE_CSS = ('.share-top{margin:0 0 1.4em!important;padding:10px 0!important;border-top:0!important}.share-top b{display:none}.share{margin:2em 0 1.2em;padding:16px 0;border-top:1px solid var(--b);border-bottom:1px solid var(--b)}.share b{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--mut);margin-bottom:10px}'
-             '.share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}.share li{margin:0!important}.sh-b{box-sizing:border-box;position:relative;display:inline-flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;padding:10px;border:1px solid var(--b);border-radius:50%;background:transparent;color:var(--fg);text-decoration:none!important;cursor:pointer;transition:background-color .15s ease,border-color .15s ease,color .15s ease}'
-             '.sh-b svg{display:block;width:20px;height:20px;flex:none}.sh-label{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}.sh-b:hover{background:var(--p2);border-color:var(--ac);color:var(--ac)}.sh-b:focus-visible{outline:3px solid var(--ring);outline-offset:3px}.sh-b[hidden]{display:none}')
+             '.share ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}.share li{margin:0!important}.share .sh-b{box-sizing:border-box;position:relative;display:inline-flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;padding:10px;border:1px solid var(--b);border-radius:50%;background:transparent;color:var(--fg);text-decoration:none!important;cursor:pointer;transition:background-color .15s ease,border-color .15s ease,color .15s ease}'
+             '.sh-b svg{display:block;width:20px;height:20px;flex:none}.sh-label{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}.share .sh-b:hover{background:var(--p2);border-color:var(--ac);color:var(--ac)}.share .sh-b:focus-visible{outline:3px solid var(--ring);outline-offset:3px}.share .sh-b[hidden]{display:none}')

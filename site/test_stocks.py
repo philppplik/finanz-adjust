@@ -77,7 +77,7 @@ class StocksTest(unittest.TestCase):
     def yahoo_raw(self, **meta):
         m=dict(symbol='SAP.DE',exchangeName='GER',currency='EUR',instrumentType='EQUITY',
                regularMarketPrice=213.15,regularMarketTime=int(time.time()),
-               regularMarketDayHigh=215.25,regularMarketDayLow=211.7,chartPreviousClose=212.0,
+               regularMarketDayHigh=215.25,regularMarketDayLow=211.7,chartPreviousClose=199.0,previousClose=212.0,
                regularMarketVolume=1762,regularMarketChangePercent=0.54)
         m.update(meta)
         return {'chart':{'result':[{'meta':m,'indicators':{'quote':[{'open':[212.75]}]}}]}}

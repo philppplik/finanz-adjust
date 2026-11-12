@@ -128,7 +128,7 @@ def parse_yahoo(raw, stock, symbol):
                  'delay': YAHOO_DELAY.get(stock['exchange'], 'Vom Anbieter nicht ausgewiesen; kein Echtzeitversprechen'),
                  'symbol': stock['ticker']}
         optional = {'high': 'regularMarketDayHigh', 'low': 'regularMarketDayLow',
-                    'previous_close': 'chartPreviousClose', 'volume': 'regularMarketVolume',
+                    'volume': 'regularMarketVolume',
                     'percent_change': 'regularMarketChangePercent'}
         for field, key in optional.items():
             try:
@@ -139,8 +139,18 @@ def parse_yahoo(raw, stock, symbol):
             value = float(raw['chart']['result'][0]['indicators']['quote'][0]['open'][-1])
             if math.isfinite(value): quote['open'] = value
         except (KeyError, ValueError, TypeError, IndexError): pass
-        if 'previous_close' in quote:
-            quote['change'] = price - quote['previous_close']
+        # chartPreviousClose is the close BEFORE THE REQUESTED RANGE, not the prior session.
+        # Only explicit previous-session metadata is safe for this label. Never infer it
+        # from rounded percentage changes or silently reinterpret a five-day baseline.
+        for key in ('regularMarketPreviousClose', 'previousClose'):
+            try:
+                value = float(meta[key])
+                if math.isfinite(value) and value > 0:
+                    quote['previous_close'] = value
+                    quote['previous_close_basis'] = key
+                    quote['change'] = price - value
+                    break
+            except (KeyError, ValueError, TypeError): pass
         return quote
     except (KeyError, ValueError, TypeError, IndexError): return None
 
@@ -215,6 +225,8 @@ def render_quote(quote, stock):
     details=''
     for key,label in [('open','Eröffnung'),('high','Tageshoch'),('low','Tagestief'),('previous_close','Vortagesschluss'),('volume','Volumen')]:
         if key not in quote: continue
+        if key == 'previous_close' and quote.get('source') == 'Yahoo Finance' and quote.get('previous_close_basis') not in ('regularMarketPreviousClose', 'previousClose'):
+            continue  # Older cache entries used the range baseline, not the prior session.
         try: value=format_number(quote[key],0 if key=='volume' else 2)
         except (ValueError,TypeError,OverflowError): continue
         details+='<div><dt>'+label+'</dt><dd>'+e(value)+'</dd></div>'
