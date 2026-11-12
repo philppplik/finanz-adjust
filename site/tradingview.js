@@ -16,11 +16,12 @@
       script.async = true;
       if (kind === 'advanced-chart') {
         script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js';
-        script.textContent = JSON.stringify({symbol, interval: 'D', width: '100%', height: 420, locale: 'de_DE', colorTheme: 'light', isTransparent: true, allow_symbol_change: false, hide_side_toolbar: true, withdateranges: false});
+        script.textContent = JSON.stringify({symbol, interval: 'D', width: '100%', height: 420, locale: 'de_DE', colorTheme: document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light', isTransparent: true, allow_symbol_change: false, hide_side_toolbar: true, withdateranges: false});
       } else {
         script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js';
         script.textContent = JSON.stringify({symbol, width: '100%', height: 282, locale: 'de_DE', colorTheme: 'dark', isTransparent: true});
       }
+      script.onload = () => { section.querySelector('[role="status"]').textContent = 'TradingView-Skript geladen. Falls der Chart keine Daten zeigt, nutze den Quellenlink.'; };
       script.onerror = () => { section.querySelector('[role="status"]').textContent = 'TradingView konnte nicht geladen werden. Bitte nutze den Quellenlink.'; };
       host.appendChild(script);
     }, {once: true});
