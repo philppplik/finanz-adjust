@@ -3,7 +3,7 @@
   "title": "Glossar: Stammaktie und Vorzugsaktie - was ist der Unterschied?",
   "description": "Stamm- und Vorzugsaktien einfach erklärt: Stimmrecht gegen Dividendenvorzug - und welcher Schutz gilt, wenn die Vorzugsdividende ausfällt.",
   "section": "glossar",
-  "date": "2026-11-12T08:07:00+01:00",
+  "date": "2026-11-12T08:33:00+01:00",
   "body": "<p>Stammaktien gewähren grundsätzlich Stimmrecht in der Hauptversammlung (§ 12 AktG). Daneben können Unternehmen Vorzugsaktien ohne Stimmrecht ausgeben - Aktien, die das Stimmrecht gegen einen Vorteil bei der Gewinnverteilung tauschen.</p><h2>Der Vorzug: erst die Vorzugsdividende, dann der Rest</h2><p>Der Vorzug besteht in einem auf die Aktie vorweg entfallenden Gewinnanteil (Vorabdividende) oder einem erhöhten Gewinnanteil (Mehrdividende). Bestimmt die Satzung nichts anderes, ist eine ausgefallene Vorabdividende nachzuzahlen (§ 139 AktG). Abgesehen vom Stimmrecht gewähren Vorzugsaktien alle übrigen Aktionärsrechte (§ 140 AktG) - etwa den Anspruch auf die Dividende und das Bezugsrecht. Stimmrechtslose Vorzugsaktien dürfen höchstens die Hälfte des Grundkapitals ausmachen.</p><h2>Der eingebaute Schutz</h2><p>Fällt ein nachzuzahlender Vorzugsbetrag in einem Jahr aus oder wird er nur teilweise gezahlt und auch im nächsten Jahr nicht neben dem vollen Vorzug nachgezahlt, bekommen die Vorzugsaktionäre ihr Stimmrecht zurück - so lange, bis die Rückstände gezahlt sind (§ 140 Abs. 2 AktG). Ist der Vorzug nicht nachzuzahlen, entsteht das Stimmrecht dagegen bereits dann, wenn der Vorzugsbetrag in einem Jahr nicht oder nicht vollständig gezahlt wird. Es besteht, bis der Vorzug in einem Jahr vollständig gezahlt ist. Und ein Beschluss, der den Vorzug aufhebt oder beschränkt, braucht die Zustimmung der Vorzugsaktionäre in einem Sonderbeschluss mit drei Vierteln der abgegebenen Stimmen (§ 141 AktG); wird der Vorzug aufgehoben, gewähren die Aktien wieder das Stimmrecht.</p><h2>Was dich das als Anleger angeht</h2><p>Für Anleger ohne Interesse an Mitbestimmung sind Vorzugsaktien eine Möglichkeit, am selben Unternehmen beteiligt zu sein und dafür einen Dividendenvorteil zu erhalten. Ein niedrigerer Börsenkurs als bei Stammaktien ist kein gesetzlich zugesicherter Vorteil; Kurse hängen auch von Angebot, Nachfrage und den konkreten Aktienrechten ab. Beide Gattungen finden sich in deutschen Indizes - manche Konzerne haben beide im Angebot.</p>",
   "image": "/images/glossar-stammaktie-vorzugsaktie.jpg",
   "sources": [
@@ -34,5 +34,6 @@
       "a": "Bei einem nachzuzahlenden Vorzug entsteht das Stimmrecht, wenn der Fehlbetrag im Folgejahr nicht neben dem vollen Vorzug nachgezahlt wird; es bleibt bis zur Zahlung der Rückstände. Bei einem nicht nachzuzahlenden Vorzug entsteht es schon bei unvollständiger Zahlung in einem Jahr und bleibt bis zur vollständigen Zahlung eines Jahresvorzugs (§ 140 Abs. 2 AktG)."
     }
   ],
-  "image_caption": "Schematische Illustration der FA Redaktion."
+  "image_caption": "Schematische Illustration der FA Redaktion.",
+  "modified": "2026-11-12T08:33:00+01:00"
 }
