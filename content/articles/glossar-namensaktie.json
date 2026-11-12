@@ -1,0 +1,38 @@
+{
+  "slug": "glossar-namensaktie",
+  "title": "Glossar: Was ist eine Namensaktie?",
+  "description": "Namensaktie einfach erklärt: der Eintrag im Aktienregister, Rechte gegenüber der Gesellschaft und die Zustimmung bei vinkulierten Aktien.",
+  "section": "glossar",
+  "date": "2026-11-12T08:07:00+01:00",
+  "body": "<p>Namensaktien werden in das Aktienregister der Gesellschaft eingetragen. Bei natürlichen Personen gehören dazu Name, Vorname, Geburtsdatum, Anschrift und elektronische Adresse sowie Stückzahl oder Aktiennummer; bei Nennbetragsaktien auch der Betrag (§ 67 Abs. 1 AktG). Gegenüber der Gesellschaft bestehen Rechte und Pflichten aus den Aktien grundsätzlich für und gegen den Eingetragenen (§ 67 Abs. 2 AktG). Registereintrag und wirtschaftliches Eigentum sind dabei nicht immer identisch: Das Gesetz berücksichtigt auch Eintragungen für Aktien, die einem anderen gehören.</p><h2>Der Unterschied zur Inhaberaktie</h2><p>Das Aktiengesetz geht von Namensaktien aus; Inhaberaktien sind unter den Voraussetzungen des § 10 AktG möglich. Bei Inhaberaktien gibt es kein entsprechendes Aktienregister nach § 67. Vollständig anonym sind ihre Eigentümer gegenüber der Gesellschaft deshalb nicht zwingend: Börsennotierte Gesellschaften können Informationen über die Identität ihrer Aktionäre von Intermediären verlangen (§ 67d AktG).</p><h2>Deine Rechte im Register</h2><p>Du kannst von der Gesellschaft Auskunft über die zu deiner Person eingetragenen Daten verlangen. Deine Registerdaten darf die Gesellschaft für ihre Aufgaben im Verhältnis zu den Aktionären verwenden; zur Werbung für das Unternehmen nur, soweit du nicht widersprichst. Über dieses Widerspruchsrecht muss sie angemessen informieren (§ 67 Abs. 6 AktG). Beim Kauf, Verkauf oder der Verwahrung übermitteln die beteiligten Intermediäre die erforderlichen Angaben für das Register.</p><h2>Die vinkulierte Variante</h2><p>Die Satzung kann die Übertragung von Namensaktien an die Zustimmung der Gesellschaft binden. Das ist die vinkulierte Namensaktie. Grundsätzlich erteilt der Vorstand die Zustimmung; die Satzung kann stattdessen Aufsichtsrat oder Hauptversammlung vorsehen und die Gründe für eine Verweigerung bestimmen (§ 68 Abs. 2 AktG).</p>",
+  "image": "/images/glossar-namensaktie.jpg",
+  "sources": [
+    {
+      "title": "Aktiengesetz § 67: Eintragung im Aktienregister (geltender Gesetzestext)",
+      "url": "https://www.gesetze-im-internet.de/aktg/__67.html"
+    },
+    {
+      "title": "Aktiengesetz § 68: Übertragung von Namensaktien, Vinkulierung",
+      "url": "https://www.gesetze-im-internet.de/aktg/__68.html"
+    },
+    {
+      "title": "Aktiengesetz § 10: Aktien und Zwischenscheine",
+      "url": "https://www.gesetze-im-internet.de/aktg/__10.html"
+    },
+    {
+      "title": "Aktiengesetz § 67d: Informationsanspruch gegenüber Intermediären",
+      "url": "https://www.gesetze-im-internet.de/aktg/__67d.html"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher weiß ich, ob meine Aktie eine Namensaktie ist?",
+      "a": "Die Aktiengattung findest du in den Unterlagen zur Aktie und in der Satzung der Gesellschaft. Bei Namensaktien erfolgt ein Eintrag im Aktienregister. Die konkrete Abwicklung kann über deine Depotbank laufen."
+    },
+    {
+      "q": "Was ist eine vinkulierte Namensaktie?",
+      "a": "Eine Namensaktie, deren Übertragung die Zustimmung der Gesellschaft braucht (§ 68 AktG). Die Gesellschaft kann so mitbestimmen, wer Aktionär wird."
+    }
+  ],
+  "image_caption": "Schematische Illustration der FA Redaktion."
+}
