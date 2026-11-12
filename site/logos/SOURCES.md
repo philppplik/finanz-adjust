@@ -242,3 +242,12 @@ Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter. Kein
 - ig.svg — IG — Wikimedia Commons, File:IG Group logo.svg, Public domain (Urheber: IG Group), https://commons.wikimedia.org/wiki/File:IG_Group_logo.svg, keine Änderungen
 
 Keine Logos ohne gepruefte Quelle: WH Selfinvest, Tickmill, Freedom24, VS Markets, ActivTrades und Capital.com bleiben Monogramm (kein Commons-Asset mit freier Lizenz gefunden, keine öffentlichen Pressekits). Marken der jeweiligen Inhaber; Nennung nur zur Identifikation der Anbieter.
+
+
+## Broker logo update 2026-11-12
+
+Supersedes the earlier missing-logo notes for Capital.com and Trade Republic only.
+
+- Capital.com: official current black primary wordmark, downloaded unchanged from https://img.capital.com/imgs/blocks/828x130x1x2/Capital-com_Wordmark_Primary_Black_RGB.webp ; displayed on https://capital.com/en-int/new-chapter .
+- Trade Republic: inline SVG from the official header at https://traderepublic.com/de-de , viewBox 0 0 211 19. Paths and fill unchanged; removed only framework data attributes.
+- Local delivery for provider identification, no endorsement implied. Trademarks remain with their owners. No third-party logo service or visitor request to providers.

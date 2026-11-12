@@ -17,6 +17,7 @@
   },
   {
    "id": "capital-com",
+   "logo": "capital-com.webp",
    "name": "Capital.com",
    "typ": "CFD-Plattform (Capital.com)",
    "url": "https://capital.com/de/",
@@ -170,6 +171,7 @@
   },
   {
    "id": "trade-republic",
+   "logo": "trade-republic.svg",
    "name": "Trade Republic",
    "typ": "Neobroker mit Bank",
    "url": "https://traderepublic.com/de-de",
