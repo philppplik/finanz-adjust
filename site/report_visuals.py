@@ -152,8 +152,8 @@ td.spc{text-align:right;padding:2px 6px;width:92px}
 .lg{display:inline-flex;align-items:center;justify-content:center;border-radius:8px;background:#eaf3fe;color:#1A6ACD;font-weight:800;flex:none;overflow:hidden;border:1px solid #cfe0f7}
 .lg img{max-width:78%;max-height:78%;object-fit:contain}
 .lg.mono{letter-spacing:-.04em;text-overflow:clip;white-space:nowrap}
-.heat{display:grid;grid-template-columns:repeat(4,1fr);gap:2mm}
-.ht{border-radius:5px;padding:2.4mm 2.6mm;display:flex;flex-direction:column;gap:1px;font-size:9pt}
+.heat{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2mm}
+.ht{min-width:0;break-inside:avoid;border-radius:5px;padding:2.4mm 2.6mm;display:flex;flex-direction:column;gap:1px;font-size:9pt}
 .ht b{font-size:9.4pt}.ht span{font-size:8.6pt;font-variant-numeric:tabular-nums}
 .breadth{margin:1mm 0 2mm}
 .bar{display:flex;height:4.2mm;border-radius:3mm;overflow:hidden;background:#eceff6}.bar i{display:block}
@@ -215,5 +215,5 @@ CSS += '''
 .sc .sn{overflow:hidden}
 .two2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
 .cp td,.cp th{padding:2.2px 5px;font-size:8pt}.cp td small{color:#6b7080;font-size:6.6pt}
-.heat.big{grid-template-columns:repeat(6,1fr);gap:1.6mm}.heat.big .ht{padding:1.8mm 2mm;font-size:7.6pt}.heat.big .ht b{font-size:7.8pt}.heat.big .ht span{font-size:7.4pt}
+.heat.big{grid-template-columns:repeat(6,minmax(0,1fr));gap:1.6mm}.heat.big .ht{padding:1.8mm 2mm;font-size:7.6pt}.heat.big .ht b{font-size:7.8pt}.heat.big .ht span{font-size:7.4pt}
 '''

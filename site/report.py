@@ -130,7 +130,7 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
 <div><h3>Verantwortlich nach § 18 Abs. 2 MStV</h3><p>Philipp Paulik, Anschrift wie links</p>
 <h3>Redaktion</h3><p>Die Inhalte erscheinen unter der Redaktionsbezeichnung „FA Redaktion“.</p></div></div>
 <h3>Redaktionsschluss</h3><p>Dieser Bericht wurde am %s automatisch erstellt. Später veröffentlichte Kurse und Meldungen sind nicht berücksichtigt.</p>
-<h3>Hinweis zu KI</h3><p>Die Inhalte werden mit Unterstützung von KI erstellt und redaktionell geprüft. Trotz Prüfung können Fehler nicht ausgeschlossen werden.</p>
+<h3>Hinweis zu KI</h3><p>Die Inhalte werden mit Unterstützung von KI erstellt. Artikel enthalten Quellenangaben zum Quellenabgleich. Fehler können nicht ausgeschlossen werden.</p>
 <h3>Risikohinweis</h3><p>Alle Inhalte dienen ausschließlich der Information und sind keine Anlageberatung, Anlageempfehlung oder Kauf- bzw. Verkaufsempfehlung. Der Handel mit Finanzinstrumenten ist mit Verlustrisiken bis zum Totalverlust verbunden. Vergangene Wertentwicklung ist kein verlässlicher Indikator für künftige Ergebnisse.</p>
 <h3>Datenquellen</h3><p>Kursdaten: %s (ggf. verzögert, ohne Gewähr). Wechselkurse: <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.de.html">Europäische Zentralbank</a> (Referenzkurse). Schlagzeilen: <a href="https://www.gdeltproject.org">GDELT Project</a> (nur Überschriften mit Link zur Quelle).</p>
 <h3>Haftung</h3><p>Fremde Inhalte stammen von den genannten Quellen. Für Inhalte verlinkter Seiten ist der jeweilige Anbieter verantwortlich.</p>
