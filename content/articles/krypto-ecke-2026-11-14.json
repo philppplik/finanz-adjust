@@ -4,7 +4,7 @@
   "description": "Bitcoin notierte am Samstagmorgen bei 67.335 US-Dollar, 2,4 Prozent unter dem Stand vor 24 Stunden auf Dollarbasis. Ethereum und Solana im Überblick.",
   "section": "krypto",
   "date": "2026-11-14T08:30:00+01:00",
-  "body": "<p>Bitcoin notierte beim CoinGecko-Abruf am Samstag, 14. November 2026, um 07:55 Uhr MEZ bei 67.335 US-Dollar beziehungsweise 61.083 Euro. Auf 24-Stunden-Sicht waren das 2,4 Prozent weniger, gemessen auf US-Dollar-Basis.</p><h2>Ethereum und Solana</h2><p>Ethereum stand bei 1.904,24 US-Dollar beziehungsweise 1.727,43 Euro, ein Minus von 1,5 Prozent auf US-Dollar-Basis. Solana notierte bei 75,60 US-Dollar beziehungsweise 68,58 Euro und verlor 5,4 Prozent auf 24-Stunden-Sicht.</p><h2>Einordnung</h2><p>Die Freitagsschlussstände von S&amp;P 500 und Nasdaq lagen ebenfalls im Minus, während der Dow leicht zulegte. CNBC berichtete am Freitag zudem von einer Rendite zehnjähriger US-Staatsanleihen über 5 Prozent. Diese zeitlich getrennten Beobachtungen belegen keine eindeutige Ursache für die Krypto-Veränderungen.</p><p>Die Prozentwerte beziehen sich auf die US-Dollar-Basis. CoinGecko meldet auf Euro-Basis für Bitcoin -2,0 Prozent, Ethereum -1,2 Prozent und Solana -5,1 Prozent. Die Währungsbasis ist deshalb zu beachten. Laufende 24-Stunden-Vergleiche sind weder Tagesverluste seit Mitternacht noch voneinander unabhängige Handelstage.</p>",
+  "body": "<p>Bitcoin notierte beim CoinGecko-Abruf am Samstag, 14. November 2026, um 07:55 Uhr MEZ bei 67.335 US-Dollar beziehungsweise 61.083 Euro. Auf 24-Stunden-Sicht waren das 2,4 Prozent weniger, gemessen auf US-Dollar-Basis.</p><h2>Ethereum und Solana</h2><p>Ethereum stand bei 1.904,24 US-Dollar beziehungsweise 1.727,43 Euro, ein Minus von 1,5 Prozent auf US-Dollar-Basis. Solana notierte bei 75,60 US-Dollar beziehungsweise 68,58 Euro und verlor 5,4 Prozent auf 24-Stunden-Sicht.</p><h2>Einordnung</h2><p>Die Freitagsschlussstände von S&amp;P 500 und Nasdaq lagen ebenfalls im Minus, während der Dow leicht zulegte. CNBC berichtete am Freitag zudem von einer Rendite zehnjähriger US-Staatsanleihen über 5 Prozent. Diese zeitlich getrennten Beobachtungen belegen keine eindeutige Ursache für die Krypto-Veränderungen.</p><p>Die Prozentwerte beziehen sich auf die US-Dollar-Basis. CoinGecko meldet auf Euro-Basis für Bitcoin -2,0 Prozent, Ethereum -1,2 Prozent und Solana -5,1 Prozent. Die Währungsbasis ist deshalb zu beachten. Laufende 24-Stunden-Vergleiche sind weder Tagesverluste seit Mitternacht noch voneinander unabhängige Handelstage.</p><p>Korrektur, 14. November 2026: In der ersten FAQ-Antwort wurde das fehlende Minuszeichen ergänzt. Die 24-Stunden-Veränderung auf US-Dollar-Basis beträgt minus 2,4 Prozent, wie bereits im Artikeltext angegeben.</p>",
   "image": "/images/krypto-ecke-2026-11-14.jpg",
   "sources": [
     {
@@ -19,13 +19,13 @@
   "faq": [
     {
       "q": "Wo stand Bitcoin beim Quellenabgleich am Samstagmorgen?",
-      "a": "Bei 67.335 US-Dollar beziehungsweise 61.083 Euro. Eigener CoinGecko-Abruf 14. November 2026, 07:55 Uhr MEZ; 24-Stunden-Veränderung auf Dollarbasis 2,4 Prozent."
+      "a": "Bei 67.335 US-Dollar beziehungsweise 61.083 Euro. Eigener CoinGecko-Abruf 14. November 2026, 07:55 Uhr MEZ; 24-Stunden-Veränderung auf Dollarbasis minus 2,4 Prozent."
     },
     {
       "q": "Warum unterscheiden sich die 24-Stunden-Prozente in Euro und Dollar?",
       "a": "Die Veränderungen hängen von der Währungsbasis und dem rollierenden 24-Stunden-Zeitfenster ab. USD- und EUR-Werte dürfen nicht als gleiche Messgröße oder als getrennte Tagesverluste addiert werden."
     }
   ],
-  "modified": "2026-11-14T08:30:00+01:00",
+  "modified": "2026-11-14T08:47:00+01:00",
   "image_caption": "Schematische Darstellung, eigene Grafik. Keine Kursgrafik und keine Prognose."
 }
