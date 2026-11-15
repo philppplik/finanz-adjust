@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-diversifikation",
+  "title": "Was ist Diversifikation? Einfach erklärt",
+  "description": "Diversifikation bedeutet, das Geld auf verschiedene Anlagen zu streuen, statt alles auf eine Karte zu setzen. Wie das Prinzip funktioniert und wo seine Grenzen liegen.",
+  "section": "glossar",
+  "date": "2026-11-15T07:56:00+01:00",
+  "image": "images/glossar-diversifikation.jpg",
+  "sources": [
+    {
+      "title": "BaFin – Das Einmaleins der Geldanlage",
+      "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/Anlegen/Einmaleins/einmaleins_node.html"
+    },
+    {
+      "title": "BaFin – Wertpapierfonds",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/wertpapierfonds/wertpapierfonds.html"
+    }
+  ],
+  "body": "<p>Diversifikation bedeutet Streuung: Du legst dein Geld nicht in eine einzelne Anlage, sondern verteilst es auf mehrere. Die Grundregel der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) lautet: Setze nicht alles auf eine Karte, sondern streue deine Anlagen über verschiedene Anlageformen, Laufzeiten und Risiken. So gleichen mögliche Verluste an einer Stelle im besten Fall Gewinne an anderer Stelle aus.</p><h2>Warum Streuung das Risiko senkt</h2><p>Steht und fällt dein Vermögen mit einer einzigen Aktie, trifft dich jede schlechte Nachricht dieses einen Unternehmens voll. Hältst du dagegen Anteile an vielen Unternehmen, Branchen oder Regionen, wirkt sich der Ausfall eines einzelnen Werts nur noch gedämpft aus. Diese Risikobegrenzung ist der Kern der Diversifikation.</p><h2>Fonds als Streuung per Bauweise</h2><p>Investmentfonds wenden das Prinzip automatisch an: Sie bündeln das Geld vieler Anleger und investieren es in zahlreiche Wertpapiere, deren Zusammensetzung regelmäßig angepasst wird. Durch diese Risikostreuung fällt der mögliche Verlust geringer aus, als wenn du dein Geld in ein einzelnes Wertpapier investieren würdest, erklärt die BaFin. Mit schon kleinen Beträgen kannst du so an der Entwicklung ganzer Märkte teilhaben, etwa über Indexfonds (ETFs).</p><h2>Die Grenzen der Streuung</h2><p>Diversifikation schützt nicht vor allem. Das Prinzip funktioniert nur, solange nicht die gesamte Anlageklasse von einem Abschwung betroffen ist: Fällt der gesamte Aktienmarkt, sinkt auch ein breit gestreuter Aktienfonds. Deshalb gehört zur Streuung auch die Verteilung auf verschiedene Anlageklassen, etwa Tagesgeld, Anleihen und Aktien, passend zu deinen Zielen und deiner Risikobereitschaft.</p><p>Wie stark eine Anlage um ihren Durchschnitt schwankt, beschreibt die Volatilität. Und warum breit gestreute Index-Anlagen meist günstig sind, erklärt unser Glossar zu ETFs.</p>",
+  "faq": [
+    {
+      "q": "Was bringt Diversifikation konkret?",
+      "a": "Durch die Streuung auf viele Werte, Branchen und Anlageformen wirken sich Verluste einzelner Anlagen abgeschwächt aus. Die BaFin fasst das in der Grundregel zusammen: nicht alles auf eine Karte setzen."
+    },
+    {
+      "q": "Schützt Diversifikation vor Verlusten?",
+      "a": "Nein, nicht vollständig. Solange nur einzelne Werte fallen, gleichen andere das aus. Betrifft ein Abschwung aber die gesamte Anlageklasse, verliert auch ein breit gestreutes Portfolio an Wert (BaFin)."
+    }
+  ]
+}

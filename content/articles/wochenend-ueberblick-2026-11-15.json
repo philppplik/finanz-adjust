@@ -1,0 +1,41 @@
+{
+  "slug": "wochenend-ueberblick-2026-11-15",
+  "title": "Wochenend-Überblick: DAX mit Rekordwoche – was die Märkte bewegte",
+  "description": "Der DAX gewinnt 3,6 Prozent in der Woche und knackt erstmals die 27.000er-Marke. Ölpreis steigt, Krypto fällt, Anleiherenditen über fünf Prozent: der Überblick zum Wochenende.",
+  "section": "markt",
+  "date": "2026-11-15T07:56:00+01:00",
+  "image": "images/wochenend-ueberblick-2026-11-15.jpg",
+  "sources": [
+    {
+      "title": "dpa-AFX: DAX stabil – Rekordwoche zum Ende trotz Unsicherheit (13. November 2026)",
+      "url": "https://de.finance.yahoo.com/nachrichten/dax-stabil-rekordwoche-zum-ende-trotz-unsicherheit-170138881.html"
+    },
+    {
+      "title": "tagesschau.de – DAX und Märkte (13. November 2026, 17:50 Uhr)",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/"
+    },
+    {
+      "title": "MarketScreener: DAX schließt über 26.700 Punkten (12. November 2026)",
+      "url": "https://de.marketscreener.com/kurs/index/DAX-30-7395/news/DAX-schliesst-uber-26-700-Punkten--53705282/"
+    },
+    {
+      "title": "AP: How major US stock indexes fared Friday (13. November 2026)",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74"
+    },
+    {
+      "title": "CoinGecko – aktuelle Kryptowährungskurse (abgerufen am 15. November 2026, 7:49 Uhr)",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "body": "<p>Die Börsenwoche geht mit einem Rekord zu Ende. Der DAX beendete den Freitag bei 26.749,95 Punkten, nahezu unverändert zum Vortag, und behauptete damit ein Wochenplus von 3,6 Prozent, wie die Deutsche Presse-Agentur berichtete. Bereits am Donnerstag hatte der Leitindex mit 26.771,88 Punkten so hoch geschlossen wie nie zuvor; im Tagesverlauf war er erstmals in seiner Geschichte über die Marke von 27.000 Punkten gestiegen.</p><p>Auch in den USA zeigten sich die Anleger zum Wochenschluss zurückhaltend: Der Dow Jones legte am Freitag leicht zu, der S&P 500 und die Nasdaq gaben dagegen nach. Über die Woche gesehen verbuchte der US-Markt dennoch die erste Gewinnwoche seit Anfang Oktober, wie die Nachrichtenagentur AP berichtete.</p><h2>Nvidia-Rücktritt verunsichert</h2><p>Für Verunsicherung hatte am Donnerstag der überraschende Rücktritt von Nvidia-Chef Jensen Huang gesorgt. Der wertvollste Konzern der Welt teilte mit, dass Finanzchefin Colette Kress die Führung übergangsweise übernimmt. Die Nvidia-Aktie verlor an dem Tag rund vier Prozent und bremste zeitweise den gesamten US-Markt aus.</p><h2>Renditen, Öl und Gold im Blick</h2><p>Am Anleihemarkt kletterte die Rendite zehnjähriger US-Staatsanleihen zeitweise über die Marke von fünf Prozent und stand am Donnerstag bei rund 5,1 Prozent. Steigende Renditen gelten als Belastung für Aktien, weil sie festverzinsliche Anlagen attraktiver machen. Der Ölpreis stieg deutlich: Die Sorte Brent kostete am Freitagnachmittag rund 96 US-Dollar je Barrel, wie aus den Marktdaten der tagesschau hervorging. Gold notierte zuletzt bei rund 3.884 US-Dollar je Feinunze.</p><h2>Kryptomarkt unter Druck</h2><p>Deutlich schwächer zeigte sich der Kryptomarkt: Bitcoin verlor seit Freitag insgesamt rund ein Achtel seines Werts und notierte am Sonntagmorgen bei rund 64.400 US-Dollar, wie Daten von CoinGecko zeigen. Ethereum und Solana büßten noch stärker ein.</p><p>Zum Stichtag Freitag, 17:50 Uhr, notierte der Euro bei 1,1022 US-Dollar, wie die tagesschau meldete. Der MDAX der mittelgroßen Werte schloss bei 30.699,96 Punkten.</p>",
+  "faq": [
+    {
+      "q": "Wie hat sich der DAX in dieser Woche entwickelt?",
+      "a": "Der DAX gewann 3,6 Prozent in der Woche und schloss am Freitag bei 26.749,95 Punkten. Am Donnerstag hatte er mit 26.771,88 Punkten einen Rekordschluss erreicht und war erstmals über 27.000 Punkte gestiegen (dpa, 13. November 2026)."
+    },
+    {
+      "q": "Was hat die Märkte diese Woche bewegt?",
+      "a": "Prägend waren der überraschende Rücktritt des Nvidia-Chefs, steigende US-Anleiherenditen über fünf Prozent sowie ein deutlich höherer Ölpreis. Trotz der Unsicherheit verbuchte der US-Aktienmarkt die erste Gewinnwoche seit Anfang Oktober (AP)."
+    }
+  ]
+}

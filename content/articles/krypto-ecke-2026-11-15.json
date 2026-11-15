@@ -1,0 +1,25 @@
+{
+  "slug": "krypto-ecke-2026-11-15",
+  "title": "Krypto-Ecke am Sonntag: Bitcoin setzt Talfahrt fort – dritter Verlusttag in Folge",
+  "description": "Bitcoin fällt am Sonntag weiter auf rund 64.400 US-Dollar. Ethereum und Solana verlieren noch stärker.",
+  "section": "krypto",
+  "date": "2026-11-15T07:56:00+01:00",
+  "image": "images/krypto-ecke-2026-11-15.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko – aktuelle Kryptowährungskurse (abgerufen am 15. November 2026, 7:49 Uhr)",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "body": "<p>Der Wochenschluss bringt dem Kryptomarkt keine Entspannung. Am Sonntagmorgen setzte Bitcoin seine Talfahrt fort und notierte gegen 7:49 Uhr bei rund 64.427 US-Dollar (58.447 Euro), wie Daten von CoinGecko zeigen. Auf 24-Stunden-Sicht bedeutet das ein Minus von rund 4,3 Prozent auf US-Dollar-Basis. Es ist der dritte Verlusttag in Folge: Bereits am Freitag hatte die älteste Digitalwährung gut sechseinhalb Prozent eingebüßt, am Samstag folgten weitere gut zwei Prozent.</p><p>Die zweitgrößte Kryptowährung Ethereum verbilligte sich zeitgleich auf rund 1.793 US-Dollar (1.626 Euro) und verlor damit auf Tagesbasis knapp sechs Prozent. Noch deutlicher traf es Solana: Der Token fiel auf rund 70 US-Dollar (knapp 64 Euro), ein Tagesminus von knapp sieben Prozent. Damit setzt sich die Schwäche breit über den gesamten Markt fort.</p><h2>Drei Verlusttage in Folge</h2><p>Seit Freitag hat Bitcoin insgesamt rund ein Achtel seines Werts abgegeben. Ethereum und Solana stehen noch tiefer im Minus. Beobachter verweisen auf das insgesamt angespannte Marktumfeld: Steigende Anleiherenditen und eine erhöhte Unsicherheit an den Aktienmärkten hatten bereits in den vergangenen Tagen auch auf digitale Vermögenswerte ausgestrahlt.</p><h2>Was das für dich bedeutet</h2><p>Kryptowährungen gelten als besonders schwankungsanfällige Anlage. Kursverluste von mehreren Prozent an einem einzelnen Tag kommen regelmäßig vor und können sich über mehrere Tage summieren. Wer in digitale Vermögenswerte investiert, sollte daher nur Geld einsetzen, dessen vollständigen Verlust er oder sie verschmerzen könnte. Die genannten Kurse beziehen sich auf den Abrufzeitpunkt am Sonntagmorgen; Kryptobörsen handeln rund um die Uhr, die Werte können sich jederzeit ändern.</p>",
+  "faq": [
+    {
+      "q": "Wie stark hat Bitcoin am Wochenende verloren?",
+      "a": "Am Sonntagmorgen notierte Bitcoin gegen 7:49 Uhr bei rund 64.427 US-Dollar, ein Minus von rund 4,3 Prozent auf 24-Stunden-Sicht (CoinGecko, US-Dollar-Basis). Es war der dritte Verlusttag in Folge nach deutlichen Abschlägen am Freitag und Samstag."
+    },
+    {
+      "q": "Wie haben sich Ethereum und Solana entwickelt?",
+      "a": "Ethereum fiel am Sonntagmorgen auf rund 1.793 US-Dollar (minus knapp sechs Prozent auf Tagesbasis), Solana auf rund 70 US-Dollar (minus knapp sieben Prozent)."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "glossar-etf",
+  "title": "Was ist ein ETF? Einfach erklärt",
+  "description": "ETFs sind börsengehandelte Fonds, die meist einen Index wie den DAX nachbilden. Wie sie funktionieren, was sie kosten und welche Risiken sie haben.",
+  "section": "glossar",
+  "date": "2026-11-15T07:56:00+01:00",
+  "image": "images/glossar-etf.jpg",
+  "sources": [
+    {
+      "title": "BaFin – Exchange Traded Funds (ETFs) im Überblick",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/etf/etf.html"
+    }
+  ],
+  "body": "<p>ETF steht für Exchange Traded Fund, also einen an der Börse gehandelten Fonds. Die meisten ETFs bilden die Wertentwicklung eines Börsenindex nach, etwa des Deutschen Aktienindex (DAX). Statt selbst einzelne Aktien auszuwählen, kaufst du mit einem ETF-Anteil sozusagen den ganzen Index mit. Weil der Fondsverwalter dabei keine eigenen Anlageentscheidungen trifft, spricht man von passivem Management.</p><h2>Wie bildet ein ETF einen Index nach?</h2><p>Es gibt zwei Wege, erklärt die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin): Bei der physischen Replikation kauft der Fonds die im Index enthaltenen Wertpapiere tatsächlich. Bei der synthetischen Replikation bildet er den Index über Geschäfte wie sogenannte Swaps ab, also Tauschvereinbarungen mit einem Partner.</p><h2>Passiv oder aktiv?</h2><p>Neben den klassischen passiven ETFs gibt es auch aktiv gemanagte ETFs. Hier orientiert sich der Verwalter nur grob an einem Index und versucht, ihn durch eigene Entscheidungen zu schlagen. Die BaFin weist darauf hin, dass die Managementform allein keine Aussage über die Wertentwicklung erlaubt: Ein aktiver ETF kann besser, aber auch schlechter abschneiden als sein Vergleichsindex.</p><h2>Was kostet ein ETF?</h2><p>Da passive ETFs keine aktive Steuerung erfordern, fallen die laufenden Gebühren meist niedriger aus als bei aktiv gemanagten Fonds. Einen Ausgabeaufschlag, wie er beim Kauf klassischer Fonds über die Bank üblich ist, zahlst du an der Börse in der Regel nicht; es fallen aber Order- und Depotkosten an. Vor jedem Kauf muss dir deine Bank oder dein Berater eine Kosteninformation aushändigen, unabhängig davon, ob du dich beraten lässt.</p><h2>Welche Risiken gibt es?</h2><p>Ein ETF unterliegt dem Marktpreisrisiko: Fällt der nachgebildete Index, fällt auch der ETF. Ein passiver Fonds kann nicht ausweichen, weil der Verwalter den Index strikt nachbilden muss. Und wichtig: Die BaFin überprüft nicht, ob ein Fonds wirtschaftlich sinnvoll ist. Das Risiko trägst allein du als Anlegerin oder Anleger.</p><p>Mehr zum Prinzip der Risikostreuung, das hinter Index-Anlagen steht, erfährst du in unserem Glossar zur Diversifikation. Regelmäßig kleine Beträge in ETFs anlegen geht auch automatisiert, mehr dazu im Glossar zum Sparplan.</p>",
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen einem ETF und einem klassischen Fonds?",
+      "a": "ETFs werden laufend an der Börse gehandelt und bilden meist passiv einen Index nach, klassische Fonds werden oft aktiv gemanagt und einmal täglich über die Fondsgesellschaft gehandelt. Bei ETFs fallen deshalb meist geringere laufende Gebühren und in der Regel kein Ausgabeaufschlag an (BaFin)."
+    },
+    {
+      "q": "Kann ich mit einem ETF Geld verlieren?",
+      "a": "Ja. Ein ETF folgt dem Marktpreisrisiko: Fällt der nachgebildete Index, verliert auch der ETF an Wert. Ein passiver Fonds kann Verlusten nicht ausweichen, weil er den Index strikt abbildet (BaFin)."
+    }
+  ]
+}
