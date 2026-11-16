@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-depot",
+  "title": "Was ist ein Depot? Einfach erklärt",
+  "description": "Ein Depot ist das Konto für deine Wertpapiere. Wie es funktioniert, was es kostet und warum ein Wechsel kostenlos ist.",
+  "section": "glossar",
+  "date": "2026-11-16T08:15:00+01:00",
+  "image": "/images/glossar-depot.jpg",
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Wertpapierdepot – so führen Sie es, so können Sie es wechseln",
+      "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/wertpapierdepot-so-fuehren-sie-es-so-koennen-sie-es-wechseln-5847"
+    },
+    {
+      "title": "Verbraucherzentrale Niedersachsen: In ETF investieren – so geht's",
+      "url": "https://www.verbraucherzentrale-niedersachsen.de/wissen/geld-versicherungen/sparen-und-anlegen/in-etf-investieren-so-gehts-119826"
+    }
+  ],
+  "body": "<p>Ein Depot, genauer ein Wertpapierdepotkonto, ist das Konto, auf dem deine Wertpapiere liegen: Aktien, Fondsanteile, Anleihen oder Zertifikate. Wer Wertpapiere kaufen, verkaufen und verwahren lassen möchte, benötigt ein solches Konto bei einem dafür zugelassenen Institut, erklärt die Verbraucherzentrale. Anbieten tun es Filialbanken, Direktbanken und spezielle Online-Broker (Neobroker); die meisten Depots werden online geführt.</p><h2>Depot und Verrechnungskonto</h2><p>Zum Depot gehört ein Verrechnungskonto. Dort zahlst du das Geld ein, mit dem du Wertpapiere kaufen möchtest, und dort landen Erlöse aus Verkäufen oder Ausschüttungen. Oft dient das Girokonto bei derselben Bank als Verrechnungskonto, sonst wird es zusammen mit dem Depot eröffnet. Bei der Eröffnung muss das Institut deine Identität prüfen, etwa per Video-Chat oder in einer Postfiliale, und nach deinen Erfahrungen mit Wertpapieren fragen.</p><h2>Was kostet ein Depot?</h2><p>Die Kosten unterscheiden sich je nach Anbieter deutlich. Entscheidend sind etwa die jährliche Grundgebühr für die Depotführung und die Gebühren für Käufe und Verkäufe, auch Order- oder Transaktionskosten genannt. Die Verbraucherzentrale rät, Leistungen und Kosten vor der Eröffnung zu vergleichen, etwa mit den unabhängigen Vergleichen der Stiftung Warentest.</p><h2>Wechsel ist kostenlos</h2><p>Wer zu einem günstigeren Anbieter wechseln will, kann das Depot übertragen. Die alte Bank darf dafür keine Gebühren verlangen, das hat der Bundesgerichtshof 2004 entschieden. Der Übertrag soll längstens drei Wochen dauern, darauf weist die BaFin hin; während dieser Zeit kannst du die betroffenen Wertpapiere nicht verkaufen. Einmal im Jahr erhältst du außerdem einen Depotauszug, in dem alle deine Anlageprodukte aufgeführt sind.</p><p>Was du im Depot halten kannst, erklären unsere Glossare zu ETF und zur Diversifikation.</p>",
+  "faq": [
+    {
+      "q": "Brauche ich ein Depot, um in ETF zu investieren?",
+      "a": "Ja. Wer ETF-Anteile oder andere Wertpapiere kaufen, verkaufen und verwahren lassen möchte, benötigt ein Wertpapierdepotkonto bei einer Bank oder einem Online-Broker (Verbraucherzentrale)."
+    },
+    {
+      "q": "Kann ich mein Depot kostenlos wechseln?",
+      "a": "Ja. Die alte Bank darf für den Depotwechsel keine Gebühren verlangen (BGH, 2004). Der Übertrag soll längstens drei Wochen dauern; in dieser Zeit kannst du die betroffenen Wertpapiere nicht verkaufen (Verbraucherzentrale/BaFin)."
+    }
+  ]
+}

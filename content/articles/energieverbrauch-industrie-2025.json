@@ -1,0 +1,25 @@
+{
+  "slug": "energieverbrauch-industrie-2025",
+  "title": "Industrie verbraucht 2025 wieder weniger Energie",
+  "description": "Die deutsche Industrie verbrauchte 2025 rund 3.248 Petajoule Energie, 2,9 Prozent weniger als im Vorjahr. Erdgas bleibt der wichtigste Energieträger.",
+  "section": "einordnung",
+  "date": "2026-11-16T08:15:00+01:00",
+  "image": "/images/energieverbrauch-industrie-2025.jpg",
+  "sources": [
+    {
+      "title": "Statistisches Bundesamt (Destatis), Pressemitteilung Nr. 400 vom 16. November 2026",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_400_435.html"
+    }
+  ],
+  "body": "<p>Die deutsche Industrie hat im Jahr 2025 insgesamt 3.248 Petajoule Energie verbraucht. Wie das Statistische Bundesamt am Montag mitteilte, waren das 2,9 Prozent weniger als im Vorjahr. Zuvor war der Verbrauch im Jahr 2024 um 1,9 Prozent gestiegen, nachdem er 2022 und 2023 mit Rückgängen von 9,1 beziehungsweise 7,8 Prozent deutlich gesunken war. Als Auslöser des erneuten Rückgangs nennt das Statistische Bundesamt hohe Energiepreise und damit einhergehende Produktionsrückgänge, insbesondere in der energieintensiven Industrie.</p><h2>Erdgas bleibt wichtigster Energieträger</h2><p>Trotz eines Verbrauchsrückgangs von 2,6 Prozent war Erdgas mit einem Anteil von 29,2 Prozent auch 2025 der am meisten eingesetzte Energieträger in der Industrie. Es folgten Strom mit 21,2 Prozent sowie Mineralöle und Mineralölprodukte mit 17,2 Prozent. Der Stromverbrauch sank um 2,4 Prozent, während der Verbrauch von Mineralölen und Mineralölprodukten um 1,6 Prozent stieg. Deutlich an Bedeutung verlor Kohle: Der Verbrauch sank um 12,4 Prozent, der Anteil am Gesamtverbrauch betrug noch 13,1 Prozent.</p><h2>Erneuerbare wachsen von niedrigem Niveau</h2><p>Erneuerbare Brennstoffe und Umweltwärme erreichten mit 5,3 Prozent am Gesamtenergieverbrauch den bislang höchsten Anteil. Einzelne Energieträger wuchsen dynamisch: Die Nutzung von Wärmepumpen legte um 21,8 Prozent zu, Biomethan um 12,4 Prozent. Im industriellen Gesamtmix spielten sie aber weiterhin eine untergeordnete Rolle.</p><h2>Chemie bleibt größter Verbraucher</h2><p>Die energieintensiven Industriezweige verbrauchten 2025 mit 2.662 Petajoule 82,0 Prozent der gesamten Energie der Industrie, 2,8 Prozent weniger als im Vorjahr. Größter Verbraucher war erneut die chemische Industrie mit einem Anteil von 28,6 Prozent; ihr Verbrauch ging leicht um 0,3 Prozent zurück. Gut ein Drittel (35,3 Prozent) der dort eingesetzten Energieträger diente nicht der Strom- oder Wärmeerzeugung, sondern als Ausgangsstoff für chemische Produkte.</p><h2>Was bedeutet eine Petajoule?</h2><p>Eine Petajoule entspricht einer Milliarde Megajoule oder umgerechnet rund 278 Millionen Kilowattstunden. Der gesamte Verbrauch der Industrie von 3.248 Petajoule entspricht damit rund 903 Milliarden Kilowattstunden im Jahr 2025.</p>",
+  "faq": [
+    {
+      "q": "Wie viel Energie hat die Industrie 2025 verbraucht?",
+      "a": "Die deutsche Industrie verbrauchte 2025 insgesamt 3.248 Petajoule Energie, 2,9 Prozent weniger als im Vorjahr (Statistisches Bundesamt, Pressemitteilung Nr. 400 vom 16. November 2026)."
+    },
+    {
+      "q": "Welcher Energieträger ist in der Industrie am wichtigsten?",
+      "a": "Erdgas war 2025 mit einem Anteil von 29,2 Prozent der am meisten eingesetzte Energieträger, gefolgt von Strom (21,2 Prozent) sowie Mineralölen und Mineralölprodukten (17,2 Prozent). Der Kohleverbrauch sank um 12,4 Prozent (Destatis)."
+    }
+  ]
+}

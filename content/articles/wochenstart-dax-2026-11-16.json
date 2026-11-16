@@ -1,0 +1,29 @@
+{
+  "slug": "wochenstart-dax-2026-11-16",
+  "title": "Wochenstart am Aktienmarkt: DAX bleibt in Reichweite seines Rekords",
+  "description": "Der DAX startet nach Einschätzung von Händlern nahezu unverändert in die neue Woche. Im Fokus stehen die Nvidia-Zahlen und der Anthropic-Börsengang.",
+  "section": "markt",
+  "date": "2026-11-16T08:15:00+01:00",
+  "image": "/images/wochenstart-dax-2026-11-16.jpg",
+  "sources": [
+    {
+      "title": "dpa-AFX: DAX-FLASH – Wenig bewegter Auftakt erwartet (16. November 2026, 7:14 Uhr)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70136422-dax-flash-wenig-bewegter-auftakt-erwartet-ki-und-geopolitik-im-blick-016.htm"
+    },
+    {
+      "title": "Statistisches Bundesamt (Destatis) – Wochenvorschau (Stand: 13. November 2026)",
+      "url": "https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html"
+    }
+  ],
+  "body": "<p>Der deutsche Aktienmarkt geht nach Einschätzung von Händlern mit wenig Bewegung in die neue Woche. Der Broker IG Markets taxierte den DAX zwei Stunden vor Eröffnung des Xetra-Handels auf 26.755 Punkte, wie die Deutsche Presse-Agentur am Montagmorgen berichtete. Das liegt wenige Zähler über dem Freitagsschluss von 26.749,95 Punkten und in Reichweite des Rekords vom Donnerstag, als der Leitindex erstmals kurz die Marke von 27.000 Punkten überschritten hatte.</p><h2>Nvidia und Anthropic im Blick</h2><p>Maßgebliche Themen der Woche kommen aus der KI-Branche: Am Dienstag nach US-Handelsschluss legt Nvidia seine Quartalszahlen vor, die nach der Führungskrise beim Chipriesen noch mehr Aufmerksamkeit bekommen. Zudem steht der Börsengang des KI-Unternehmens Anthropic an. Der Aktienstratege Mislav Matejka von JPMorgan bleibt nach der Berichtssaison laut dpa optimistisch für europäische Aktien und sieht bis zum Jahresende sowie im ersten Quartal weiteres Aufwärtspotenzial.</p><h2>Konjunkturdaten der Woche</h2><p>Vom Statistischen Bundesamt stehen außerdem mehrere Veröffentlichungen an: Am Montag beginnt die Woche mit Zahlen zum Energieverbrauch der Industrie für das Jahr 2025, am Mittwoch folgen Baugenehmigungen, Auftragsbestand und die Arbeitsmarktstatistik für das dritte Quartal, am Freitag die Erzeugerpreise für Oktober.</p><p>Die vorbörsliche Einschätzung von Brokern ist ein erster Anhaltspunkt, keine Vorschau auf den tatsächlichen Handelsverlauf. Einzelne Handelstage sagen wenig über die längerfristige Entwicklung aus.</p>",
+  "faq": [
+    {
+      "q": "Wie startet der DAX in die neue Woche?",
+      "a": "Der Broker IG Markets taxierte den Leitindex zwei Stunden vor Xetra-Start auf 26.755 Punkte, wenige Zähler über dem Freitagsschluss von 26.749,95 Punkten (dpa-AFX, 16. November 2026, 7:14 Uhr)."
+    },
+    {
+      "q": "Welche Termine stehen diese Woche an?",
+      "a": "Am Dienstag legt Nvidia nach US-Handelsschluss Quartalszahlen vor, der Börsengang des KI-Unternehmens Anthropic steht an. Vom Statistischen Bundesamt kommen unter anderem Daten zum Energieverbrauch der Industrie (Montag) und die Erzeugerpreise (Freitag)."
+    }
+  ]
+}
