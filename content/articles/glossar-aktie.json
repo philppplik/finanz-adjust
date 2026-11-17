@@ -1,0 +1,25 @@
+{
+  "slug": "glossar-aktie",
+  "title": "Was ist eine Aktie? Einfach erklärt",
+  "description": "Eine Aktie ist ein Unternehmensanteil. Wie du damit am Erfolg eines Unternehmens teilnimmst, welche Rechte und Risiken sie birgt.",
+  "section": "glossar",
+  "date": "2026-11-17T08:15:00+01:00",
+  "image": "/images/glossar-aktie.jpg",
+  "sources": [
+    {
+      "title": "BaFin – Aktien auf einen Blick",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/aktien/aktien.html"
+    }
+  ],
+  "body": "<p>Eine Aktie ist ein Anteil an einem Unternehmen. Gibt ein Unternehmen Aktien aus, nennt man es Aktiengesellschaft, kurz AG. Mit dem Kauf einer Aktie wirst du Miteigentümerin oder Miteigentümer, erklärt die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin). Unternehmen geben Aktien aus, um Eigenkapital zu gewinnen, etwa für neue Investitionen. Das Geld wird der AG auf unbestimmte Zeit überlassen und nicht zurückgezahlt.</p><h2>Wie nimmst du am Erfolg teil?</h2><p>Auf zwei Wegen: Erzielt das Unternehmen einen Gewinn, kann die Hauptversammlung beschließen, einen Teil davon als Dividende an die Aktionäre auszuschütten. Und steigen die Zukunftsaussichten des Unternehmens, kann die Nachfrage nach der Aktie und damit ihr Kurs steigen; dann kannst du teurer verkaufen, als du gekauft hast.</p><h2>Welche Risiken gibt es?</h2><p>Aktien schwanken im Wert, und die Kurse folgen nicht immer den aktuellen Gewinnen eines Unternehmens. Sie spiegeln oft Erwartungen wider und hängen auch von Faktoren ab, die wenig mit dem Unternehmen zu tun haben, etwa der gesamtwirtschaftlichen Lage. Wird das Unternehmen zahlungsunfähig, kann die Aktie wertlos werden; Verluste trägst du bis zur Höhe deiner Anlage. Deshalb rät die BaFin, nicht das gesamte Vermögen in die Aktien eines einzigen Unternehmens zu stecken, sondern das Geld zu streuen.</p><h2>Kaufen, verkaufen, Kosten</h2><p>Kaufen kannst du Aktien bei Sparkassen, Banken und Finanzdienstleistern, mit oder ohne Beratung. Dafür brauchst du ein Depotkonto, das laufende Kosten verursacht; beim Kauf und Verkauf fallen Transaktionskosten an, die dir die Bank vorab in der Ex-ante-Kosteninformation mitteilen muss. Die BaFin weist außerdem darauf hin: Die Kosten sind sicher, die Rendite nicht. An der Börse gehandelte Aktien kannst du grundsätzlich jederzeit wieder verkaufen, sofern sich ein Käufer findet – bei Standardwerten wie den DAX-Aktien meist kein Problem, bei selten gehandelten Papieren oft schwierig.</p><p>Wie du dein Risiko über viele Aktien streust, erklärt unser Glossar zur Diversifikation, den Kontorahmen das Glossar zum Depot.</p>",
+  "faq": [
+    {
+      "q": "Was bedeutet es, eine Aktie zu besitzen?",
+      "a": "Du bist Miteigentümerin oder Miteigentümer des Unternehmens und nimmst an seiner wirtschaftlichen Entwicklung teil – über mögliche Dividenden und über Kursgewinne, aber auch über Verluste bis zur Höhe deiner Anlage (BaFin)."
+    },
+    {
+      "q": "Kann ich eine Aktie jederzeit verkaufen?",
+      "a": "An der Börse gehandelte Aktien kannst du grundsätzlich jederzeit verkaufen, sofern sich ein Käufer findet. Bei Standardwerten ist das meist unproblematisch, bei selten gehandelten Papieren kann die Käufersuche schwierig oder unmöglich sein (BaFin)."
+    }
+  ]
+}

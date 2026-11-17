@@ -1,0 +1,33 @@
+{
+  "slug": "weltmaerkte-2026-11-17",
+  "title": "Weltmärkte am Morgen: Tech-Schwäche drückt Börsen weltweit",
+  "description": "DAX verliert am Montag 0,57 Prozent, die Wall Street schließt den dritten Tag in Folge im Minus, Asien gibt weiter nach. Der Überblick am Dienstagmorgen.",
+  "section": "markt",
+  "date": "2026-11-17T08:15:00+01:00",
+  "image": "/images/weltmaerkte-2026-11-17.jpg",
+  "sources": [
+    {
+      "title": "dpa-AFX: Aktien Frankfurt Schluss – Tech-Schwäche macht Dax zu schaffen (16. November 2026, 17:47 Uhr)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70145244-aktien-frankfurt-schluss-tech-schwaeche-macht-dax-zu-schaffen-016.htm"
+    },
+    {
+      "title": "TVinvestment: Asiens Börsen fallen weiter (17. November 2026, 2:26 Uhr)",
+      "url": "https://tvinvestment.ch/artikel.php?a=asiens-boersen-17-november-2026-taiwan-kospi-chipregeln-nvidia"
+    },
+    {
+      "title": "n-tv: Der Börsen-Tag Dienstag, 17. November 2026",
+      "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-17-November-2026-id31541573.html"
+    }
+  ],
+  "body": "<p>Die Schwäche des Technologiesektors hat die Börsen weltweit erfasst. In Frankfurt verlor der DAX am Montag 0,57 Prozent und markierte sein Tagestief bei 26.598,64 Punkten, wie die Deutsche Presse-Agentur berichtete. Der MDAX der mittelgroßen Werte gab 0,56 Prozent nach, sein Tagestief lag bei 30.528,26 Zählern. Marktbeobachter verwiesen auf zunehmende Inflations- und Zinssorgen sowie die Unsicherheit vor dem Börsengang des KI-Unternehmens Anthropic und den heute anstehenden Geschäftszahlen von Nvidia.</p><h2>Wall Street im Abwärtsmodus</h2><p>In den USA schlossen die Leitindizes am Montag den dritten Handelstag in Folge im Minus: Der S&P 500 verlor 1,9 Prozent, der technologielastige Nasdaq 100 gab um 2,7 Prozent nach. Nvidia verlor 4,1 Prozent, ein Index der US-Chipwerte brach laut Bloomberg um 5,3 Prozent ein.</p><h2>Asien setzt Talfahrt fort</h2><p>Am Dienstagmorgen setzten die asiatischen Märkte die Abwärtsbewegung fort: In Tokio gab der Nikkei 225 um 1,1 Prozent auf 58.994,39 Punkte nach, der breiter gefasste Topix verlor 1,4 Prozent auf 3.845,19 Zähler (Stand kurz vor 7 Uhr deutscher Zeit). Der Shanghai Composite blieb nahezu unverändert. In Tokio notierte der Euro am Morgen bei 1,1005 US-Dollar.</p><p>Hintergrund der Verunsicherung sind neben den heute anstehenden Nvidia-Zahlen Berichte über verschärfte US-Exportauflagen für hochmoderne KI-Chips, die vor allem Technologiewerte in Asien belasteten.</p>",
+  "faq": [
+    {
+      "q": "Wie hat der DAX am Montag geschlossen?",
+      "a": "Der DAX verlor am 16. November 2026 0,57 Prozent und markierte sein Tagestief bei 26.598,64 Punkten. Der MDAX gab 0,56 Prozent nach, Tagestief 30.528,26 Punkte (dpa-AFX)."
+    },
+    {
+      "q": "Wie lief es an der Wall Street?",
+      "a": "Die US-Leitindizes schlossen am Montag den dritten Handelstag in Folge im Minus: Der S&P 500 verlor 1,9 Prozent, der Nasdaq 100 2,7 Prozent. Nvidia gab 4,1 Prozent nach (Bloomberg/TVinvestment)."
+    }
+  ]
+}

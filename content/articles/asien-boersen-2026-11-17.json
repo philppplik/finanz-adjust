@@ -1,0 +1,29 @@
+{
+  "slug": "asien-boersen-2026-11-17",
+  "title": "Asiens Börsen am Dienstag: Tokio gibt zum zweiten Tag in Folge nach",
+  "description": "Der Nikkei 225 verliert 1,1 Prozent, auch Taiwan und Südkorea stehen unter Druck. Vor den Nvidia-Zahlen halten sich Anleger zurück.",
+  "section": "markt",
+  "date": "2026-11-17T08:15:00+01:00",
+  "image": "/images/asien-boersen-2026-11-17.jpg",
+  "sources": [
+    {
+      "title": "n-tv: Der Börsen-Tag Dienstag, 17. November 2026 (6:53 Uhr)",
+      "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-17-November-2026-id31541573.html"
+    },
+    {
+      "title": "TVinvestment: Asiens Börsen fallen weiter (17. November 2026, 2:26 Uhr)",
+      "url": "https://tvinvestment.ch/artikel.php?a=asiens-boersen-17-november-2026-taiwan-kospi-chipregeln-nvidia"
+    }
+  ],
+  "body": "<p>Die asiatischen Aktienmärkte haben am Dienstag den zweiten Handelstag in Folge nachgegeben. In Tokio verlor der Nikkei 225 um 1,1 Prozent auf 58.994,39 Punkte, der breiter gefasste Topix notierte 1,4 Prozent niedriger bei 3.845,19 Zählern (Stand kurz vor 7 Uhr deutscher Zeit). Der Shanghai Composite blieb mit 3.602,07 Punkten nahezu unverändert, der CSI 300 mit den wichtigsten Unternehmen der Festlandbörsen stagnierte bei 3.981,91 Punkten.</p><p>Noch deutlicher traf es andere Technologie-Märkte der Region: Der taiwanische Leitindex lag im frühen Handel rund 3 Prozent im Minus, nachdem er schon am Montag zwischen 5 und 6 Prozent verloren hatte. Der südkoreanische Kospi fiel um fast 2 Prozent auf rund 5.000 Punkte.</p><h2>Chipwerte im Abwärtssog</h2><p>Im Zentrum der Verkäufe standen erneut Halbleiterwerte: In Tokio verlor der Chiptest-Spezialist Advantest rund 4 Prozent, in Taipeh gab der Chipfertiger TSMC rund 2 Prozent nach. Marktteilnehmer verwiesen auf Berichte über verschärfte US-Exportauflagen für hochmoderne KI-Chips sowie die Nervosität vor den heute nach US-Handelsschluss anstehenden Quartalszahlen von Nvidia. „Die Vorsicht vor den Nvidia-Zahlen und dem Börsengang von Anthropic hält die Anleger von aggressiven Käufen ab“, sagte Analyst Yoshitaka Araya von Monex Securities.</p><h2>Was das für dich bedeutet</h2><p>Weil in Asien wegen der Zeitverschiebung früher gehandelt wird als in Europa, liefern die dortigen Kursbewegungen oft erste Hinweise auf den Handelstag hierzulande. Einzelne Handelstage sagen aber wenig über die längerfristige Entwicklung aus; Wertpapiere schwanken täglich im Wert.</p>",
+  "faq": [
+    {
+      "q": "Wie haben Asiens Börsen am Dienstag geschlossen beziehungsweise tendiert?",
+      "a": "Der Nikkei 225 verlor 1,1 Prozent auf 58.994,39 Punkte, der Topix 1,4 Prozent (Stand kurz vor 7 Uhr MEZ). Der Kospi fiel im frühen Handel um fast 2 Prozent, Taiwans Leitindex um rund 3 Prozent (n-tv, TVinvestment, 17. November 2026)."
+    },
+    {
+      "q": "Was belastet die Märkte in Asien aktuell?",
+      "a": "Vor allem Technologie- und Chipwerte stehen unter Druck: Anleger warten auf die Nvidia-Quartalszahlen am Dienstagabend und reagieren auf Berichte über verschärfte US-Exportauflagen für KI-Chips (n-tv, TVinvestment)."
+    }
+  ]
+}
