@@ -74,7 +74,8 @@ def yahoo(sym):
     try:
         r=json.loads(b)['chart']['result'][0]; m=r['meta']
         cl=[c for c in r['indicators']['quote'][0]['close'] if c is not None]
-        px=m['regularMarketPrice']; prev=cl[-2] if len(cl)>1 else px
+        from quote_baseline import prior_session_close
+        px=m['regularMarketPrice']; prev=prior_session_close(r)
         return dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=cl[-60:],cur=m.get('currency',''),src='Yahoo Finance')
     except Exception as e: print('YF',sym,e); return None
 def coingecko(cid):
