@@ -1,0 +1,33 @@
+{
+  "slug": "konjunktur-bau-auftraege-2026-11-18",
+  "title": "Gemischte Konjunkturdaten: Baugenehmigungen sinken, Industrieaufträge steigen",
+  "description": "Weniger Baugenehmigungen im September, mehr offene Industrieaufträge – und die Erwerbstätigkeit sinkt weiter. Die neuen Daten des Statistischen Bundesamts im Überblick.",
+  "section": "einordnung",
+  "date": "2026-11-18T08:09:00+01:00",
+  "image": "/images/konjunktur-bau-auftraege-2026-11-18.jpg",
+  "sources": [
+    {
+      "title": "Destatis: Baugenehmigungen für Wohnungen im September 2026 (18. November 2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_402_3111.html"
+    },
+    {
+      "title": "Destatis: Auftragsbestand im Verarbeitenden Gewerbe im September 2026 (18. November 2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_403_421.html"
+    },
+    {
+      "title": "Destatis: Erwerbstätigkeit im 3. Quartal 2026 (18. November 2026)",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_404_13321.html"
+    }
+  ],
+  "body": "<p>Das Statistische Bundesamt hat am Mittwochmorgen gleich drei neue Konjunkturdaten vorgelegt – mit unterschiedlichen Signalen für Bauwirtschaft, Industrie und Arbeitsmarkt.</p><h2>Baugenehmigungen im September deutlich gesunken</h2><p>Im September 2026 wurde der Bau von 20.800 Wohnungen genehmigt, 14,8 Prozent weniger als im September 2025. Die Zahl der Genehmigungen für Neubauwohnungen sank um 19,9 Prozent auf 16.800, während Umbaumaßnahmen um 15,8 Prozent zulegten. Das Statistische Bundesamt weist darauf hin, dass der Vergleich durch die hohe Zahl an Genehmigungen im Vorjahresmonat belastet wird. Auf Sicht der ersten drei Quartale bleibt der Trend positiv: Von Januar bis September wurden insgesamt 190.200 Wohnungen genehmigt, 8,4 Prozent mehr als im Vorjahreszeitraum – in Neubauten waren es 154.000 Wohnungen (+8,0 Prozent).</p><h2>Industrie: Auftragsbestand wächst weiter</h2><p>Der preisbereinigte Auftragsbestand im Verarbeitenden Gewerbe stieg im September gegenüber dem Vormonat saison- und kalenderbereinigt um 0,8 Prozent. Gegenüber dem Vorjahresmonat lag er 11,2 Prozent höher. Treiber waren der Maschinenbau (+1,4 Prozent zum Vormonat) und die Automobilindustrie (+1,9 Prozent). Die Reichweite der Aufträge – also die Zeit, die Betriebe ohne neue Bestellungen ausgelastet wären – sank leicht auf 8,9 Monate (August: 9,0 Monate).</p><h2>Arbeitsmarkt: Erwerbstätigkeit sinkt weiter</h2><p>Im dritten Quartal 2026 waren rund 45,67 Millionen Menschen in Deutschland erwerbstätig. Saisonbereinigt sank die Zahl gegenüber dem Vorquartal um 57.000 Personen (0,1 Prozent), gegenüber dem Vorjahr um 222.000 Personen (0,5 Prozent). Deutlich rückläufig war die Beschäftigung im Produzierenden Gewerbe ohne Baugewerbe mit 164.000 Personen weniger als vor einem Jahr (2,1 Prozent). Zulegen konnte dagegen der Bereich Öffentliche Dienstleister, Erziehung und Gesundheit mit 172.000 zusätzlichen Erwerbstätigen (+1,4 Prozent). Auch das Arbeitsvolumen ging um 0,3 Prozent zurück.</p><h2>Was das für dich bedeutet</h2><p>Die Daten zeigen eine gespaltene Konjunktur: Die Industrie hat volle Auftragsbücher, doch die Beschäftigung schrumpft – ein Zeichen dafür, dass Unternehmen vorsichtig bleiben und Stellen abbauen, obwohl Aufträge da sind. Im Bau zeigt sich trotz des schwachen Septembermonats im laufenden Jahr ein Aufwärtstrend bei den Genehmigungen. Solche Zahlen sind Frühindikatoren: Sie wirken mit Verzögerung auf Preise, Löhne und Zinsentscheidungen.</p>",
+  "faq": [
+    {
+      "q": "Wie haben sich die Baugenehmigungen im September 2026 entwickelt?",
+      "a": "Sie sanken um 14,8 Prozent gegenüber dem Vorjahresmonat auf 20.800 Wohnungen. In den ersten drei Quartalen 2026 gab es aber 8,4 Prozent mehr Genehmigungen als im Vorjahreszeitraum (Destatis, 18. November 2026)."
+    },
+    {
+      "q": "Was sagen die neuen Daten zum Arbeitsmarkt?",
+      "a": "Die Erwerbstätigkeit sank im 3. Quartal 2026 gegenüber dem Vorjahr um 222.000 Personen (0,5 Prozent). Besonders betroffen war das Produzierende Gewerbe ohne Bau mit 164.000 weniger Erwerbstätigen (Destatis, 18. November 2026)."
+    }
+  ]
+}

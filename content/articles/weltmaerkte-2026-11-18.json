@@ -1,0 +1,37 @@
+{
+  "slug": "weltmaerkte-2026-11-18",
+  "title": "Weltmärkte am Morgen: DAX mit deutlichem Verlust, Nvidia entlastet nachbörslich",
+  "description": "Der DAX verliert am Dienstag 2,08 Prozent, die Wall Street schließt den vierten Tag in Folge schwächer. Nach starken Nvidia-Zahlen zeigt sich Asien uneinheitlich.",
+  "section": "markt",
+  "date": "2026-11-18T08:09:00+01:00",
+  "image": "/images/weltmaerkte-2026-11-18.jpg",
+  "sources": [
+    {
+      "title": "dpa-AFX: Aktien Frankfurt Schluss – Klare Verluste (17. November 2026, 17:46 Uhr)",
+      "url": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-schluss-klare-verluste-nervositaet-vor-nvidia-zahlen-16071405"
+    },
+    {
+      "title": "dpa-AFX: Aktien New York Schluss – Weitere Verluste vor Nvidia-Zahlen (17. November 2026, 21:35 Uhr)",
+      "url": "https://www.onvista.de/news/2026/11-17-aktien-new-york-schluss-weitere-verluste-vor-nvidia-zahlen-0-10-26577546"
+    },
+    {
+      "title": "Dow Jones via MarketScreener: Märkte Asien uneinheitlich (18. November 2026, 7:05 Uhr)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/maerkte-asien-uneinheitlich-nvidia-einfluss-begrenzt-ce785edcd188ff26"
+    },
+    {
+      "title": "Dow Jones Newswires via Morningstar: DAX Data Talk (17. November 2026)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611176737/dax-ends-208-lower-at-2604537-data-talk"
+    }
+  ],
+  "body": "<p>Die Nervosität vor den Nvidia-Zahlen hat die Börsen am Dienstag deutlich belastet. In Frankfurt schloss der DAX mit einem Minus von 2,08 Prozent bei 26.045,37 Punkten, wie die Deutsche Presse-Agentur berichtete. Das war der größte Tagesverlust seit Juli, wie aus Daten von Dow Jones Newswires hervorgeht; der Leitindex liegt damit 2,71 Prozent unter seinem Rekordschluss vom vergangenen Donnerstag. Der MDAX verlor 1,25 Prozent auf 30.147,34 Zähler. Unter den Einzelwerten fielen die Aktien der Deutschen Bank um 6,0 Prozent nach kritischen Medienberichten über interne Kontrollen des Instituts; SAP büßte 5,6 Prozent ein.</p><h2>Wall Street: vierter Verlusttag in Folge</h2><p>In den USA setzte sich die Abwärtsbewegung fort: Der Dow Jones schloss 1,64 Prozent tiefer bei 50.759,42 Punkten, der S&P 500 verlor 1,03 Prozent auf 7.340,53 Zähler, der Nasdaq 100 gab 0,72 Prozent auf 27.001,79 Punkte nach. Für den S&P 500 war es der vierte Verlusttag in Folge.</p><h2>Asien uneinheitlich nach Nvidia-Zahlen</h2><p>Nach den starken Nvidia-Ergebnissen vom Abend zeigten sich die asiatischen Börsen am Mittwochmorgen ohne klare Richtung: Der Nikkei 225 legte zuletzt 0,5 Prozent zu, der südkoreanische Kospi gewann 1,6 Prozent, während der Hang Seng in Hongkong 0,9 Prozent verlor (Stand: früher Morgen, Dow Jones Newswires). Ob die Zahlen ausreichen, um den Rückzug aus dem Technologiesektor zu stoppen, ließen Beobachter offen.</p><h2>Heute im Blick: Anthropic-Preisfestlegung</h2><p>Am Mittwoch steht zudem die Preisfestlegung für den Börsengang des KI-Unternehmens Anthropic an. Das Unternehmen hat den angestrebten Preis laut Bloomberg am oberen Ende der Spanne oder darüber angesetzt, was es mit bis zu 1.400 Milliarden US-Dollar bewerten könnte. Der Handelsstart ist für Donnerstag geplant.</p>",
+  "faq": [
+    {
+      "q": "Wie hat der DAX am Dienstag geschlossen?",
+      "a": "Der DAX schloss am 17. November 2026 mit 26.045,37 Punkten, 2,08 Prozent im Minus – der größte Tagesverlust seit Juli (dpa, Dow Jones Newswires). Der MDAX verlor 1,25 Prozent auf 30.147,34 Punkte."
+    },
+    {
+      "q": "Wie lief die Wall Street vor den Nvidia-Zahlen?",
+      "a": "Der Dow Jones verlor 1,64 Prozent, der S&P 500 1,03 Prozent (vierter Verlusttag in Folge), der Nasdaq 100 0,72 Prozent (dpa-AFX, 17. November 2026)."
+    }
+  ]
+}

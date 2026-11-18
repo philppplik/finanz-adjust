@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-aktienindex",
+  "title": "Was ist ein Aktienindex? Einfach erklärt",
+  "description": "Ein Aktienindex bündelt viele Aktien zu einer Kennzahl. Wie der DAX funktioniert, wer ihn berechnet und was er dir sagt – und was nicht.",
+  "section": "glossar",
+  "date": "2026-11-18T08:09:00+01:00",
+  "image": "/images/glossar-aktienindex.jpg",
+  "sources": [
+    {
+      "title": "Deutsche Börse: DAX – Benchmark und Barometer für den deutschen Aktienmarkt",
+      "url": "https://www.deutsche-boerse.com/dbg-de/media/news-stories/explainers/wissen-finanzmarkt/explainer-dax"
+    },
+    {
+      "title": "BaFin – Aktien auf einen Blick",
+      "url": "https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/wertpapiere/aktien/aktien.html"
+    }
+  ],
+  "body": "<p>Ein Aktienindex fasst die Kurse vieler Aktien zu einer einzigen Kennzahl zusammen. Er zeigt auf einen Blick, wie sich ein bestimmter Markt oder ein Marktsegment entwickelt, ohne dass du jede einzelne Aktie verfolgen musst. Der bekannteste deutsche Aktienindex ist der DAX: Er misst die Wertentwicklung der 40 größten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter deutscher Aktiengesellschaften, erklärt die Deutsche Börse.</p><h2>Wer steckt im Index – und wer entscheidet das?</h2><p>Die Zusammensetzung folgt klaren, öffentlich einsehbaren Regeln und wird quartalsweise überprüft. Ob ein Unternehmen aufgenommen oder herausgenommen wird, hängt vor allem von seiner Marktkapitalisierung im Streubesitz ab; der Auswahlprozess läuft seit 2016 rein quantitativ und automatisiert. Neben dem DAX umfasst die Indexfamilie etwa den MDAX mit den 50 nächstgrößeren Unternehmen und den TecDAX mit Schwerpunkt Technologie.</p><h2>Kursindex oder Performanceindex?</h2><p>Ein Index kann auf zwei Arten gerechnet werden: Als Kursindex bildet er nur die reine Kursentwicklung ab. Als Performanceindex fließen zusätzlich die Dividenden so ein, als würden sie sofort wieder angelegt. Der DAX wird üblicherweise als Performanceindex betrachtet und im Sekundentakt auf Basis der Xetra-Kurse berechnet; der erste Wert erscheint spätestens um 9:06 Uhr, der letzte um 18:00 Uhr.</p><h2>Was ein Index leistet – und was nicht</h2><p>Ein Index ist ein Maßstab, keine Empfehlung. Er dient als Vergleichsgröße (Benchmark) und als Basis für Finanzprodukte wie ETFs, die einen Index einfach nachbilden. Steigt der DAX, heißt das nicht, dass alle 40 Aktien steigen – große Unternehmen mit hohem Gewicht können den Index stärker bewegen als kleine. Und umgekehrt gilt: Ein Index sagt nichts über die Qualität einzelner Unternehmen aus.</p><p>Wie du mit ETFs direkt in einen Index investieren kannst, erklärt unser Glossar zu ETFs, die Gewichtung einzelner Unternehmen das Glossar zur Marktkapitalisierung.</p>",
+  "faq": [
+    {
+      "q": "Was zeigt der DAX an?",
+      "a": "Der DAX misst die Wertentwicklung der 40 größten deutschen börsennotierten Unternehmen und deckt rund 80 Prozent der deutschen Börsenmarktkapitalisierung ab. Er wird üblicherweise als Performanceindex betrachtet, also inklusive reinvestierter Dividenden (Deutsche Börse)."
+    },
+    {
+      "q": "Kann man in einen Index investieren?",
+      "a": "Nicht direkt, aber über Finanzprodukte wie ETFs, die den Index nachbilden. Der Index selbst ist nur eine berechnete Kennzahl und dient als Vergleichsmaßstab (Deutsche Börse/BaFin)."
+    }
+  ]
+}
