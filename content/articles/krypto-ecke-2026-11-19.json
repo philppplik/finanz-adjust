@@ -1,0 +1,26 @@
+{
+  "slug": "krypto-ecke-2026-11-19",
+  "title": "Krypto-Morgenstand: Bitcoin bei rund 63.561 US-Dollar",
+  "description": "CoinGecko-Datenstand 19 November 07:55 MEZ: Bitcoin minus 1,54 Prozent, Ethereum minus 0,19 Prozent, Solana plus 0,46 Prozent auf 24 Stunden-Sicht inDollar.",
+  "section": "krypto",
+  "date": "2026-11-19T07:57:02+01:00",
+  "image": "/images/krypto-ecke-2026-11-19.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko SimplePrice, Abruf19November07:55MEZ, USD-/EUR-Kurse und24h-Veränderung",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum%2Csolana&vs_currencies=usd%2Ceur&include_24hr_change=true&include_last_updated_at=true"
+    }
+  ],
+  "body": "<p>CoinGecko meldete beim Abruf am 19 November 2026 um 07:55 MEZ für Bitcoin 63.561 US-Dollar beziehungsweise 57.950 Euro. Der 24-Stunden-Vergleich in US-Dollar lag bei minus 1,54 Prozent. Die Quelldaten waren zuletzt um 07:55:19 MEZ aktualisiert.</p><h 2>Ethereum und Solana</h 2><p>Ethereum lag bei 1.804,47 US-Dollar beziehungsweise 1.645,18 Euro, ein Minus von 0,19 Prozent auf 24 Stunden-Sicht inDollar. Solana stand bei 75,01 US-Dollar beziehungsweise 68,39 Euro, plus 0,46 Prozent. Beide Quelldatensätze trugen 07:55:41 MEZ als Aktualisierung. Die Euro-Veränderungen weichen wegen des Wechselkurses von den Dollarwerten ab.</p><h 2>Keine eindeutige Kursursache</h 2><p>Die Preisabfrage misst Kurse und Veränderungen, keine Ursachen. Ein einzelner Datenstand belegt weder einen mehrtägigen Trend noch eine unmittelbare Reaktion auf das Fed-Protokoll. Kryptowerte handeln rund um die Uhr; Anbieter und Handelsplätze können unterschiedliche Stände melden.</p><h 2>Risiko</h 2><p>Kryptowerte können stark schwanken und einen erheblichen Teil ihres Werts verlieren. Die genannten Zahlen sind eine Momentaufnahme, keine Anlageempfehlung oder Prognose.</p>",
+  "faq": [
+    {
+      "q": "Welcher Datenstand gilt?",
+      "a": "Abruf 19 November 2026 um 07:55 MEZ. CoinGecko-Aktualisierungen: Bitcoin 07:55:19, Ethereum und Solana 07:55:41 MEZ. Die Preise können sich sofort ändern."
+    },
+    {
+      "q": "Sind die Veränderungen in Euro oder Dollar?",
+      "a": "Die genannten 24-Stunden-Veränderungen beziehen sich aufUS-Dollar: Bitcoin minus 1,54 Prozent, Ethereum minus 0,19 Prozent, Solana plus 0,46 Prozent. Euro-Veränderungen können abweichen."
+    }
+  ],
+  "modified": "2026-11-19T07:57:02+01:00"
+}

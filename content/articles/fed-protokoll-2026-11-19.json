@@ -1,0 +1,34 @@
+{
+  "slug": "fed-protokoll-2026-11-19",
+  "title": "Fed-Protokoll: Oktober-Ausblick auf weitere Zinserhöhungen",
+  "description": "Fast alle Teilnehmer hielten weitere Schritte unter ihren damaligen Basisannahmen für wahrscheinlich angemessen. Das Protokoll ist keine neue Zinsentscheidung.",
+  "section": "einordnung",
+  "date": "2026-11-19T07:57:02+01:00",
+  "image": "/images/fed-protokoll-2026-11-19.jpg",
+  "sources": [
+    {
+      "title": "Federal Reserve: Minutes October27-28,2026",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+    },
+    {
+      "title": "Federal Reserve: FOMC-Kalender",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "title": "Reuters via MarketScreener: Wall Street uneinheitlich nach Nvidia-Zahlen und Fed-Protokoll (18. November 2026, 22:37 Uhr)",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/wall-street-uneinheitlich-nach-nvidia-zahlen-und-fed-protokoll-ce785edddc8af622"
+    }
+  ],
+  "body": "<p>Das am 18 November veröffentlichte Protokoll der Fed-Sitzung vom 27./28 Oktober dokumentiert einen bedingten Ausblick, keine neue Zinsentscheidung. Fast alle Teilnehmer hielten unter ihren damaligen Basisannahmen zu Inflation und Arbeitsmarkt weitere Anhebungen des Zielkorridors für wahrscheinlich angemessen. Der Ausblick war auf die Rückkehr der Inflation zum 2-Prozent-Ziel gerichtet und blieb von neuen Daten abhängig.</p><h 2>Was im Oktober entschieden wurde</h 2><p>Der Offenmarktausschuss beließ den Zielkorridor bei 3,75 bis 4,00 Prozent. Lisa Cook und Beth Hammack wollten jeweils 25 Basispunkte erhöhen; das Votum lautete 10 zu 2. Teilnehmer der Diskussion sind nicht mit den jeweils stimmberechtigten Ausschussmitgliedern gleichzusetzen. Aus der Formulierung über fast alle Teilnehmer folgt daher kein bereits feststehendes Votum für die nächste Sitzung.</p><h 2>Größere Schritte nur als Möglichkeit</h 2><p>Zwei Teilnehmer brachten einen Schritt von mehr als 25 Basispunkten bei der nächsten Sitzung zur Erwägung, falls neue Inflationsdaten ungünstig ausfielen. Das ist eine konditionale Möglichkeit, kein beschlossenes Maßnahmenpaket. Das Protokoll betont ausdrücklich Daten, Ausblick und Risikoverteilung als Grundlage weiterer Entscheidungen. Der Fed-Kalender nennt 8./9 Dezember als nächste reguläre Sitzung.</p><h 2>Markterwartungen sind keine Zusagen</h 2><p>Der Reuters-Bericht vom 18 November 22:37 beschrieb eine nahezu vollständige Einpreisung einer Dezemberanhebung um 25 Basispunkte. Das ist eine zeitgebundene Markteinschätzung aus diesem Bericht und hier kein neu gemessener aktueller Futures-Stand. Auch spätere Interviews einzelner Notenbanker sind nicht mit dem Oktoberprotokoll oder einem Ausschussbeschluss gleichzusetzen.</p><h 2>Einordnung</h 2><p>Höhere US-Zinsen können Kreditkosten, Wechselkurse und die Bewertung von Anlagen beeinflussen. Richtung und Ausmaß hängen aber von Erwartungen und vielen weiteren Faktoren ab. Aus dem Protokoll allein folgt weder ein sicherer Dezember-Schritt noch ein eindeutiger Grund für eine einzelne Kursbewegung oder für deutsche Tagesgeldzinsen.</p>",
+  "faq": [
+    {
+      "q": "Hat die Fed am 18 November die Zinsen erhöht?",
+      "a": "Nein. Veröffentlicht wurde das Protokoll der Oktobersitzung. Dort blieb der Zielkorridor bei 3,75 bis 4,00 Prozent; weitere Schritte wurden unter damaligen Basisannahmen diskutiert."
+    },
+    {
+      "q": "Ist eine Dezembererhöhung beschlossen?",
+      "a": "Nein. Die nächste reguläre Sitzung ist laut Fed-Kalender am 8./9 Dezember. Das Protokoll lässt weitere Entscheidungen von Daten, Ausblick und Risiken abhängen."
+    }
+  ],
+  "modified": "2026-11-19T07:57:02+01:00"
+}
