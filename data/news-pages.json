@@ -1,5 +1,89 @@
 [
   {
+    "title": "Aktien Wien Schluss: ATX beschleunigt Talfahrt am 7. Verlusttag in Folge",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192470-aktien-wien-schluss-atx-beschleunigt-talfahrt-am-7-verlusttag-in-folge-016.htm",
+    "ts": 1795195740.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556121+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "XETRA-SCHLUSS/DAX-Ausverkauf gewinnt an Fahrt - 25.000er-Marke fällt",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192423-xetra-schluss-dax-ausverkauf-gewinnt-an-fahrt-25-000er-marke-faellt-015.htm",
+    "ts": 1795195620.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556178+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "EQS-DD: Rheinmetall AG: Sara Georgi Stiftung, Kauf",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192426-eqs-dd-rheinmetall-ag-sara-georgi-stiftung-kauf-022.htm",
+    "ts": 1795195620.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556204+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "2008 war ein Kindergeburtstag: Schiff: Goldpreisverfall könnte finanzielles Blutbad durch die Fed ankündigen",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192387-2008-war-ein-kindergeburtstag-schiff-goldpreisverfall-koennte-finanzielles-blutbad-durch-die-fed-ankuendigen-049.htm",
+    "ts": 1795195380.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556308+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "EQS-Adhoc: thyssenkrupp nucera AG & Co. KGaA: Vorläufige Zahlen für GJ 2025/26: Auftragseingang über Vorjahr, Free Cashflow positiv; EBIT unter Prognose aufgrund zusätzlicher Projektkosten im gH2-Segment",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192371-eqs-adhoc-thyssenkrupp-nucera-ag-co-kgaa-vorlaeufige-zahlen-fuer-gj-2025-26-auftragseingang-ueber-vorjahr-free-cashflow-positiv-ebit-unter-progno-022.htm",
+    "ts": 1795195260.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556359+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Kommentar von \"nd.DerTag\" zum Kurs der IG Metall",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192372-kommentar-von-nd-dertag-zum-kurs-der-ig-metall-007.htm",
+    "ts": 1795195260.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556400+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ANALYSE-FLASH: DZ Bank belässt Deutz auf 'Kaufen' - Fairer Wert 15 Euro",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192424-analyse-flash-dz-bank-belaesst-deutz-auf-kaufen-fairer-wert-15-euro-016.htm",
+    "ts": 1795195200.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556464+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "Aktien Schweiz bleiben im Rückwärtsgang",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192335-aktien-schweiz-bleiben-im-rueckwaertsgang-015.htm",
     "ts": 1795194900.0,
@@ -21,6 +105,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
     "captured_at": "2026-11-20T17:17:21.243342+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ROUNDUP/Aktien Frankfurt Schluss: Dax fällt unter 25.000 Punkte - Schwache Techs",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192370-roundup-aktien-frankfurt-schluss-dax-faellt-unter-25-000-punkte-schwache-techs-016.htm",
+    "ts": 1795194720.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-20T17:36:58.556631+00:00",
     "rights_checked": "2026-10-28"
   },
   {
@@ -177,6 +273,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
     "captured_at": "2026-11-20T17:17:22.806692+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DAX setzt Talfahrt fort - Börsenbullen werfen vor dem Wochenende das Handtuch",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192004-dax-setzt-talfahrt-fort-boersenbullen-werfen-vor-dem-wochenende-das-handtuch-555.htm",
+    "ts": 1795192140.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
+    "captured_at": "2026-11-20T17:37:00.050699+00:00",
     "rights_checked": "2026-10-28"
   },
   {
