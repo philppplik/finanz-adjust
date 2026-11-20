@@ -1,0 +1,29 @@
+{
+ "slug": "glossar-korrektur",
+ "title": "Was ist eine Börsenkorrektur? Einfach erklärt",
+ "description": "Ab wann spricht man von einer Korrektur, was unterscheidet sie vom Bärenmarkt ,  und wie häufig kommt sie vor?",
+ "section": "glossar",
+ "date": "2026-11-20T08:13:16+01:00",
+ "image": "/images/glossar-korrektur.jpg",
+ "sources": [
+  {
+   "title": "Stockertim Learn: Korrektur – Bedeutung und Definition (geprüft am 4. November 2026)",
+   "url": "https://stockertim.com/learn/dictionary/correction?hl=de"
+  },
+  {
+   "title": "Investopedia: Market Correction Definition",
+   "url": "https://www.investopedia.com/terms/c/correction.asp"
+  }
+ ],
+ "body": "<p>Von einer Börsenkorrektur spricht man üblicherweise, wenn ein Aktienindex oder eine Aktie um rund zehn Prozent oder mehr gegenüber einem jüngsten Höchststand fällt. Wichtig: Das ist eine Faustregel, keine offizielle Definition. Manche Marktberichte messen vom letzten Schlusskurs-Hoch, andere vom höchsten Stand im Tagesverlauf.</p><h2>Korrektur oder Bärenmarkt?</h2><p>Die Abgrenzung folgt ebenfalls einer Konvention: Ein Rückgang von etwa zehn Prozent gilt als Korrektur, ein Rückgang von 20 Prozent oder mehr als Bärenmarkt. Eine Korrektur kann schnell enden und von neuen Höchstständen gefolgt werden ,  oder sie kann sich zu einem Bärenmarkt vertiefen. Das lässt sich im Voraus nicht erkennen.</p><h2>Wie häufig sind Korrekturen?</h2><p>Wie oft Korrekturen auftreten, hängt vom betrachteten Markt, Zeitraum und der gewählten Hochpunkt-Messung ab. Eine feste Wiederkehrfrist gibt es nicht. Auslöser sind oft Zinssorgen, enttäuschende Unternehmensgewinne oder schlicht Kurse, die den Gewinnen vorausgeeilt waren. Für langfristige Anleger gehören solche Rücksetzer zum normalen Aktienbesitz dazu. Problematisch wird es vor allem für zwei Gruppen: wer mit geliehenem Geld investiert, und wer das Geld kurzfristig braucht ,  beide können gezwungen sein, zu niedrigen Kursen zu verkaufen.</p><h2>Was das für dich bedeutet</h2><p>Die Bezeichnung allein sagt nichts darüber aus, ob der Rückgang vorbei ist oder weitergeht. Die Begriffe allein begründen keine Anlageentscheidung. Anlagehorizont, Liquiditätsbedarf, Risiko und die jeweilige Marktposition sind voneinander getrennte Fragen.</p>",
+ "faq": [
+  {
+   "q": "Ab wann spricht man von einer Korrektur?",
+   "a": "Üblicherweise bei einem Rückgang von rund zehn Prozent gegenüber einem jüngsten Höchststand. Das ist eine Faustregel ohne offiziellen Charakter (Stockertim/Investopedia)."
+  },
+  {
+   "q": "Was unterscheidet eine Korrektur von einem Bärenmarkt?",
+   "a": "Eine Korrektur bezeichnet einen Rückgang von etwa zehn Prozent, ein Bärenmarkt einen Rückgang von 20 Prozent oder mehr. Beide Schwellen sind Konventionen (Stockertim)."
+  }
+ ]
+}

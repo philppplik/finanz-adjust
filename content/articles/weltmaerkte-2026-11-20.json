@@ -1,0 +1,41 @@
+{
+ "slug": "weltmaerkte-2026-11-20",
+ "title": "Weltmärkte: Wall Street schwach, Asien mit datiertem Morgenminus",
+ "description": "Dow Jones Market Data nennt 25.463,81 Punkte als DAX-Schluss am 19. November. US-Indizes verlieren deutlich, Asiens Angaben sind ein Morgenstand.",
+ "section": "markt",
+ "date": "2026-11-20T08:13:16+01:00",
+ "image": "/images/weltmaerkte-2026-11-20.jpg",
+ "sources": [
+  {
+   "title": "Dow Jones Market Data/FactSet: DAX-Schluss 19. November 2026",
+   "url": "https://www.morningstar.com/news/dow-jones/202611197566/dax-ends-106-lower-at-2546381-data-talk"
+  },
+  {
+   "title": "AD HOC NEWS: DAX schließt am Donnerstag 0,92 Prozent tiefer (19. November 2026, 18:33 Uhr)",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-donnerstag-0-92-prozent-tiefer-bei-25-498-91-punkten/70537603"
+  },
+  {
+   "title": "dpa-AFX via MarketScreener: Aktien New York Schluss – Deutliche Verluste trotz gutem Anthropic-IPO (19. November 2026, 22:28 Uhr)",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/aktien-new-york-schluss-deutliche-verluste-trotz-gutem-anthropic-ipo-ce785ed2df8bf522"
+  },
+  {
+   "title": "Euronews/AP: Asienbörsen brechen ein – KI- und Chip-Sell-off trifft Weltmärkte (20. November 2026, 6:49 Uhr)",
+   "url": "https://de.euronews.com/2026/11/20/asienborsen-brechen-ein-ki-und-chip-sell-off-trifft-weltmarkte"
+  },
+  {
+   "title": "Destatis: Erzeugerpreise Oktober 2026",
+   "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_407_61241.html"
+  }
+ ],
+ "body": "<p>Der DAX hat am Donnerstag, 19. November 2026, den fünften Handelstag in Folge schwächer beendet. Dow Jones Market Data und FactSet nennen 25.463,81 Punkte, ein Minus von 1,06 Prozent. Für diesen Bericht verwenden wir diesen ausdrücklich als Schlusswert ausgewiesenen Datensatz. Andere Marktberichte nennen abweichend 25.498,91 Punkte; eine belastbare Erklärung für die Abweichung liegt uns nicht vor. Wir ordnen sie deshalb nicht nachträglich einer vermeintlichen Vorauktion zu.</p><h2>Wall Street auf Mehrmonatstiefs</h2><p>Nach dem dpa-AFX-Schlussbericht vom 19. November verlor der Dow Jones Industrial 2,19 Prozent auf 49.097,06 Punkte. Der S&amp;P 500 gab 2,02 Prozent auf 7.175,83 Zähler nach, der Nasdaq 100 schloss 2,21 Prozent tiefer bei 26.517,05 Punkten. Alle drei erreichten laut dem Bericht Mehrmonatstiefs. Der Nasdaq 100 ist nicht mit dem Nasdaq Composite gleichzusetzen.</p><h2>Asien: datierter Morgenstand, keine Schlusskurse</h2><p>Der am 20. November um 06:49 MEZ veröffentlichte Bericht von Euronews mit AP-Daten nennt für den frühen Handel jeweils rund 4,5 Prozent Minus bei Nikkei 225 und Kospi, knapp zwei Prozent beim Hang Seng und 1,7 Prozent beim Shanghai Composite. Das sind die im Bericht datierten Zwischenstände, keine aktuellen Echtzeitkurse und keine bestätigten Tages-Schlusswerte.</p><h2>Neue deutsche Preisdaten</h2><p>Destatis hat am Freitagmorgen die Erzeugerpreise für Oktober veröffentlicht: plus 8,1 Prozent zum Vorjahresmonat und plus 1,4 Prozent zum September. Die Veröffentlichung beschreibt deutsche Erzeugerpreise, nicht unmittelbar die Verbraucherpreisinflation und keine Zinsentscheidung.</p>",
+ "faq": [
+  {
+   "q": "Welchen DAX-Schluss verwendet dieser Bericht?",
+   "a": "25.463,81 Punkte und minus 1,06 Prozent am 19. November 2026 nach Dow Jones Market Data/FactSet. Andere Berichte nennen abweichende Werte; die Differenz ist hier nicht abschließend erklärt."
+  },
+  {
+   "q": "Wie tief fielen die US-Indizes?",
+   "a": "Der Dow Jones verlor 2,19 Prozent auf 49.097,06 Punkte, der S&P 500 2,02 Prozent auf 7.175,83 Zähler, der Nasdaq 100 2,21 Prozent auf 26.517,05 Punkte ,  allesamt Mehrmonatstiefs (dpa-AFX, 19. November 2026)."
+  }
+ ]
+}
