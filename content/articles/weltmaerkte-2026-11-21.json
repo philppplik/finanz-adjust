@@ -1,41 +1,41 @@
 {
- "slug": "weltmaerkte-2026-11-21",
- "title": "Weltmärkte: DAX verliert 7,28 Prozent in einer Woche",
- "description": "Der DAX fällt zum sechsten Mal in Folge und schließt unter 25.000 Punkten. Dow und S&P 500 rutschen in die Korrektur, der Nasdaq löscht sein Jahresplus.",
- "section": "markt",
- "date": "2026-11-21T07:57:38+01:00",
- "image": "/images/weltmaerkte-2026-11-21.jpg",
- "sources": [
-  {
-   "title": "Handelsblatt: Dax schließt schwächste Woche seit mehr als einem Jahr (20. November 2026, 18:40 Uhr)",
-   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-schwaechste-woche-seit-mehr-als-einem-jahr/100271464.html"
-  },
-  {
-   "title": "WirtschaftsWoche: Nasdaq mit stärkstem Wochenverlust seit März 2020 (20. November 2026, 23:15 Uhr)",
-   "url": "https://www.wiwo.de/finanzen/boerse/dow-jones-nasdaq-nasdaq-mit-staerkstem-wochenverlust-seit-maerz-2020/100271639.html"
-  },
-  {
-   "title": "CNBC: S&P 500 and Dow close in correction (20. November 2026)",
-   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-  },
-  {
-   "title": "FT/Markit: historische DAX-Schlusskurse",
-   "url": "https://markets.ptc.ft.markitdigital.com/data/indices/tearsheet/historical?s=DAXX%3AGER"
-  },
-  {
-   "title": "Dow Jones Market Data: DAX-Wochenbilanz 20. November",
-   "url": "https://www.morningstar.com/news/dow-jones/202611206112/dax-ends-the-week-728-lower-at-2480278-data-talk"
-  }
- ],
- "body": "<p>Der DAX schloss am Freitag, 20. November, bei 24.802,78 Punkten, 2,60 Prozent unter dem Vortag. Gegenüber dem Schluss vom 13. November bei 26.749,95 Punkten ergibt sich ein Wochenverlust von 7,28 Prozent. Diese Wochenrechnung ist nicht mit dem Abstand zum Intraday-Rekord von 27.001,67 Punkten am 12. November gleichzusetzen. Es war der sechste Verlusttag nacheinander. Dow Jones Market Data nennt den größten prozentualen Wochenverlust seit April 2025.</p><h2>US-Schlusskurse und Intraday-Schwelle getrennt</h2><p>Der Dow Jones schloss am Freitag laut CNBC bei 48.147,33 Punkten, ein Tagesminus von 1,93 Prozent. Der S&amp;P 500 verlor 3,70 Prozent auf 6.910,39, der Nasdaq Composite 5,28 Prozent auf 22.617,73 Punkte. Dow und S&amp;P lagen damit mehr als zehn Prozent unter ihren Rekordschlüssen. Der Nasdaq 100 erreichte dagegen während des Tages einen Abstand von 20 Prozent zu seinem jüngsten Hoch. Das ist eine Intraday-Beobachtung, keine Aussage über einen bestätigten Schlusskurs-Bärenmarkt.</p><h2>Eine schwere Woche, verschiedene Vergleichszeiträume</h2><p>CNBC beziffert das Wochenminus des Dow auf acht Prozent, des S&amp;P auf 8,6 Prozent und des Nasdaq auf etwa zehn Prozent. Der Bericht ordnet die Dow-Woche als schwächste seit März 2020 ein, die des S&amp;P seit April 2025. Die WirtschaftsWoche nennt für Dow und S&amp;P dagegen gemeinsam April 2025. Die historischen Vergleichszeiträume der beiden Quellen stimmen also nicht vollständig überein. Die Tagesschlussstände sind davon getrennt zu lesen.</p><h2>Was der Ausverkauf zeigt</h2><p>Die Verluste blieben nicht auf einzelne KI-Werte begrenzt. CNBC nennt unter anderem Nvidia mit rund 14 Prozent Tagesminus, AMD mit mehr als 13 Prozent und Micron mit fast 14 Prozent. Der VIX erreichte während des Tages 32,27 Punkte; das ist kein hier bestätigter Schlussstand. Einzelne defensive Aktien stiegen dennoch. Aus einem solchen Tag lässt sich weder ein sicherer Tiefpunkt noch die nächste Marktbewegung ableiten.</p>",
- "faq": [
-  {
-   "q": "Wie groß war der DAX-Wochenverlust?",
-   "a": "Vom Schluss am 13. November bei 26.749,95 auf 24.802,78 Punkte am 20. November sind es rechnerisch 7,28 Prozent. Das Freitagsminus allein betrug 2,60 Prozent (FT/Dow Jones Market Data)."
-  },
-  {
-   "q": "War der Nasdaq 100 im Bärenmarkt?",
-   "a": "CNBC meldete am Freitag intraday einen Rückgang um 20 Prozent vom jüngsten Hoch. Dieser Schwellenkontakt während des Tages ist von einer Schlusskursbetrachtung zu unterscheiden."
-  }
- ]
+  "slug": "weltmaerkte-2026-11-21",
+  "title": "Weltmärkte: DAX verliert 7,28 Prozent in einer Woche",
+  "description": "Der DAX fällt zum sechsten Mal in Folge und schließt unter 25.000 Punkten. Dow und S&P 500 rutschen in die Korrektur, der Nasdaq löscht sein Jahresplus.",
+  "section": "markt",
+  "date": "2026-11-21T08:17:03+01:00",
+  "image": "/images/weltmaerkte-2026-11-21.jpg",
+  "sources": [
+    {
+      "title": "Handelsblatt: Dax schließt schwächste Woche seit mehr als einem Jahr (20. November 2026, 18:40 Uhr)",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-schwaechste-woche-seit-mehr-als-einem-jahr/100271464.html"
+    },
+    {
+      "title": "WirtschaftsWoche: Nasdaq mit stärkstem Wochenverlust seit März 2020 (20. November 2026, 23:15 Uhr)",
+      "url": "https://www.wiwo.de/finanzen/boerse/dow-jones-nasdaq-nasdaq-mit-staerkstem-wochenverlust-seit-maerz-2020/100271639.html"
+    },
+    {
+      "title": "CNBC: S&P 500 and Dow close in correction (20. November 2026)",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "FT/Markit: historische DAX-Schlusskurse",
+      "url": "https://markets.ptc.ft.markitdigital.com/data/indices/tearsheet/historical?s=DAXX%3AGER"
+    },
+    {
+      "title": "Dow Jones Market Data: DAX-Wochenbilanz 20. November",
+      "url": "https://www.morningstar.com/news/dow-jones/202611206112/dax-ends-the-week-728-lower-at-2480278-data-talk"
+    }
+  ],
+  "body": "<p>Der DAX schloss am Freitag, 20. November, bei 24.802,78 Punkten, 2,60 Prozent unter dem Vortag. Gegenüber dem Schluss vom 13. November bei 26.749,95 Punkten ergibt sich ein Wochenverlust von 7,28 Prozent. Diese Wochenrechnung ist nicht mit dem Abstand zum Intraday-Rekord von 27.001,67 Punkten am 12. November gleichzusetzen. Es war der sechste Verlusttag nacheinander. Dow Jones Market Data nennt den größten prozentualen Wochenverlust seit April 2025.</p><h2>US-Schlusskurse und Intraday-Schwelle getrennt</h2><p>Der Dow Jones schloss am Freitag laut CNBC bei 48.147,33 Punkten, ein Tagesminus von 1,93 Prozent. Der S&amp;P 500 verlor 3,70 Prozent auf 6.910,39, der Nasdaq Composite 5,28 Prozent auf 22.617,73 Punkte. Dow und S&amp;P lagen damit mehr als zehn Prozent unter ihren Rekordschlüssen. Der Nasdaq 100 erreichte dagegen während des Tages einen Abstand von 20 Prozent zu seinem jüngsten Hoch. Das ist eine Intraday-Beobachtung, keine Aussage über einen bestätigten Schlusskurs-Bärenmarkt.</p><h2>Eine schwere Woche, verschiedene Vergleichszeiträume</h2><p>CNBC beziffert das Wochenminus des Dow auf acht Prozent, des S&amp;P auf 8,6 Prozent und des Nasdaq auf etwa zehn Prozent. Der Bericht ordnet die Dow-Woche als schwächste seit März 2020 ein, die des S&amp;P seit April 2025. Die WirtschaftsWoche nennt für Dow und S&amp;P dagegen gemeinsam April 2025. Die historischen Vergleichszeiträume der beiden Quellen stimmen also nicht vollständig überein. Die Tagesschlussstände sind davon getrennt zu lesen.</p><h2>Was der Ausverkauf zeigt</h2><p>Die Verluste blieben nicht auf einzelne KI-Werte begrenzt. CNBC nennt unter anderem Nvidia mit rund 14 Prozent Tagesminus, AMD mit mehr als 13 Prozent und Micron mit fast 14 Prozent. Der VIX erreichte während des Tages 32,27 Punkte; das ist kein hier bestätigter Schlussstand. Einzelne defensive Aktien stiegen dennoch. Aus einem solchen Tag lässt sich weder ein sicherer Tiefpunkt noch die nächste Marktbewegung ableiten.</p>",
+  "faq": [
+    {
+      "q": "Wie groß war der DAX-Wochenverlust?",
+      "a": "Vom Schluss am 13. November bei 26.749,95 auf 24.802,78 Punkte am 20. November sind es rechnerisch 7,28 Prozent. Das Freitagsminus allein betrug 2,60 Prozent (FT/Dow Jones Market Data)."
+    },
+    {
+      "q": "War der Nasdaq 100 im Bärenmarkt?",
+      "a": "CNBC meldete am Freitag intraday einen Rückgang um 20 Prozent vom jüngsten Hoch. Dieser Schwellenkontakt während des Tages ist von einer Schlusskursbetrachtung zu unterscheiden."
+    }
+  ]
 }

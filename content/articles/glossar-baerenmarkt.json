@@ -1,25 +1,25 @@
 {
- "slug": "glossar-baerenmarkt",
- "title": "Was ist ein Bärenmarkt? Einfach erklärt",
- "description": "Ab wann spricht man von einem Bärenmarkt, wie entsteht er , und was unterscheidet ihn von einer Korrektur?",
- "section": "glossar",
- "date": "2026-11-21T07:57:38+01:00",
- "image": "/images/glossar-baerenmarkt.jpg",
- "sources": [
-  {
-   "title": "Sparkasse: Bärenmarkt – Wenn die Kurse an der Börse fallen",
-   "url": "https://www.sparkasse.de/pk/ratgeber/finanzplanung/investieren/in-wertpapiere-investieren/baerenmarkt.html"
-  }
- ],
- "body": "<p>Ein Bärenmarkt , auch Baisse genannt , ist eine Phase, in der die Kurse über einen längeren Zeitraum insgesamt fallen. Als häufig verwendeter Richtwert gilt ein Rückgang von mindestens 20 Prozent vom letzten Höchststand, zum Teil mit der Zusatzbedingung, dass sich das Minus innerhalb von etwa zwei Monaten eingestellt hat. Das Gegenstück ist der Bullenmarkt (Hausse), in dem die Kurse steigen. Die Dauer und Abgrenzung solcher Phasen hängt vom gewählten Markt und Zeitraum ab.</p><h2>Abgrenzung zur Korrektur</h2><p>Von einer Korrektur spricht man üblicherweise ab einem Rückgang von rund zehn Prozent. Der Bärenmarkt beginnt der Faustregel nach bei 20 Prozent. Wichtig ist, ob ein Vergleich Intraday-Stände oder Schlusskurse verwendet und welches Hoch als Basis dient. Der Begriff beschreibt einen Rückgang, keine sichere Prognose.</p><h2>Woran man einen Bärenmarkt erkennt</h2><p>Neben dem starken Preisrückgang nennt die Sparkasse typische Merkmale: Der Rückgang betrifft breite Teile des Marktes, nicht nur einzelne Aktien oder Branchen. Die Schwankungen nehmen zu, Pessimismus und negative Wirtschaftsnachrichten verstärken sich gegenseitig , viele Anleger verkaufen, wodurch die Kurse weiter fallen. Auslöser können Konjunkturabschwünge, politische Unsicherheiten oder Änderungen der Wirtschaftspolitik sein; die Ursachen sind selten eindeutig.</p><h2>Was das für dich bedeutet</h2><p>Auch breite Streuung garantiert weder eine Erholung noch einen Gewinn. Einzelne Märkte können sehr lange unter früheren Höchstständen bleiben. Ein Anlagehorizont, der eigene Liquiditätsbedarf und die Tragbarkeit von Verlusten sind deshalb getrennt vom Etikett Bärenmarkt zu prüfen. Allgemeine historische Beobachtungen ersetzen keine individuelle Beratung. Zum Vorstadium liest du im Glossar die Erklärung der Börsenkorrektur.</p>",
- "faq": [
-  {
-   "q": "Ab wann spricht man von einem Bärenmarkt?",
-   "a": "Als Richtwert gilt ein Rückgang von mindestens 20 Prozent vom letzten Höchststand. Die genaue Definition variiert, und der Beginn lässt sich meist erst im Nachhinein bestimmen (Sparkasse)."
-  },
-  {
-   "q": "Was ist der Unterschied zwischen Korrektur und Bärenmarkt?",
-   "a": "Eine Korrektur bezeichnet einen Rückgang von etwa zehn Prozent vom Hoch, ein Bärenmarkt einen Rückgang von 20 Prozent oder mehr. Beide Schwellen sind Faustregeln (Sparkasse)."
-  }
- ]
+  "slug": "glossar-baerenmarkt",
+  "title": "Was ist ein Bärenmarkt? Einfach erklärt",
+  "description": "Ab wann spricht man von einem Bärenmarkt, wie entsteht er , und was unterscheidet ihn von einer Korrektur?",
+  "section": "glossar",
+  "date": "2026-11-21T08:17:04+01:00",
+  "image": "/images/glossar-baerenmarkt.jpg",
+  "sources": [
+    {
+      "title": "Sparkasse: Bärenmarkt – Wenn die Kurse an der Börse fallen",
+      "url": "https://www.sparkasse.de/pk/ratgeber/finanzplanung/investieren/in-wertpapiere-investieren/baerenmarkt.html"
+    }
+  ],
+  "body": "<p>Ein Bärenmarkt , auch Baisse genannt , ist eine Phase, in der die Kurse über einen längeren Zeitraum insgesamt fallen. Als häufig verwendeter Richtwert gilt ein Rückgang von mindestens 20 Prozent vom letzten Höchststand, zum Teil mit der Zusatzbedingung, dass sich das Minus innerhalb von etwa zwei Monaten eingestellt hat. Das Gegenstück ist der Bullenmarkt (Hausse), in dem die Kurse steigen. Die Dauer und Abgrenzung solcher Phasen hängt vom gewählten Markt und Zeitraum ab.</p><h2>Abgrenzung zur Korrektur</h2><p>Von einer Korrektur spricht man üblicherweise ab einem Rückgang von rund zehn Prozent. Der Bärenmarkt beginnt der Faustregel nach bei 20 Prozent. Wichtig ist, ob ein Vergleich Intraday-Stände oder Schlusskurse verwendet und welches Hoch als Basis dient. Der Begriff beschreibt einen Rückgang, keine sichere Prognose.</p><h2>Woran man einen Bärenmarkt erkennt</h2><p>Neben dem starken Preisrückgang nennt die Sparkasse typische Merkmale: Der Rückgang betrifft breite Teile des Marktes, nicht nur einzelne Aktien oder Branchen. Die Schwankungen nehmen zu, Pessimismus und negative Wirtschaftsnachrichten verstärken sich gegenseitig , viele Anleger verkaufen, wodurch die Kurse weiter fallen. Auslöser können Konjunkturabschwünge, politische Unsicherheiten oder Änderungen der Wirtschaftspolitik sein; die Ursachen sind selten eindeutig.</p><h2>Was das für dich bedeutet</h2><p>Auch breite Streuung garantiert weder eine Erholung noch einen Gewinn. Einzelne Märkte können sehr lange unter früheren Höchstständen bleiben. Ein Anlagehorizont, der eigene Liquiditätsbedarf und die Tragbarkeit von Verlusten sind deshalb getrennt vom Etikett Bärenmarkt zu prüfen. Allgemeine historische Beobachtungen ersetzen keine individuelle Beratung. Zum Vorstadium liest du im Glossar die Erklärung der Börsenkorrektur.</p>",
+  "faq": [
+    {
+      "q": "Ab wann spricht man von einem Bärenmarkt?",
+      "a": "Als Richtwert gilt ein Rückgang von mindestens 20 Prozent vom letzten Höchststand. Die genaue Definition variiert, und der Beginn lässt sich meist erst im Nachhinein bestimmen (Sparkasse)."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Korrektur und Bärenmarkt?",
+      "a": "Eine Korrektur bezeichnet einen Rückgang von etwa zehn Prozent vom Hoch, ein Bärenmarkt einen Rückgang von 20 Prozent oder mehr. Beide Schwellen sind Faustregeln (Sparkasse)."
+    }
+  ]
 }

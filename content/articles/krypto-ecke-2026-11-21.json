@@ -1,29 +1,29 @@
 {
- "slug": "krypto-ecke-2026-11-21",
- "title": "Krypto-Ecke: Bitcoin schwankt um sein Sommertief",
- "description": "Bitcoin liegt laut CoinGecko am Samstagmorgen nahe 57.700 Dollar. Der Abstand zum berichteten Sommertief ist klein und zeitabhängig.",
- "section": "krypto",
- "date": "2026-11-21T07:57:38+01:00",
- "image": "/images/krypto-ecke-2026-11-21.jpg",
- "sources": [
-  {
-   "title": "CoinGecko API, Datenstand 21. November 2026 07:55:48 MEZ",
-   "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true&include_last_updated_at=true"
-  },
-  {
-   "title": "CoinDesk: Bitcoin fällt unter 59.000 Dollar (20. November 2026)",
-   "url": "https://www.coindesk.com/de/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
-  }
- ],
- "body": "<p>Bitcoin schwankt am Samstagmorgen nahe dem von CoinDesk berichteten Juni-/Juli-Tief von 57.700 US-Dollar. Der von uns erneut abgefragte CoinGecko-Datensatz weist mit Aktualisierungsstand 21. November, 07:55:48 Uhr MEZ, 57.704 US-Dollar beziehungsweise 52.599 Euro aus. Die 24-Stunden-Veränderung beträgt auf Dollarbasis minus 6,9 Prozent. Damit liegt dieser einzelne Stand knapp über, nicht unter der genannten Sommermarke. Ein früherer Redaktionsabruf um 07:50 Uhr hatte noch 57.549 Dollar gezeigt. Die Überschreitung einer so nahen Schwelle ist keine dauerhafte Zustandsbeschreibung.</p><p>Im selben CoinGecko-Datensatz stehen Ethereum bei 1.639,20 Dollar (1.494,19 Euro; minus 6,2 Prozent in 24 Stunden auf Dollarbasis) und Solana bei 68,15 Dollar (62,12 Euro; minus 6,4 Prozent). Kryptomärkte handeln auch am Wochenende, alle Werte sind zeitgebundene Momentaufnahmen.</p><h2>Liquidationen verstärken die Bewegung</h2><p>CoinDesk berichtete am Freitag unter Berufung auf CoinGlass von rund 1,5 Milliarden Dollar liquidierten Krypto-Derivatepositionen innerhalb der damals vergangenen 24 Stunden. Das ist kein Kalendertageswert für den gesamten Freitag. In solchen Phasen können automatische Schließungen gehebelter Positionen weitere Verkäufe auslösen. Der Bericht beschrieb zugleich Risikoabbau bei Technologieaktien und Gold; ein gemeinsamer Verlauf belegt aber keine feste Kausalbeziehung.</p><h2>Was die Momentaufnahme nicht sagt</h2><p>Ein Kurs knapp ober- oder unterhalb eines früheren Tiefs beweist keinen bevorstehenden Wendepunkt. Bei Kryptowährungen bestehen hohe Schwankungs- und Verlustrisiken, bei Hebelpositionen zusätzlich Liquidationsrisiken. Die Angaben sind Marktinformationen, keine individuelle Kauf- oder Verkaufsempfehlung.</p>",
- "faq": [
-  {
-   "q": "Liegt Bitcoin unter dem Sommertief?",
-   "a": "Nicht beim hier erneut geprüften CoinGecko-Stand von 07:55:48 Uhr MEZ: 57.704 Dollar liegen knapp über der von CoinDesk genannten Marke von 57.700 Dollar. Ein früherer Abruf hatte darunter gelegen. Der Vergleich ist zeitabhängig."
-  },
-  {
-   "q": "Wie standen Ethereum und Solana?",
-   "a": "CoinGecko meldete mit Datenstand 21. November 2026, 07:55:48 Uhr MEZ, 1.639,20 Dollar für Ethereum und 68,15 Dollar für Solana, minus 6,2 beziehungsweise 6,4 Prozent in 24 Stunden auf Dollarbasis."
-  }
- ]
+  "slug": "krypto-ecke-2026-11-21",
+  "title": "Krypto-Ecke: Bitcoin schwankt um sein Sommertief",
+  "description": "Bitcoin liegt laut CoinGecko am Samstagmorgen nahe 57.700 Dollar. Der Abstand zum berichteten Sommertief ist klein und zeitabhängig.",
+  "section": "krypto",
+  "date": "2026-11-21T08:17:04+01:00",
+  "image": "/images/krypto-ecke-2026-11-21.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko API, Datenstand 21. November 2026 07:55:48 MEZ",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd,eur&include_24hr_change=true&include_last_updated_at=true"
+    },
+    {
+      "title": "CoinDesk: Bitcoin fällt unter 59.000 Dollar (20. November 2026)",
+      "url": "https://www.coindesk.com/de/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+    }
+  ],
+  "body": "<p>Bitcoin schwankt am Samstagmorgen nahe dem von CoinDesk berichteten Juni-/Juli-Tief von 57.700 US-Dollar. Der von uns erneut abgefragte CoinGecko-Datensatz weist mit Aktualisierungsstand 21. November, 07:55:48 Uhr MEZ, 57.704 US-Dollar beziehungsweise 52.599 Euro aus. Die 24-Stunden-Veränderung beträgt auf Dollarbasis minus 6,9 Prozent. Damit liegt dieser einzelne Stand knapp über, nicht unter der genannten Sommermarke. Ein früherer Redaktionsabruf um 07:50 Uhr hatte noch 57.549 Dollar gezeigt. Die Überschreitung einer so nahen Schwelle ist keine dauerhafte Zustandsbeschreibung.</p><p>Im selben CoinGecko-Datensatz stehen Ethereum bei 1.639,20 Dollar (1.494,19 Euro; minus 6,2 Prozent in 24 Stunden auf Dollarbasis) und Solana bei 68,15 Dollar (62,12 Euro; minus 6,4 Prozent). Kryptomärkte handeln auch am Wochenende, alle Werte sind zeitgebundene Momentaufnahmen.</p><h2>Liquidationen verstärken die Bewegung</h2><p>CoinDesk berichtete am Freitag unter Berufung auf CoinGlass von rund 1,5 Milliarden Dollar liquidierten Krypto-Derivatepositionen innerhalb der damals vergangenen 24 Stunden. Das ist kein Kalendertageswert für den gesamten Freitag. In solchen Phasen können automatische Schließungen gehebelter Positionen weitere Verkäufe auslösen. Der Bericht beschrieb zugleich Risikoabbau bei Technologieaktien und Gold; ein gemeinsamer Verlauf belegt aber keine feste Kausalbeziehung.</p><h2>Was die Momentaufnahme nicht sagt</h2><p>Ein Kurs knapp ober- oder unterhalb eines früheren Tiefs beweist keinen bevorstehenden Wendepunkt. Bei Kryptowährungen bestehen hohe Schwankungs- und Verlustrisiken, bei Hebelpositionen zusätzlich Liquidationsrisiken. Die Angaben sind Marktinformationen, keine individuelle Kauf- oder Verkaufsempfehlung.</p>",
+  "faq": [
+    {
+      "q": "Liegt Bitcoin unter dem Sommertief?",
+      "a": "Nicht beim hier erneut geprüften CoinGecko-Stand von 07:55:48 Uhr MEZ: 57.704 Dollar liegen knapp über der von CoinDesk genannten Marke von 57.700 Dollar. Ein früherer Abruf hatte darunter gelegen. Der Vergleich ist zeitabhängig."
+    },
+    {
+      "q": "Wie standen Ethereum und Solana?",
+      "a": "CoinGecko meldete mit Datenstand 21. November 2026, 07:55:48 Uhr MEZ, 1.639,20 Dollar für Ethereum und 68,15 Dollar für Solana, minus 6,2 beziehungsweise 6,4 Prozent in 24 Stunden auf Dollarbasis."
+    }
+  ]
 }
