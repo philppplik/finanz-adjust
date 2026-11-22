@@ -1,5 +1,6 @@
 import json,os,re,shutil,subprocess,glob
 import newsletter_fa
+from rss_editorial import editorial_feed_articles
 from common import *
 from news_media import permitted_news, source_badge, news_cards
 from news_policy import destination
@@ -339,7 +340,7 @@ def _article_image(a):
 recent=[a for a in ARTS if (NOW-adate(a).astimezone()).total_seconds()<172800]
 news_sm='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join('<url><loc>%s/artikel/%s/</loc><news:news><news:publication><news:name>finanz adjust</news:name><news:language>de</news:language></news:publication><news:publication_date>%s</news:publication_date><news:title>%s</news:title></news:news><image:image><image:loc>%s</image:loc><image:title>%s</image:title></image:image></url>'%(BASE,a['slug'],pubdate(a),esc(a['title']),_article_image(a),esc(a['title'])) for a in recent)+'</urlset>'
 open(OUT+'/news-sitemap.xml','w').write(news_sm)
-items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artikel/%s/</guid><description>%s</description><pubDate>%s</pubDate><media:content url="%s" medium="image"/></item>'%(esc(a['title']),BASE,a['slug'],BASE,a['slug'],esc(a.get('description','')),email.utils.format_datetime(adate(a).astimezone()),_article_image(a)) for a in ARTS[:20])
+items=''.join('<item><title>%s</title><link>%s/artikel/%s/</link><guid>%s/artikel/%s/</guid><description>%s</description><pubDate>%s</pubDate><media:content url="%s" medium="image"/></item>'%(esc(a['title']),BASE,a['slug'],BASE,a['slug'],esc(a.get('description','')),email.utils.format_datetime(adate(a).astimezone()),_article_image(a)) for a in editorial_feed_articles(ARTS, adate, NOW))
 items+=''.join('<item><title>%s</title><link>%s</link><guid>%s</guid><description>%s</description><pubDate>%s</pubDate></item>'%(esc(i['title']),esc(i['url']),esc(i['url']),'',email.utils.format_datetime(datetime.datetime.fromtimestamp(i['ts']).astimezone())) for i in _feed_diverse(N,60) if i.get('ts'))
 open(OUT+'/feed.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>finanz adjust</title><link>%s</link><description>Artikel der FA Redaktion und aggregierte Börsennews</description><language>de</language>%s</channel></rss>'%(BASE,items))
 # llms.txt: optionaler Inhaltsindex nach dem llmstxt.org-Vorschlag, kein Wirkungsversprechen.
