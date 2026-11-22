@@ -1,0 +1,34 @@
+{
+  "slug": "wochenrueckblick-2026-11-22",
+  "title": "Die Woche in Zahlen: DAX minus 7,28 Prozent, Dow schwächste Woche seit März 2020",
+  "description": "Der Wochenrückblick: DAX mit größtem Wochenverlust seit April 2025, Dow mit schlechtester Woche seit März 2020 – und ein Rekord-Börsengang mittendrin.",
+  "section": "markt",
+  "date": "2026-11-22T08:00:00+01:00",
+  "image": "/images/wochenrueckblick-2026-11-22.jpg",
+  "sources": [
+    {
+      "title": "Morningstar/Dow Jones Market Data: DAX Ends the Week 7.28% Lower at 24802.78 (20. November 2026)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611206112/dax-ends-the-week-728-lower-at-2480278-data-talk"
+    },
+    {
+      "title": "CNBC: S&P 500 and Dow close in correction (20. November 2026)",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "WirtschaftsWoche: Nasdaq mit stärkstem Wochenverlust seit März 2020 (20. November 2026, 23:15 Uhr)",
+      "url": "https://www.wiwo.de/finanzen/boerse/dow-jones-nasdaq-nasdaq-mit-staerkstem-wochenverlust-seit-maerz-2020/100271639.html"
+    }
+  ],
+  "body": "<p>Die Börsenwoche vom 16. bis 20. November geht als eine der schwersten seit Jahren in die Kurse ein. Der DAX verlor auf Schlusskursbasis 7,28 Prozent: Vom Stand von 26.749,95 Punkten am Freitag zuvor ging es auf 24.802,78 Zähler zum Wochenschluss, wie Dow Jones Market Data berechnete. Das ist der größte prozentuale Wochenverlust seit der Woche zum 4. April 2025 und der größte Punktverlust seit der Woche zum 13. März 2020. Noch am 12. November hatte der Index mit 26.771,88 Punkten seinen Rekordschluss markiert; am Freitag stand der tiefste Schluss seit dem 23. Juli. Seit Jahresbeginn hält der DAX damit nur noch ein Plus von 1,28 Prozent.</p><h2>Wall Street: drei Indizes, drei Vergleichszeiträume</h2><p>In den USA verlor der Dow Jones auf Wochensicht acht Prozent, der S&P 500 8,6 Prozent und der Nasdaq rund zehn Prozent, wie CNBC zusammenfasste. Die Einordnung fällt je nach Index unterschiedlich aus: Für den Dow war es die schwächste Woche seit März 2020, für den S&P 500 die schwächste seit April 2025. Dow und S&P 500 schlossen mehr als zehn Prozent unter ihren Rekordschlüssen, formal eine Korrektur. Der Nasdaq 100 erreichte am Freitag während des Handels zeitweise einen Abstand von 20 Prozent zu seinem Hoch – eine Intraday-Beobachtung, kein bestätigter Schlusskurs-Bärenmarkt.</p><h2>Der Rekord-Börsengang mitten im Crash</h2><p>Mitten in die Verkaufswoche fiel ein Rekord-Börsengang: Anthropic ging am Donnerstag zu 83 US-Dollar je Aktie an die Nasdaq und legte am ersten Handelstag laut CNBC um 17 Prozent zu. Den zweiten Handelstag am Freitag schloss die Aktie bei 88,91 US-Dollar – 8,5 Prozent unter dem ersten Schlusskurs, aber noch 7,1 Prozent über dem Ausgabepreis. Zeitweise rutschte die Aktie laut Bitcoin News bis auf 83,05 US-Dollar, fünf Cent über dem Ausgabepreis.</p><h2>Was das für dich bedeutet</h2><p>Wochen wie diese zeigen, wie schnell sich Gewinne eines ganzen Jahres auflösen können – und warum Vergleichszeiträume beim Lesen von Schlagzeilen zählen: „Schlechteste Woche seit März 2020“ und „seit April 2025“ können je nach Index beide stimmen. Aus einer einzelnen Woche lässt sich weder ein Tiefpunkt noch die nächste Richtung ableiten.</p>",
+  "faq": [
+    {
+      "q": "Wie viel hat der DAX diese Woche verloren?",
+      "a": "Auf Schlusskursbasis 7,28 Prozent: von 26.749,95 Punkten am 13. November auf 24.802,78 Punkte am 20. November 2026 – der größte prozentuale Wochenverlust seit Anfang April 2025 (Dow Jones Market Data)."
+    },
+    {
+      "q": "Wie schlecht war die Woche an der Wall Street?",
+      "a": "Der Dow verlor acht Prozent (schwächste Woche seit März 2020), der S&P 500 8,6 Prozent (schwächste seit April 2025), der Nasdaq rund zehn Prozent (CNBC, 20. November 2026)."
+    }
+  ],
+  "image_caption": "Symbolgrafik - keine dokumentarische Aufnahme."
+}

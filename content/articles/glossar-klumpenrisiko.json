@@ -1,0 +1,26 @@
+{
+  "slug": "glossar-klumpenrisiko",
+  "title": "Was ist ein Klumpenrisiko? Einfach erklärt",
+  "description": "Klumpenrisiko bedeutet: zu viel Geld hängt an einer einzelnen Anlage, Branche oder Region. Warum das gefährlich ist und wie echte Streuung aussieht.",
+  "section": "glossar",
+  "date": "2026-11-22T08:00:00+01:00",
+  "image": "/images/glossar-klumpenrisiko.jpg",
+  "sources": [
+    {
+      "title": "Sparkasse KölnBonn: Diversifizierung – Risikostreuung einfach erklärt",
+      "url": "https://www.sparkasse-koelnbonn.de/de/home/ihre-sparkasse/blog/diversifizierung.html"
+    }
+  ],
+  "body": "<p>Ein Klumpenrisiko entsteht, wenn ein großer Teil des angelegten Geldes an einer einzelnen Anlage, einem Unternehmen, einer Branche oder einer Region hängt. Geht es mit genau dieser Position bergab, trifft der Verlust das gesamte Depot mit voller Wucht. Das Gegenmittel ist die Diversifikation, also die Streuung des Risikos über verschiedene Anlagen.</p><h2>Zwei Risikoarten unterscheiden</h2><p>Die Sparkasse unterscheidet zwei Risikoarten: Das individuelle Risiko hängt am einzelnen Unternehmen – etwa schlechte Unternehmensführung, ein Rechtsstreit oder ein Konkurrent, der das Unternehmen verdrängt. Dieses Risiko lässt sich durch Streuung deutlich verringern: Wer zum Beispiel über einen ETF in 1.000 Unternehmen investiert ist, bei dem hat die Kursentwicklung einer einzelnen Aktie weniger Einfluss auf das Depot. Das systemische Marktrisiko dagegen betrifft ganze Märkte: In Krisen wie der Finanzkrise 2008 oder der Corona-Pandemie 2020 sind Märkte gleichzeitig gefallen. Dieses Risiko lässt sich nicht ausschalten, nur abmildern.</p><h2>Typische Klumpen im Depot</h2><p>Zu den häufigsten Fehlern zählt die Scheinstreuung: Mehrere Fonds, die denselben Index abbilden oder sich stark überschneiden, streuen das Risiko nicht wirklich. Ein zweiter Klassiker ist der Home Bias – die Neigung, vor allem in das eigene Land zu investieren, weil man es zu kennen glaubt. Der deutsche Aktienmarkt macht aber weniger als drei Prozent des Weltmarktes aus; wer nur heimische Titel hält, baut eine geografische Klumpenbildung auf. Nach derselben Logik ist auch ein hoher Anteil der Arbeitgeber-Aktie oder einer einzelnen Branche, etwa nur Technologiewerte, ein Klumpen.</p><h2>Was das für dich bedeutet</h2><p>Prüfe dein Depot nicht nur auf die Zahl der Positionen, sondern darauf, was dahintersteckt: Überschneiden sich die Fonds? Hängt alles an einer Branche oder einem Land? Wichtig ist auch die Reihenfolge: Bevor du investierst, sollte ein finanzieller Notgroschen vorhanden sein, damit du in einer Notlage nicht zu schlechten Kursen verkaufen musst. Mehr zur Streuung erklärt unser Glossar-Artikel zur Diversifikation.</p>",
+  "faq": [
+    {
+      "q": "Was bedeutet Klumpenrisiko an der Börse?",
+      "a": "Ein Klumpenrisiko liegt vor, wenn ein großer Anteil des Vermögens an einer einzelnen Anlage, Branche oder Region hängt. Verliert diese Position stark, trifft das das ganze Depot (Sparkasse)."
+    },
+    {
+      "q": "Wie vermeide ich ein Klumpenrisiko?",
+      "a": "Durch echte Streuung: über Anlageklassen, Branchen und Regionen hinweg – und ohne Überschneidungen zwischen den Anlagen. Auch der Blick außerhalb des Heimatlandes hilft gegen den sogenannten Home Bias (Sparkasse)."
+    }
+  ],
+  "image_caption": "Symbolgrafik - keine dokumentarische Aufnahme."
+}

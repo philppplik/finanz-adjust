@@ -1,0 +1,30 @@
+{
+  "slug": "angstbarometer-vix-2026-11-22",
+  "title": "Angstbarometer VIX: Was der Index über die Märkte verrät",
+  "description": "Der VIX schloss am Freitag bei 35,89 Punkten, so hoch wie seit April 2025 nicht. Wie der Index funktioniert – und was sein deutscher Bruder VDAX misst.",
+  "section": "einordnung",
+  "date": "2026-11-22T08:00:00+01:00",
+  "image": "/images/angstbarometer-vix-2026-11-22.jpg",
+  "sources": [
+    {
+      "title": "Cboe: VIX-Kurshistorie (Tageswerte, Stand 20. November 2026)",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv"
+    },
+    {
+      "title": "Deutsche Börse: VDAX (Börsenlexikon)",
+      "url": "https://www.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/VDAX-NEW-249358"
+    }
+  ],
+  "body": "<p>Im Ausverkauf vom Freitag sprang auch das bekannteste Angstbarometer der Wall Street nach oben: Der Volatilitätsindex VIX schloss am 20. November bei 35,89 Punkten, nach 28,44 am Donnerstag und 19,30 eine Woche zuvor. Im Handel stieg er bis auf 40,03 Punkte, wie die Kurshistorie der Cboe zeigt. Es war der höchste Schlusskurs seit dem 11. April 2025 und der erste Schluss über der Marke von 30 seit dem 30. März 2026 – eine Marke, die viele Beobachter als Schwelle erhöhter Nervosität lesen.</p><h2>Was der VIX misst</h2><p>Der VIX misst keine Richtung, sondern eine Erwartung: Aus den Preisen von Optionen auf den US-Index S&P 500 wird berechnet, wie stark die Märkte die Schwankungen der kommenden 30 Tage einschätzen. Steigt die Unsicherheit, werden Absicherungen über Optionen teurer – und der Index steigt. Deshalb wird er „Angstbarometer“ genannt: Hohe Werte signalisieren, dass sich viele Marktteilnehmer gegen Turbulenzen absichern wollen.</p><h2>Der deutsche Bruder: VDAX</h2><p>Für den DAX übernimmt dieselbe Aufgabe der VDAX. Er gibt in Prozentpunkten an, welche Schwankungsbreite der Terminmarkt für die kommenden 30 Tage erwartet, erklärt die Deutsche Börse in ihrem Börsenlexikon. Grundlage sind die Preise von DAX-Optionen. Die Deutsche Börse beschreibt zudem den typischen Zusammenhang: Volatilität und Kursentwicklung laufen meist gegenläufig – brechen die Kurse ein, steigt der Volatilitätsindex.</p><h2>Was das für dich bedeutet</h2><p>Ein hoher VIX ist ein Stimmungsmesser, keine Prognose: Er sagt, wie nervös der Markt gerade ist, nicht wohin die Kurse laufen. Auch die Marke von 30 ist eine Faustregel, keine Naturkonstante. Für langfristige Anleger ist der Index vor allem nützlich, um Marktphasen einzuordnen – nicht, um einzelne Kauf- oder Verkaufszeitpunkte daraus abzuleiten.</p>",
+  "faq": [
+    {
+      "q": "Wie hoch war der VIX am Freitag?",
+      "a": "Am Freitag, 20. November 2026, schloss er bei 35,89 Punkten und erreichte im Handel 40,03 (Cboe). Das ist der höchste Schlusskurs seit dem 11. April 2025; zuletzt über 30 geschlossen hatte er am 30. März 2026."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen VIX und VDAX?",
+      "a": "Beide messen die erwartete Schwankungsbreite der nächsten 30 Tage aus Optionspreisen – der VIX für den S&P 500, der VDAX für den DAX (Deutsche Börse)."
+    }
+  ],
+  "image_caption": "Symbolgrafik - keine dokumentarische Aufnahme."
+}

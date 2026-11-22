@@ -1,0 +1,34 @@
+{
+  "slug": "krypto-ecke-2026-11-22",
+  "title": "Krypto-Ecke am Sonntag: Bitcoin erholt sich nach Zweijahrestief",
+  "description": "Bitcoin fiel in der Nacht zum Samstag auf den tiefsten Stand seit September 2024 und dreht am Sonntagmorgen wieder nach oben.",
+  "section": "krypto",
+  "date": "2026-11-22T08:00:00+01:00",
+  "image": "/images/krypto-ecke-2026-11-22.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko – aktuelle Kryptowährungskurse (abgerufen am 22. November 2026, 7:50 Uhr)",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "title": "Bitcoin News: Nvidia minus 14 Prozent – KI-Crash reißt Bitcoin auf Tief seit 2024 (21. November 2026)",
+      "url": "https://news.bitcoin.com/de/market-updates/bitcoin-unter-59000-dollar-zwangsverkaeufe-ueber-15-mrd-dollar/"
+    },
+    {
+      "title": "CoinDesk: Bitcoin fällt erstmals seit zwei Jahren unter 57.000 USD (21. November 2026)",
+      "url": "https://www.coindesk.com/de/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+    }
+  ],
+  "body": "<p>Nach dem tiefsten Stand seit mehr als zwei Jahren hat Bitcoin am Sonntagmorgen wieder Boden gutgemacht. Gegen 7:50 Uhr notierte die größte Digitalwährung bei rund 59.084 US-Dollar (53.870 Euro), wie Daten von CoinGecko zeigen – ein Plus von rund 2,7 Prozent auf 24-Stunden-Sicht in US-Dollar. Ethereum lag bei etwa 1.661 US-Dollar (1.515 Euro, plus 1,5 Prozent), Solana bei gut 69 US-Dollar (63 Euro, plus 1,5 Prozent).</p><h2>Was am Wochenende passiert ist</h2><p>Der Erholung war ein scharfer Einbruch vorausgegangen: Am Freitag fiel Bitcoin an der Börse Coinbase bis auf 57.655 US-Dollar und rutschte in der Nacht zum Samstag weiter auf 55.106 US-Dollar, den tiefsten Stand seit September 2024, wie Bitcoin News berichtete. CoinDesk spricht von einem Zweijahrestief unter 57.000 US-Dollar. CoinDesk beziffert das Minus im laufenden Quartal auf 28 Prozent und verweist auf das Hoch von über 126.000 US-Dollar im Oktober des Vorjahres; seit Jahresbeginn sind es laut Bitcoin News etwa 35 Prozent. Binnen 24 Stunden wurden gehebelte Krypto-Positionen im Wert von rund 2,45 Milliarden US-Dollar zwangsweise aufgelöst, knapp die Hälfte davon auf Bitcoin entfallend.</p><h2>Warum es am Wochenende besonders schnell ging</h2><p>Am Wochenende sind klassische Börsen und die US-Bitcoin-ETFs geschlossen; in dünner besetzten Orderbüchern treffen Zwangsverkäufe auf weniger Käufer, was Kettenreaktionen beschleunigen kann. Als Treiber des gesamten Abverkaufs nennt CoinDesk unter Berufung auf Analysten steigende inflationsbereinigte Renditen von US-Staatsanleihen und den restriktiveren Kurs der US-Notenbank – beides macht verzinsliche Anlagen im Vergleich zu Bitcoin attraktiver.</p><h2>Was das für dich bedeutet</h2><p>Ob die Erholung hält, zeigt sich erst, wenn zu Wochenbeginn die klassischen Märkte und US-Bitcoin-ETFs wieder handeln – in welche Richtung es geht, ist offen. Der Market Maker Wintermute will seinen vorsichtigen Ausblick erst überdenken, wenn Bitcoin auf Tagesschlussbasis über den Bereich von 68.000 US-Dollar zurückkehrt und zugleich wieder Geld in die ETFs fließt, zitiert Bitcoin News. Die hier genannten Kurse beziehen sich auf den Abrufzeitpunkt am Sonntagmorgen; Kryptobörsen handeln rund um die Uhr.</p>",
+  "faq": [
+    {
+      "q": "Wie tief ist Bitcoin am Wochenende gefallen?",
+      "a": "In der Nacht zum Samstag, 21. November, bis auf 55.106 US-Dollar an der Börse Coinbase – den tiefsten Stand seit September 2024 (Bitcoin News). Am Sonntagmorgen lag der Kurs wieder bei rund 59.084 US-Dollar (CoinGecko, 7:50 Uhr)."
+    },
+    {
+      "q": "Wie groß sind die Verluste in diesem Jahr?",
+      "a": "Im laufenden Quartal verlor Bitcoin laut CoinDesk 28 Prozent; seit Jahresbeginn sind es etwa 35 Prozent (Bitcoin News, 21. November 2026). Das Hoch von über 126.000 US-Dollar liegt im Oktober des Vorjahres."
+    }
+  ],
+  "image_caption": "Symbolgrafik - keine dokumentarische Aufnahme."
+}
