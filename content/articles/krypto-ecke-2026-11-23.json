@@ -1,0 +1,29 @@
+{
+  "slug": "krypto-ecke-2026-11-23",
+  "title": "Krypto-Ecke am Montag: Bitcoin springt zurück über 61.000 Dollar",
+  "description": "Nach dem Zweijahrestief vom Wochenende erholt sich Bitcoin deutlich. Am Montagmorgen notiert er rund 11 Prozent über dem Samstagstief.",
+  "section": "krypto",
+  "date": "2026-11-23T08:09:00+01:00",
+  "image": "/images/krypto-ecke-2026-11-23.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko – aktuelle Kryptowährungskurse (abgerufen am 23. November 2026, 7:52 Uhr)",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "title": "Bitcoin News: Nvidia minus 14 Prozent – KI-Crash reißt Bitcoin auf Tief seit 2024 (21. November 2026)",
+      "url": "https://news.bitcoin.com/de/market-updates/bitcoin-unter-59000-dollar-zwangsverkaeufe-ueber-15-mrd-dollar/"
+    }
+  ],
+  "body": "<p>Bitcoin hat den Rückwärtsgang des Wochenendes vorerst gestoppt. Am Montagmorgen notierte die größte Digitalwährung gegen 7:52 Uhr bei rund 61.386 US-Dollar (55.803 Euro), laut dem CoinGecko-Abruf um 7:52 Uhr; die gelieferten Datenstände lagen zwischen 7:51:10 und 7:51:22 Uhr MEZ: ein Plus von rund 3,9 Prozent auf 24-Stunden-Sicht in US-Dollar. Ethereum stieg um rund 3,6 Prozent auf etwa 1.721 US-Dollar (1.564 Euro), Solana um rund 4,0 Prozent auf knapp 72 US-Dollar (65 Euro).</p><h2>Vom Zweijahrestief zur Gegenbewegung</h2><p>Die Erholung folgt auf ein turbulentes Wochenende: In der Nacht zum Samstag war Bitcoin an der Börse Coinbase bis auf 55.106 US-Dollar gefallen, den tiefsten Stand seit September 2024, wie Bitcoin News berichtete. Vom dortigen Tief aus gerechnet liegt der Kurs am Montagmorgen wieder rund 11 Prozent höher. In den 24 Stunden bis Samstagmorgen, 21. November, waren laut dem damaligen Bericht gehebelte Positionen im Wert von rund 2,45 Milliarden US-Dollar zwangsweise aufgelöst worden. eine Kettenreaktion durch gehebelte Positionen.</p><h2>Entscheidend ist der Wochenstart an den klassischen Börsen</h2><p>Ob aus der Gegenbewegung mehr wird, dürfte sich zeigen, wenn die US-Märkte und die dortigen Bitcoin-ETFs am Montag wieder öffnen. Der Market Maker Wintermute will seinen vorsichtigen Ausblick nach dem Bericht von Bitcoin News erst überdenken, wenn Bitcoin auf Tagesschlussbasis über den Bereich von 68.000 US-Dollar zurückkehrt und zugleich wieder Geld in die ETFs fließt. Seit Jahresbeginn liegt die Digitalwährung trotz der jüngsten Erholung noch deutlich im Minus.</p><h2>Was das für dich bedeutet</h2><p>Starke Ausschläge in beide Richtungen gehören bei Kryptowährungen zum Normalfall. besonders nach Wochenenden mit Zwangsverkäufen. Die genannten Kurse beziehen sich auf den Abrufzeitpunkt am Montagmorgen; Kryptobörsen handeln rund um die Uhr, die Werte können sich jederzeit wieder ändern.</p>",
+  "faq": [
+    {
+      "q": "Wie steht Bitcoin am Montagmorgen?",
+      "a": "Am 23. November 2026 notierte Bitcoin gegen 7:52 Uhr bei rund 61.386 US-Dollar, ein Plus von rund 3,9 Prozent auf 24-Stunden-Sicht (CoinGecko). Vom Samstagstief bei 55.106 US-Dollar aus sind das rund 11 Prozent Erholung."
+    },
+    {
+      "q": "Warum schwankt Bitcoin gerade so stark?",
+      "a": "Der Bericht vom 21. November beschreibt Zwangsverkäufe gehebelter Positionen: rund 2,45 Milliarden US-Dollar in den 24 Stunden bis Samstagmorgen. Diese Zahl beschreibt nicht die jüngsten 24 Stunden am Montag; sie erklärt einen Teil des vorausgegangenen Kursrutsches (Bitcoin News)."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "glossar-rezession",
+  "title": "Was ist eine Rezession? Einfach erklärt",
+  "description": "Ab wann gilt eine Wirtschaft als rezessiv, was ist eine „technische Rezession“. und welche Folgen hat ein Abschwung?",
+  "section": "glossar",
+  "date": "2026-11-23T08:09:00+01:00",
+  "image": "/images/glossar-rezession.jpg",
+  "sources": [
+    {
+      "title": "Destatis: Das Bruttoinlandsprodukt im Konjunkturzyklus, Methodik (2009)",
+      "url": "https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2009/10/bruttoinlandsprodukt-konjunkturzyklus-102009.pdf?__blob=publicationFile&v=4"
+    },
+    {
+      "title": "Sparkasse: Rezession – Bedeutung und Folgen",
+      "url": "https://www.sparkasse.de/aktuelles/droht-eine-rezession.html"
+    }
+  ],
+  "body": "<p>Von einer Rezession spricht man, wenn die Wirtschaft eines Landes über einen längeren Zeitraum schrumpft. Die gängige Faustregel: Sinkt das preis-, saison- und kalenderbereinigte Bruttoinlandsprodukt in mindestens zwei aufeinanderfolgenden Quartalen jeweils gegenüber dem Vorquartal, gilt das als „technische Rezession“. Der Begriff kommt vom lateinischen „recessio“, zu Deutsch: Zurückweichen.</p><p>Gemeint ist hier der reale Quartalsvergleich, nicht der Vergleich mit demselben Quartal des Vorjahres. Die technische Faustregel allein erfasst zudem nicht, wie tief und wie breit ein Abschwung ausfällt. Dafür sind weitere Daten etwa zu Beschäftigung und Einkommen nötig.</p><h2>Wie es dazu kommt</h2><p>Die Ursachen können ganz unterschiedlich sein: Verbraucher, die weniger kaufen; Unternehmen, die Investitionen verschieben; oder äußere Ereignisse wie Naturkatastrophen oder Pandemien. Sinken Nachfrage, Produktion und Gewinne, wachsen die Lagerbestände, die Auftragslage verschlechtert sich, Arbeitslosigkeit und Kurzarbeit können steigen. und häufig fallen auch die Börsenkurse.</p><h2>Eine Phase von vieren</h2><p>Die Rezession ist eine von vier Phasen des Konjunkturzyklus: Auf den Aufschwung (Expansion) und die Hochphase (Boom) folgen der Abschwung (Rezession) und die Tiefphase (Depression). Ein Abschwung ist also nicht automatisch eine Krise, sondern gehört zum Wesen wirtschaftlicher Entwicklung. auch wenn er für Betroffene durchaus hart sein kann, etwa wenn Arbeitsplätze wegfallen oder Einnahmen sinken.</p><h2>Was das für dich bedeutet</h2><p>Rezessionen zeigen sich an der Börse oft früher als in den offiziellen Zahlen, weil Anleger auf Erwartungen reagieren. Umgekehrt kann die Börse wieder steigen, während die Konjunkturdaten noch schwach sind. Für die eigene Finanzplanung gilt: Ein Abschwung ist ein guter Anlass, Notgroschen und laufende Verpflichtungen zu prüfen. keine Anleitung, in Panik zu verkaufen. Zur Einordnung von Kursverlusten an der Börse liest du im Glossar mehr über Korrektur und Bärenmarkt.</p>",
+  "faq": [
+    {
+      "q": "Ab wann spricht man von einer Rezession?",
+      "a": "Bei der technischen Faustregel sinkt das reale, saison- und kalenderbereinigte BIP in mindestens zwei aufeinanderfolgenden Quartalen jeweils zum Vorquartal. Eine breite Rezessionsanalyse berücksichtigt weitere Indikatoren (Destatis)."
+    },
+    {
+      "q": "Ist eine Rezession dasselbe wie ein Bärenmarkt?",
+      "a": "Nein. Die Rezession beschreibt die schrumpfende Wirtschaft eines Landes, der Bärenmarkt fallende Börsenkurse (Faustregel: minus 20 Prozent vom Hoch). Beides kann zusammenfallen, muss aber nicht."
+    }
+  ]
+}

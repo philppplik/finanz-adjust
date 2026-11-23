@@ -1,0 +1,33 @@
+{
+  "slug": "pce-preisindex-2026-11-23",
+  "title": "Warum am Mittwoch alle auf den PCE-Index schauen",
+  "description": "Die US-Notenbank steuert nach einer Inflationskennzahl, die kaum jemand kennt: den PCE-Preisindex. Was ihn vom Verbraucherpreisindex unterscheidet.",
+  "section": "einordnung",
+  "date": "2026-11-23T08:09:00+01:00",
+  "image": "/images/pce-preisindex-2026-11-23.jpg",
+  "sources": [
+    {
+      "title": "Federal Reserve Bank of Atlanta: What Is PCE? Explaining the Fed's Preferred Inflation Measure (20. Mai 2026)",
+      "url": "https://www.atlantafed.org/what-we-study/inflation/2026/05/20/what-is-pce-explaining-the-feds-preferred-inflation-measure"
+    },
+    {
+      "title": "BEA: Veröffentlichungskalender 2026",
+      "url": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "title": "Federal Reserve: Sitzungskalender Dezember 2026",
+      "url": "https://www.federalreserve.gov/newsevents/2026-december.htm"
+    }
+  ],
+  "body": "<p>Für Mittwoch, 25. November 2026, sind laut BEA-Kalender der PCE-Preisindex für Oktober und die zweite Schätzung des US-Wirtschaftswachstums geplant, jeweils um 14:30 Uhr deutscher Zeit. PCE steht für „Personal Consumption Expenditures“, die persönlichen Konsumausgaben. Es ist die Kennzahl, nach der die US-Notenbank Fed ihre Zinspolitik ausrichtet. Zwei Wochen vor dem Fed-Zinsentscheid am 9. Dezember bekommt sie deshalb besonderes Gewicht.</p><h2>Warum die Fed den PCE dem CPI vorzieht</h2><p>Der bekanntere US-Verbraucherpreisindex (CPI) kommt vom Arbeitsmarktstatistikamt BLS, der PCE-Index vom Wirtschaftsanalyseamt BEA. Der entscheidende Unterschied liegt in den Gewichtungen: Der PCE aktualisiert monatlich, wie Verbraucher ihr Geld tatsächlich ausgeben. steigen die Preise für ein Produkt, erfasst er den Wechsel zu günstigeren Alternativen schneller. Der CPI aktualisiert seine Ausgabengewichte dagegen jährlich. Das bedeutet nicht, dass seine Preise nur jährlich gemessen werden: Beide Preisindizes erscheinen monatlich. Die Cleveland Fed hat drei Formelfaktoren identifiziert, warum der CPI tendenziell höhere Inflationsraten zeigt als der PCE; insgesamt gilt der PCE als das breitere Maß, wie die Notenbank von Atlanta erklärt.</p><h2>Seit 2012 offizieller Zielanker</h2><p>Informell nutzt die Fed den PCE-Index bereits seit etwa dem Jahr 2000; offiziell legte sie sich 2012 auf ein Inflationsziel von zwei Prozent gemessen am PCE fest. und hat das seither jedes Jahr bekräftigt, zuletzt im Januar in ihrer Grundsatzerklärung zur Geldpolitik.</p><h2>Was das für dich bedeutet</h2><p>Wenn US-Medien von „der Inflation“ schreiben, meinen sie oft den CPI. die Fed dagegen denkt in PCE. Bei den am Mittwoch erwarteten Zahlen lohnt daher der Blick auf beide Größen: Weicht der PCE deutlich von den Erwartungen ab, bewegt das die Zinserwartungen für Dezember. und damit Anleiherenditen, den Dollar und die Aktienmärkte weltweit.</p>",
+  "faq": [
+    {
+      "q": "Was ist der PCE-Preisindex?",
+      "a": "Ein monatlich vom US-Wirtschaftsanalyseamt BEA veröffentlichtes Inflationsmaß auf Basis der persönlichen Konsumausgaben. Die Fed nutzt ihn seit 2012 offiziell als Zielgröße für ihr Zweiprozent-Inflationsziel (Federal Reserve Bank of Atlanta)."
+    },
+    {
+      "q": "Woran unterscheiden sich PCE und CPI?",
+      "a": "Beim PCE werden Ausgabengewichte monatlich aktualisiert, beim CPI jährlich. Beide Preisindizes erscheinen monatlich. Die flexiblere Gewichtung hilft dem PCE, den Wechsel zu günstigeren Produkten schneller abzubilden. Daneben unterscheiden sich Umfang und Formeln; der CPI liegt tendenziell höher (Atlanta Fed)."
+    }
+  ]
+}
