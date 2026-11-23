@@ -1,5 +1,269 @@
 [
   {
+    "title": "DEUTSCHE BANK RESEARCH stuft Engie auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201181-deutsche-bank-research-stuft-engie-auf-buy-322.htm",
+    "ts": 1795424040.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681200+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DEUTSCHE BANK RESEARCH stuft ENEL auf 'Hold'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201182-deutsche-bank-research-stuft-enel-auf-hold-322.htm",
+    "ts": 1795424040.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681252+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DEUTSCHE BANK RESEARCH stuft RWE AG auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201183-deutsche-bank-research-stuft-rwe-ag-auf-buy-322.htm",
+    "ts": 1795424040.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681283+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Verkürzte Handelswoche: US-Futures springen an - DAX startet Erholung",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201172-verkuerzte-handelswoche-us-futures-springen-an-dax-startet-erholung-049.htm",
+    "ts": 1795423980.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681364+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DAX Prognose für Montag, 23.11.26 - Aktuelle Einschätzung und Chartanalyse",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201185-dax-prognose-fuer-montag-23-11-26-aktuelle-einschaetzung-und-chartanalyse-232.htm",
+    "ts": 1795423980.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681423+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Börse Aktuell: Technische Erholung nach dem KI-Crash und den Interventionen in Asien",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201186-boerse-aktuell-technische-erholung-nach-dem-ki-crash-und-den-interventionen-in-asien-232.htm",
+    "ts": 1795423920.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681438+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ANALYSE-FLASH: Deutsche Bank Research hebt Ziel für RWE auf 67 Euro - 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201162-analyse-flash-deutsche-bank-research-hebt-ziel-fuer-rwe-auf-67-euro-buy-016.htm",
+    "ts": 1795423740.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681564+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ANALYSE-FLASH: Deutsche Bank Research hebt Ziel für Eon auf 21 Euro - 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201163-analyse-flash-deutsche-bank-research-hebt-ziel-fuer-eon-auf-21-euro-buy-016.htm",
+    "ts": 1795423740.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681606+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ANALYSE-FLASH: Bernstein senkt Ziel für Hermes auf 1325 Euro - 'Outperform'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201164-analyse-flash-bernstein-senkt-ziel-fuer-hermes-auf-1325-euro-outperform-016.htm",
+    "ts": 1795423680.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681656+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Anthropic-Aktie auf Achterbahnfahrt: Warum ein Rekord-IPO noch keine Anlagequalität belegt",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201054-anthropic-aktie-auf-achterbahnfahrt-warum-ein-rekord-ipo-noch-keine-anlagequalitaet-belegt-503.htm",
+    "ts": 1795423560.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681670+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Warum Qualität an der Börse langfristig den Unterschied macht",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201055-warum-qualitaet-an-der-boerse-langfristig-den-unterschied-macht-503.htm",
+    "ts": 1795423560.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681686+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "2G Energy Aktie: Wenn der KI-Boom wackelt, wackelt auch der Kurs",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201037-2g-energy-aktie-wenn-der-ki-boom-wackelt-wackelt-auch-der-kurs-424.htm",
+    "ts": 1795423500.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681701+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Meta Platforms Aktie: Abwärtsdynamik nimmt zu",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201038-meta-platforms-aktie-abwaertsdynamik-nimmt-zu-424.htm",
+    "ts": 1795423500.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681715+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DAX: Tiefrote Wochenbilanz",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201039-dax-tiefrote-wochenbilanz-424.htm",
+    "ts": 1795423500.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
+    "captured_at": "2026-11-23T09:02:52.681725+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "DEUTSCHE BANK RESEARCH stuft EON AG auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201002-deutsche-bank-research-stuft-eon-ag-auf-buy-322.htm",
+    "ts": 1795423320.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-analysen",
+    "captured_at": "2026-11-23T09:02:53.212885+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ÜBERBLICK am Morgen/Konjunktur, Zentralbanken, Politik",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200812-ueberblick-am-morgen-konjunktur-zentralbanken-politik-015.htm",
+    "ts": 1795422780.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur",
+    "captured_at": "2026-11-23T09:02:55.984181+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "BERENBERG stuft NIKE INC auf 'Sell'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200753-berenberg-stuft-nike-inc-auf-sell-322.htm",
+    "ts": 1795422600.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-analysen",
+    "captured_at": "2026-11-23T09:02:53.212916+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "PTA-Adhoc: CA Immobilien Anlagen AG: CA Immo schlägt Sonderdividende vor",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200663-pta-adhoc-ca-immobilien-anlagen-ag-ca-immo-schlaegt-sonderdividende-vor-015.htm",
+    "ts": 1795422060.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-adhoc",
+    "captured_at": "2026-11-23T09:02:53.864272+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "AKTIEN IM FOKUS: KI-Werte versuchen Stabilisierung - Kaufempfehlung für Infineon",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200665-aktien-im-fokus-ki-werte-versuchen-stabilisierung-kaufempfehlung-fuer-infineon-016.htm",
+    "ts": 1795422000.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
+    "captured_at": "2026-11-23T09:02:54.394656+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "BERENBERG stuft SANOFI auf 'Buy'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200633-berenberg-stuft-sanofi-auf-buy-322.htm",
+    "ts": 1795421880.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-analysen",
+    "captured_at": "2026-11-23T09:02:53.212939+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Aktien Frankfurt Eröffnung: Dax mit 'Erholung auf Bewährung'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200666-aktien-frankfurt-eroeffnung-dax-mit-erholung-auf-bewaehrung-016.htm",
+    "ts": 1795421820.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
+    "captured_at": "2026-11-23T09:02:54.394675+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "BERNSTEIN RESEARCH stuft Hermes auf 'Outperform'",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200508-bernstein-research-stuft-hermes-auf-outperform-322.htm",
+    "ts": 1795421160.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-analysen",
+    "captured_at": "2026-11-23T09:02:53.212966+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "EUREX/Bund-Future kaum verändert",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200418-eurex-bund-future-kaum-veraendert-015.htm",
     "ts": 1795420620.0,
@@ -261,6 +525,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
     "captured_at": "2026-11-23T07:42:07.542566+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Pyrum: Hohes Umsatzpotenzial für die nächsten Jahre",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70200205-pyrum-hohes-umsatzpotenzial-fuer-die-naechsten-jahre-500.htm",
+    "ts": 1795419300.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-aktien-analysen",
+    "captured_at": "2026-11-23T09:02:53.213222+00:00",
     "rights_checked": "2026-10-28"
   },
   {
@@ -960,6 +1236,18 @@
     "rights_checked": "2026-10-28"
   },
   {
+    "title": "Bundesliga: Aktienemittent BVB übernimmt die Spitze, Hertha bleibt ungeschlagen - Schalke 00 wartet weiter auf das erste Heimtor(!)",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70197324-bundesliga-aktienemittent-bvb-uebernimmt-die-spitze-hertha-bleibt-ungeschlagen-schalke-00-wartet-weiter-auf-das-erste-heimtor-144.htm",
+    "ts": 1795361640.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-anleihen-nachrichten-101",
+    "captured_at": "2026-11-23T09:02:56.600346+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "ROUNDUP 3/Plötzlich Erster: Kann der BVB die Bayern herausfordern?",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70197333-roundup-3-ploetzlich-erster-kann-der-bvb-die-bayern-herausfordern-016.htm",
     "ts": 1795361640.0,
@@ -1473,6 +1761,17 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-aktien-nachrichten",
     "captured_at": "2026-11-21T17:25:03.522599+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70195536-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-016.htm",
+    "ts": 1795278600.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-11-23T09:02:50.786836+00:00",
     "rights_checked": "2026-10-28"
   },
   {
@@ -2303,6 +2602,18 @@
     "rights_checked": "2026-10-28"
   },
   {
+    "title": "ÜBERBLICK am Abend/Konjunktur, Zentralbanken, Politik",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192799-ueberblick-am-abend-konjunktur-zentralbanken-politik-015.htm",
+    "ts": 1795199580.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur",
+    "captured_at": "2026-11-23T09:02:55.984287+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "EQS-Adhoc: TAKKT AG: TAKKT passt Jahresprognose 2026 nach Cyberangriff an",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192764-eqs-adhoc-takkt-ag-takkt-passt-jahresprognose-2026-nach-cyberangriff-an-022.htm",
     "ts": 1795199220.0,
@@ -3023,6 +3334,18 @@
     "rights_checked": "2026-10-28"
   },
   {
+    "title": "ÜBERBLICK am Mittag/Konjunktur, Zentralbanken, Politik",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70189971-ueberblick-am-mittag-konjunktur-zentralbanken-politik-015.htm",
+    "ts": 1795179780.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur",
+    "captured_at": "2026-11-23T09:02:55.984347+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "KI-Kater: DAX rutscht wieder unter 25000 Punkte",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70189551-ki-kater-dax-rutscht-wieder-unter-25000-punkte-088.htm",
     "ts": 1795177620.0,
@@ -3572,6 +3895,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
     "captured_at": "2026-11-20T10:47:10.499346+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ÜBERBLICK am Morgen/Konjunktur, Zentralbanken, Politik",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70186469-ueberblick-am-morgen-konjunktur-zentralbanken-politik-015.htm",
+    "ts": 1795163580.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur",
+    "captured_at": "2026-11-23T09:02:55.984402+00:00",
     "rights_checked": "2026-10-28"
   },
   {
@@ -4808,6 +5143,18 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-aktien-europa",
     "captured_at": "2026-11-19T21:37:36.155452+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "ÜBERBLICK am Abend/Konjunktur, Zentralbanken, Politik",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70182269-ueberblick-am-abend-konjunktur-zentralbanken-politik-015.htm",
+    "ts": 1795113180.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "feed_url": "https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur",
+    "captured_at": "2026-11-23T09:02:55.984498+00:00",
     "rights_checked": "2026-10-28"
   },
   {
@@ -22966,6 +23313,17 @@
     "rights_checked": "2026-10-28"
   },
   {
+    "title": "Barmer warnt vor Finanzlöchern der Pflegekassen",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70106438-barmer-warnt-vor-finanzloechern-der-pflegekassen-003.htm",
+    "ts": 1794465900.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-11-23T09:02:50.787260+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "BERENBERG stuft Sartorius Vorzuege auf 'Buy'",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70106684-berenberg-stuft-sartorius-vorzuege-auf-buy-322.htm",
     "ts": 1794465720.0,
@@ -28378,6 +28736,17 @@
     "rights_checked": "2026-10-28"
   },
   {
+    "title": "Lkw - Maut - Fahrleistungsindex im Oktober 2026 : - 1 , 6 % zum Vormonat",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081874-lkw-maut-fahrleistungsindex-im-oktober-2026-1-6-zum-vormonat-573.htm",
+    "ts": 1794290400.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-11-23T09:02:50.787460+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
     "title": "Deutschland kürzt trotz wachsender Krisen : 16 Nichtregierungsorganisationen fordern Kurskorrektur beim Haushalt 2027",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081895-deutschland-kuerzt-trotz-wachsender-krisen-16-nichtregierungsorganisationen-fordern-kurskorrektur-beim-haushalt-2027-007.htm",
     "ts": 1794290400.0,
@@ -28458,6 +28827,17 @@
     "license_key": "fn",
     "feed_url": "https://www.finanznachrichten.de/rss-aktien-adhoc",
     "captured_at": "2026-11-10T11:12:08.152864+00:00",
+    "rights_checked": "2026-10-28"
+  },
+  {
+    "title": "Hubig will Preisdeckel auf Ticketbörsen einführen",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081008-hubig-will-preisdeckel-auf-ticketboersen-einfuehren-003.htm",
+    "ts": 1794270600.0,
+    "src": "FinanzNachrichten",
+    "sum": "",
+    "teaser": "",
+    "license_key": "fn",
+    "captured_at": "2026-11-23T09:02:50.787585+00:00",
     "rights_checked": "2026-10-28"
   },
   {
