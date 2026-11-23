@@ -191,7 +191,8 @@ def universe(Q):
         h = hist.get(t, {})
         out.append({'sym': t, 'name': s['name'], 'grp': 'US', 'cur': c.get('currency') or s.get('currency'),
                     'price': float(c['price']), 'chg': float(c.get('change') or 0), 'pct': float(c['percent_change']),
-                    'hist': h.get('hist'), 'src': c.get('source', 'Twelve Data')})
+                    'hist': h.get('hist'), 'src': c.get('source', 'Twelve Data'),
+                    'timestamp': c.get('timestamp'), 'fetched_at': c.get('fetched_at')})
         seen.add(t)
     for q in Q:
         if q['grp'] in ('US', 'DE') and q['sym'].split('.')[0].upper() not in seen:
@@ -203,7 +204,7 @@ def compact_table(L, num, sg, cls):
     def part(P):
         return '<table class="cp"><thead><tr><th>Titel</th><th>Kurs</th><th>in %%</th></tr></thead><tbody>%s</tbody></table>' % ''.join(
             '<tr><td class="nm">%s<span>%s</span></td><td>%s <small>%s</small></td><td class="%s">%s</td></tr>' % (
-                mark(q, 15), esc(q['name']), num(q['price']), esc(q.get('cur') or ''), cls(q['pct']), sg(q['pct'])) for q in P) if P else ''
+                mark(q, 15), esc(q['name']) + '<small style="display:block;white-space:normal">' + esc(__import__('quote_time').label(q)) + '</small>', num(q['price']), esc(q.get('cur') or ''), cls(q['pct']), sg(q['pct'])) for q in P) if P else ''
     half = (len(L) + 1) // 2
     return '<div class="two">%s%s</div>' % ('<div>' + part(L[:half]).replace('%%', '%') + '</div>', '<div>' + part(L[half:]).replace('%%', '%') + '</div>')
 

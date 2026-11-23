@@ -2,6 +2,7 @@
 # Aufbau: 1 Titel+Kurse | 2 Märkte | 3 Letzte 6 Artikel | 4 Schlagzeilen | letzte Seite: Impressum & Redaktionsschluss
 import html, re
 import report_visuals as V
+import quote_time as QT
 
 DAYS = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag']
 
@@ -69,7 +70,7 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
 
     def rows(L, cur=True):
         return ''.join('<tr><td>%s</td><td>%s</td><td class="%s">%s</td><td class="%s">%s %%</td><td class="spc">%s</td></tr>' % (
-            esc(q['name']), num(q['price']), cls(q['chg']), sg(q['chg']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'))) for q in L)
+            esc(q['name']) + '<small class="mut" style="display:block;font-weight:400">' + esc(QT.label(q)) + '</small>', num(q['price']), cls(q['chg']), sg(q['chg']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'))) for q in L)
 
     def tbl(L, first='Titel'):
         if not L:
@@ -82,7 +83,7 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
     stocks = V.universe(Q)
     ranked = sorted(stocks, key=lambda q: -q['pct'])
     kp = ''.join('<div class="kpi"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s %%</div>%s</div>' % (
-        esc(q['name']), num(q['price']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'), 120, 30)) for q in idx[:4])
+        esc(q['name']) + '<small class="mut" style="display:block;font-weight:400">' + esc(QT.label(q)) + '</small>', num(q['price']), cls(q['pct']), sg(q['pct']), V.spark(q.get('hist'), 120, 30)) for q in idx[:4])
     fxs = ''.join('<span>EUR/%s <b>%s</b></span>' % (k, num(fx[k], 4)) for k in ('USD', 'GBP', 'CHF', 'JPY', 'CNY') if k in fx) \
         or '<span class="mut">Aktuell nicht verfügbar</span>'
 
@@ -102,20 +103,20 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
     page1 = '''<div class="pg"><div class="cover"><div class="brand">%s<span class="wm">finanz<b>adjust</b></span></div>
 <h1>Tagesbericht</h1><p>%s · Märkte, Artikel und Schlagzeilen im Überblick · FA Redaktion</p></div>
 <div class="wrap"><div class="kpis">%s</div>
-<h2>Indizes <small>Stand %s</small></h2>%s
+<h2>Indizes <small>%s</small></h2>%s
 <h2>Devisen <small>EZB-Referenzkurse</small></h2><div class="fx">%s</div>
 <div class="note"><b>Hinweis:</b> Dieser Bericht dient ausschließlich der Information und ist keine Anlageberatung, Anlageempfehlung oder Kauf- bzw. Verkaufsempfehlung.</div></div></div>''' % (
-        icon, esc(day), kp, esc(stamp), tbl(idx, 'Index'), fxs)
+        icon, esc(day), kp, esc(QT.summary(idx)), tbl(idx, 'Index'), fxs)
 
     gl = [q for q in ranked if q['pct'] > 0][:4]
     lo = [q for q in ranked if q['pct'] < 0][-4:][::-1]
     logo_note = '<p class="foot">Logo Intel: &copy; Intel Corporation, redaktionelle Verwendung mit Quellenangabe. Übrige Titel mit Kürzel statt Logo.</p>' if V.has_licensed_logo(stocks) else ''
-    page2 = '''<div class="pg"><h2>Aktien-Heatmap <small>Kursdaten Stand %s, ggf. verzögert</small></h2>%s%s</div>
+    page2 = '''<div class="pg"><h2>Aktien-Heatmap <small>%s</small></h2>%s%s</div>
 <div class="pg"><h2>Top-Aktien des Tages</h2><div class="sub up">Größte Gewinner</div>%s<div class="sub dn">Größte Verlierer</div>%s%s
 <div class="two2"><div><h2>Gewinner im Vergleich</h2>%s</div><div><h2>Verlierer im Vergleich</h2>%s</div></div>
 <h2>Rohstoffe, Devisen, Krypto</h2>%s</div>
 <div class="pg"><h2>Alle Aktien im Überblick <small>sortiert nach Tagesveränderung</small></h2>%s</div>''' % (
-        esc(stamp), V.breadth(stocks), V.heatmap(stocks, sg, big=len(stocks) > 20), 
+        esc(QT.summary(stocks)), V.breadth(stocks), V.heatmap(stocks, sg, big=len(stocks) > 20), 
         V.stock_cards(gl, num, sg, cls, None) if gl else '<p class="mut">Heute keine Aktie im Plus.</p>',
         V.stock_cards(lo, num, sg, cls, None) if lo else '<p class="mut">Heute keine Aktie im Minus.</p>', logo_note,
         V.mover_bars(ranked[:6], sg, cls), V.mover_bars(ranked[-6:][::-1], sg, cls), tbl(other, 'Wert'), V.compact_table(ranked, num, sg, cls))
@@ -132,7 +133,7 @@ def build(Q, ARTS, fx, N, NOW, num, sg, cls, esc, srcs_plain, LOGO, adate):
 <h3>Redaktionsschluss</h3><p>Dieser Bericht wurde am %s automatisch erstellt. Später veröffentlichte Kurse und Meldungen sind nicht berücksichtigt.</p>
 <h3>Hinweis zu KI</h3><p>Die Inhalte werden mit Unterstützung von KI erstellt. Artikel enthalten Quellenangaben zum Quellenabgleich. Fehler können nicht ausgeschlossen werden.</p>
 <h3>Risikohinweis</h3><p>Alle Inhalte dienen ausschließlich der Information und sind keine Anlageberatung, Anlageempfehlung oder Kauf- bzw. Verkaufsempfehlung. Der Handel mit Finanzinstrumenten ist mit Verlustrisiken bis zum Totalverlust verbunden. Vergangene Wertentwicklung ist kein verlässlicher Indikator für künftige Ergebnisse.</p>
-<h3>Datenquellen</h3><p>Kursdaten: %s (ggf. verzögert, ohne Gewähr). Wechselkurse: <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.de.html">Europäische Zentralbank</a> (Referenzkurse). Schlagzeilen: <a href="https://www.gdeltproject.org">GDELT Project</a> (nur Überschriften mit Link zur Quelle).</p>
+<h3>Datenquellen</h3><p>Kursdaten: %s (ggf. verzögert, ohne Gewähr). Wechselkurse: <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.de.html">Europäische Zentralbank</a> (Referenzkurse). Schlagzeilen: FinanzNachrichten, Destatis, EZB und über GDELT gefundene Originalquellen (Kennzeichnung und Link bei jeder Meldung).</p>
 <h3>Haftung</h3><p>Fremde Inhalte stammen von den genannten Quellen. Für Inhalte verlinkter Seiten ist der jeweilige Anbieter verantwortlich.</p>
 <p class="foot">© %d finanz adjust · Redaktion: FA Redaktion · Stand %s</p></div>''' % (
         esc(stamp), srcs_html, NOW.year, esc(stamp))

@@ -2,6 +2,7 @@ import json,os,re,time,urllib.parse
 from zoneinfo import ZoneInfo
 from common import *
 from news_media import permitted_news
+from quote_time import yahoo_time, td_time
 os.makedirs('../data',exist_ok=True)
 TD_KEY=os.environ.get('TWELVEDATA_API_KEY','').strip()
 # ---------- Nachrichten: GDELT (aggregiert, keine Volltexte) ----------
@@ -76,16 +77,16 @@ def yahoo(sym):
         cl=[c for c in r['indicators']['quote'][0]['close'] if c is not None]
         from quote_baseline import prior_session_close
         px=m['regularMarketPrice']; prev=prior_session_close(r)
-        return dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=cl[-60:],cur=m.get('currency',''),src='Yahoo Finance')
+        return dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=cl[-60:],cur=m.get('currency',''),src='Yahoo Finance',timestamp=yahoo_time(m))
     except Exception as e: print('YF',sym,e); return None
 def coingecko(cid):
-    p=get('https://api.coingecko.com/api/v3/simple/price?ids=%s&vs_currencies=usd&include_24hr_change=true'%cid)
+    p=get('https://api.coingecko.com/api/v3/simple/price?ids=%s&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true'%cid)
     h=get('https://api.coingecko.com/api/v3/coins/%s/market_chart?vs_currency=usd&days=90&interval=daily'%cid)
     try:
         d=json.loads(p)[cid]; px=d['usd']; pct=d.get('usd_24h_change',0)
         hist=[x[1] for x in json.loads(h).get('prices',[])][-60:] if h else []
         prev=px/(1+pct/100) if pct else (hist[-2] if len(hist)>1 else px)
-        return dict(price=px,chg=px-prev,pct=pct,hist=hist,cur='USD',src='CoinGecko')
+        return dict(price=px,chg=px-prev,pct=pct,hist=hist,cur='USD',src='CoinGecko',timestamp=d.get('last_updated_at'))
     except Exception as e: print('CG',cid,e); return None
 _tdwin=[0.0,0]  # [Fenster-Start, verbrauchte Credits] - Free-Tier: 8 Credits/Minute
 def td_batch(kind,params,credits):
@@ -150,7 +151,7 @@ if TD_KEY:
             try:
                 px=float(r['close']); prev=float(r.get('previous_close') or px)
                 h=r.get('_hist') or []
-                d=dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=h,cur=r.get('currency',''),src='Twelve Data')
+                d=dict(price=px,chg=px-prev,pct=(px-prev)/prev*100 if prev else 0,hist=h,cur=r.get('currency',''),src='Twelve Data',timestamp=td_time(r))
             except Exception as e: print('TD parse',tds,e)
         if not d or not d['hist']:
             y=yahoo(sym)
@@ -158,17 +159,17 @@ if TD_KEY:
                 if d and not d['hist'] and y['hist']: d['hist']=y['hist']
                 elif not d: d=y
         if d:
-            srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
+            srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],timestamp=d.get('timestamp'),fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 else:
     for sym,name,grp,tds,ex,cg in SYM:
         if cg: continue
         d=yahoo(sym)
-        if d: srcs.add('Yahoo Finance'); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
+        if d: srcs.add('Yahoo Finance'); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],timestamp=d.get('timestamp'),fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 # Krypto: CoinGecko primaer (oeffentliche Anzeige mit Attribution erlaubt), Yahoo als Fallback
 for sym,name,grp,tds,ex,cg in SYM:
     if not cg: continue
     d=coingecko(cg) or yahoo(sym)
     if d:
-        srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
+        srcs.add(d['src']); q.append(dict(sym=sym,name=name,grp=grp,cur=d['cur'],price=d['price'],chg=d['chg'],pct=d['pct'],hist=d['hist'],src=d['src'],timestamp=d.get('timestamp'),fetched_at=datetime.datetime.now(ZoneInfo('Europe/Berlin')).strftime('%d.%m.%Y %H:%M')))
 json.dump(q,open('../data/quotes.json','w'))
 print(len(fin),'news;',len(q),'quotes;',sorted(srcs))

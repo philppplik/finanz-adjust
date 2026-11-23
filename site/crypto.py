@@ -20,8 +20,8 @@ def _num(x):
     return s.replace(',', 'X').replace('.', ',').replace('X', '.')
 
 def _fetched_label(q):
-    fa = q.get('fetched_at')
-    return ('Quelle liefert keinen eigenen Kurszeitpunkt mit; Kursabfrage am %s (Seitenaufbau)' % e(fa)) if fa else 'Liefert die Quelle nicht mit; Stand der Seite im Footer'
+    import quote_time as QT
+    return e(QT.label(q) + '; abgerufen: ' + QT.capture(q))
 
 def _quote_panel(c, q, now=None):
     if not q or q.get('price') is None:

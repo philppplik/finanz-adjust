@@ -1,5 +1,6 @@
 import json,os,re,shutil,subprocess,glob
 import newsletter_fa
+import quote_time as QT
 from rss_editorial import editorial_feed_articles
 from common import *
 from news_media import permitted_news, source_badge, news_cards
@@ -25,7 +26,9 @@ from news_media import diverse as _feed_diverse
 from share import share_block, SHARE_CSS
 from page_sharing import add_page_sharing
 licensed_archive=collect('..','fa',N)
-N=merge_current(N,licensed_archive)
+ALL_NEWS=merge_current(N,licensed_archive)
+from licensed_news import display_news
+N=display_news(ALL_NEWS)
 fx={}
 b=get('https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
 if b:
@@ -134,7 +137,7 @@ def trow(q,selfpage=False):
     cur={'EUR':' \u20ac','USD':' $'}.get(q.get('cur') or '','')  # fehlende Waehrung (z. B. Indexpunkte) ohne Einheit
     href=stock_href(q) or crypto_href(q)
     if not href and not selfpage: href=mhref(q)
-    nm='<b>%s</b><div class="mut" style="font-size:11px">%s \u00b7 %s</div>'%(esc(q['name']),esc(q['sym']),q['grp'])
+    nm='<b>%s</b><div class="mut" style="font-size:11px">%s \u00b7 %s</div>'%(esc(q['name']),esc(q['sym']),q['grp']) + '<div class="mut" style="font-size:11px;white-space:normal">' + esc(QT.label(q)) + '</div>'
     if href: nm='<a class="rl" href="%s">%s</a>'%(href,nm)
     attr=(' data-href="%s"'%href) if href else ''
     if selfpage: attr+=' id="%s"'%mid(q)
@@ -212,8 +215,9 @@ def artlist(k):
     return '<ul class="nw">'+''.join(out)+'</ul>' if out else '<p class="mut">Die ersten Artikel der FA Redaktion erscheinen in Kürze.</p>'
 # ---------- Startseite: Hero mit Kursen + Schlagzeilen ----------
 idx=[q for q in Q if q['grp']=='Index'][:4]
-cards=''.join('<a class="ic" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="%s">%s (%s%%)</div>%s</a>'%(mid(q),esc(q['name']),num(q['price']),cls(q['pct']),sg(q['chg']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,200,40)) for q in idx)
-kpis=''.join('<a class="kpi" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s%%</div><div class="spk">%s</div></a>'%(mid(q),esc(q['name']),num(q['price']),cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,150,34)) for q in idx[:3])
+cards=''.join('<a class="ic" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="%s">%s (%s%%)</div>%s</a>'%(mid(q),esc(q['name']),num(q['price']) + '<small class="mut" style="display:block;font-size:10px;font-weight:400">' + esc(QT.label(q)) + '</small>',cls(q['pct']),sg(q['chg']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,200,40)) for q in idx)
+cards=cards
+kpis=''.join('<a class="kpi" href="/maerkte/#%s"><div class="n">%s</div><div class="p">%s</div><div class="c %s">%s%%</div><div class="spk">%s</div></a>'%(mid(q),esc(q['name']),num(q['price']) + '<small class="mut" style="display:block;font-size:10px;font-weight:400">' + esc(QT.label(q)) + '</small>',cls(q['pct']),sg(q['pct']),spark(q['hist'],q['hist'][-1]>=q['hist'][0] if q['hist'] else True,150,34)) for q in idx[:3])
 sorted_q=sorted([q for q in Q if q['grp'] in('US','DE')],key=lambda q:-q['pct'])
 def fx_rows(link=True):
     rows=[(k,fx[k]) for k in ['USD','GBP','CHF','JPY','CNY'] if k in fx]
@@ -221,7 +225,7 @@ def fx_rows(link=True):
     return ''.join('<div class="fxr"><span>EUR/%s</span><b>%s</b></div>'%(k,num(v,4)) for k,v in rows)
 fxbox=fx_rows()
 fxbox=fxbox or '<p class="mut">Aktuell nicht verfügbar.</p>'
-home='''<div class="w"><div class="hero"><div class="hl"><h1>Märkte und Börsennews im Überblick</h1><p>Kurse, Schlagzeilen und Einordnungen der FA Redaktion. Seite neu erstellt %s. Kursdaten ohne gesicherten Datenstand - Werte können verzögert oder veraltet sein.</p><div class="kpis">%s</div><div class="pn" style="margin:16px 0 0"><h2>Neueste Artikel <a href="/artikel/">Alle →</a></h2>%s</div></div><div class="pn"><h2>Aktien-Schlagzeilen <a href="/nachrichten/">Alle →</a></h2>%s</div></div><div class="idx">%s</div><div class="g"><div><div class="pn"><h2>Watchlist <a href="/maerkte/">Alle Märkte →</a></h2>%s</div></div><div><div class="pn"><h2>Top-Gewinner</h2>%s</div><div class="pn"><h2>Top-Verlierer</h2>%s</div><div class="pn"><h2>Devisen (EZB-Referenzkurse)</h2>%s</div></div></div><div class="g"><div class="pn"><h2>Nachrichten-Schlagzeilen <a href="/nachrichten/">Archiv →</a></h2>%s</div><div class="pn cta"><h2>Tagesbericht als PDF</h2><p>Der Marktbericht mit Indizes, Gewinnern, Verlierern, Devisen und Schlagzeilen als PDF zum Herunterladen und Weitergeben.</p><a class="b" href="/berichte/">Berichte ansehen</a></div></div></div>'''%(NOW.strftime('%d.%m.%Y %H:%M'),kpis,artlist(3),news(N,6),cards,tbl([q for q in Q if q['grp']!='Index']),tbl(sorted_q[:4]),tbl(sorted_q[-4:][::-1]),fxbox,news(N,12))
+home='''<div class="w"><div class="hero"><div class="hl"><h1>Märkte und Börsennews im Überblick</h1><p>Kurse, Schlagzeilen und Einordnungen der FA Redaktion. Seite neu erstellt %s. Kurszeit direkt am Wert, sofern von der Quelle geliefert. Abruf und Seitenaufbau sind keine Kurszeit.</p><div class="kpis">%s</div><div class="pn" style="margin:16px 0 0"><h2>Neueste Artikel <a href="/artikel/">Alle →</a></h2>%s</div></div><div class="pn"><h2>Aktien-Schlagzeilen <a href="/nachrichten/">Alle →</a></h2>%s</div></div><div class="idx">%s</div><div class="g"><div><div class="pn"><h2>Watchlist <a href="/maerkte/">Alle Märkte →</a></h2>%s</div></div><div><div class="pn"><h2>Top-Gewinner</h2>%s</div><div class="pn"><h2>Top-Verlierer</h2>%s</div><div class="pn"><h2>Devisen (EZB-Referenzkurse)</h2>%s</div></div></div><div class="g"><div class="pn"><h2>Nachrichten-Schlagzeilen <a href="/nachrichten/">Archiv →</a></h2>%s</div><div class="pn cta"><h2>Tagesbericht als PDF</h2><p>Der Marktbericht mit Indizes, Gewinnern, Verlierern, Devisen und Schlagzeilen als PDF zum Herunterladen und Weitergeben.</p><a class="b" href="/berichte/">Berichte ansehen</a></div></div></div>'''%(NOW.strftime('%d.%m.%Y %H:%M'),kpis,artlist(3),news(N,6),cards,tbl([q for q in Q if q['grp']!='Index']),tbl(sorted_q[:4]),tbl(sorted_q[-4:][::-1]),fxbox,news(N,12))
 import market_visuals as MV
 _MQ,_MU=MV._stocks()
 home=home.replace('<div class="idx">',MV.home_block(_MU)+'<div class="idx">',1)
@@ -230,7 +234,7 @@ if _MU: urls.append(page('/heatmap/','Aktien-Heatmap: Tagesveränderung auf eine
 urls.append(page('/','finanz adjust: Märkte, Kurse und Börsennews live','Aktuelle Kurse zu DAX, S&P 500, Nasdaq, Aktien, Gold, Bitcoin und Devisen, Börsen-Schlagzeilen und Einordnungen der FA Redaktion. Kostenlos, ohne Anmeldung, keine Anlageberatung.',home,[org,site_ld]))
 urls+=arturls
 urls.append(page('/artikel/','Artikel der FA Redaktion | finanz adjust','Marktüberblicke, Einordnungen und Erklärungen der FA Redaktion: verständlich, quellenbasiert und ohne Anlageempfehlungen.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Artikel der FA Redaktion</h1><p>Einordnungen statt Empfehlungen: Was die Märkte bewegt, verständlich erklärt und mit Quellen belegt.</p></div></div><div class="pn">%s</div><div class="pn"><h2>Archiv: alle Artikel nach Monat</h2>%s</div></div>'%(artlist(60),artarchiv()),act='/artikel/',crumbs=[('/artikel/','Artikel')]))
-urls.append(page('/maerkte/','Märkte: Indizes, Aktien, Rohstoffe, Krypto | finanz adjust','Live-Kurse und 3-Monats-Verlauf für DAX, S&P 500, Nasdaq, Apple, NVIDIA, SAP, Gold, Rohöl, Bitcoin und mehr.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Märkte</h1><p>Kurse mit 3-Monats-Verlauf. Quellen: %s. Seite neu erstellt %s; ein gesicherter Datenstand der Kurse liegt nicht vor - Werte können verzögert oder veraltet sein. Alle Angaben ohne Gewähr.</p></div></div><div class="pn">%s</div><div class="pn"><h2 id="devisen">Devisen (EZB-Referenzkurse)</h2>%s</div></div>'%(qsrc(),NOW.strftime('%d.%m.%Y %H:%M'),tbl(Q,True),fx_rows(False)),act='/maerkte/',crumbs=[('/maerkte/','Märkte')]))
+urls.append(page('/maerkte/','Märkte: Indizes, Aktien, Rohstoffe, Krypto | finanz adjust','Live-Kurse und 3-Monats-Verlauf für DAX, S&P 500, Nasdaq, Apple, NVIDIA, SAP, Gold, Rohöl, Bitcoin und mehr.','<div class="w"><div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Märkte</h1><p>Kurse mit 3-Monats-Verlauf. Quellen: %s. Seite neu erstellt %s; Kurszeit direkt am Wert, sofern geliefert. Kurse können verzögert oder veraltet sein. Alle Angaben ohne Gewähr.</p></div></div><div class="pn">%s</div><div class="pn"><h2 id="devisen">Devisen (EZB-Referenzkurse)</h2>%s</div></div>'%(qsrc(),NOW.strftime('%d.%m.%Y %H:%M'),tbl(Q,True),fx_rows(False)),act='/maerkte/',crumbs=[('/maerkte/','Märkte')]))
 urls.append(page('/nachrichten/','Börsennews und Finanznachrichten: Archiv | finanz adjust','Börsen- und Wirtschaftsnachrichten mit Quellenkennzeichnung und Links zu den Originalmeldungen.','<div class="w"><div class="news-intro"><div><span class="news-kicker">Nachrichten · Quellen im Blick</span><h1>Was die Märkte bewegt.</h1><p>Börsennews aus externen Quellen. Die wichtigsten Schlagzeilen im Überblick, die ganze Geschichte beim Original.</p></div><div class="news-count"><b>%d</b> Meldungen im Archiv</div></div>%s<p class="news-disclosure">Gezeigt werden die neuesten %d Meldungen. Quellen-Icons sind lokal gespeichert. Grafische Quellenkarten sind keine Artikelfotos. Fremde Vorschaubilder erscheinen nur mit dokumentierter Nutzungsfreigabe und Bildnachweis. <a href="/quellen/">Mehr zu den Quellen</a></p></div>'%(len(N),news_cards(N,500),min(len(N),500)),act='/nachrichten/',crumbs=[('/nachrichten/','Nachrichten')]))
 # ---------- Source-linked glossary ----------
 from glossary import build_glossary
@@ -384,7 +388,7 @@ print('FA pages',len(urls),'articles',len(ARTS),'fx',len(fx),'indexnow_new',len(
 
 # Rights-gated noindex sources, deliberately excluded from sitemaps and RSS.
 from news_detail import build_details
-build_details(page, N, OUT)
+build_details(page, ALL_NEWS, OUT)
 from licensed_news import archive_body, noindex
 _archive_body=archive_body(licensed_archive,'finanz adjust').replace('KI-News aus externen Quellen.','Gesicherte Wirtschafts-Meldungen.').replace('Schlagzeilen und erlaubte RSS-Anrisstexte von heise online.','Schlagzeilen von FinanzNachrichten sowie erlaubte RSS-Textauszüge von Destatis und der EZB.')
 page('/nachrichten/quellenarchiv/','Gesicherte Quelleninfos | finanz adjust','Dauerhaft gespeicherte Quelleninfos.',_archive_body,act='/nachrichten/')

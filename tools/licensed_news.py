@@ -38,7 +38,7 @@ FN_FEEDS = {
  'konjunktur': 'https://www.finanznachrichten.de/rss-nachrichten-wirtschaft-konjunktur',
  'anleihen': 'https://www.finanznachrichten.de/rss-anleihen-nachrichten-101',
 }
-# Finanzbezug ist Pflicht; Politik, Polizei, Sport, Promi und Regionales sind ausgeschlossen.
+# Finanzbezug ist Pflicht. Wirtschaftspolitik ist nicht pauschal ausgeschlossen.
 FIN_INCLUDE = re.compile(r'''(?ix)\b(
  aktie[n]?|aktien\w*|b[oö]rse[n]?|b[oö]rsengang|b[oö]rsen\w*|dax|mdax|sdax|tecdax|nasdaq|s&p|dow\s*jones|
  stoxx|ezb|ecb|fed\b|zentralbank|zins(?:en|es|satz|ent|schritt|entscheid\w*)?|rendite|anleihe[n]?|
@@ -74,8 +74,28 @@ FIN_EXCLUDE = re.compile(r'''(?ix)\b(
  kinofilm|musik(?:er|festival)|konzert\s|lotto|gewinnspiel|wetter|sturmflut|k[oö]nig(?:in)?\b|
  schloss\s|adel\w*|royal\w*
 )\b''')
+# Display selection is separate from immutable source retention. General wire
+# labels such as ROUNDUP and an isolated result/record are not finance evidence.
+STRONG_FINANCE = re.compile(r"(?ix)\b(?:aktie\w*|b[oö]rs\w*|dax|mdax|sdax|nasdaq|dow\s*jones|stoxx|ezb|ecb|fed|zentralbank|zins\w*|anleihe\w*|konjunktur|inflation|wirtschaft\w*|bip|arbeitsmarkt\w*|ifo|export\w*|import\w*|handelsbilanz|devis\w*|w[aä]hrung\w*|roh[oö]l|[oö]lpreis|goldpreis|rohstoff\w*|bitcoin|ethereum|krypto\w*|ipo|dividende\w*|quartal\w*|bilanz\w*|umsatz\w*|kapital\w*|kursziel\w*|anleger\w*|investor\w*|investition\w*|finanz\w*|aktienr[uü]ckkauf|z[oö]ll\w*|zoll|handelskrieg|handelsabkommen|preisdeckel|spritpreis\w*|gasspeicher|maut|progression|steuer\w*|energiepreis\w*|strompreis\w*|gaspreis\w*|immobilien\w*|kredit\w*|liquidit[aä]t|tagesgeld|festgeld|depot|auftragseingang|lkw.maut.fahrleistungsindex|mindestlohn|rente\w*|pension\w*|haushalt\w*|schulden\w*|defizit|steuer\w*|subvention\w*|earnings|revenue|shares|buyback|bond\w*|yield\w*|stocks|markets)\b")
+SPORT_CONTEXT = re.compile(r"(?ix)\b(?:sport|fu[sß]ball|bundesliga|champions\s*league|dfb|bvb|werder|borussen|musiala|kane|tabellenspitze|tischtennis|olympia\w*|formel\s*1|tennis|spieltag|trainerwechsel|torwart|torsch[uü]tz\w*)\b")
+WEAK_WIRE = re.compile(r"(?ix)\b(?:roundup|briefing|pressespiegel|ergebnis|rekord\w*|millionen|milliarden|gewinnt|gewinn\w*|zahlen|ausblick|w[aä]chst|wachstum|vereinbarung\w*|kooperation\w*)\b")
+
 def finance_relevant(title):
- return bool(FIN_INCLUDE.search(title or '')) and not FIN_EXCLUDE.search(title or '')
+ title = title or ''
+ strong = bool(STRONG_FINANCE.search(title))
+ # Sports results do not become business news through wire labels or prizes.
+ # Listed sports-company shares/financial results remain a financial topic.
+ if SPORT_CONTEXT.search(title):
+  return bool(re.search(r'(?i)\b(?:aktie\w*|b[oö]rs\w*|umsatz\w*|bilanz\w*|quartal\w*|dividende\w*|kapitalerh[oö]hung)\b',title))
+ if strong:return True
+ # Preserve the older positive vocabulary, but strip ambiguous wire/result words.
+ reduced=WEAK_WIRE.sub('',title)
+ return bool(FIN_INCLUDE.search(reduced)) and not FIN_EXCLUDE.search(title)
+
+def display_news(items):
+ """Finance selection for all active surfaces; never mutate the archive."""
+ return [i for i in items if i.get('license_key') in ('destatis','ecb') or finance_relevant(i.get('title',''))]
+
 AI = re.compile(r'\b(?:KI|AI|LLMs?|GPT|ChatGPT|OpenAI|Claude|Gemini|Nvidia|Anthropic|DeepSeek|Robotik|Machine Learning)\b|künstlich.{0,3}Intelligenz', re.I)
 MODE = {'fa': {'destatis', 'ecb', 'fn'}, 'iw': {'heise'}, 'kfb': {'heise'}}
 

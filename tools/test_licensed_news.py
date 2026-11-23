@@ -51,16 +51,16 @@ class LicensedTests(unittest.TestCase):
       b'<link>https://www.finanznachrichten.de/nachrichten-2026-10/69957000-bundestag-349.htm</link>'
       b'<pubDate>2026-10-28T10:38:00Z</pubDate></item></channel></rss>')
   rows=n.parse_feed(fn,'fn','https://www.finanznachrichten.de/rss-aktien-nachrichten')
-  self.assertEqual(len(rows),1)
+  self.assertEqual(len(rows),2)
   self.assertEqual(rows[0]['teaser'],'')
   self.assertEqual(rows[0]['sum'],'')
   self.assertEqual(rows[0]['license_key'],'fn')
   self.assertEqual(rows[0]['feed_url'],'https://www.finanznachrichten.de/rss-aktien-nachrichten')
   self.assertTrue(rows[0]['ts']>0)
  def test_finance_relevance_boundaries(self):
-  for ok in ['IAB-Arbeitsmarktbarometer steigt ueber 100 Punkte','UBS stuft DEUTSCHE BANK AG auf Buy','EZB teilt 164 Millionen zu','EQS-Adhoc: EUROKAI GmbH: Erwerb der TARROS-Gruppe']:
+  for ok in ['IAB-Arbeitsmarktbarometer steigt ueber 100 Punkte','UBS stuft DEUTSCHE BANK AG auf Buy','EZB teilt 164 Millionen zu','EQS-Adhoc: EUROKAI GmbH: Erwerb der TARROS-Gruppe','Bundestag stimmt ueber Haushalt ab']:
    self.assertTrue(n.finance_relevant(ok),ok)
-  for bad in ['Bundestag stimmt ueber Haushalt ab','Polizei stellt Dieb am Bremer Platz','BVB besiegt Werder im DFB-Pokal','Timo Boll schlaegt mit seinem Promi-Team','Zwei Menschen im Verdacht des illegalen Aufenthalts']:
+  for bad in ['Polizei stellt Dieb am Bremer Platz','BVB besiegt Werder im DFB-Pokal','Timo Boll schlaegt mit seinem Promi-Team','Zwei Menschen im Verdacht des illegalen Aufenthalts']:
    self.assertFalse(n.finance_relevant(bad),bad)
  def test_collect_fn_multi_feed_and_gdelt_filter(self):
   fn=(b'<rss version="2.0"><channel><item><title>DAX vor Fed: Rally?</title>'

@@ -1,5 +1,6 @@
 """Static, dependency-free market visuals for the website: market breadth, mover cards,
 heatmap page and per-stock sparkline. Uses existing data only (data/quotes.json, data/stock-quotes.json)."""
+import quote_time as QT
 import json
 from html import escape as e
 from pathlib import Path
@@ -61,7 +62,7 @@ def _card(q):
     s = stock_meta(q)
     href = '/aktien/%s/' % s['slug'] if s else None
     inner = '%s<span class="mv-n"><b>%s</b><small>%s</small></span><span class="mv-v"><b>%s</b><span class="%s">%s %%</span></span>' % (
-        _mark(q), e(q['name']), e(q['sym'].split('.')[0]), _num(q['price']), _cls(q['pct']), _sg(q['pct']))
+        _mark(q), e(q['name']), e(q['sym'].split('.')[0]) + ' · ' + e(QT.label(q)), _num(q['price']), _cls(q['pct']), _sg(q['pct']))
     return '<a class="mv-card" href="%s">%s</a>' % (href, inner) if href else '<div class="mv-card">%s</div>' % inner
 
 
@@ -95,9 +96,9 @@ def home_block(stocks):
 
 def heatmap_page(stocks, stamp):
     body = ('<div class="w">%s<div class="hero" style="grid-template-columns:1fr"><div class="hl"><h1>Aktien-Heatmap</h1>'
-            '<p>Tagesveränderung von %d Aktien auf einen Blick. Stand %s. Kursdaten von Twelve Data und Yahoo Finance, ggf. verzögert, ohne Gewähr.</p></div></div>'
+            '<p>Tagesveränderung von %d Aktien auf einen Blick. %s. Kursdaten von Twelve Data und Yahoo Finance, ggf. verzögert, ohne Gewähr.</p></div></div>'
             '<div class="pn">%s%s<p class="mv-note">Farbe zeigt die Tagesveränderung, die Sättigung steigt bis ±4 %%. Die Kacheln sind nach Veränderung sortiert, '
-            'nicht nach Börsenwert. Keine Anlageberatung. <a href="/risikohinweis/">Risiken verstehen</a></p></div></div>') % (LINK, len(stocks), e(stamp), breadth(stocks), heat_tiles(stocks))
+            'nicht nach Börsenwert. Keine Anlageberatung. <a href="/risikohinweis/">Risiken verstehen</a></p></div></div>') % (LINK, len(stocks), e(QT.summary(stocks)), breadth(stocks), heat_tiles(stocks))
     return body
 
 
