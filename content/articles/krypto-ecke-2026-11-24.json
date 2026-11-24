@@ -1,0 +1,35 @@
+{
+  "slug": "krypto-ecke-2026-11-24",
+  "title": "Krypto-Ecke am Dienstag: Bitcoin hinkt der Aktien-Erholung hinterher",
+  "description": "Bitcoin liegt am Dienstagmorgen bei rund 60.500 US-Dollar. Datenstand, Abrufzeit und der Vergleich mit dem Montagsschluss der Aktienmärkte.",
+  "section": "krypto",
+  "date": "2026-11-24T07:56:23+01:00",
+  "image": "/images/krypto-ecke-2026-11-24.jpg",
+  "sources": [
+    {
+      "title": "CoinGecko Simple Price API, Datenstand 24.11.2026 07:54:59 MEZ, Abruf 07:55:38 MEZ",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum%2Csolana&vs_currencies=usd%2Ceur&include_24hr_change=true&include_last_updated_at=true"
+    },
+    {
+      "title": "Bitcoin News: Nvidia minus 14 Prozent – KI-Crash reißt Bitcoin auf Tief seit 2024 (21. November 2026)",
+      "url": "https://news.bitcoin.com/de/market-updates/bitcoin-unter-59000-dollar-zwangsverkaeufe-ueber-15-mrd-dollar/"
+    },
+    {
+      "title": "CNBC: US-Börsenschluss am 23. November 2026",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    }
+  ],
+  "body": "<p>Die Aktienerholung vom Montag hat Bitcoin bis Dienstagmorgen nicht im gleichen Maß mitgerissen. CoinGecko meldet rund 60.496 US-Dollar beziehungsweise 55.483 Euro für Bitcoin und ein Minus von rund 1,5 Prozent über 24 Stunden in US-Dollar. Ethereum liegt bei rund 1.700 US-Dollar beziehungsweise 1.559 Euro, auf Dollarbasis rund 1,3 Prozent tiefer. Solana notiert bei rund 71,86 US-Dollar beziehungsweise 65,90 Euro und rund 0,1 Prozent im Minus. Datenstand aller drei Einträge: 24. November, 07:54:59 Uhr MEZ; abgerufen um 07:55:38 Uhr MEZ. Die Veränderungen beziehen sich auf US-Dollar, nicht auf Euro.</p><h2>Zwei Märkte, zwei Richtungen</h2><p>Die Zeitfenster sind nicht identisch: Die Nasdaq-Angabe von plus 6,51 Prozent betrifft den abgeschlossenen US-Handel am Montag, die Kryptowerte dagegen ein rollierendes 24-Stunden-Fenster am Dienstagmorgen. Gegenüber dem von Bitcoin News gemeldeten Coinbase-Tief von 55.106 US-Dollar am frühen Samstag liegt der aktuelle CoinGecko-Wert rechnerisch rund 9,8 Prozent höher. Das ist nur ein Vergleich verschiedener Quellen und Zeitpunkte, keine exakte Rendite eines durchgehend identischen Handelsplatzes.</p><h2>Der Blick auf die US-ETFs</h2><p>Ob sich die Stimmung nachhaltig dreht, hängt nach Einschätzung des Market Makers Wintermute auch davon ab, ob wieder Geld in die US-Spot-ETFs auf Bitcoin fließt. Die waren zuletzt im Jahr 2026 mit Abflüssen konfrontiert. Wintermute will seinen vorsichtigen Ausblick laut Bitcoin News erst überdenken, wenn Bitcoin auf Tagesschlussbasis über 68.000 US-Dollar zurückkehrt und gleichzeitig ETF-Zuflüsse zu sehen sind.</p><h2>Was das für dich bedeutet</h2><p>Kryptowährungen und Aktien laufen nicht immer im Gleichschritt , gerade nach extremen Wochenenden können die Märkte zeitweise auseinanderdriften. Die genannten Kurse sind Momentaufnahmen vom Dienstagmorgen; Kryptobörsen handeln rund um die Uhr.</p>",
+  "faq": [
+    {
+      "q": "Wie steht Bitcoin am Dienstagmorgen?",
+      "a": "CoinGecko meldete am 24. November 2026 um 07:54:59 Uhr MEZ rund 60.496 US-Dollar; abgerufen um 07:55:38 Uhr. Die Veränderung über 24 Stunden in US-Dollar lag bei rund minus 1,5 Prozent."
+    },
+    {
+      "q": "Warum steigt Bitcoin nicht mit den Aktien?",
+      "a": "Die genannten Zeitfenster sind unterschiedlich. Die Nasdaq-Angabe betrifft den Montagsschluss, der Bitcoin-Wert ein rollierendes 24-Stunden-Fenster am Dienstagmorgen. Daraus allein lässt sich keine eindeutige Ursache ableiten."
+    }
+  ],
+  "modified": "2026-11-24T07:56:23+01:00",
+  "image_caption": "Symbolgrafik der FA Redaktion."
+}

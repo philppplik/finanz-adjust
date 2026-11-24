@@ -1,0 +1,31 @@
+{
+  "slug": "glossar-hedging",
+  "title": "Was ist Hedging? Einfach erklärt",
+  "description": "Hedging bedeutet Absicherung gegen Kursverluste – meist mit Derivaten. Wie das funktioniert und wer es nutzt.",
+  "section": "glossar",
+  "date": "2026-11-24T07:56:23+01:00",
+  "image": "/images/glossar-hedging.jpg",
+  "sources": [
+    {
+      "title": "FAZ.NET Börsenlexikon: Hedging",
+      "url": "https://boersenlexikon.faz.net/definition/hedging/"
+    },
+    {
+      "title": "Deutsche Börse: VDAX (Börsenlexikon)",
+      "url": "https://www.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/VDAX-NEW-249358"
+    }
+  ],
+  "body": "<p>Hedging bedeutet Absicherung: Eine bestehende Position wird durch ein Gegengeschäft ergänzt, das bei einer für sie ungünstigen Bewegung Gewinne erzielen soll. Dafür werden etwa Futures, Optionen oder Swaps eingesetzt. Eine passende Absicherung kann Verluste der ursprünglichen Position teilweise oder weitgehend ausgleichen, aber es bleiben Kosten und je nach Instrument weitere Risiken.</p><h2>Wer hedgt , und wogegen</h2><p>Die FAZ nennt exportabhängige Unternehmen, die Wechselkursrisiken absichern, und Fluggesellschaften, die sich gegen steigende Rohstoffpreise schützen. Ein Exporteur mit künftigen Dollarerlösen kann beispielsweise einen Wechselkurs festschreiben. Eine Fluggesellschaft kann den künftigen Einkaufspreis von Treibstoff absichern. Entscheidend sind die konkrete Ausgangsposition und das passende Gegengeschäft.</p><h2>Der Preis der Absicherung</h2><p>Wer eine Option kauft, zahlt eine Prämie. Bei anderen Absicherungen können etwa Transaktionskosten, Sicherheitsleistungen oder entgangene Gewinne eine Rolle spielen. Höhere erwartete Volatilität erhöht bei sonst gleichen Bedingungen den Optionspreis. Der VDAX bildet aus DAX-Optionspreisen die implizite Volatilität für einen Horizont von 30 Tagen ab. Er ist weder eine Verlustprognose noch der Preis einer konkreten Absicherung.</p><h2>Was das für dich bedeutet</h2><p>Hedging und Diversifikation sind verschiedene Ansätze: Ein Hedge setzt gezielt ein Gegengeschäft gegen ein bestimmtes Risiko, Diversifikation verteilt Risiken auf mehrere Anlagen. Beides schließt Verluste nicht aus. Bei Derivaten kommen je nach Konstruktion Hebel-, Liquiditäts- und Gegenparteirisiken hinzu. Eine Absicherung kann außerdem einen Teil künftiger Gewinne begrenzen.</p>",
+  "faq": [
+    {
+      "q": "Was bedeutet Hedging an der Börse?",
+      "a": "Hedging ist die Absicherung von Wertpapierpositionen gegen Kursverluste durch den Kauf oder Verkauf von Derivaten wie Futures, Optionen oder Swaps (FAZ.NET Börsenlexikon)."
+    },
+    {
+      "q": "Was kostet eine Absicherung?",
+      "a": "Die Kosten hängen vom Instrument ab. Bei einer gekauften Option fällt eine Prämie an; andere Absicherungen können Transaktionskosten oder Sicherheitsleistungen erfordern. Höhere erwartete Schwankungen erhöhen bei sonst gleichen Bedingungen den Optionspreis."
+    }
+  ],
+  "modified": "2026-11-24T07:56:23+01:00",
+  "image_caption": "Symbolgrafik der FA Redaktion."
+}
