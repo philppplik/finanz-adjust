@@ -3,7 +3,7 @@
   "title": "Was ist Hedging? Einfach erklärt",
   "description": "Hedging bedeutet Absicherung gegen Kursverluste – meist mit Derivaten. Wie das funktioniert und wer es nutzt.",
   "section": "glossar",
-  "date": "2026-11-24T07:56:23+01:00",
+  "date": "2026-11-24T08:19:12+01:00",
   "image": "/images/glossar-hedging.jpg",
   "sources": [
     {
@@ -26,6 +26,6 @@
       "a": "Die Kosten hängen vom Instrument ab. Bei einer gekauften Option fällt eine Prämie an; andere Absicherungen können Transaktionskosten oder Sicherheitsleistungen erfordern. Höhere erwartete Schwankungen erhöhen bei sonst gleichen Bedingungen den Optionspreis."
     }
   ],
-  "modified": "2026-11-24T07:56:23+01:00",
+  "modified": "2026-11-24T08:19:12+01:00",
   "image_caption": "Symbolgrafik der FA Redaktion."
 }
