@@ -1,0 +1,25 @@
+{
+  "slug": "glossar-bestens",
+  "title": "Was bedeutet Bestens? Der unlimitierte Auftrag an der Börse einfach erklärt",
+  "description": "Bestens, Billigst, Limit: Diese Begriffe steuern, zu welchem Preis deine Order ausgeführt wird. Was hinter den Orderzusätzen steckt und wo die Risiken unlimitierter Aufträge liegen.",
+  "section": "glossar",
+  "date": "2026-11-28T07:52:00+01:00",
+  "body": "<p>Bestens ist ein Orderzusatz für einen unlimitierten Verkaufsauftrag: Du beauftragst deine Bank oder deinen Broker, ein Wertpapier zum nächstmöglichen Preis zu verkaufen, ohne eine Preisuntergrenze zu setzen. So definiert es die Deutsche Börse in ihrem Börsenlexikon. Das Gegenstück beim Kauf heißt Billigst: Dabei kaufst du zum nächstmöglichen Preis, egal wie hoch er gerade ist.</p><h2>Bestens, Billigst oder Limit</h2><p>Der Unterschied zur Limit-Order: Beim Limit legst du eine Preisgrenze fest, beim Kauf einen Höchstpreis, beim Verkauf einen Mindestpreis. Bei Bestens und Billigst verzichtest du auf diese Grenze. Der Vorteil: Die Order wird in der Regel ausgeführt. Der Nachteil: Du weißt vorher nicht, zu welchem Preis.</p><h2>Woran Anleger achten sollten</h2><p>Vor allem bei umsatzschwachen Werten können unlimitierte Aufträge von Nachteil sein, wie die Deutsche Börse warnt: Die Preise solcher Werte können wegen der geringen Zahl von Kauf- und Verkaufsaufträgen stark schwanken, und ein Nachfrage- oder Angebotsüberhang kann den Kurs rasch nach oben oder unten treiben. Wer dann unlimitiert verkauft, bekommt womöglich einen deutlich schlechteren Preis als erwartet. Bei häufig gehandelten Werten wie DAX-Aktien oder großen ETFs ist der Unterschied zwischen dem letzten angezeigten Kurs und dem Ausführungspreis meist klein, ganz ausgeschlossen sind Abweichungen aber auch dort nicht.</p><h2>Was das für dich bedeutet</h2><p>Bestens und Billigst eignen sich vor allem dann, wenn dir die Ausführung wichtiger ist als der exakte Preis und das Wertpapier liquide genug ist. In allen anderen Fällen bietet eine Limit-Order mehr Kontrolle. Prüfe vor jeder Order, wie stark das Wertpapier gehandelt wird und ob du ein Limit setzen möchtest.</p>",
+  "image": "/images/glossar-bestens.jpg",
+  "sources": [
+    {
+      "title": "Deutsche Börse, Börsenlexikon: Bestens",
+      "url": "https://www.deutsche-boerse.com/dbg-de/ueber-uns/kontakt/boersenlexikon/boersenlexikon-article/Bestens-245912"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Bestens-Order?",
+      "a": "Bestens ist der Orderzusatz für einen unlimitierten Verkaufsauftrag: Das Wertpapier wird zum nächstmöglichen Preis verkauft, ohne Preisuntergrenze. Das Gegenstück beim Kauf heißt Billigst."
+    },
+    {
+      "q": "Welches Risiko haben unlimitierte Orders?",
+      "a": "Vor allem bei umsatzschwachen Werten können die Preise stark schwanken, sodass die Ausführung deutlich über oder unter dem erwarteten Kurs liegen kann. Eine Limit-Order schützt vor solchen Überraschungen."
+    }
+  ]
+}
